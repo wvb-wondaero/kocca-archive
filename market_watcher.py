@@ -37,21 +37,39 @@ def update_github_markdown(all_results):
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("🚀 GitHub Push 성공!")
     except: pass
-
-def send_to_jira(article):
+def send_to_jira(article, variants):
     url = f"https://{JIRA_DOMAIN}/rest/api/3/issue"
     auth = HTTPBasicAuth(JIRA_EMAIL, JIRA_API_TOKEN)
     headers = {"Accept": "application/json", "Content-Type": "application/json"}
+
+    # 노션 스타일로 본문 내용 구성 (컬럼명 및 내용 매칭)
+    description_content = [
+        {"type": "paragraph", "content": [{"type": "text", "text": "📝 [뉴스 요약 및 내용]", "marks": [{"type": "strong"}]}]},
+        {"type": "paragraph", "content": [{"type": "text", "text": article.get('summary', '내용 요약 중...')}]},
+        {"type": "paragraph", "content": [{"type": "text", "text": "💡 [AI 인사이트]", "marks": [{"type": "strong"}]}]},
+        {"type": "paragraph", "content": [{"type": "text", "text": variants.get('Insight', {}).get('text', '인사이트 분석 전입니다.')}]}
+    ]
+
     payload = json.dumps({
         "fields": {
             "project": {"key": "PJM"},
-            "summary": article['title'],
+            "summary": article['title'], # 노션의 제목 컬럼 역할
+            "description": {
+                "type": "doc", "version": 1,
+                "content": description_content
+            },
             "issuetype": {"name": "Task"},
-            "labels": ["Wilt_Bot"],
-            JIRA_URL_FIELD_ID: article['link']
+            "labels": [article['keyword'].replace(" ", "_"), "Market_Archive"], # 태그 추가
+            JIRA_URL_FIELD_ID: article['link'] # Original Link 컬럼
+            # Priority, Reporter, Assignee, Status는 자동으로 기본값 설정되거나 생략됩니다.
         }
     })
-    requests.post(url, data=payload, headers=headers, auth=auth)
+    
+    response = requests.post(url, data=payload, headers=headers, auth=auth)
+    if response.status_code == 201:
+        print(f"✅ Jira 티켓 생성 성공: {article['title']}")
+    else:
+        print(f"❌ Jira 생성 실패: {response.text}")
 
 def main():
     results = []
