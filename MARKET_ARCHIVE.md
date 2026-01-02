@@ -1,9 +1,9 @@
 # 📰 Market Watcher 아카이브
 
-## 📅 2026년 01월 01일
+## 📅 2026년 01월 02일
 
-* [[팝업의 시대] ②성수동의 '힙' vs 더현대의 '팝': 마케터가 읽어야 할 입지의 심리학 - kmjournal.net](https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeFBXRkszMzd3QWlSR1c1UHdjTDlWalJoUnNRYUlxRTItSEMtcjRDaThCLXBocUQ5a0NtM29kQUtMZlZPXy1NTWZqd3h2ajFGWWo5TmJnNVN0U0ZmTXFvS25QQU05SjNnT3c?oc=5) (성수동 팝업스토어)
-* [씨엔티테크, '투자 혹한기' 뚫고 6년 연속 최다 투자 - 프라임경제](https://news.google.com/rss/articles/CBMickFVX3lxTE05bzI3WE5XSi1lbVdoNUUyajZFMTl4dkFMYW02djg5eDZzWUlFRllMSUJST2RhYUlMUW9VNmxobzMyRzdVTUl3VmtJalZRTVVOaDJHQnNudzc2Y0lnOTJTa0FVeTdSR2pPUFNreFVPSktvZw?oc=5) (푸드테크 투자)
-* [2025 광운대학교 산학협력단 스타트업 CEO IT 스타트업의 필수재 위커프 이미지를 개발하고 있는 낭만 - 매거진한경](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SHV2MmFPdlAxWGxpdmd1ejhaak5kWUNMUFN5amk2bDc0cFhLYWMwejlLV3ZLU0Z3ZUtfaUZHTHBLTVZON1lnSkkyN1Q2X3lIcHJaSWJfaFFMU2M2RzhUb3hyeldHQQ?oc=5) (국내 유니콘 스타트업)
+* [“팝업 성지는 겨울에도 쉼 없다”...새해 성수동, 팝업스토어 러시 - 중앙이코노미뉴스](https://news.google.com/rss/articles/CBMickFVX3lxTE80MDFJZkZ6Y1MtZlNKbDBWT0UyQmNURC1GdjZWU2JsRVZheFhVWFYtYkRWRVdYeC1jdXlHcEUxU0ZJNUtrYl8xWFUwY1loLVhuOHZVVDN1bjNtVDhBUk9Uc1JVQUpTUHFoU19zZVJHRWxBZw?oc=5) (성수동 팝업스토어)
+* [씨엔티테크, 2025년 투자 혹한기 속에서도 6년 연속 최다 투자 기록 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hN3RyeUUwekY5MUxwdVB4Nkx4MWVFcVBuQnFPaGhGT2YtLTBGcWN2cjlQbEhyeUlTOVZIRENUOFlaYlVuWkdud01xT3V2QQ?oc=5) (푸드테크 투자)
+* [韓, 은행대출 3분의1이 주담대… “토스-배민같은 유니콘 못 키워” - 동아일보](https://news.google.com/rss/articles/CBMidkFVX3lxTFB2WjRxeU9vZzhSanA1cWxFWXp6aXZuR2t4MGM0TVJodzRXS1ZHY29kOXhiZGdGTG9hNHRPaVhTODMwNlpvZE1VeWNaV0Vxel9DTXUwUVRnanNQX3VNSFBzVlJIZ193NjVxbmFUWVBfY3JXVGZaYXfSAWZBVV95cUxPaE5RbDZEeHRNa1g0N1ZsNng4Y09BLWRXWmFidTJpeGpEajZLMzBsSkdyaWw4eU9BN1o0aHF2cWxRNVNna2RVMzBzNXVDX0JMR2QySlhOS0VIR3FWY29sRHRFdlowQ1E?oc=5) (국내 유니콘 스타트업)
 
 ---
