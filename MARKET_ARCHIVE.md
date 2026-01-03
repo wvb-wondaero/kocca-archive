@@ -1,3 +1,13 @@
+# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
+
+## 📅 2026년 01월 03일 업데이트
+
+* **[통합(정책 등)]** [Column of smoke seen, loud noises heard in Venezuelan capital](https://www.straitstimes.com/world/column-of-smoke-seen-loud-noises-heard-in-venezuelan-capital)
+  * 💡 베네수엘라 수도 카라카스에서 연기 기둥과 큰 소음이 감지되었습니다. 현지 당국에 따르면 이는 군 작전으로 인한 것으로 확인되었습니다. 베네수엘라 정부는 최근 정치적 불안정과 경제 위기를 겪고 있으며, 이번 사건은 이러한 상황을 반영하고 있습니다.
+* **[게임·융복합]** [iQOO Z11 Turbo battery - iNews - ZoomBangla - Zoom Bangla News](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrd1R4eGdueDBqdkRnRF9CNXdtdXUyNmFJdFVFT1J5MzZVYS1NcDJ0NWM0NFRnVUljeU5PbERiM0RWck5qLUFuT1pBZmFjaURLTC1kc1ZKbjliNy1oU2FCY3diTVF2dEE?oc=5)
+  * 💡 iQOO Z11 Turbo 스마트폰은 높은 배터리 성능을 가진 모델로 알려져 있습니다. 이번 기사에서는 iQOO Z11 Turbo의 배터리 사양과 성능에 대해 자세히 다루고 있습니다. 기사에 따르면 이 모델은 긴 사용 시간과 빠른 충전 속도를 제공하는 것으로 평가되고 있습니다. 이는 게임이나 멀티미디어 사용자들에게 매력적인 기능일 것으로 보입니다.
+
+---
 # 📰 Market Watcher 아카이브
 
 ## 📅 2026년 01월 03일
