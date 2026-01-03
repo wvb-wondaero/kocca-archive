@@ -84,7 +84,6 @@ def send_to_jira(article, ai_data):
     headers = {"Accept": "application/json", "Content-Type": "application/json"}
     safe_label = ai_data['cat'].replace("·", "_").replace(" ", "_").replace("(", "").replace(")", "").replace(",", "")
     
-    # 🔗 핵심 솔루션: 에러가 발생하는 커스텀 필드 대신 'Description'에 모든 내용을 ADF 형식으로 넣음
     payload = json.dumps({
         "fields": {
             "project": {"key": "PJM"},
@@ -108,23 +107,19 @@ def send_to_jira(article, ai_data):
 
 def update_github_markdown(combined_results):
     today = datetime.datetime.now().strftime('%Y년 %m월 %d일')
-    header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브\n\n" # 제목도 KOCCA용으로 변경
+    header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브\n\n"
     
-    # 신규 항목 생성
     new_entry = f"## 📅 {today} 업데이트\n\n"
     for item in combined_results:
-        # [카테고리] 제목 (링크) 형식으로 더 직관적으로 변경
         new_entry += f"* **[{item['cat']}]** [{item['title']}]({item['link']})\n"
-        new_entry += f"  * 💡 {item['sum']}\n" # 요약 앞에 전구 아이콘 추가
+        new_entry += f"  * 💡 {item['sum']}\n"
     
     existing_content = ""
     if os.path.exists(ARCHIVE_FILE):
         with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
             full_text = f.read()
-            # 기존 헤더를 제거하고 내용만 추출
             existing_content = full_text.replace(header, "")
     
-    # 새 헤더 + 신규 내용 + 기존 내용 순으로 저장 (최신글이 맨 위로)
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         f.write(header + new_entry + "\n---\n" + existing_content)
 
