@@ -77,3 +77,9 @@
   * 싱가포르 IMDA(Infocomm Media Development Authority)는 정보통신미디어 산업의 성장을 위해 일자리와 기술 개발에 초점을 맞추고 있습니다. 주요 내용으로는 △전문성 있는 인재 육성 △산학협력 강화 △지속가능한 인력 양성 등이 있습니다. 이를 통해 디지털 전환과 혁신을 주도하고 싱가포르의 정보통신미디어 산업 발전을 도모하고자 합니다.
 * [통합(정책 등)] [Upskilling - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV9zV1owNV9sRGdpaWxobWhzNVZibGVhNk93VEx2NlhzQ3NLd0F1ekswVmZYOW5wcDdJdXNRZGZQN2h0RFNrbFBDYkstR3BsbldYVjhadVJ5U0FqSUpOaWQzZWh5QVRGcl9kQm80MFVlNlVENmozb2Vlay1XT3VsaTRaWTB4TUozYlhBdkdaMUt4S01TM09Yb0xUX2NRT3ZsaHVmYVliSm1Ja0s5cUF1Q2c4LUcwMUc5SUY1U1phN1B6eXZJcEppWGx0UTZ1TmtvU3V2T2JVd29EQURmUnBQSzVzV1NBamdBa3pCcg?oc=5)
   * 싱가포르 정보통신미디어개발청(IMDA)은 직원들의 역량 향상을 위한 업스킬링(upskilling) 프로그램을 운영하고 있습니다. 이 프로그램은 직원들에게 새로운 기술과 역량을 개발할 수 있는 기회를 제공하여 디지털 전환에 대응하고자 합니다. 특히 데이터 분석, 사이버 보안, 인공지능 등의 분야에 초점을 맞추고 있습니다. 이를 통해 IMDA는 직원들이 급변하는 미디어 환경에 능동적으로 대처할 수 있도록 지원하고 있습니다.
+
+---
+## 📅 2026년 01월 03일
+
+* [게임·융복합] [The Redmi Note 10 comes to town](https://www.digitalnewsasia.com/personal-tech/redmi-note-10-comes-town)
+  * 레드미 노트 10은 중저가 스마트폰 시장에서 경쟁력 있는 제품으로, 특히 배터리 수명, 카메라 성능, 화면 품질 등에서 우수한 사양을 갖추고 있습니다. 이 제품은 가성비가 좋아 게임 애호가들에게도 주목받을 것으로 보입니다.
