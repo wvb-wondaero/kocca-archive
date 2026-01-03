@@ -2,6 +2,74 @@
 
 ## 📅 2026년 01월 03일
 
+* [통합(정책 등)] [Military-backed party in Myanmar takes lead in first phase of polls](https://www.channelnewsasia.com/asia/myanmar-elections-military-backed-union-solidarity-development-party-leads-polls-5787486)
+  * 미얀마의 군부 지원 정당인 연방결속개발당(USDP)이 미얀마 선거 1차 투표에서 선두를 달리고 있습니다. 이번 선거는 미얀마에서 2021년 군사 쿠데타 이후 처음 치러지는 선거로, 쿠데타 반대 세력의 보이콧 속에 치러지고 있습니다. 연방결속개발당은 쿠데타를 주도한 군부와 긴밀한 관계를 가지고 있어, 이번 선거 결과가 미얀마의 민주주의 복원 여부에 큰 영향을 미칠 것으로 보입니다.
+* [게임·융복합] [China’s BYD overtakes Tesla as global EV leader](https://www.channelnewsasia.com/business/tesla-sales-loses-byd-china-us-2025-5786876)
+  * 중국의 전기차 업체 BYD가 테슬라를 제치고 세계 최대 전기차 업체로 부상했다. BYD는 중국 정부의 강력한 지원과 폭넓은 전기차 라인업으로 인해 최근 급격한 성장세를 보였으며, 2025년에는 테슬라를 제치고 세계 최대 전기차 업체가 될 것으로 예상된다. 이는 전기차 시장에서 중국 기업의 약진을 보여주는 사례로 볼 수 있다.
+* [방송·영화·OTT] [Yash’s ‘Toxic’ Unveils First Look of Tara Sutaria as Rebecca (EXCLUSIVE)](https://variety.com/2026/film/news/yash-toxic-tara-sutaria-first-look-1236622799/)
+  * 인도 배우 Yash가 주연으로 출연하는 영화 'Toxic'의 첫 장면이 공개되었습니다. 이 영화에서 Tara Sutaria가 Rebecca 역할을 맡았습니다. Variety지는 이번 공개를 단독으로 보도했습니다. 영화 'Toxic'은 범죄 스릴러 장르로, 현재 후반부 촬영이 진행 중입니다.
+* [방송·영화·OTT] [‘The Dutchman’ Review: André Holland Anchors  Uneven Update of Civil Rights-Era Thinker, About a Black Man Tempted by a Destructive Stranger](https://variety.com/2026/film/news/the-dutchman-review-1236622387/)
+  * 이 영화는 시민권 운동 시대의 사상가를 다룬 불균형한 리메이크 작품입니다. 주연 배우 앤드레 홀랜드가 한 흑인 남성의 이야기를 잘 전달하지만, 파괴적인 타인의 유혹에 흔들리는 인물 형상화에 대한 비판적 시각도 있습니다.
+* [방송·영화·OTT] [‘Dick Clark’s New Years Rockin’ Eve With Ryan Seacrest’ Scores Best Ratings In Four Years](https://variety.com/2026/tv/news/dick-clarks-new-years-rockin-eve-ryan-seacrest-ratings-1236622777/)
+  * 연례 'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest' 프로그램이 2021년 기준 4년 만에 가장 높은 시청률을 기록했습니다. 이 프로그램은 ABC 네트워크에서 신년 이브 밤 내내 방송되며, 새해를 맞이하는 다양한 아티스트들의 공연과 타임스퀘어 행사 등을 실시간으로 전달합니다. COVID-19 팬데믹에도 불구하고 시청자들이 이 프로그램을 통해 새해 맞이를 즐겼음을 보여주는 성과라고 할 수 있습니다.
+* [게임·융복합] [Genshin Impact Version Luna IV: ‘A Traveler On A Winter’s Night’ Drops This January 14](https://themagicrain.com/2026/01/genshin-impact-version-luna-iv-a-traveler-on-a-winters-night-drops-this-january-14/)
+  * 인기 오픈월드 RPG '원신(Genshin Impact)'의 새로운 업데이트 버전 'Luna IV
+* [게임·융복합] [Persona 5 Royale Collab Cafe Opens At Singapore’s ANIPLUS Cafe](https://themagicrain.com/2026/01/persona-5-royale-collab-cafe-opens-at-singapores-aniplus-cafe/)
+  * 퍼소나 5 로얄 콜라보 카페가 싱가포르 아니플러스 카페에서 오픈했습니다. 이 콜라보 카페는 퍼소나 5 로얄 게임의 콘텐츠와 분위기를 재현하며, 영화 포스터, 캐릭터 키오스크, 커스텀 메뉴 등 다양한 요소들을 선보입니다. 게임과 카페의 융합을 통해 게임 팬들에게 새로운 경험을 제공하고 있습니다.
+* [애니·캐릭터] [‘Historie’ Is A New Anime Series From The Creator Of ‘Parasyte’](https://themagicrain.com/2026/01/historie-is-a-new-anime-series-from-the-creator-of-parasyte/)
+  * '파라사이트'의 작가가 연출한 새로운 애니메이션 시리즈 'Historie'가 공개되었습니다. 이 작품은 고대 그리스 역사를 바탕으로 한 에피소드들을 다루며, 독특한 시각적 스타일과 심도 있는 스토리텔링으로 주목받고 있습니다. 'Historie'는 애니메이션 팬들에게 새로운 경험을 제공할 것으로 기대됩니다.
+* [통합(정책 등)] [Rickson Goh shows how you deal with a pandemic](https://www.digitalnewsasia.com/startups/rickson-goh-shows-how-you-deal-pandemic)
+  * 이 기사는 코로나19 팬데믹 상황에서 기업가이자 사회혁신가인 Rickson Goh가 어떻게 대응했는지에 대해 다루고 있습니다. Goh는 기존의 사회적 문제에 기술을 접목하여 해결책을 찾는데 주력했으며, 팬데믹 상황에서도 이러한 접근방식을 통해 지역사회와 중소기업을 지원하는 등 적극적으로 대응했습니다. 이 기사는 팬데믹 상황에서 기업가 정신과 사회적 책임감을 갖고 혁신적인 방식으로 대응한 사례를 보여주고 있습니다.
+* [게임·융복합] [The Redmi Note 10 comes to town](https://www.digitalnewsasia.com/personal-tech/redmi-note-10-comes-town)
+  * 중저가 스마트폰 시장을 겨냥한 Redmi Note 10 시리즈가 출시되었습니다. Redmi Note 10은 무게 178.8g, 두께 8.29mm의 슬림한 디자인을 가지고 있으며, 6.43인치 AMOLED 디스플레이와 최대 120Hz 주사율을 지원합니다. 또한 퀄컴 Snapdragon 678 프로세서, 최대 8GB RAM, 최대 128GB 스토리지 등의 사양을 갖추고 있습니다. 카메라는 4800만 화소 쿼드 카메라를 탑재하고 있습니다. 가격은 $179부터 시작합니다.
+* [통합(정책 등)] [MDEC appoints new director for risk management, compliance](https://www.digitalnewsasia.com/digital-economy/mdec-appoints-new-director-risk-management-compliance)
+  * 말레이시아 디지털 경제 공사(MDEC)가 새로운 리스크 관리 및 컴플라이언스 디렉터를 임명했습니다. 이번 인사는 MDEC의 통치, 리스크 관리, 컴플라이언스 역량을 강화하기 위한 것으로 보입니다. 새로운 디렉터는 MDEC의 거버넌스와 관련 법규 준수를 감독하며, 디지털 경제 육성을 위한 정책 이행에 기여할 것으로 기대됩니다.
+* [게임·융복합] [Brookfield Launches Radiant: $10B AI Chip Leasing Venture with Nvidia](https://www.webpronews.com/brookfield-launches-radiant-10b-ai-chip-leasing-venture-with-nvidia/)
+  * 글로벌 투자기업 Brookfield가 Nvidia와 함께 10억 달러 규모의 AI 칩 임대 사업 'Radiant'를 출시했습니다. Radiant은 기업들이 최신 AI 칩을 손쉽게 임대하고 활용할 수 있도록 지원할 예정입니다. Nvidia의 GPU 및 AI 솔루션과 Brookfield의 금융 전문성이 결합되어, 기업들의 AI 인프라 구축을 촉진할 것으로 보입니다. 이를 통해 다양한 산업 분야에서 AI 기술 활용이 확대될 것으로 기대됩니다.
+* [게임·융복합] [Tesla’s FSD Fleet Nears 7 Billion Miles, Advancing AI for Robotaxi Era](https://www.webpronews.com/teslas-fsd-fleet-nears-7-billion-miles-advancing-ai-for-robotaxi-era/)
+  * 이 기사는 Tesla의 자율주행 기술 개발 진행 상황을 다루고 있습니다. Tesla의 전체 자율주행 차량 주행거리가 70억 마일에 달하면서 로보택시 시대를 위한 인공지능 기술 발전이 이루어지고 있습니다. 이는 차량 자율주행 기술의 지속적인 향상을 통해 보다 안전하고 편리한 미래 운송 서비스 구현을 위한 기반이 마련되고 있다는 것을 보여줍니다.
+* [게임·융복합] [Elon Musk’s xAI Expands Colossus to 2GW Power and 1M GPUs in Memphis](https://www.webpronews.com/elon-musks-xai-expands-colossus-to-2gw-power-and-1m-gpus-in-memphis/)
+  * 엘론 머스크의 인공지능 회사 xAI가 텍사스 멤피스에 새로운 데이터센터를 설립했습니다. 이 데이터센터는 2GW의 전력과 100만개의 GPU를 갖추고 있으며, 이는 xAI의 주력 제품인 인공지능 모델 '콜로수스'의 규모를 크게 확장시켜줄 것으로 보입니다. 이번 투자는 xAI가 인공지능 기술 개발에 박차를 가하고 있음을 보여주는 사례라고 할 수 있습니다.
+* [통합(정책 등)] [Saudi calls Yemen’s southern factions for ‘dialogue’ in Riyadh](https://www.straitstimes.com/world/middle-east/saudi-calls-yemens-southern-factions-to-dialogue-in-riyadh)
+  * 사우디아라비아가 예멘 남부 파벌들을 리야드에서 '대화'에 초청했다. 이는 예멘 내전의 해결을 위한 노력의 일환으로 보인다. 사우디아라비아는 대화를 통해 예멘 남부 지역의 안정화와 통합을 도모하고자 하는 것으로 보인다.
+* [음악] [Napster Music Streaming Service Abruptly Shuts Down in Pivot to AI—’Napster is No Longer a Music Streaming Service’](https://www.digitalmusicnews.com/2026/01/02/napster-music-streaming-shut-down-ai-pivot/)
+  * 오랜 역사를 가진 음악 스트리밍 서비스 Napster가 갑작스럽게 서비스를 중단하고 AI로 전환했다. Napster는 더 이상 음악 스트리밍 서비스가 아니며, 새로운 AI 기술 기반의 사업으로 방향을 전환하고 있다. 이는 음악 산업 내에서의 큰 변화를 예고하는 사례로 볼 수 있다.
+* [음악] [Drake Faces Racketeering, Illegal Gambling, and Streaming Manipulation Allegations in New RICO Suit — Suit Alleges Massive ‘Streaming Farms’ to ‘Artificially Inflate Play Counts of His Music’](https://www.digitalmusicnews.com/2026/01/02/drake-stake-lawsuit/)
+  * 캐나다 출신 래퍼 Drake가 불법 도박, 유통 조작 등의 혐의로 새로운 RICO 소송의 피고가 되었습니다. 이 소송은 Drake가 자신의 음악 스트리밍 수를 부풀리기 위해 대규모 '스트리밍 농장'을 운영했다고 주장합니다. 이는 불법 활동이며 음악 산업에 부정적인 영향을 미칠 수 있습니다.
+* [방송·영화·OTT] [Live Nation and Ticketmaster Face Updated Eras Tour Ticketing Lawsuit — Swifties Say Verified Fans With Codes Didn’t ‘Even Get Access to the Presale’](https://www.digitalmusicnews.com/2026/01/02/live-nation-eras-tour-lawsuit-update/)
+  * 최근 테일러 스위프트의 'Eras Tour' 티켓 판매 과정에서 LiveNation과 Ticketmaster가 불법적인 행위를 했다는 소송이 제기되었습니다. 팬들은 'Verified Fan'으로 등록하고 코드를 받았지만, 실제로는 선예매에 접근할 수 없었다고 주장합니다. 이번 소송은 대형 공연 기업들의 불공정한 티켓 판매 관행에 대한 우려를 반영하고 있습니다.
+* [게임·융복합] [Kumpulan NX Mengeluarkan Video "'BANGKIT' Semikonduktor Global Dengan NX Logistics" Memperkenalkan Penyelesaian Logistik Mereka Untuk Industri Semikonduktor](http://mrembm.bernama.com/viewsm.php?idm=18994)
+  * 이 뉴스는 글로벌 반도체 산업에서 NX Logistics의 물류 솔루션을 소개하는 내용입니다. NX는 반도체 산업의 물류 문제를 해결하기 위해 "'BANGKIT' 반도체 글로벌" 영상을 공개했습니다. 이 솔루션은 반도체 생산과 공급망 관리에 도움을 줄 것으로 기대됩니다.
+* [방송·영화·OTT] [ONLYONE TRAVEL, Perintis Dalam Perjalanan Tersuai Unik, Berjaya Raih Dana 100 Juta Yen](http://mrembm.bernama.com/viewsm.php?idm=18993)
+  * ONLYONE TRAVEL은 독특하고 맞춤형인 여행을 제공하는 선구자 기업입니다. 최근 1억 엔의 투자 자금을 유치하는 데 성공했습니다. 이를 통해 개인화된 여행 서비스 개발과 사업 확장을 위한 재원을 확보할 수 있게 되었습니다.
+* [패션] [Mary Kay Menginspirasikan Inovator Masa Depan: Wanita Muda Dalam STEM 'Menggabungkan' Kecantikan Dan Sains](http://mrembm.bernama.com/viewsm.php?idm=18992)
+  * 메리 케이는 여성 STEM 분야 인재들에게 영감을 주고 있다. 메리 케이는 화장품 기업이지만, 여성 과학 기술인재 육성에도 많은 투자를 하고 있다. 여성 STEM 인재들은 화장품 개발에 새로운 아이디어와 혁신을 불어넣고 있으며, 과학과 미용의 융합을 이루고 있다.
+* [통합(정책 등)] [Minister Orders Improvements at KLIA in conjunction with VMY 2026 - Nabalu News](https://news.google.com/rss/articles/CBMingFBVV95cUxPeFZ3bE80VGdERWRUSDI1eTdQeWs1UmtsNkM5SDFVbkxQcXhFcDJaVkNvNFRXZEl3SDRfZ2RMbnJRaGIwTGIyVWlocVl0dDNrLTJ0SEdDTDdmdFlZTnhmSl9FM3hhS1VjSko3VnlpeUlFd1dadElKZkFDS2NhMW02ODBLS0Yxc2tYRXhFNE1OTnREYjM5TUNNZGwtZlZkdw?oc=5)
+  * 말레이시아 관광부 장관이 2026년 방문의 해(VMY 2026) 준비 차원에서 쿠알라룸푸르 국제공항(KLIA)의 개선을 지시했다고 합니다. 이를 통해 공항 인프라와 편의 시설을 개선하여 관광객들의 만족도를 높이고자 합니다.
+* [통합(정책 등)] [VMY2026: Kota Kinabalu: A Gateway to Nature and Rich Heritage - Nabalu News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmtTZ085d0hsYmRPaE9SY0U2OHdKVnk5N3lDZWNYWjZLNGRVa1lMTTZ4ZXlsWHB3TTE5N3hiQ0lkX1F5VXJVY2tHZzBzVnctU2ZTbkQtWjFNMEtKTXB4NW9PNkJaTEVQZ3RQaXR5ajJkVTZndXN5dVFSUnRQRFRUOVZFNGZrTjlXMG5MQTdIMXVqdjJWa29N?oc=5)
+  * 이 뉴스는 말레이시아 사바 주의 코타키나발루가 자연과 풍부한 문화유산의 관문으로서의 잠재력을 소개하고 있습니다. 2026년에 개최될 말레이시아 방문의 해(VMY2026)를 앞두고, 이 도시가 생태관광과 문화 체험의 주요 목적지로 부상할 것이라고 전망하고 있습니다. 정부와 관광청은 이 지역의 매력을 적극적으로 홍보하고 있으며, 앞으로 더 많은 관광객들이 이곳을 찾을 것으로 기대됩니다.
+* [통합(정책 등)] [Sabah Local Parties urged to unite - Nabalu News](https://news.google.com/rss/articles/CBMid0FVX3lxTE80REx6MEFtVFVFWGtvN1BqWHRDVjRzUlRwYU55V1JWR2FrQUVTQlE2SnFuemVXUkFGSWtVLVVKSzZJT0NGQWFrOWg5dHdaVDVONC1EbGZqa0hkTnR4dUhRVk8xSkdocmhSUEFmVDFzTDRiWWpqckpN?oc=5)
+  * 사바 지역 정당들에게 단결할 것을 촉구하는 뉴스입니다. 말레이시아 사바 주의 주요 정당들이 협력하여 지역 발전을 위한 정책을 마련해야 한다는 내용입니다. 정당 간 협력과 통합이 이루어져야 한다는 점이 핵심입니다.
+* [게임·융복합] [POCO M8 5G to Launch on this month with Long-Term Software Support - Zoom Bangla News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG5tMXI3UUJ6M2ZoaVkwUWprajQzRHpreVZjUUk2VVJiWUxkVkxUUFBiZ0p0NFFCRnNyQzRkb2Z4XzFjbnNOM2VJVnRQeUNraW9nUV9SZ09QRzF2ZDVqc1RKNUN2NGZ0QmF1aGFxX0h6dTVEa0xvaU83UHpmUnhjbmdhbDFKdjNaMlF0dnZ2NHczYmNZQnZObkFuYmE?oc=5)
+  * POCO M8 5G 스마트폰이 이번 달 출시될 예정이며, 장기적인 소프트웨어 지원을 제공할 것으로 보입니다. 이는 스마트폰 사용자들에게 더 나은 경험과 지속적인 업데이트를 제공할 것입니다.
+* [게임·융복합] [OnePlus 16 tipped to bring 200Hz+ AMOLED display and 200MP camera upgrade - Zoom Bangla News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVk2WTluQzlLaEgyd2tud2Y5NFp0c3haajFxdE1iejYzRGFRUTI0MUpqODY2ZlROZFFiV29TdGN3d29tekxpQS1yRl8ybE9OMm1WQ1hadkwtdEdVYmFBOXNncFZfbWRUMmJWYXQzc1JNTVA0Vm5IaTd1XzdmbU13NXBBa242R3RHakN0Mks2S1JuQWVyY1N5akZaT0VIU0g2Vl9RQw?oc=5)
+  * OnePlus 16의 주요 예상 사양으로는 200Hz 이상의 AMOLED 디스플레이와 200MP 카메라 업그레이드가 포함될 것으로 전해졌습니다. 이는 고사양의 게임과 사진 촬영에 최적화된 사양으로 보입니다. 따라서 OnePlus 16은 게임과 융복합 분야에 적합한 제품으로 판단됩니다.
+* [방송·영화·OTT] [- Zoom Bangla News](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnd1X3NoLTZrTGhpR2J6VFZxRC1aUm1ha0hQUDRJUDVjNF94WTJwU19DbVhhSEtjZms1eDdESkhFeFlqNVNJU0h1ME45UFJ2MmduM1dXd3B1R1JETTBXZnZBUTNFV0FrbnVnYzNCOV9LNnd0TXZ3YmdBSVFQaVM4YTZUaEI3MHgycGdNZHJkUjREMmVyaXdlZXdOWDhid09WeFk2LXJFTnMxRk0tVjY5aXZGV0xNbm4tQlA2eUxqS3dmaXJUeE5XMl9PT0xfanNRTUVjdjV0SHJYV0U?oc=5)
+  * 이 기사는 방글라데시의 주요 온라인 뉴스 채널인 Zoom Bangla News에 대한 내용입니다. 이 채널은 방글라데시 시청자들에게 최신 뉴스와 정보를 제공하고 있습니다. 기사에 따르면 이 채널은 신뢰할 수 있는 뉴스 소스로 인정받고 있으며, 다양한 주제의 뉴스를 다루고 있습니다.
+* [통합(정책 등)] [Yemen’s separatists announce a constitution for an independent south - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1VOT2lsZ1JVZE8tYVgydk13STNjeEF0TzVqeVMteGNmZEZVWmpDUkxyZ04zald6N1NBUjFjR2xFdi10R1c3UC1MOGgwNmJiN18xaF9JZGxoZmctM0xsV0gxcEppTTgxMWFKT0NFZzVaQXpZbDhrRmZleEVrY3pjZUdmY0g4MEt2M2N1S2tUNTQtT0c2RTNhWTBRaFpYSXFuZS1N?oc=5)
+  * 예멘의 분리주의자들이 독립 남예멘을 위한 헌법을 발표했습니다. 이들은 기존의 예멘 정부에 반대하며 남부 지역의 독립을 요구하고 있습니다. 이는 예멘의 내부 갈등이 심화되고 있음을 보여주는 사례입니다.
+* [통합(정책 등)] [At least 7 explosions and low-flying aircraft are heard in Venezuela’s Caracas - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxONkN3NGVXSDF3cVc5V2s4OXpWaGw0NV8za3FsSzAzYkMzR2JGQU90YjRqUU9OM1lEUGRyejVNZHBxeVNwMnAzeHltVG1KYlhFNVBhMGRmcUNkc3JEUVA2dE5PNFhlTGJXdG9fdm1weXBtVWwycFZFMTg1cTQ2UzNkX1laWEFRdlZfRTZMVUZFWW5YWWpfbXc?oc=5)
+  * 베네수엘라 카라카스에서 최소 7건의 폭발과 저고도 비행기 소리가 들렸다고 AP통신이 보도했습니다. 이는 정치적 불안정 상황을 반영하는 것으로 보이며, 베네수엘라 정부와 야당 간의 갈등이 고조되고 있는 상황을 보여줍니다. 이번 사건은 베네수엘라의 정치적 위기가 계속되고 있음을 보여주는 것으로 해석됩니다.
+* [통합(정책 등)] [Tesla loses title as world's biggest electric vehicle maker as sales fall for second year in a row - AP News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3VfcEpGTFpBbmIwRVR2d01PUU55WkdyWl9yTnYwazlZZWg3NGJoZHhuNUhoUFhENjZLTUlLdXBTdkQ5enRZeEFya3FibEZkMFJoeTdQdWt4dWExRXN1RzFCX0ptUm9IOWlRVGNxMi1vRVJYZVhpOG1BbEpkQzBmTmNPSkdzNnZKaW85T2hDREhFSmVWd01vRTg4ekdnYkVsVE1DVw?oc=5)
+  * 테슬라의 전기차 판매량이 2년 연속 감소하면서 세계 최대 전기차 제조업체의 자리를 내놓게 되었다. 이는 중국 업체들의 약진과 더불어 경쟁이 치열해지는 전기차 시장 환경에서 테슬라의 위상이 낮아지고 있음을 보여준다. 이는 정부의 전기차 정책과 기업들 간 경쟁구도 변화 등 전기차 산업 전반의 동향을 파악할 수 있는 중요한 분석 대상이라고 할 수 있다.
+* [통합(정책 등)] [Jobs and skills - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX0kyY21QbDh2YjdmdjFkTzZ0SUFla19IUHhvUVh6cTZ3d1FoWEZUdlI3N1g2TVdKeGFEUVpnai1xbHdIam82eHQ3VjFGbmxfVEEwZXpfdVBzVnZFUWpNNHFWSDhfTXlhU1lYU1MtNXk4UDdjczU4UjlUbHhvdVE4NlprTHFHNlBJSUlRdEppVnVrNnJWazFVMmcya29iRXJaLVNRSVZJUEdyWjJ0UnM3alZ5cldXeG1NblNpb1hjYjh1bjJGWk1rQUxEU3VLdkNReGdiWjhBNnFEOGJOVi03YWphUEZreUNRVW13cHA5c1htR3FJWnVzUQ?oc=5)
+  * 이 기사는 싱가폴 정보통신미디어개발청(IMDA)의 일자리와 기술 관련 정책을 다루고 있습니다. IMDA는 정보통신미디어(ICM) 산업의 인력 양성과 기술 개발을 위한 다양한 지원 프로그램을 운영하고 있습니다. 특히 디지털 전환, AI, 5G 등 핵심 기술 분야에 초점을 맞추고 있으며, 이를 통해 산업 전반의 혁신을 도모하고 있습니다. 이는 한국의 정보통신미디어 정책 수립에 시사점을 줄 수 있습니다.
+* [통합(정책 등)] [Upskilling - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV9zV1owNV9sRGdpaWxobWhzNVZibGVhNk93VEx2NlhzQ3NLd0F1ekswVmZYOW5wcDdJdXNRZGZQN2h0RFNrbFBDYkstR3BsbldYVjhadVJ5U0FqSUpOaWQzZWh5QVRGcl9kQm80MFVlNlVENmozb2Vlay1XT3VsaTRaWTB4TUozYlhBdkdaMUt4S01TM09Yb0xUX2NRT3ZsaHVmYVliSm1Ja0s5cUF1Q2c4LUcwMUc5SUY1U1phN1B6eXZJcEppWGx0UTZ1TmtvU3V2T2JVd29EQURmUnBQSzVzV1NBamdBa3pCcg?oc=5)
+  * 싱가포르 인포콤미디어개발청(IMDA)은 기술 발전에 발맞추어 디지털 기술 교육을 강화하고 있습니다. 이를 위해 IMDA는 직원들의 기술 역량 향상을 위한 교육 프로그램을 운영하고 있습니다. 이를 통해 직원들이 새로운 기술을 습득하고 디지털 전환에 능동적으로 대응할 수 있도록 지원하고 있습니다. 이러한 정책은 정부 차원에서 디지털 인재 육성에 힘쓰고 있음을 보여줍니다.
+
+---
+## 📅 2026년 01월 03일
+
 * [영하 추위에도 성수동은 '활기'…가볼 만한 패션·뷰티 팝업 - 뉴스1](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40YThzTmlHUmpYSE5nbWliWm04X1dHazljNENHYmNLTEQ4RTc2S1pHbUdiWFdENEtGcXFoa2NvSkxya05pX3NCS00xb2ZEU1VMRWNYWjl2WUwtUXYtNlRQaGE4Y0k?oc=5) (성수동 팝업스토어)
 * [프로브랜드, 엔젤라운드서 약 10억원 유치…AI 솔루션 개발·파일럿 확대 추진 - 네이트](https://news.google.com/rss/articles/CBMiU0FVX3lxTE11dVB6Q3JoeUpoa0RRdW9hMlBDcE5OYTV6OXJ2b3dudUFkZVFjc2Z1NjlHY0VkcmZOVS1EbjVMU2VJUVZiaXRLM1FyOEtVbThtSU9J?oc=5) (푸드테크 투자)
 * [“창업 2, 3년은 수익 안따져” 실리콘밸리 유니콘 105개, 韓의 8배 - 동아일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BaUNyenN0RURNcXFhNFVzSXVNZ0Y5ZkQxcTQ3ZjdkNGxQQWYxRTVtQUxzRGpBbEN6ZUEwYlcteGdjV2xKc21JTkVGSzM5R2FfYURFdEV5Z0Y2aldsMzltdl9PQTI0TFVOdFVhQjhPY9IBZkFVX3lxTE50MmdDT1JfbHpZRDJlb1YycEswZ2puN1FjUDZhOGdwd3NqTlY2SU5YdWM0OGNVcVFoZHl3cXNMbTNKZmFLSU1NalFJaGxfbzlPMFdHVzRhMy1JenNaQnkyZ3VRYjltQQ?oc=5) (국내 유니콘 스타트업)
