@@ -1,36 +1,40 @@
-name: Daily Market Watcher
+name: Market Watcher Bot
 
 on:
+  push:
+    branches: [ main ]
   schedule:
-    - cron: '0 0 * * *' # 매일 UTC 00:00 (한국 시간 오전 9시) 실행
-  workflow_dispatch: # 수동으로 실행하고 싶을 때 버튼 생성
+    - cron: '0 0 * * *'  # 매일 한국 시간 오전 9시 자동 실행
+  workflow_dispatch:      # 수동 실행 버튼 활성화
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # 깃허브에 다시 쓸 수 있는 권한 부여
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        pip install feedparser anthropic requests
+      - name: Install dependencies
+        run: |
+          pip install feedparser anthropic requests
 
-    - name: Run script
-      env:
-        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      run: python market_watcher.py
-    
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add MARKET_ARCHIVE.md processed_links.txt
-        git commit -m "Auto-update Archive from GitHub Actions" || echo "No changes to commit"
-        git push
+      - name: Run script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python market_watcher.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add MARKET_ARCHIVE.md processed_links.txt
+          git commit -m "Auto-update Archive" || echo "No changes to commit"
+          git push
