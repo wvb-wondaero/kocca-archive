@@ -2,6 +2,38 @@
 
 ## 📅 2026년 01월 04일 업데이트
 
+* **[방송/영화]** [Canada warns Air India after pilot fails alcohol test just before takeoff - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kVlhzR1UwaF9xQTlPTDR3QThYZTJhWTdxUkUwMHJjSmtrUUh5Z1A2dHlydUF2N3lWX3R2VjJFY2Z3V3BvTE5IY1JzUTMweU9jYXVBRUt6aERHUDVDQ0N6bXlBZ2xmZw?oc=5)
+  * 💡 캐나다 정부는 이륙 직전 술에 취한 상태로 발각된 에어 인디아 조종사에 대해 경고했습니다. 안전 규정 위반에 대한 강력한 조치가 취해졌고, 이번 사건은 항공기 안전과 직결되는 심각한 문제로 평가됩니다.
+* **[통합]** [Man who pumped RON95 petrol into S'pore-registered vehicle is S'pore PR: Johor police - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTE14RHR3NFZhcGl1STRaeWdvVGtWbFVLZ19ReHdSSDNUMUNXNHZFRVBxTlN6R291UWNuenJuaWRuR3djZ05HaEk3dHJCNkRYTGFhS19QX0dpNFQ1LXRhVTZGejRkS2E4TUZZSDN6VA?oc=5)
+  * 💡 이 기사는 싱가포르 등록 차량에 RON95 휘발유를 주유한 싱가포르 영주권자에 대한 말레이시아 조호르 경찰의 조사 내용을 다루고 있습니다. 싱가포르 국적자가 말레이시아에서 이런 일을 저질렀다는 점에서, 이 사건은 양국 간 관계에도 영향을 줄 수 있는 중요한 사안으로 볼 수 있습니다. 따라서 이 기사는 방송/영화, 게임/융복합, 애니/캐릭터, 만화/웹툰, 음악, 패션 등 특정 산업 분야보다는 통합적인 관점에서 다루는 것이 적합합니다.
+* **[통합]** [Trump says US to run Venezuela after raid captures Maduro - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzNjWHEtVGgyV2EybmRJVy1XQTZXSUFjRGRqcGxCeDRlYjFnX0Mybl9jMGlxYm5pTUtPRFo4Vmp6dGpVdV9VcGk4N0tRSm5qMFNkVUpzQUQxY05uR21qRWpGbzhtMGNVZFlneDB2NHVPVFR1RjBLVWZPYjR1MmstVE5CQkFRTndwX1VXY3FEVDlxdDROT0ZWZUpvZTRDU1d6VGVBclU3Ti15MFQ5QlE?oc=5)
+  * 💡 이 뉴스는 미국 대통령 트럼프가 베네수엘라에 대한 개입을 암시한 것으로 보입니다. 트럼프는 베네수엘라 정부에 대한 군사작전 후 미국이 베네수엘라를 운영할 것이라고 언급했습니다. 이는 베네수엘라의 내정에 대한 미국의 개입 의사를 나타낸 것으로 해석됩니다. 이 사건은 남미 정치의 불안정성과 미국의 영향력이 작용하고 있음을 보여줍니다.
+* **[통합]** [Was the US capture of Venezuela’s president legal? - The Straits Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkl1VEVNOWZvQkV3cVFDeGRyNF9EbEhDa1dBNnYxZEFlUER2WXpETlM3T056NVdFZTFvVVhVNXAyQUIwdGpQYjJnanM5LUxlZlMydm5zdHJ3ZV85RVFsOGJPMFVVajh6U2JQcEphcE9ETXBMZlpHWnQ2YnJ6c3R1c1lsNllJU0pmenRQTFI0N0ZFTHBRdTNRcQ?oc=5)
+  * 💡 베네수엘라 대통령 체포에 대한 미국의 행동이 합법적인지에 대한 논란이 있습니다. 이번 사건은 국제법과 관련하여 복잡한 쟁점을 포함하고 있으며, 미국의 개입이 정당한지에 대한 논의가 필요할 것으로 보입니다.
+* **[통합]** [My husband and I got our own place a year ago but I still can't bear to move out of my parents' home - CNA Lifestyle](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWZfdGxKS1FLNHUxOXdqNGk2VkcxemxDamlIR0ZQZmY3WDRZcVNFS3JkSzQxNU5ndkEtSGcwb3pPbnJKdlRxalhsRURXaW5ST0FQYzNZeWdBbW1haWRmeXViaFdLMTBjVTZ3RzIwMXQ4blpSZHp5d1I5LXBiVGQxTTg2RElaT3duMUd6YXkwQld6ZEdNa3oxRA?oc=5)
+  * 💡 이 기사는 부모님의 집을 떠나 자신만의 집을 마련했지만, 아직도 부모님 집에 머물러 있는 여성의 사정을 다루고 있습니다. 결혼 후에도 여전히 부모님 집에서 살고 있는 이유는 경제적 부담감, 가족과의 유대감, 편안함 등 다양한 요인이 작용하고 있는 것으로 보입니다. 이는 한국 사회에서 부모님과의 동거가 여전히 보편적인 현상임을 보여주는 사례라고 할 수 있습니다.
+* **[방송/영화]** [Was the US capture of Venezuela's president legal? - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxNamo2UmNiN3B6X0dfanBsWlJmVWIyQ01rQ0Mya0staDA3bzZ3SUJ3dUFfbmM5dnBaR2VEekNGcHgtOGJuR3lTMWI1dC1ZRGdUM043YjJ2ekFTQl9STjBoN3ZkdFVBQmdQV0dNbEFDR25xc3U4Y3ZDVDJ1b0Y1Zzc5LTZkNkk2dWpXc3N0T1diaEpFLTdXdVBmZFo3LWt4NW5T?oc=5)
+  * 💡 이 기사는 베네수엘라 대통령의 체포가 합법적이었는지에 대한 내용입니다. 미국이 베네수엘라 대통령을 체포했지만, 이에 대해 국제법적으로 논란이 있습니다. 일부는 미국의 행위가 합법적이라고 주장하지만, 다른 이들은 이를 불법적인 간섭이라고 비판합니다. 이 사건은 국제법과 국가 간 관계에 관한 복잡한 이슈를 다루고 있습니다.
+* **[통합]** [Was the US capture of Venezuela's president legal?, World News - AsiaOne](https://news.google.com/rss/articles/CBMie0FVX3lxTE5salJwb2FkNlVXZ045M0NKemZrRWRnYVpzd3JHYVNYSHI0UllnMU5FZEcycXZqYTE5bUFUa3RDNVB0eVlSaldMWUQ3WGpqYW4wUDdaeDRvWHpxZVZsMzFmbUNiZTFRa2pQZ1pzLTlNSmNzZ1NqMklJQUhNZw?oc=5)
+  * 💡 이 기사는 베네수엘라 대통령의 체포에 대한 법적 문제를 다루고 있습니다. 미국이 베네수엘라 대통령을 체포한 행위가 국제법상 합법적인지에 대해 논의되고 있습니다. 기사에서는 이 사안이 복잡한 국제법적 쟁점을 포함하고 있다고 설명하고 있습니다.
+* **[통합]** [Pipe leak sparks flood at Fu Lu Shou Complex's basement car park, Singapore News - AsiaOne](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQm9zcTdnQWVQcFRycDRTbnpfc0c5SE1GdHMzNVJaVzJNWHhyMGFPZ0xGVGZITzRNSjQyM1RxamZDVkZrY2FtX0c2Ymg4Ty1fbWxLdHFCNWptM3VmZVByQVZwaFp5X3hleWR1dXh3WTd2OHdMSk5pXzFZelBCd3ZENC1HRTY1Nzdy?oc=5)
+  * 💡 싱가포르의 Fu Lu Shou Complex 지하주차장에서 파이프 누출로 인한 홍수가 발생했습니다. 이 사고로 인해 주차장이 침수되었으며, 인명피해는 없었지만 차량 및 시설물 피해가 있었습니다. 관계 당국이 사고 원인을 조사 중이며, 복구 작업도 진행 중입니다.
+* **[통합]** [Challenges to handle, opportunities to pursue in 2026 - The Business Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM20yS29uZ2haaFVfQXdwSjVtblQ5XzlMWG1UZm9RdmVaYmtxZkxpRU1WWjdHSzNTbW9yN2plR2pER2ZGdVhTWlpkVEJ0YzhpeEhsWVNLUXQxRUVhdWpXSHVFRzdGbW5UVHc0WWNfSUQtM1YtVjBOOEhQaHFhT0F4LWNrY0pvWGVXcWs0?oc=5)
+  * 💡 2026년 비즈니스 환경의 과제와 기회에 대한 분석 기사입니다. 주요 내용은 다음과 같습니다
+* **[통합]** [Shanghai has plan to enhance its business environment - The Business Times](https://news.google.com/rss/articles/CBMingFBVV95cUxOQlBhcmhHNWgzNWRkRFZxaDJlRF9FbnRWOEhQaFFfY3ZMT3hid0ZXZ3phVWpZcldUdXNZbHg1ZmlvZG03MlVtSDctMDNBR3BQMG9UODUyekdBbHBuRmFVMF9oUC1iOW04c0RVbTVGT2dMVTA0ZkdRZmQwZVpTa2dRLWhqTWgxUWVJbEROdHd4aFhFdHBFZlRNbmVCSjUyQQ?oc=5)
+  * 💡 이 기사는 중국 상하이시가 기업 환경 개선을 위한 계획을 발표했다는 내용입니다. 상하이시는 비즈니스 절차 간소화, 규제 개선, 인프라 투자 등을 통해 기업하기 좋은 환경을 조성하고자 합니다. 이는 상하이시가 국제 비즈니스 허브로 발전하기 위한 노력의 일환입니다.
+* **[애니/캐릭터]** [Main Story Archives - - AnimationXpress](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xb0xTelZqd3U0QXdFekY3NG9HWDNTNHJieExIUnNvMHNGS3FEMloyLW5zLUYyRkNUN2kxR3NvRXB3NC1NTlV4YUlNQVZDNWtwMGZpd1RDczZCYTJi?oc=5)
+  * 💡 이 뉴스는 애니메이션 업계에 대한 소식을 다루고 있습니다. 주요 내용으로는 애니메이션 시장 동향, 신작 애니메이션 프로젝트, 애니메이션 제작사 및 크리에이터들의 활동 등이 포함되어 있습니다. 이를 통해 애니메이션 산업의 최신 정보를 제공하고 있습니다.
+* **[애니/캐릭터]** [unnamed (27) - - AnimationXpress](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaHl4QUZ2ZDFYS1RFSXdqVnZfelZmX29mSEc4N093d1hfMVBLMENOM3lkTWZHS3FkVjlIUnk1OENfbWhvNDBDQ2NCRDhzdThlX095enA5VU1HWnM5bjB3cjFUX18zcThfdWJOWUdoNzJ1RF8zaWpUVUwzU2s0ckloT0Z1V0gxdWJiM2xFWDF2TC02STRJWUFDZFNXclhzQzdmU1ZQQzJKNk5ZdmJkZFdhd29WUmV1cWRBcjhsM1ZpWGVrakEzR1c5bThaUC1INjNIZk9CbEdyd0FJYkx3RmdaY1haR3E?oc=5)
+  * 💡 이 기사는 애니메이션 작품 'unnamed (27)'에 대한 소식을 전하고 있습니다. 이 작품은 작가 Ying Fu가 연출하고 있으며, 다양한 국가와 플랫폼에서 상영되고 있습니다. 기사에 따르면 이 작품은 독특한 스타일과 깊이 있는 스토리라인으로 주목받고 있다고 합니다.
+* **[애니/캐릭터]** [Oscar Shortlist Interviews: Director Florence Miailhe’s On Her Favorite Shot From ‘Butterfly’ (EXCLUSIVE) - Cartoon Brew](https://news.google.com/rss/articles/CBMikgFBVV95cUxNejhJM1dOdUJRaFBRM0ZoT3BGYmJ5WFdPM29VUXZrM1FCS1c1czZBQ2Q1djc0LWVTOHVYbk8wb3R5ZEJmejJNZmhqUmdvN1V2STZLdG5Ta3JxVFhKT1MxODhtbjF4UlE3MVVWaG1FVEUybTJnOFVOdzVuVGFxWHVLREl6Ukt3ZHRobGZGaEVlenJxZw?oc=5)
+  * 💡 이 기사는 아카데미상 후보로 오른 단편 애니메이션 영화 '버터플라이'의 연출가 플로렌스 미아이유가 자신의 좋아하는 장면을 소개하는 내용입니다. 미아이유 감독은 이 작품에서 비행하는 나비 장면을 가장 마음에 든다고 말했습니다. 이 장면은 영화의 메시지를 잘 전달하는 중요한 부분이라고 합니다.
+* **[애니/캐릭터]** [Butterfly - Cartoon Brew - Cartoon Brew](https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2VuWVpscHN2U3pEMFRfbXRlOE1TTi0zaWVqR1k0eHR2SnU3RnVpeFFsd2VSMmdNTmVmTGxBU0xiNFJuQU5NYk9mNG05ZnRvSHBVN0o5MU81bjZJMXF0NUVobHBfdHoxMDdZeW84VmVySi1xdUoxcmlkeUVSZnBOUnRJZFNVU1NLS29xWTlUanI1SFVOOXZYNVBLVHB0Nm1BSGc?oc=5)
+  * 💡 이 뉴스는 새로운 애니메이션 단편 영화 'Butterfly'에 대한 것입니다. 이 영화는 어린 소녀가 자신의 아픈 엄마를 돌보는 과정을 다루고 있으며, 정제된 애니메이션 스타일과 따뜻한 내러티브로 호평받고 있습니다. 특히 이 영화는 가족의 사랑과 희생을 잘 표현하고 있다고 평가되고 있습니다.
+
+---
+## 📅 2026년 01월 04일 업데이트
+
 * **[통합(정책 등)]** [Cambodia demands Thailand withdraw troops, week into border truce](https://www.channelnewsasia.com/asia/cambodia-thailand-tensions-demand-withdraw-troops-border-truce-5787761)
   * 💡 캄보디아와 태국 간의 국경 분쟁이 지속되고 있습니다. 캄보디아는 태국에게 1주일간의 휴전 합의에도 불구하고 국경 지역에서 병력을 철수할 것을 요구했습니다. 양국은 수년 간 국경 지역을 둘러싼 영토 분쟁을 겪어 왔으며, 이번 사태로 인해 외교적 긴장이 다시 고조되고 있습니다.
 * **[통합(정책 등)]** [China says Irish PM to visit Beijing, Shanghai](https://www.channelnewsasia.com/east-asia/china-irish-prime-minister-micheal-martin-visit-invitation-li-qiang-xi-jinping-5787716)
