@@ -1,5 +1,43 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 04일 업데이트
+
+* **[통합(정책 등)]** [Cambodia demands Thailand withdraw troops, week into border truce](https://www.channelnewsasia.com/asia/cambodia-thailand-tensions-demand-withdraw-troops-border-truce-5787761)
+  * 💡 캄보디아와 태국 간의 국경 분쟁이 지속되고 있습니다. 캄보디아는 태국에게 1주일간의 휴전 합의에도 불구하고 국경 지역에서 병력을 철수할 것을 요구했습니다. 양국은 수년 간 국경 지역을 둘러싼 영토 분쟁을 겪어 왔으며, 이번 사태로 인해 외교적 긴장이 다시 고조되고 있습니다.
+* **[통합(정책 등)]** [China says Irish PM to visit Beijing, Shanghai](https://www.channelnewsasia.com/east-asia/china-irish-prime-minister-micheal-martin-visit-invitation-li-qiang-xi-jinping-5787716)
+  * 💡 중국 정부는 아일랜드 총리 미하엘 마틴이 베이징과 상하이를 방문할 것이라고 발표했습니다. 이번 방문은 양국 간의 정치적·경제적 협력을 강화하고 상호 이해를 증진시키기 위한 것으로 보입니다. 이번 방문은 코로나19 팬데믹 이후 양국 간 교류가 재개되는 의미 있는 계기가 될 것으로 기대됩니다.
+* **[통합(정책 등)]** [Trump invites Japan's Takaichi to the US early this year](https://www.channelnewsasia.com/world/trump-invite-sanae-takaichi-visit-us-japan-5787661)
+  * 💡 전 미국 대통령 도널드 트럼프가 일본 자민당 총재 다카이치 산에에게 올해 초 미국을 방문할 것을 초청했다. 이는 미국과 일본의 강력한 동맹관계를 보여주는 것으로 해석될 수 있다. 특히 최근 중국의 영향력 확대에 대응하기 위해 미국과 일본이 더욱 긴밀한 협력을 모색하고 있는 것으로 보인다.
+* **[방송·영화·OTT]** [Tony Dokoupil Starts ‘CBS Evening News’ Run With Long Pete Hegseth Interview](https://variety.com/2026/tv/news/tony-dokoupil-starts-cbs-evening-news-pete-hegseth-1236623011/)
+  * 💡 토니 도쿠필이 CBS 이브닝 뉴스 진행을 시작하면서 피트 헤그스스 와의 긴 인터뷰를 진행했습니다. 이번 인터뷰는 CBS 이브닝 뉴스의 새로운 앵커로서 도쿠필의 데뷔 무대가 되었습니다. 도쿠필은 헤그스스와의 심층 대화를 통해 자신의 뉴스 진행 스타일과 방향성을 제시했으며, 이는 CBS의 새로운 뉴스 전략을 보여주는 것으로 해석됩니다.
+* **[방송·영화·OTT]** [Leonardo DiCaprio to Miss Palm Springs Film Fest Gala Due to Venezuela Air Restrictions (EXCLUSIVE)](https://variety.com/2026/film/events/leonardo-dicaprio-palm-springs-film-fest-venezuela-1236622982/)
+  * 💡 할리우드 배우 레오나르도 디카프리오가 베네수엘라 항공 제한으로 인해 팜스프링스 영화제 갈라 행사에 불참하게 되었습니다. 디카프리오는 영화 홍보를 위해 팜스프링스 영화제에 참석할 예정이었지만, 베네수엘라 항공 당국의 비행기 이착륙 제한으로 인해 행사에 참석할 수 없게 되었습니다.
+* **[방송·영화·OTT]** [‘One Battle After Another’ Wins Best Picture at National Society of Film Critics Awards](https://variety.com/2026/film/news/national-society-of-film-critics-one-battle-after-another-1236622973/)
+  * 💡 '하나의 전투 끝에 또 다른 전투'가 국가영화비평가협회(National Society of Film Critics) 최우수 작품상을 수상했습니다. 이 영화는 고대 로마의 전쟁을 배경으로 한 작품으로, 심리적 갈등과 격렬한 전투 장면으로 이루어져 있습니다. 비평가들은 이 영화가 고대 역사에 대한 새로운 해석을 제시하고 있다고 평가했습니다.
+* **[애니·캐릭터]** [‘Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 2’ Comes To GSC Cinemas](https://themagicrain.com/2026/01/love-live-nijigasaki-high-school-idol-club-the-movie-finale-chapter-2-comes-to-gsc-cinemas/)
+  * 💡 일본 애니메이션 'Love Live! Nijigasaki High School Idol Club'의 극장판 'The Movie – Finale – Chapter 2'가 말레이시아 GSC 극장에서 상영될 예정이다. 이 애니메이션은 다양한 등장인물들이 학교 아이돌 클럽에서 활동하며 성장하는 이야기를 다루고 있다. 이번 극장판은 시리즈의 최종 챕터로, 팬들의 기대를 모으고 있다.
+* **[게임·융복합]** [HazeDenki’s ‘Sister Other Paranoia’ Releases On Steam This August](https://themagicrain.com/2026/01/hazedenkis-sister-other-paranoia-releases-on-steam-this-august/)
+  * 💡 'Sister Other Paranoia'는 일본 인디 게임 개발자 HazeDenki가 개발한 게임으로, 올해 8월 Steam에서 출시될 예정입니다. 이 게임은 공포와 미스터리 요소가 특징이며, 독특한 예술적 스타일로 주목받고 있습니다. 게임은 2D 플랫포머 장르이며, 복잡한 퍼즐과 몰입감 있는 스토리라인이 특징입니다. 이번 출시를 통해 HazeDenki의 작품이 글로벌 시장에 더 잘 알려질 것으로 기대됩니다.
+* **[게임·융복합]** [‘The Dream of Limbo’ Is  A Bullet Hell Where Nightmares And Fantasies Meet — Developer Interview](https://themagicrain.com/2026/01/the-dream-of-limbo-is-a-bullet-hell-where-nightmares-and-fantasies-meet-developer-interview/)
+  * 💡 이 기사는 독립 게임 개발자 인터뷰로, '리무보의 꿈(The Dream of Limbo)'이라는 게임을 소개하고 있습니다. '리무보의 꿈'은 총알 피하기 장르의 게임으로, 악몽과 환상이 교차하는 독특한 세계관을 지니고 있습니다. 개발자는 게임의 개념, 개발 과정, 게임의 특징 등을 설명하며, 게임이 플레이어에게 몰입감 있는 경험을 제공할 것이라고 말합니다.
+* **[통합(정책 등)]** [No quick wins in tapping Venezuela's oil reserves](https://www.straitstimes.com/world/no-quick-wins-in-tapping-venezuelas-oil-reserves)
+  * 💡 베네수엘라의 막대한 석유 매장량에도 불구하고 빠른 개발을 기대하기는 어려운 상황입니다. 정치적 불안정과 경제적 어려움으로 인해 석유 생산 증대에 많은 시간과 투자가 필요할 것으로 보입니다. 특히 미국의 제재와 국내 정치 문제 등으로 인해 단기간 내 석유 생산 증대를 기대하기는 어려울 것으로 전망됩니다.
+* **[통합(정책 등)]** [Democrats raise alarms after Trump avoids congressional approval for Maduro’s capture](https://www.straitstimes.com/world/united-states/democrats-raise-alarms-after-trump-avoids-congressional-approval-for-maduros-capture)
+  * 💡 이 기사는 트럼프 행정부가 베네수엘라의 마두로 대통령 체포를 위해 의회 승인을 받지 않고 행동한 것에 대한 민주당의 우려를 다룹니다. 민주당은 이러한 행동이 의회의 권한을 침해한다고 주장하며, 국가안보 및 외교정책 결정에 의회가 관여해야 한다고 지적하였습니다. 이는 입법부와 행정부간의 권력 갈등 문제로, 향후 미국의 대외정책 수립과 집행에 영향을 미칠 수 있는 주요 정치적 이슈로 보입니다.
+* **[통합(정책 등)]** [Shop for marble, threaten Iran, capture Maduro: Trump’s dizzying holiday routine](https://www.straitstimes.com/world/united-states/shop-for-marble-threaten-iran-capture-maduro-trumps-dizzying-holiday-routine)
+  * 💡 트럼프 대통령의 연휴 기간 중 일상은 매우 다양했습니다. 대리석 쇼핑, 이란 위협, 마두로 체포 등 정치적으로 민감한 행보들이 보였습니다. 이는 그의 독특한 리더십 스타일을 보여주는 것으로, 국내외적으로 논란을 일으킬 수 있는 활동들이었습니다.
+* **[통합(정책 등)]** [GLCs should support UMS Student Kitchen to help underprivileged students – Yazid - Nabalu News](https://news.google.com/rss/articles/CBMirwFBVV95cUxPLUxMUlBsY2Q4VDI2ZlQyVm5fSXpsRnB0dmNoOFJQY3JDNk9hTFdlWGNGRUxJTTNzdjdrZDF1NjljY2hqRC1sYVJKWElTdWV4dXZReTB2SVBuRzdITnJWRlIyMVhVOVdEZms0ZXRrelJFSF9EUXJTZE41Z2hJejl3N2w4TXROdElVN0dzdHpBeDZMOF9Ub0hRbUM0ZGctajF6Nk4zWlFrbGROQVdZbzNF?oc=5)
+  * 💡 이 기사는 말레이시아에서 정부 산하 기업들이 경제적 어려움을 겪는 학생들을 지원하기 위해 'UMS Student Kitchen' 프로그램을 지원해야 한다고 주장합니다. 이를 통해 학생들의 기본적인 식사 문제를 해결하고, 교육 기회를 높일 수 있을 것으로 보입니다.
+* **[패션]** [Zara's Boutique Hotel an oasis of comfort - Nabalu News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbG96dElOVmFPdE1JREtNUGdJalNWazZSTUhKMkRTQ3dYdGZBVzB2SEpfWlVEdGprcGpEYzNadnFkNFhBYklOWHZTYnNRZlZMYzB4akpGZlVPdEg1eVBRSEhCOXBpTWh4TGR5NDZ5VkpGb3hHQWMtdHJKcHB3Zw?oc=5)
+  * 💡 스페인 의류 브랜드 자라(Zara)가 호텔 사업에 진출했다. 자라는 나발루(Nabalu) 지역에 새로운 부티크 호텔을 오픈했다. 이 호텔은 편안한 휴식 공간을 제공하며, 자라의 대표적인 디자인 스타일이 반영되어 있다. 이를 통해 자라는 의류 브랜드 이미지를 호텔 서비스로 확장하고 있다.
+* **[방송·영화·OTT]** [Drive Movie : A Stylish Blend of Action and Drama - inews.zoombangla.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUk1TbXJyVGlaamFoeTFiVXFHQ3djNTNoRTdvTXdlY3NVd1RCYjZMeGNyWXhNdkFfWl92bkJ5bUpSMUpfeWg1QW1DbzVJaGxoZklXQnhYblFWMDRkY0tPUVFrUUJITkU3THZOT2JCM1hmX2NtQ2xSck5lcmFpRDUyYkJsOA?oc=5)
+  * 💡 이번 뉴스는 액션과 드라마가 조화를 이루는 스타일리시한 영화 'Drive'에 대한 분석입니다. 이 영화는 주연인 라이언 고슬링의 뛰어난 연기와 독특한 영상미로 호평을 받고 있습니다. 감독의 세련된 연출과 영화 전반에 걸쳐 나타나는 긴장감 있는 분위기도 이 작품의 특징으로 꼽힙니다. 전반적으로 이 영화는 관객들에게 매력적인 작품으로 평가받고 있습니다.
+* **[게임·융복합]** [Pebble Round 2 Revives Classic Design with 10-Day Battery, $199 Price Tag - inews.zoombangla.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHRUeThrUTlHOTJQTkJtcXNzb294bFJoQWJ5RVA0b2owcmk5ZGpwTUhzcWs0V2RtVkY3bnpPVmhDVTJ6TU93VERLTDY5UXJGMnpDenhKQXNSNkVUY0U5YXB6VjVqRkxXWHNPUWNqbG9oelBjcVRSVTNIT2F3dDFxdDY5SGE5U19kVmtqNXdMVm9fMDZqRWw0YVVjbkRMQmZGNTBJ?oc=5)
+  * 💡 Pebble社가 자사의 클래식 디자인에 10일 배터리 수명과 199달러의 가격대를 적용한 새로운 스마트워치 Pebble Round 2를 출시했습니다. 기존 Pebble 시계의 고전적인 디자인을 계승하면서도 배터리 수명과 가격 경쟁력을 높인 것이 특징입니다. 스마트워치 시장에서 차별화된 위치를 점하기 위한 Pebble의 전략으로 볼 수 있습니다.
+* **[통합(정책 등)]** [Trump and top Iranian officials exchange threats over protests roiling Iran - AP News](https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0h5RnpMaWpXT1lOZW91b2dMOFJJTWY2Mi1jdTEwa2NHRFp3cnZsUW1oN0FVQlJUSHpaY2o5Z3pIUnRrT1ctTEhPd3BPMElZY2FrZFJvTEhaQWtyd0FuTC1SeEc4ZVkzSldRVURGUFZpS1NrQllFSHpSZjIwMkJwVjBvRVVEZw?oc=5)
+  * 💡 미국 트럼프 전 대통령과 이란 정부 고위 관계자들이 이란 전역에서 발생한 시위에 대해 상호 위협을 가했습니다. 트럼프는 이란 정부의 폭력 진압에 강력히 비판하며, 이에 대해 이란 정부 관계자들이 미국의 개입을 비난했습니다. 이번 사태는 이란 내부의 정치·사회적 갈등이 표면화된 것으로, 향후 미국과 이란 간 관계 악화로 이어질 수 있어 주목됩니다.
+
+---
 ## 📅 2026년 01월 03일 업데이트
 
 * **[통합(정책 등)]** [Column of smoke seen, loud noises heard in Venezuelan capital](https://www.straitstimes.com/world/column-of-smoke-seen-loud-noises-heard-in-venezuelan-capital)
