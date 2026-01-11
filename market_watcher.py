@@ -9,7 +9,9 @@ import json
 
 # --- [설정 및 비밀키] ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
-NOTION_TOKEN = "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"
+# 사용자님이 새로 보내주신 토큰으로 업데이트 완료
+NOTION_TOKEN = "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"
+# 이전 링크(KOCCA-2e5653...)에서 추출한 ID
 DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
 
 ARCHIVE_FILE = "MARKET_ARCHIVE.md"
@@ -72,7 +74,6 @@ def send_to_notion(article, ai_data):
         "Notion-Version": "2022-06-28"
     }
     
-    # 🔗 핵심 수정: 이미지 주소가 없을 경우 '이미지' 속성 자체를 보내지 않음 (API 오류 방지)
     properties = {
         "제목": {"title": [{"text": {"content": article['title']}}]},
         "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
@@ -86,11 +87,10 @@ def send_to_notion(article, ai_data):
     payload = {"parent": {"database_id": DATABASE_ID}, "properties": properties}
     
     response = requests.post(url, headers=headers, json=payload)
-    # 🔗 핵심 수정: 실패 시 예외를 발생시켜 깃허브 액션이 빨간 불이 들어오게 함
     if response.status_code != 200:
-        print(f"❌ Notion 실패 로그: {response.text}")
+        print(f"❌ Notion 실패 로그: {response.status_code} - {response.text}")
         response.raise_for_status() 
-    print(f"✅ Notion 전송 성공: {article['title'][:20]}")
+    print(f"✅ Notion 전송 성공: {article['title'][:20]}...")
 
 def update_github_markdown(results):
     today = datetime.datetime.now().strftime('%Y년 %m월 %d일')
@@ -114,9 +114,12 @@ def main():
     for art in articles:
         ai_res = analyze_and_classify(art)
         if ai_res and ai_res['ok']:
-            send_to_notion(art, ai_res) # 노션 전송 시도
-            save_processed_link(art['link']) # 성공 시에만 처리 완료 기록
-            combined_list.append({**art, **ai_res})
+            try:
+                send_to_notion(art, ai_res)
+                save_processed_link(art['link'])
+                combined_list.append({**art, **ai_res})
+            except Exception as e:
+                print(f"⚠️ 개별 뉴스 전송 건너뜀 (오류): {e}")
             time.sleep(0.5)
     update_github_markdown(combined_list)
 
