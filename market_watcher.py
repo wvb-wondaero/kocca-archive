@@ -9,10 +9,9 @@ import json
 
 # --- [설정 및 비밀키] ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
-# 스크린샷(image_084be8.jpg)에서 확인된 진짜 토큰
+# 사용자님이 인증해주신 토큰과 하이픈을 제거한 순수 DB ID
 NOTION_TOKEN = "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"
-# 로그(image_084888.jpg) 에러 메시지에 표시된 정확한 ID 형식
-DATABASE_ID = "2e5653bb-339a-80a4-b5a3-e75043b8cb65"
+DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
 
 ARCHIVE_FILE = "MARKET_ARCHIVE.md"
 DB_FILE = "processed_links.txt"
@@ -74,6 +73,7 @@ def send_to_notion(article, ai_data):
         "Notion-Version": "2022-06-28"
     }
     
+    # image_075fad.png 컬럼명과 100% 일치 매핑
     properties = {
         "제목": {"title": [{"text": {"content": article['title']}}]},
         "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
