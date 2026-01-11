@@ -2,6 +2,12 @@
 
 ## 📅 2026년 01월 11일 업데이트
 
+> 📭 **오늘 업데이트 할 새로운 콘텐츠가 없습니다.**
+
+
+---
+## 📅 2026년 01월 11일 업데이트
+
 * **[방송/영화]** [Boy, 12, missing since Jan. 10 morning, last seen near Parklane Mall along Selegie Road, police appealing for info - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TeThqLTk2MUJwWFdNZHZTaG91bHE0M3VHRkxRdVNFWGt1bF9rbmRBMUktY01scmtmemY4TTZxVjh4bmh0TmtpcWoyYlh1WVBvNVdrWXRPTzQzMVhmb1JWSlY0MVk?oc=5)
   * 💡 싱가포르 12세 소년이 1월 10일 아침부터 실종되었으며, 셀레지 로드의 파크레인 몰 근처에서 마지막으로 목격되었다고 한다.
 * **[방송/영화]** [Doctor, 37, found guilty of negligence for 2019 death of S'porean property agent, 32, after Botox injection - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE1JUlhVa1BzMHlXSmYyT0VrRVBaMV9JYk0yaDJUS3E4b2JITFZ6U1k3Rm1iWnkwbTBVVnMtMGVRU0JiWVQ3UGpDQmJHaFBjSEpuUGhPcVVzQ3I4S3RidzExd0dKZmJhOFQzU0RFUHVmRkY?oc=5)
