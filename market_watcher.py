@@ -8,7 +8,6 @@ import requests
 import json
 
 # --- [설정 및 비밀키] ---
-# ⚠️ 보안을 위해 GitHub Secrets에 등록하는 것을 권장합니다.
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
 NOTION_TOKEN = "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"
 DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
@@ -52,7 +51,7 @@ def fetch_articles():
 def analyze_and_classify(article):
     if not ANTHROPIC_API_KEY: return None
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    prompt = f"당신은 KOCCA 분석가입니다. 결과를 반드시 CATEGORY, AI_SUMMARY(1문장), DETAILED_SUMMARY(3문장), SUITABLE(YES/NO) 형식으로 응답하세요.\n\n제목: {article['title']}\n카테고리 후보: {', '.join(CATEGORIES)}"
+    prompt = f"당신은 KOCCA 분석가입니다. 결과를 반드시 CATEGORY, AI_SUMMARY, DETAILED_SUMMARY, SUITABLE(YES/NO) 형식으로 응답하세요.\n\n제목: {article['title']}\n카테고리 후보: {', '.join(CATEGORIES)}"
     try:
         msg = client.messages.create(model="claude-3-haiku-20240307", max_tokens=800, messages=[{"role": "user", "content": prompt}])
         res = msg.content[0].text
@@ -73,33 +72,30 @@ def send_to_notion(article, ai_data):
         "Notion-Version": "2022-06-28"
     }
     
-    # 이미지 없을 경우 기본 아이콘
-    img_url = article['image'] if article['image'] else "https://www.notion.so/icons/news_gray.svg"
-    
-    # image_075fad.png 컬럼명에 맞춘 데이터 구조
-    payload = {
-        "parent": {"database_id": DATABASE_ID},
-        "properties": {
-            "제목": {"title": [{"text": {"content": article['title']}}]},
-            "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
-            "URL": {"url": article['link']},
-            "이미지": {"files": [{"name": "Thumbnail", "external": {"url": img_url}}]},
-            "Summary": {"rich_text": [{"text": {"content": ai_data['det']}}]}
-        }
+    # 🔗 핵심 수정: 이미지 주소가 없을 경우 '이미지' 속성 자체를 보내지 않음 (API 오류 방지)
+    properties = {
+        "제목": {"title": [{"text": {"content": article['title']}}]},
+        "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
+        "URL": {"url": article['link']},
+        "Summary": {"rich_text": [{"text": {"content": ai_data['det']}}]}
     }
     
-    try:
-        response = requests.post(url, headers=headers, json=payload)
-        if response.status_code == 200: print(f"✅ Notion 전송 성공: {article['title']}")
-        else: print(f"❌ Notion 실패: {response.status_code} {response.text}")
-    except Exception as e:
-        print(f"⚠️ Notion 네트워크 오류: {e}")
+    if article['image']:
+        properties["이미지"] = {"files": [{"name": "Thumbnail", "external": {"url": article['image']}}]}
+
+    payload = {"parent": {"database_id": DATABASE_ID}, "properties": properties}
+    
+    response = requests.post(url, headers=headers, json=payload)
+    # 🔗 핵심 수정: 실패 시 예외를 발생시켜 깃허브 액션이 빨간 불이 들어오게 함
+    if response.status_code != 200:
+        print(f"❌ Notion 실패 로그: {response.text}")
+        response.raise_for_status() 
+    print(f"✅ Notion 전송 성공: {article['title'][:20]}")
 
 def update_github_markdown(results):
     today = datetime.datetime.now().strftime('%Y년 %m월 %d일')
     header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브\n\n"
     new_entry = f"## 📅 {today} 업데이트\n\n"
-    
     if not results:
         new_entry += "> 📭 **오늘 업데이트 할 새로운 콘텐츠가 없습니다.**\n\n"
     else:
@@ -109,23 +105,19 @@ def update_github_markdown(results):
     existing = ""
     if os.path.exists(ARCHIVE_FILE):
         with open(ARCHIVE_FILE, "r", encoding="utf-8") as f: existing = f.read().replace(header, "")
-    
-    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
-        f.write(header + new_entry + "\n---\n" + existing)
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f: f.write(header + new_entry + "\n---\n" + existing)
 
 def main():
     articles = fetch_articles()
-    print(f"{len(articles)}개 새로운 기사 분석 시작")
+    print(f"{len(articles)}개 뉴스 분석 및 노션 전송 시작")
     combined_list = []
     for art in articles:
         ai_res = analyze_and_classify(art)
         if ai_res and ai_res['ok']:
-            send_to_notion(art, ai_res)
-            save_processed_link(art['link'])
+            send_to_notion(art, ai_res) # 노션 전송 시도
+            save_processed_link(art['link']) # 성공 시에만 처리 완료 기록
             combined_list.append({**art, **ai_res})
             time.sleep(0.5)
-            
-    # 기사가 없어도 날짜 기록을 위해 호출
     update_github_markdown(combined_list)
 
 if __name__ == "__main__":
