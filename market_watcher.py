@@ -9,10 +9,10 @@ import json
 
 # --- [설정 및 비밀키] ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
-# 사용자님이 새로 보내주신 토큰으로 업데이트 완료
+# 스크린샷(image_084be8.jpg)에서 확인된 진짜 토큰
 NOTION_TOKEN = "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"
-# 이전 링크(KOCCA-2e5653...)에서 추출한 ID
-DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
+# 로그(image_084888.jpg) 에러 메시지에 표시된 정확한 ID 형식
+DATABASE_ID = "2e5653bb-339a-80a4-b5a3-e75043b8cb65"
 
 ARCHIVE_FILE = "MARKET_ARCHIVE.md"
 DB_FILE = "processed_links.txt"
@@ -88,7 +88,7 @@ def send_to_notion(article, ai_data):
     
     response = requests.post(url, headers=headers, json=payload)
     if response.status_code != 200:
-        print(f"❌ Notion 실패 로그: {response.status_code} - {response.text}")
+        print(f"❌ Notion 전송 실패 ({response.status_code}): {response.text}")
         response.raise_for_status() 
     print(f"✅ Notion 전송 성공: {article['title'][:20]}...")
 
@@ -109,7 +109,7 @@ def update_github_markdown(results):
 
 def main():
     articles = fetch_articles()
-    print(f"{len(articles)}개 뉴스 분석 및 노션 전송 시작")
+    print(f"{len(articles)}개 뉴스 분석 및 노션 전송 시작...")
     combined_list = []
     for art in articles:
         ai_res = analyze_and_classify(art)
@@ -119,7 +119,7 @@ def main():
                 save_processed_link(art['link'])
                 combined_list.append({**art, **ai_res})
             except Exception as e:
-                print(f"⚠️ 개별 뉴스 전송 건너뜀 (오류): {e}")
+                print(f"⚠️ 전송 오류 발생: {e}")
             time.sleep(0.5)
     update_github_markdown(combined_list)
 
