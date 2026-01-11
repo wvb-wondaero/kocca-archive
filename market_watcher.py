@@ -5,20 +5,15 @@ import time
 import urllib.parse
 import anthropic
 import requests
-from requests.auth import HTTPBasicAuth
 import json
 
 # --- [설정 및 비밀키] ---
+# ⚠️ 보안을 위해 GitHub Secrets에 등록하는 것을 권장합니다.
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
-JIRA_EMAIL = "cs@wiltvb.com"
-JIRA_API_TOKEN = "ATATT3xFfGF0-C9fwMahIjdZRnR6n8KlWJSRbd3Njirhn1lJMT9J4MqJU6YiwQYdRfTeDP7M3oiiTSgoDEmAyBwwuK7FtH7rAQVCQN2mwgROkZBbJDx59BPo5L_F_tYeMXd5ANXRlsKzX_F4IlRHi59E0Q671wX5sDKIfZgHZEuOnRvRqY9nETE=321C6984"
-JIRA_DOMAIN = "wiltvb.atlassian.net"
+NOTION_TOKEN = "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"
+DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
 
-# 지라 고유 필드 ID (image_112a67.png 기준 확인)
-JIRA_AI_SUMMARY_FIELD = "customfield_10073" 
-JIRA_ORIGINAL_LINK_FIELD = "customfield_10072"
-JIRA_IMAGE_FIELD = "customfield_10101"
-
+ARCHIVE_FILE = "MARKET_ARCHIVE.md"
 DB_FILE = "processed_links.txt"
 CATEGORIES = ["방송/영화", "게임/융복합", "애니/캐릭터", "만화/웹툰", "음악", "패션", "통합"]
 
@@ -51,63 +46,87 @@ def fetch_articles():
                     img = ""
                     if hasattr(entry, 'media_thumbnail'): img = entry.media_thumbnail[0]['url']
                     all_articles.append({'title': entry.title, 'link': entry.link, 'image': img})
-                else:
-                    print(f"중복 기사 건너뜀: {entry.title[:20]}...")
         except: continue
     return all_articles
 
 def analyze_and_classify(article):
     if not ANTHROPIC_API_KEY: return None
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    prompt = f"당신은 KOCCA 분석가입니다. 결과를 반드시 CATEGORY, AI_SUMMARY, SUITABLE(YES/NO) 형식으로 응답하세요.\n\n제목: {article['title']}\n카테고리 후보: {', '.join(CATEGORIES)}"
+    prompt = f"당신은 KOCCA 분석가입니다. 결과를 반드시 CATEGORY, AI_SUMMARY(1문장), DETAILED_SUMMARY(3문장), SUITABLE(YES/NO) 형식으로 응답하세요.\n\n제목: {article['title']}\n카테고리 후보: {', '.join(CATEGORIES)}"
     try:
         msg = client.messages.create(model="claude-3-haiku-20240307", max_tokens=800, messages=[{"role": "user", "content": prompt}])
         res = msg.content[0].text
-        data = {'cat': '통합', 'ai': '', 'ok': False}
+        data = {'cat': '통합', 'ai': '', 'det': '', 'ok': False}
         for line in res.split('\n'):
             if "CATEGORY:" in line: data['cat'] = line.split(":")[1].strip()
             if "AI_SUMMARY:" in line: data['ai'] = line.split(":")[1].strip()
+            if "DETAILED_SUMMARY:" in line: data['det'] = line.split(":")[1].strip()
             if "SUITABLE: YES" in line.upper(): data['ok'] = True
         return data
-    except Exception as e:
-        print(f"AI 분석 오류: {e}")
-        return None
+    except: return None
 
-def send_to_jira(article, ai_data):
-    url = f"https://{JIRA_DOMAIN}/rest/api/3/issue"
-    auth = HTTPBasicAuth(JIRA_EMAIL, JIRA_API_TOKEN)
-    headers = {"Accept": "application/json", "Content-Type": "application/json"}
+def send_to_notion(article, ai_data):
+    url = "https://api.notion.com/v1/pages"
+    headers = {
+        "Authorization": f"Bearer {NOTION_TOKEN}",
+        "Content-Type": "application/json",
+        "Notion-Version": "2022-06-28"
+    }
     
-    payload = json.dumps({
-        "fields": {
-            "project": {"key": "PJM"},
-            "issuetype": {"name": "Task"},
-            "summary": f"[{ai_data['cat']}] {article['title']}",
-            "labels": ["News", ai_data['cat'].replace("/", "_"), "KOCCA_Bot"],
-            JIRA_AI_SUMMARY_FIELD: ai_data['ai'],
-            JIRA_ORIGINAL_LINK_FIELD: article['link'],
-            JIRA_IMAGE_FIELD: article['image']
+    # 이미지 없을 경우 기본 아이콘
+    img_url = article['image'] if article['image'] else "https://www.notion.so/icons/news_gray.svg"
+    
+    # image_075fad.png 컬럼명에 맞춘 데이터 구조
+    payload = {
+        "parent": {"database_id": DATABASE_ID},
+        "properties": {
+            "제목": {"title": [{"text": {"content": article['title']}}]},
+            "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
+            "URL": {"url": article['link']},
+            "이미지": {"files": [{"name": "Thumbnail", "external": {"url": img_url}}]},
+            "Summary": {"rich_text": [{"text": {"content": ai_data['det']}}]}
         }
-    })
+    }
     
-    response = requests.post(url, data=payload, headers=headers, auth=auth)
-    if response.status_code == 201:
-        print(f"✅ Jira 생성 성공: {article['title'][:30]}...")
+    try:
+        response = requests.post(url, headers=headers, json=payload)
+        if response.status_code == 200: print(f"✅ Notion 전송 성공: {article['title']}")
+        else: print(f"❌ Notion 실패: {response.status_code} {response.text}")
+    except Exception as e:
+        print(f"⚠️ Notion 네트워크 오류: {e}")
+
+def update_github_markdown(results):
+    today = datetime.datetime.now().strftime('%Y년 %m월 %d일')
+    header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브\n\n"
+    new_entry = f"## 📅 {today} 업데이트\n\n"
+    
+    if not results:
+        new_entry += "> 📭 **오늘 업데이트 할 새로운 콘텐츠가 없습니다.**\n\n"
     else:
-        print(f"❌ Jira 생성 실패 ({response.status_code}): {response.text}")
+        for item in results:
+            new_entry += f"* **[{item['cat']}]** [{item['title']}]({item['link']})\n  * 💡 {item['ai']}\n"
+    
+    existing = ""
+    if os.path.exists(ARCHIVE_FILE):
+        with open(ARCHIVE_FILE, "r", encoding="utf-8") as f: existing = f.read().replace(header, "")
+    
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        f.write(header + new_entry + "\n---\n" + existing)
 
 def main():
     articles = fetch_articles()
-    print(f"새로운 기사 {len(articles)}개 분석 시작")
+    print(f"{len(articles)}개 새로운 기사 분석 시작")
+    combined_list = []
     for art in articles:
         ai_res = analyze_and_classify(art)
-        if ai_res:
-            if ai_res['ok']:
-                send_to_jira(art, ai_res)
-                save_processed_link(art['link'])
-            else:
-                print(f"기사 부적합 판정: {art['title'][:20]}...")
-        time.sleep(1)
+        if ai_res and ai_res['ok']:
+            send_to_notion(art, ai_res)
+            save_processed_link(art['link'])
+            combined_list.append({**art, **ai_res})
+            time.sleep(0.5)
+            
+    # 기사가 없어도 날짜 기록을 위해 호출
+    update_github_markdown(combined_list)
 
 if __name__ == "__main__":
     main()
