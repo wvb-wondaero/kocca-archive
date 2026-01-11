@@ -9,7 +9,7 @@ import json
 
 # --- [설정 및 비밀키] ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
-# 사용자님이 인증해주신 토큰과 하이픈을 제거한 순수 DB ID
+# 사용자님이 인증해주신 토큰과 순수 DB ID (하이픈 제거 버전)
 NOTION_TOKEN = "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"
 DATABASE_ID = "2e5653bb339a80a4b5a3e75043b8cb65"
 
@@ -73,7 +73,6 @@ def send_to_notion(article, ai_data):
         "Notion-Version": "2022-06-28"
     }
     
-    # image_075fad.png 컬럼명과 100% 일치 매핑
     properties = {
         "제목": {"title": [{"text": {"content": article['title']}}]},
         "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
@@ -88,7 +87,10 @@ def send_to_notion(article, ai_data):
     
     response = requests.post(url, headers=headers, json=payload)
     if response.status_code != 200:
-        print(f"❌ Notion 전송 실패 ({response.status_code}): {response.text}")
+        # 🔗 핵심: 노션 서버가 보내는 진짜 에러 메시지를 터미널에 출력합니다.
+        print(f"❌ Notion 전송 실패 상세 정보:")
+        print(f"   - 상태 코드: {response.status_code}")
+        print(f"   - 에러 내용: {response.text}")
         response.raise_for_status() 
     print(f"✅ Notion 전송 성공: {article['title'][:20]}...")
 
@@ -119,7 +121,8 @@ def main():
                 save_processed_link(art['link'])
                 combined_list.append({**art, **ai_res})
             except Exception as e:
-                print(f"⚠️ 전송 오류 발생: {e}")
+                # 여기서 에러 로그가 남으므로 원인 파악이 가능합니다.
+                print(f"⚠️ 전송 과정에서 에러 발생: {e}")
             time.sleep(0.5)
     update_github_markdown(combined_list)
 
