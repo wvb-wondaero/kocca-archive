@@ -1,5 +1,21 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 12일 업데이트
+
+* **[방송/영화]** [Massive Himalayan vulture spotted in S'pore near East Coast Parkway - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYzJNbUMzMl9HZ2RrWTRfSm42MmZDcWNaR0NKczRHSjRpMk5fTlIwaFR6ZUFRZEc1N1psVTBrbFU1d2lGZHpLZTJHUG5aYy10Tk0zTURLUmMwclp6bk90aU5HUDhLclM3bXc?oc=5)
+  * 💡 싱가포르 East Coast Parkway 근처에서 거대한 히말라야 독수리가 목격되었다는 보도입니다. 이는 싱가포르에서는 매우 드문 일이며, 야생 동물 보호와 관련된 이슈를 제기할 수 있습니다.
+* **[방송/영화]** [Iran rights group warns of 'mass killing', as the Islamic Republic called for counter-protests - CNA](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnloZ2VEX3I5OWdsckhBV0x1dVNRRjZIRjgxcVZuZTNwLVI4bHNhZW50TlhLOVJVZF9iaEVXNG5Fbm9LUFhkUXlSVHF1ZlJFaDJLTHRCbjdlOVk0eFlpX18tTGM2dlpFSzZ2NXhYa29OWDhtZjlmMHU1eUxxNGtqbVRpTkxnVnF5ZXMtZzBlSUwyUlhKQlNB?oc=5)
+  * 💡 이란 인권 단체는 이슬람 공화국이 대규모 반정부 시위에 대한 보복 시위를 요구하면서 '대량 살상'이 있을 수 있다고 경고했습니다. 이번 사건은 이란 내부의 심각한 인권 침해 상황을 보여주고 있습니다.
+* **[통합]** [Myanmar votes in second phase of military-run election - CNA](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX081Zzh5ejhXRmxocnphR0NMRXB0WWF3UUFfam0waGh5Mks1MDB2ZlQ4WjI5T2g5RlU1cURacGZCZFNudVRhZXFzZlJ2TDZ5enZ3cHJJaEppeTNFU1JMeHNvd21HVWVjaDVJNWF1TnhkYlBOTWRtVEpmdzdPekh3cGRWX1ZyeDB6c1h0WDV3Wk9YOXMxRTZvZUtB?oc=5)
+  * 💡 미얀마가 군부 정권이 주도하는 선거 2차 투표를 진행했습니다. 이번 선거는 민주화 운동에도 불구하고 군부가 여전히 정치적 지배력을 행사하고 있음을 보여줍니다. 해당 내용은 KOCCA 분석가로서 다양한 문화산업 분야에 포괄적으로 관련될 수 있는 통합적인 주제라고 판단됩니다.
+* **[정치/외교]** [Rubio and Netanyahu spoke by phone on Saturday, US official says - The Straits Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjAtaUJNcmItMUNxSHBrZFN4SlJaSDVITEVjbGRrenl6UXZ5SkhMVFhVdFNIM3U3NHdQQUIxMDNFTDRmdF9UbHBCZmZZU2ZybS1HQUd1dWtpelRnWUxXSlJmUlpjVDlEWk8yNnMxeHFqaUlwSjdJdjM0Sno0ajc0UDgtNXphblFwTUlMd1R5VUl5OVJzOVJDbmdfa1BSSnIyM2VzenZ3STVaRzB5dlpv?oc=5)
+  * 💡 미국 정부 관계자에 따르면, 미국 상원의원 Marco Rubio와 이스라엘 총리 Benjamin Netanyahu이 토요일에 전화통화를 했다. 이들의 대화 내용은 공개되지 않았다.
+* **[통합]** [Bangkok air quality expected to worsen to ‘high risk’ level from Jan 12 to 15 - The Straits Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUUwekRqTWJIV1k4V0tVZ1FUbXdKaW1zc0RNUHFzVkYtU3luWV9yaG9GT0Rkc21FaTU1WTRBY09BanBRTVZVSUlDR09fVmpadnFycnA2dklOTFBOVXY2TjNsMGkwWDVEajc2bjRuQXZCNkduT1o4YlBvZ0o1cFlYM0cwQ2xWa1pidFBoaFNjRjc3UklfODhDR0FPWXliTlNLQkxDbnQwNFVuOFI0eUdnYmRBWU8xckxE?oc=5)
+  * 💡 방콕의 공기질이 1월 12일부터 15일까지 '고위험' 수준으로 악화될 것으로 예상됩니다. 이는 대기 오염 수준이 매우 높아져 시민들의 건강에 위험을 초래할 수 있습니다.
+* **[방송/영화]** [Race card for Jan 12 - The Straits Times](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZkEwMWJDM285OWFCeXRaNmF3TFhyRG5fZ2lmdVo0QzBvZC1JZDhfU2VDOG5VUmpjUFNFSDN6RDhlX1YzSEE5RVFrWHUxbDNKYUtObEJwWFhEN2JUVkVRaW5odnlsQQ?oc=5)
+  * 💡 이 기사는 1월 12일 레이스 카드에 대한 것으로, 싱가포르 스트레이츠 타임즈에 게재되었습니다. 방송/영화 분야와 관련이 있는 것으로 보입니다.
+
+---
 ## 📅 2026년 01월 11일 업데이트
 
 * **[방송/영화]** [Boy, 12, missing since Jan. 10 morning, last seen near Parklane Mall along Selegie Road, police appealing for info - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TeThqLTk2MUJwWFdNZHZTaG91bHE0M3VHRkxRdVNFWGt1bF9rbmRBMUktY01scmtmemY4TTZxVjh4bmh0TmtpcWoyYlh1WVBvNVdrWXRPTzQzMVhmb1JWSlY0MVk?oc=5)
