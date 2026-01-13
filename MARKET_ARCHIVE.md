@@ -1,5 +1,19 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 13일 업데이트
+
+* **[음악]** [Haig Road coffeeshop acquired by Kimly's subsidiary for S$11.8 million - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUHBVNEtKQ2U1OXBldFpfMXhCU3hkUV9lWlNGN3Jib3B1bHlXSEpRYVB3RjlnTWJ4T3pSdjNRLUNncmxCNW91TFR2UGZrZmkyTVc3S1M4b0haa3dGc3Q5VU10aGRYQjRxNUJFOA?oc=5)
+  * 💡 Kimly Limited, a Singapore-based food and beverage company, has acquired a coffeeshop located at Haig Road for S$11.8 million through its subsidiary. This acquisition aligns with Kimly's strategy to expand its food and beverage business in Singapore.
+* **[방송/영화]** [Pilots in Jeju plane crash had been trying to avoid flock of 50,000 birds while landing - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwWVBNU2xxQ2J4UUV5YzdUT2dvUThQcGlVSEo4VnBhWmFTZTBrNEZFTEpOOC1wak44MTc1Z0M3ZDFldEZDck5udmU3RjhEUUp0QW9UWHpBczVLMVVGNVFqcmZ4Zw?oc=5)
+  * 💡 제주도에서 일어난 비행기 사고에 관한 기사로, 조종사들이 약 5만 마리의 새떼를 피하려다가 사고가 발생했다는 내용입니다. 이는 비행기 안전과 새 관리에 대한 문제를 제기합니다.
+* **[게임/융복합]** [Crypto firm BitGo eyes up to $1.96 billion valuation in US IPO - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekVYYWVkN0JucnhmSGQ1QkU2UUdJTTRsNlN0QXpQVjBLaXZiLVN0cWFfeTFzTG5JMzdYeHBlX0tlUDRaX2dra3QyVHNGMFNEZURRTFVWb0pUMGZlMDUyQTY0a0pSU3JFamtNWDU5cWRFb3FVVnMxM3Q5dVpLQUpLcjNQM3VXanQzeVVkLUU2N0NiUUJMZlhoYnN2V0k2RGcwVnZoeFhMTkZjdw?oc=5)
+  * 💡 BitGo, a cryptocurrency custodian company, is aiming for a valuation of up to $1.96 billion in its upcoming U.S. initial public offering (IPO). The company provides digital asset custody, trading, and lending services to institutional investors. This potential IPO reflects the growing interest and investment in the cryptocurrency industry.
+* **[방송/영화]** [New indie cinema Filmhouse to open at former Projector space in Golden Mile Tower - The Straits Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTU5IYVlBSl9TdkRzcmE1aGVQdnNYRE0zMGtZT0hmV1pKeTVkX1FneUVaODlnSDdpZlVoLUk0SVd1V0hnbUZWd1YzaDlCR3poeWN2NUV2WFJiVXVaeHkzSEl2WWxaUU9KemNfck9HNVl3U2JwcWhWMkNkRE4wRk5QWmgwU0Jhd1NJemNLT0thUFN2OTZaU2c1eHQ5cGNZOWxGSW93NERoTUhJSWpMVDNZYU92RDNleEZsUTMtWnFFeTNlRXgyc2NYQnRfVkV0Z0k?oc=5)
+  * 💡 싱가포르의 신규 독립영화관 Filmhouse가 Golden Mile Tower에 문을 열 예정입니다. 이는 기존 Projector 공간을 활용한 것으로, 독립영화와 예술영화를 상영하며 영화제와 관련 이벤트도 개최할 계획입니다.
+* **[방송/영화]** [Australia recalls Parliament early to pass hate speech, gun laws - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlJUbDVHeFZsRTRYZFZ2RUZyUEZDVWg2QWFRRTdqakVNN3JpNk9CX1JyOTNZQl9jZUNhZjlENHY3LWk1bjlzZmhhLW13T3hhaEZ4WC16TEY1YTBxWXpDTklHc3NFcGZTUGFhWjZ5WFFRNllSQnRQRzZITFJDNDVQa24xYUoxT3FNMW9SQjJjZnc4VEwwaXpFS2ZBOWphZTZYanp2SjM0QVRrc3hoQUE?oc=5)
+  * 💡 호주 정부가 의회를 긴급 소집하여 혐오 발언과 총기법 개정안을 신속히 처리하려 하고 있습니다. 이는 최근 대중의 관심사와 우려사항을 반영한 조치로 보입니다.
+
+---
 ## 📅 2026년 01월 12일 업데이트
 
 * **[방송/영화]** [Massive Himalayan vulture spotted in S'pore near East Coast Parkway - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYzJNbUMzMl9HZ2RrWTRfSm42MmZDcWNaR0NKczRHSjRpMk5fTlIwaFR6ZUFRZEc1N1psVTBrbFU1d2lGZHpLZTJHUG5aYy10Tk0zTURLUmMwclp6bk90aU5HUDhLclM3bXc?oc=5)
