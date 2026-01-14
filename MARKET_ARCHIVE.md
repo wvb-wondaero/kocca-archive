@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 14일 업데이트
+
+* **[패션]** [S’porean ex-beauty queen steals curtains, towels & more worth over S$9,000 from multiple hotels - Mothership](https://news.google.com/rss/articles/CBMic0FVX3lxTE8wc3FmQ1lldUVvUFkwUXRqc1dyYjVWaVJYclRMVXBUR1hlaW93ZnpvNWNQR0prcTlBNWs3bFRWY0MwM1BDT2VtRzRlSGVEQ0xyWjhqY0hJRzUya2NzaG1BRGsyYjJVUTB1OTlEYTNScnNEc00?oc=5)
+  * 💡 싱가포르 前 미인 대회 우승자가 9,000달러 이상 가치의 커튼, 수건 등을 여러 호텔에서 훼손하고 훔친 사건이 발생했습니다.
+* **[패션]** [Lady M closes all outlets in S'pore, licensing arrangement ends - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTE85eFR4ZU43UUQtTTVGU05ZajdwczlRNkdkX0RHZ2RSMDZFTEZ0QURjbEVsMDRQUl9DVERkWFNmUUhxN2taajRlQTI0Mjl5MjJpVk94MXEtM1dSdVlYVV85QmM0RnZ6YkV5WGVoWmRGQUFWbXZM?oc=5)
+  * 💡 시그니처 케이크 브랜드 Lady M이 싱가포르 내 모든 매장을 폐쇄했다. 이는 기존 라이선싱 계약이 만료되면서 발생한 것으로 보인다. Lady M은 프리미엄 케이크 브랜드로 잘 알려져 있으며, 이번 결정은 싱가포르 시장에서의 사업 철수를 의미한다.
+* **[애니/캐릭터]** [Monkeys repeatedly enter Punggol East HDB flats, steal banana & baby powder - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE5URnNmQi16b0tGbW9CRHUydHk2bnV2UGFYbzdqRTZzNFJuOEdtVWZmNVFaOXc3dkg0NGlQN0Vhd1FfLVBBY1JpMGhQWUFMamFJc2xiT3ZfRFJIUnV0X1FCM25pdDA3MnZSa3F1VFE5Mmg?oc=5)
+  * 💡 싱가포르 푼골 동부 주택 단지에 원숭이들이 반복적으로 출몰해 바나나와 아기 분유를 훼손하고 있다는 소식입니다. 이는 자연과 도시 환경이 충돌하는 사례로 볼 수 있으며, 원숭이 출몰 방지를 위한 대책 마련이 필요할 것으로 보입니다.
+* **[통합]** [Commuters urged to plan alternative routes ahead of scheduled 3-month Circle Line disruption - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTnlZMGM4cThPOF8zMlVfakFaN3Z5RjdHOG1MSmhTV3Y5WWI1eUlhaEg1RjQwYzlQcFFYcER4eTN5eFpORkxIUTdOczFJYW82RzZMaTlaRG5VVkpUTzFGYm5WdUc1cmNBWkJheXhkcC03aW5iZDBiazVwMDRsdlFxOVJWaVE1dUl1X0FHTXpGNWZXbVE1cmpEMWh0Wlg4ZWUyQjBrVFEyQQ?oc=5)
+  * 💡 싱가폴 육상공사(LTA)는 향후 3개월간 원형선 노선에 큰 혼란이 예상되어 출퇴근 시간 지연이 불가피할 것으로 예상됩니다. LTA는 출퇴근객들이 대안 노선을 미리 계획할 것을 권고했습니다.
+* **[게임/융복합]** [China warns citizens in Cambodia of kidnappings, job scam ads following recent busts - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWC1YUXFwTmpidGxNYWFlMkZsWVZweFVaV3dnSUxScE5wMTR0QzB0bjBxNVV4ZUFrQ1o3dkdVbnpHd29HMXR6a1N4ZFNDR0NVNXhaZGR4eXlKUy1yX0FTcEkyQWgySDNwRUc1Y3hnYmgtR2FzZXJFdlJIUm9SMEI2NEJyd18zOEtkZGhndDBYWlFWa2I2LWllUHNDbEV1TF8xbFMzYVZDNno1UQ?oc=5)
+  * 💡 중국 정부는 최근 캄보디아에서 발생한 납치 사건과 취업 사기 광고에 대한 경고를 발표했습니다. 이는 최근 캄보디아에서 진행된 단속 작전 이후 나온 조치입니다. 중국 정부는 자국민들에게 주의를 당부했으며, 이는 해외 근로자의 안전과 관련된 문제로 볼 수 있습니다.
+* **[음악]** [Japan, South Korean leaders drum up rapport playing K-pop after summit - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxOM053MnhjRlFteWZJb3hSemZQYVI0XzlUQ2dWSWV5MDZNUGcyLVpJbDk2UC14d2tpeUlfUG94REdHak5Cck8xdVc5TlpPNzBDYWgzaFhQTGV3ZFRrcTExOTV2M2t2WElzMVpuNzRHRHlBOEJFRk04dGpDY0U3dzNQTE01WFF3RlhkNXJzU0otZTlncjJtWUJTeFpkMlhjVzlwaVV0bTZWVkUxTmdCcFQ2SnpJYw?oc=5)
+  * 💡 일본과 한국 정상들은 정상회담 후 케이팝 노래를 함께 들으며 친밀감을 높였다. 이는 양국 간 문화적 교류와 협력을 보여주는 상징적인 장면이다.
+* **[통합]** [South Korea prosecutor seeks death penalty for ex-president Yoon over martial law - The Straits Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzF0dm9fcXgyY2N2T0NUekxzdVZzOTBsR0V3c3FabTNyRVltajVhR0steXl6bG53dXU0NDZZdXJQeVY0R0FsTmFOWGU3NlY3Q2hJSllsbmhLZnplYnlSY1ZBUUs1M3ZiWXVDOUpnQjhHU0NaLXdodUtFRGZ0RDdTZEN6Z2ZmS2VyWFVPUGRabTFGc2N4RUZidm1Cd1NTcklwTmlkRTNfckdMaG5LQWpmd0RMcmlTTnJCcDJsZU1iV2dhNHM?oc=5)
+  * 💡 전 대통령 윤씨에 대한 사형 요구는 한국 정치 전반에 대한 중대한 사안입니다. 이는 민주주의와 법치주의 확립에 큰 영향을 줄 수 있는 사건으로, 한국 문화콘텐츠 산업 전반에 미치는 파급효과가 크다고 볼 수 있습니다.
+* **[게임/융복합]** [Gojek ride-hailing app suffers peak hour outage - The Straits Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1RwaUFkdndtaHRGVENEV0VqRWphRVJrbldUOF9XTU0tNUEzYzVlcndkeU83MlpoMGNnU3JvWS1wc3Z4cjVxV0RwemRwZ1lReml0X3FtOUhHcndwcFV0Ylpqb1QxaEZFWWdKNGxvclVlNWZjb2ttN1ZkcGJTT05fQUJnOGF2UUhtc1d2T2RBMWRWWnRrajVZcUdn?oc=5)
+  * 💡 Gojek, a popular ride-hailing app in Southeast Asia, experienced a peak hour outage, causing disruption to users. This incident highlights the importance of maintaining reliable and consistent service in the digital transportation industry.
+
+---
 ## 📅 2026년 01월 13일 업데이트
 
 * **[음악]** [Haig Road coffeeshop acquired by Kimly's subsidiary for S$11.8 million - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUHBVNEtKQ2U1OXBldFpfMXhCU3hkUV9lWlNGN3Jib3B1bHlXSEpRYVB3RjlnTWJ4T3pSdjNRLUNncmxCNW91TFR2UGZrZmkyTVc3S1M4b0haa3dGc3Q5VU10aGRYQjRxNUJFOA?oc=5)
