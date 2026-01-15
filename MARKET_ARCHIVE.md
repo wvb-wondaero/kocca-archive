@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 15일 업데이트
+
+* **[방송/영화]** [S'pore mother, 28, claims bus driver closed door on stroller with kids inside & made rude remarks - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbEZKZ3RwcmhQS0JuUkFrS2trQ29Yc1MwOUN6c0Z0NmJWNUpyZ0lCVFJtY2czdlNhUW44R3NYcGZhTlZfdDRlRlZuVC1TNEV0WUUweS02MWJfVnd1WUJVaDBQbUhZU1FFQkU0?oc=5)
+  * 💡 싱가포르 28세 여성이 버스 기사가 아이와 유모차를 태우고 있는 상황에서 문을 닫고 무례한 말을 했다고 주장했습니다. 이는 운전자의 부적절한 행동으로 볼 수 있으며, 가족과 어린이를 배려하는 서비스 개선이 필요할 것으로 보입니다.
+* **[방송/영화]** [Gurkha's daughter, 34, who grew up in S'pore, reflects on having to leave, calls for citizenship - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE1RYWs3azM3UmZHT2MtTDNKTGh0TXZ2eUJnVUw1dzJobVdQaWxPaEZSU3pmWU41bjFCTFZNN3Jlc3RSaE83cjRheTIxOHJ1aG4weVNYcWNsaVJ4V1pYMlRnVzdLRnNnY1VtX3hGWG1tc1hjVHhUV1E?oc=5)
+  * 💡 이 기사는 싱가포르에서 자라난 구르카 부대 출신 딸의 시민권 문제에 대해 다룹니다. 그녀는 싱가포르에서 태어나고 자랐지만 시민권을 받지 못했으며, 결국 싱가포르를 떠나야 했습니다. 이 사례는 싱가포르의 엄격한 시민권 정책에 대한 논쟁을 불러일으키고 있습니다.
+* **[방송/영화]** [Edmund Chen, 63, charged with careless driving, causing grievous hurt to motorcyclist - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE0yZk5nREQzcXlTX2V3U2JPYXpnOWNVQUJLUVBmYkxKVEdtZ0loVHVQelZXeEJQcWhzekpyMmJCYWFaMkVETmN5Y1ZtYUhkWWhCOXBySm1kUlUzclBWMFNucVBIUV9PUF9oVzVn?oc=5)
+  * 💡 이 사건은 66세 운전자가 오토바이 운전자를 부주의하게 운전하다 중상을 입히는 사건입니다. 이는 자동차와 오토바이 사용자 간의 안전 문제를 보여줍니다.
+* **[방송/영화]** [China probes largest online travel agency Trip.com over suspected monopoly - CNA](https://news.google.com/rss/articles/CBMiugFBVV95cUxONXdpQ3Jhb0JRMThQbUFITWRjMXJTTllsVlNWZ05CSWNYVUFpX1QxVVhKT0FScVhXelVNcFRhZXRlSDNodWJOREtyQkxhdHNTYXI0bFI1ajlLS1hvVFY5QkJyTU5wb2pxU0JzcUpMeFFaa0c0ZmY4dTIzdmYydDVvZ3RBMGNCOWVZZ3Zjd1A2VjZ5MjNJMkk2QTMxc2hQektLRi03Zm8tYzJia2FXeE9XdDROTmVhOFpYalE?oc=5)
+  * 💡 중국 국가시장감독관리총국은 중국 최대 온라인 여행사 트립닷컴그룹에 대해 독점 행위 혐의를 조사하고 있다. 이번 조사는 중국 정부의 빅테크 기업에 대한 규제 강화 움직임의 일환으로 보인다.
+* **[게임/융복합]** [Infosys raises revenue view, sparks hopes of Indian IT turnaround - CNA](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTlLNWhxSlZBQ1o3Zl9aZ1JtVk5JM1FZbnZTUExxZk5FLWwwMGVKNEpiSkZUaU4zUUJmMllDZm9yTUFld1Fyck5Td3FiWVB6VmtxbThaT20zTC1laWNvQkFwVm12c3RoTjB2TVVELWhyVWltLUZKOW1LaVhSTjY0WWZRdmhhang0LWN1NFpPV3ItMTVEb20xWnZzTm04WTdwY3lKSWk0dmFkRlNta3RV?oc=5)
+  * 💡 Infosys, a major Indian IT services company, has raised its revenue growth forecast for the fiscal year, sparking hopes of a turnaround in the Indian IT industry. This news could have implications for the game and convergence industries, which are closely tied to the performance of the overall IT sector.
+* **[통합]** [Japanese yen rebounds from 18-month low against dollar - CNA](https://news.google.com/rss/articles/CBMinwFBVV95cUxNanlBazAtWFJ3SUNtZEF5Y3FCRG1mMmU1RFJSY0w0NDhmV2c3V1dKWmc3TnVLSkJzOUlCT3UtbTM2MWtRRzc1TlAza2lLVkdMWWpQd3h1bm5BNG5lZDFlaFgtdHNfT05heHhYRlFLdE1VQ3lveWZicEkwMVNLc3lYb3NmdS1DZ2JrMWZKQW9oMl9JZDFrRVRlNzJOcGJsdU0?oc=5)
+  * 💡 일본 엔화가 달러화 대비 18개월 만에 최저점을 기록한 뒤 반등했다. 이는 미국 연준의 금리 인상 전망에 따른 것으로 보인다. 일본 엔화의 강세는 일본 기업들의 수익에 부정적인 영향을 미칠 수 있으며, 이는 일본 경제에 부담이 될 수 있다.
+* **[방송/영화]** [CNMC Goldmine shares shine amid soaring gold prices - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTdydzNVQnBRNzBUeFhxWnE5Tm5NLVRWVVh4MUpNdTNGdmVBMlBSM295UUFwdk1IQjVYMlJ3cjRrM3FFM195Z0N3YTM0RXRwUzNETlJ2bFg3QWpESnhlMzJmSVJmSGFDZkZYM1FCWlB5b183SWpSc25FcGlyNGNLbEhxVk96aDZDSjRXUzRiTHdYQnRHYnY4WkxiN2oxUExidUFuRENnbnJaQlE?oc=5)
+  * 💡 CNMC Goldmine 주식이 금 가격 상승에 힘입어 주가가 상승했다. 이는 금 광산 기업인 CNMC Goldmine의 실적 개선에 따른 것으로 보인다.
+* **[통합]** [HDB: Condensation & mould cases from AC use - The Straits Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY01lRFo2M05pb1NSZHlCYTU1cTIxRnRleUg3azJYQ3hjVDBDcC15dkRPNUNKTU5jRXE0SnZZVHBPTDlLSTRhM2RvVktfcGRVcDVIMkdzeGlFLTlIOHNIejlPQTYzdnNTYV9DSGpFdFhmMWVQV3U2NTR0anlXVmZvSHVGUG1vMlY1TzNTTUVrTEFpZHJrSnUyVVl0MWFTeW5TVDlnOTJVVWZaSXJGWGZaQWhRbnFndXZqeE9PQ3lFYzl5cEk1bTBwYjRjUFg?oc=5)
+  * 💡 싱가폴 주택개발청(HDB)은 에어컨 사용으로 인한 응축수와 곰팡이 발생 사례를 보고했습니다. 이는 주택 관리와 에너지 효율성에 관련된 문제로, 여러 산업군이 관심을 가져야 할 통합적인 이슈입니다.
+* **[방송/영화]** [- todayonline.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU05Mc1NKR1M3VGZyYlRCVkNDTjJjSlgxYm9YbzlfYVZLRXVDS211SHhiUWtWanZ4c2hMUmN0RlVYYk1SWWdPMGlPTUdxdmxINElWcHdtazY4YW5fTDIxaXZDQzNySHNRenJ0YUE5TWtFVmVfRkNOdXdaYmcycTRPeC1XSGc4MTlkZnFtU2NVYjhyVExqOWgwNmFpUGhtT3R4NnRndklSTE1oRjZRdVFRTng0blpSRFZoNno2MDdGY1NjUDRxbkNWaEtjTGJGMm5IdEJoUDNrN3hoYzF6cVFHeGw2Si0?oc=5)
+  * 💡 해당 웹사이트 todayonline.com은 방송 및 영화와 관련된 콘텐츠를 다루는 것으로 보입니다. 다양한 영화, TV 프로그램, 배우 등에 대한 뉴스와 리뷰 등의 내용이 게재되어 있습니다.
+
+---
 ## 📅 2026년 01월 14일 업데이트
 
 * **[패션]** [S’porean ex-beauty queen steals curtains, towels & more worth over S$9,000 from multiple hotels - Mothership](https://news.google.com/rss/articles/CBMic0FVX3lxTE8wc3FmQ1lldUVvUFkwUXRqc1dyYjVWaVJYclRMVXBUR1hlaW93ZnpvNWNQR0prcTlBNWs3bFRWY0MwM1BDT2VtRzRlSGVEQ0xyWjhqY0hJRzUya2NzaG1BRGsyYjJVUTB1OTlEYTNScnNEc00?oc=5)
