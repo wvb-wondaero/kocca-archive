@@ -1,5 +1,23 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 16일 업데이트
+
+* **[방송/영화]** [Woman goes viral for filming herself screaming on flight, says she fractured spine in 2024 SQ321 incident - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE1hc05tekE2YnF0T2JyaVFncVFrZGpscU1GalZQYnRnU0tmbnB0Ylhza1duUHFRMXU0cHpBNzg4d0g5elMwODR2bkxpLTVXdFExNC10RDhsR19BaWxsTWhmS2NTYnI1NlBteTU3OUZ0aDJ6QmVwZXc?oc=5)
+  * 💡 이 사건은 항공기 탑승객의 행동이 문제가 되면서 화제가 된 사례입니다. 탑승객이 기내에서 소리를 지르며 영상을 촬영했고, 자신이 과거에 겪은 사고로 척추 골절 등의 상해를 입었다고 주장했습니다. 이러한 승객 행동은 비행기 내부의 안전과 공공질서를 위협할 수 있기 때문에 주목할 만한 사례로 볼 수 있습니다.
+* **[게임/융복합]** [Hwa Chong acknowledges 'teething issues' with SATS system, exploring new bento designs & on-site kitchen - Mothership](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPMDZUYnl5Z1lqM3gyU1QzM2ltLVpIcWVxVzF3Y1F5dGVtd0w3c0NNUWpaU0UzVUlrWVRBQy1tLVlxdlFjamtkMExPdFVwZTFzV3ZqbjBBTWppVkcxd0tCOXVR?oc=5)
+  * 💡 싱가포르 Hwa Chong Institution의 급식 시스템인 SATS에서 초기 문제가 있었음을 인정했습니다. 또한 새로운 벤토(도시락) 디자인과 학내 조리시설 도입을 모색하고 있습니다.
+* **[방송/영화]** [Taiwan says more US arms sales are in the pipeline - CNA](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSk1oOTRmMW03TnFDdGlLelVlSFZTazRIX2xubjdHRDJaMDA5UExUd2QxZ1FyR01lUkxWbjVsUEw0eGoxdVdEVWMwMnpuVE9FQjMzMGVUcnBnZ21ab3ZYNFlBSnF5aU90N3kwUEd1Z0VCNDNEckxpNzd3WE9LUmE4OFJ0TnVScjRiRmV5TXdTQUF0Vnlrb1I0YVNQQQ?oc=5)
+  * 💡 대만 정부는 더 많은 미국산 무기 판매가 진행 중이라고 발표했다. 이는 대만과 중국 간 긴장 관계를 보여주는 상황이다. 미국의 대대만 무기 판매는 중국과의 관계에 영향을 줄 수 있는 중요한 요소이다.
+* **[방송/영화]** [China offers leniency if cronies of accused scam boss Chen Zhi surrender - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlBKRFVDUi1mM1E0ck9MM2Q2WTFLSzgxeFJmdEwzLWVKQXlBVGdMMUdVUHUzUUI4OEh5dG1HeFhqdVZRcWJTYlNKQjZDZHQwTWxNOGNBMzhpUHBGemI3aE5kVFlSeG9VSnVjdlZDWDNhajVrdDhWSE1OU3NLQlFWY1hPdVYwMUcyeHlHWUVRR2RMUG42RHBQSVRNSVF4cUdwRjA0?oc=5)
+  * 💡 중국 당국이 부실 기업가 천즈 사태와 관련하여 자신의 측근들에게 자수할 경우 관대한 처벌을 약속했습니다. 이는 천즈 일가의 권력 구조를 해체하고 관련 혐의들을 밝혀내기 위한 노력으로 보입니다.
+* **[방송/영화]** [Volvo identifies battery fire risk in EX30 Ultra EVs; owners told to limit charging to 70% - The Straits Times](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFBzdUM0RF9PYlMtVkJZNkwyUmZsaDk1YmtZQjFWUXlWeUdnRXplMmI4aW5BLU15VExPOHZuS21Oa3lpZGg1czNMc3JZQ0tJYWV4NWFjWUpvSkhVY3Bici1wM0gzRkF4M0QyODM2VFNpbl9GSEsxbURpb2h2c00zYnY0ekpOS2FCVjhlT1lBajBidUN3d1BfTzl2QWxzYzVLbmN4Q1ZzSWRQRlZZVGdhTVd6d2FqSnJKR2dNcm5vcDVmUGxzRjQtckc0SUliQXhyMHRv?oc=5)
+  * 💡 Volvo는 자사의 EX30 Ultra 전기차에서 배터리 화재 위험을 확인하고, 차량 소유자에게 충전을 70%로 제한할 것을 권고했습니다. 이는 화재 사고 예방을 위한 안전 조치입니다.
+* **[게임/융복합]** [OpenAI signs $12.9 billion computing deal with Nvidia challenger Cerebras - The Straits Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1FaUE1GVWdzaS1WS0J6UXplcFROamNaWEJaMkpNOEZkMlZYMGVvMzBVaW1qWEp4X29Sb3BlcmFiZnhLbEszWlJRLVcxeFMwNUJHNUJjQ2RENmxvX3J2SHgybmdzZGpPS1YxN0lLeHU0bEM5dkVIaWNxRHpLeW5UOTlSLXJmQmdJRlZNbHpTX21ZMHdqV19CWXlPVlpHTWladFVVZTRHaXMteHVpZUh3UlRhX3I3WXc0cV9jV2RnS21iandmSHZr?oc=5)
+  * 💡 OpenAI, 대표적인 AI 연구 기관, 이 번 Cerebras Systems와 12.9억 달러 규모의 컴퓨팅 계약을 체결했다. Cerebras는 Nvidia와 경쟁하는 AI 칩 제조 업체로, 이번 계약을 통해 OpenAI의 AI 모델 개발에 중요한 역할을 할 것으로 기대된다. 이는 AI 분야에서의 업체 간 협업과 기술 발전을 보여주는 사례라고 할 수 있다.
+* **[통합]** [What to do during a Digital Connectivity Disruption - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR21OVU9qUndaS3pmb3VRUlNrSFYxLXA3emRpNkpsWlB4UXhpSFM5TnFTQTR5NTNiNk9qakFGcXhreUlkRExKX1ZIN2hnUEFHaHA4ODl4S01Mck9YMmtGWHR0YUg1Q1R4V2x1bktTZWJ1WnVUTDNtOV84RHVEU1M1c1c2SzlPNnhXbkRzd0EwQXQ2VHBudWphdWhHZ2VZUGpPOHFES1NweEM3dDExMkNmSUNTajdhQU81Mm5F?oc=5)
+  * 💡 이 자료는 디지털 연결성 장애 상황에서 취할 수 있는 조치에 대해 설명하고 있습니다. 주요 내용은 대체 연결 옵션 활용, 연결성 모니터링, 리소스 보호, 사용자 커뮤니케이션 등입니다. 이는 다양한 산업 분야에 적용될 수 있는 일반적인 지침이라고 볼 수 있습니다.
+
+---
 ## 📅 2026년 01월 15일 업데이트
 
 * **[방송/영화]** [S'pore mother, 28, claims bus driver closed door on stroller with kids inside & made rude remarks - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbEZKZ3RwcmhQS0JuUkFrS2trQ29Yc1MwOUN6c0Z0NmJWNUpyZ0lCVFJtY2czdlNhUW44R3NYcGZhTlZfdDRlRlZuVC1TNEV0WUUweS02MWJfVnd1WUJVaDBQbUhZU1FFQkU0?oc=5)
