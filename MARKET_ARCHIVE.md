@@ -1,5 +1,23 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 17일 업데이트
+
+* **[방송/영화]** [Chinese influencer, 29, dies suddenly, mother blames 'heart condition' & staying up too late - Mothership](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZXFQY3kxelNXRHRJVUcwZF90U1ltWnRwRHc3VFhpT0p5cXBnT1RiZlV0MW5QU3Qxb0VHRi1HRTkxVXQ1ejA3WFdqZ08xZGFVU3VPTU1rWHE3dHM?oc=5)
+  * 💡 중국 인플루언서 Lu Xiaoying, 29세가 갑자기 사망했다. 그의 어머니는 '심장 질환'과 늦은 밤까지 자지 않은 것이 원인이라고 밝혔다. 이는 스트레스로 인한 건강 악화의 한 사례로, 인플루언서들의 과중한 업무와 긴 근무 시간의 문제를 보여준다.
+* **[통합]** [Catholic Junior College relocating to new site in Punggol - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ua1pQLVpseFdJTFNvMEw3bTNlTWRGT2hyNkNYTFVkdFdPR3ZzT3FKMV8tNEhWbHJ3VjAyT2VFR052R2NfT08zZ1hSeXR4NDNJOVRIdE5hc2R0UFU1OXBsbTZ2bUEzUFlPMnN2NE9fc2JRc0ZGRGotWkNsTllRZw?oc=5)
+  * 💡 가톨릭 정신의 교육을 추구하는 가톨릭 주니어 컬리지가 싱가포르 펑골 지역으로 이전한다는 소식입니다. 이는 교육기관이 지역사회 발전을 위해 새로운 터전을 마련하는 경우에 해당합니다.
+* **[방송/영화]** [HSBC to review Singapore insurance business as it slims down globally - CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2ZCMkVjaUhqbFh5a1loUm9SaTFUR0Q1NnJQWGtXRUNtdUNyQUdSTEo1Z3hrSTJkWU9WczhDLUNHR0hkYW5aUkxHWVcxSHVIMlhoVmgzall3Z2dZUFRXdzBDWW9US01USUg5TC1iNDNQTHJQWmI4X3doQ2VpUWhxZHVsVnczZjNvTnBaclpKd0ZHUnZoV094dWhodi1qSnZEaVE?oc=5)
+  * 💡 HSBC는 전 세계적인 사업 슬림화 과정의 일환으로 싱가폴 보험 사업에 대한 검토를 시작할 것으로 보입니다. 이는 HSBC의 전략적 포트폴리오 재구성 노력의 일부로 해석됩니다.
+* **[방송/영화]** [BBC to strike content deal with YouTube, FT reports - CNA](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa01PRll5c0k2ZVJfU3B5MFI5eXZwdUQwYk1lT0M0WU8xYUpXN2ViS1ZzMjJQWWVwQlZVd0FsNFpJc0R6a3Fxam1uTmlxejJveWE1ckpuckh1NWtodXRMOVdPQVpSaHRXbzFMOTZ3T1YteExMZmdkTXp2XzY1dklTNlJTM0dQSFFlYjVqUE5yX0JnenhHb1E?oc=5)
+  * 💡 BBC와 YouTube 간의 콘텐츠 거래 체결 보도. BBC가 YouTube에 콘텐츠를 제공하는 거래 계약을 체결할 것으로 예상됨.
+* **[방송/영화]** [Singtel-owned NCS names Sam Liew as CEO as Ng Kuo Pin steps down - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkZXZ1FEYVFlRzROdGl0TzJodXJyRHd6NTh1Y0RWMVNOVFRSa1gwbzkycVhEREhmYnFwZllibmFpa3FNV2RrQXkyRDdpa1lvRHVqM1VCUmFZcDJEY2xlVXlnZnlDR3dfUFhLQ0QzLWF5NEJaVWN1dl9GWGg0MHBYWTV5WXNXSDl4X3A3NkJJUVBoaDdSWjVYTWtPSWxpbkV6T3IwazJTV1dOLVVFckVNdFZVd2FhcllPWHp3bw?oc=5)
+  * 💡 Singtel의 자회사인 NCS는 Ng Kuo Pin이 CEO직을 내려놓고 Sam Liew가 새로운 CEO로 선임되었습니다. Singtel은 NCS의 최대주주이며, NCS는 IT 서비스 및 컨설팅 분야에서 활동하고 있습니다.
+* **[방송/영화]** [Anti-Scam Guide and Enhanced Cable Guidelines - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQzlvNkYxblM4bGVhVFBTRm9sOVFwdURHU3ZmaXlKRmlNTjZYMUl4OW9USXRRSFpfeVp3TGktMU9vdy1YdzVYUmoyZGNOOFRVZHhvZHVKM3JGalF1T0VOSzc1T1dHcURHTzMxdllYcXFWakYzeXdXQV8zcFNVM1FBN1UyNVdqNkowdjQ5bWNJLVF1dG9wWExVZkpTRUJzdUs4SWtFS3J0Vml5bHpjZ3Zhakdib2hTZkFIVHF1SUlzYU5MRjZLbzRyYUFXbWhvOWxjbzNUMw?oc=5)
+  * 💡 이 문서는 싱가포르 정보통신미디어개발청(IMDA)에서 발표한 안티-사기 가이드라인과 케이블 규제에 관한 내용입니다. 주요 내용으로는 불법 복제 및 불법적인 온라인 영상 시청에 대한 경고, 통신 사기에 대한 정보, 그리고 케이블TV와 인터넷 서비스 제공업체에 대한 규제 등입니다.
+* **[게임/융복합]** [Internship - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UdEQyMEVEc0RDZWFQNGxYTGl2NzFqVFFIeW1tcTNnQW1sNFVBM01kZFU0M3BhVUtnRVlBbE9OOUEtYUh4YTVTdWx4NG9vQ0NJeTdIaDA1RmRBaVR2ZG1sZWFFM1ZEN0xM?oc=5)
+  * 💡 싱가포르 정부 산하 인포콤 미디어 개발 기관(IMDA)에서 제공하는 인턴십 프로그램입니다. 디지털 기술 및 미디어 분야에서의 실무 경험 습득을 목표로 합니다. 게임, 디지털 콘텐츠, 기술 혁신 등 다양한 분야에서 인턴십 기회가 제공됩니다.
+
+---
 ## 📅 2026년 01월 16일 업데이트
 
 * **[방송/영화]** [Woman goes viral for filming herself screaming on flight, says she fractured spine in 2024 SQ321 incident - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE1hc05tekE2YnF0T2JyaVFncVFrZGpscU1GalZQYnRnU0tmbnB0Ylhza1duUHFRMXU0cHpBNzg4d0g5elMwODR2bkxpLTVXdFExNC10RDhsR19BaWxsTWhmS2NTYnI1NlBteTU3OUZ0aDJ6QmVwZXc?oc=5)
