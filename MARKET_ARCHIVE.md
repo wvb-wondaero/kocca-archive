@@ -1,5 +1,23 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 18일 업데이트
+
+* **[패션]** [Man steals black bra from outside Serangoon Central HDB flat - Mothership](https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3JkS3ZUcmVMbXNZNWVYYUxPQ2NPZGZkT2tKSW8wdktwa2tWVGp2dlZmTkdYS0JwSWlZOV9ILWtDY3NEUlo2MFdrWGJ2SU9EQW1XR05KZC1UYTJTNWpPTDAyX3d2RVZTcjVmdTlZTnBsRTFQOHYzTGpnUi00Q0swREVFM3pjQTZPVXN4eVVYOVEzOUdXMHc?oc=5)
+  * 💡 싱가포르 Serangoon Central의 한 아파트에서 남성이 검은색 브래지어를 훼손하고 훔치는 사건이 발생했습니다. 이는 지역 뉴스에 보도되었습니다.
+* **[방송/영화]** [Police chases grey Mercedes from Geylang to Marine Parade, teen, 17, arrested for dangerous driving, under influence of drugs - Mothership](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEJabTlGemgybEdrNlNVUjlXTkFfcDc0NndYUGxUc0xoMXZERWR0enl3dENNZE5Odlppdm5xTkJHd3Fib1A4SExBb1dsZm9ZSThGSWVKLURXS0hqNVR2b2kzdXF6TXV5RUtfQTRfWnhKZm9zLXJjT2ZDMFZoRjdqTUFlcVplTF9EWXdMOW9wRk00dmZLLVRWaVVaalR6T2l4aG9hUV9neXRVZ2F1SE1LQXhiZGRGN09USnN1TEo0cTFqNkpobm9vZHVZcWNvNjQyZG51YVM0VnR3bzdZQVdwRzMxa0lPREk?oc=5)
+  * 💡 이 기사는 싱가포르 경찰이 지롱에서 마린 퍼레이드까지 그레이 메르세데스를 추격하다 17세 청소년을 위험운전과 약물 영향 하에서 체포했다는 내용입니다. 이는 방송/영화 분야와 관련이 있을 수 있습니다.
+* **[방송/영화]** [Transport workers' union urges public not to 'shame or doxx' SBS bus captain after incident with S'pore mother - Mothership](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWRaaDRzVWpMV0RubWk5RUNUSTR5RXdOUm41MTM1NHo0SkRwV19Tcm12cm1qWFpmbkZtNzlYVzBmWEZRMk1mOFVBVFBkQlRmNXExRFo3ZTdXRld4Y1RrX09Wemx5Y0hyMGdNQWxiTXRvam1HTXVPRXVhT1BoQTdjWXpDM3JBLXJrSHFXRg?oc=5)
+  * 💡 싱가포르 SBS 버스 차장과 모녀 간의 사건 후 교통노조가 대중에게 차장을 비난하거나 개인정보를 유출하지 말 것을 촉구했습니다.
+* **[방송/영화]** [Monobob champion Humphries back in form as Nolte wins overall World Cup title - CNA](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmRMVW03U2NBUVZDOXBxTWd2c3dJa2hZaHhkZTk3aDQ4Q2xlWUNUbGl6ZjZHMFgtOUxMamZEcU1qbXFmd2FaUGNnSG9OMUIxUGcxZ3dXLVNoX2hrWEFsZGg5VW1xaWFGcng3VjdZeldXYTBRU2pTZW94NkxwcUVPenpmRHNETW4tazh2NjlfWkVGLTBOUHExU05YaXFXR0RuWWRGZjlNNHVhaENoZFJkSlBkUFN3QzlOb1RJUw?oc=5)
+  * 💡 Monobob champion Humphries가 2022-2023 시즌 복귀하며 전반적인 폼을 회복하고 있음. 반면 Nolte가 이번 시즌 전체 월드컵 타이틀을 차지함.
+* **[방송/영화]** [Iran's leader demands crackdown on 'seditionists' after protests as casualties mount - CNA](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmJwNjJyUXp0aGMzYnpVaWRWSjhCbDdrQjJNaGJMUXBMMDYwNW5UNUNkY3lqcElfMkl4d3hhOHozTFZwa0hSdTFpajhyZWZNQldDMWJCVzdidnZjR1QtRWZlWklPdnp0MUdLQkpZdGZsVE4tZFZjM2V3TFB1RzhzUUpNMWx1cGwxSWtoX29XdlNYQlNl?oc=5)
+  * 💡 이란의 지도자인 아야톨라 알리 하메네이가 시위대에 대한 강경 대응을 요구했습니다. 이번 시위로 인한 사망자 수가 증가하고 있는 상황입니다. 이번 사건은 이란 정부와 시민들 간의 갈등을 보여주는 사례라고 볼 수 있습니다.
+* **[게임/융복합]** [South Korea says US chip tariff to have limited immediate impact - The Straits Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXNERjIwajItMDhxcHNFX3U1RkJhNHVyVG9pTktWQkc0cWE3dnVVc0w2VlBaSWlKc0hqTXFOYjF1MFhSZGdHRDlLNEFURkxrRTNWNVZxZTdIemxZOXlES0Eza2dPTERULWNhNkk3T0tveHd3REtrb1BsdndQbTBiVV9aTUlXUlRBRU94dDhsSnlaMThlakxFQ0ZNTk5IZ2VCVDk0NHQ1ZVZpYk1V?oc=5)
+  * 💡 미국의 반도체 관세 부과가 한국에 미칠 즉각적인 영향은 제한적일 것으로 보입니다. 한국 정부는 주요 산업에 미칠 영향을 면밀히 모니터링하고 있지만, 전반적으로 큰 피해는 없을 것으로 예상됩니다. 특히 게임/융복합 산업의 경우 반도체 가격 상승의 영향이 제한적일 것으로 보입니다.
+* **[방송/영화]** [Monobob champion Humphries back in form as Nolte wins overall World Cup title - The Straits Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEVmcTVTVFBqUi1ZNkxmZmlrZWI5SzFFaWw1b1YxSkhWaExpTTNzcWVWbFVDeDZoaTVIcVNDRF9RdEgtazQzdndUbExoM1hnN1gtOWdoaFFVMjB0RmMwTEFHZWJnam5xVl9Vamxac3dtUVRKS2hHUGNyaGpYNlY5cW5VVTg1azdoVEV0Y3ZTMmhTUm5ic1RuV2RQbWdYNHVxMDNzdEtITENDMHYwTDVQNmxB?oc=5)
+  * 💡 이 기사는 모노밥 챔피언 험프리스가 다시 폼을 찾고 있다고 보도하고 있습니다. 또한 월드컵 종합 우승은 노르테가 차지했다고 보도하고 있습니다.
+
+---
 ## 📅 2026년 01월 17일 업데이트
 
 * **[방송/영화]** [Chinese influencer, 29, dies suddenly, mother blames 'heart condition' & staying up too late - Mothership](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZXFQY3kxelNXRHRJVUcwZF90U1ltWnRwRHc3VFhpT0p5cXBnT1RiZlV0MW5QU3Qxb0VHRi1HRTkxVXQ1ejA3WFdqZ08xZGFVU3VPTU1rWHE3dHM?oc=5)
