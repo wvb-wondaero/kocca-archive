@@ -1,5 +1,19 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 19일 업데이트
+
+* **[방송/영화]** [S'pore's 1st master planner Liu Thai Ker dies aged 87 - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMjFfVjRnbnR3SS01eFRfdmNmcmhBS0h4ZENMNDFja1lfSGNJNlpMbGlqdi1raHgyS3lTRklETlNjb2RacjlMSlMxbmdPWHdCWVhzdy05ZmxSSndCZzdlTjh2MA?oc=5)
+  * 💡 S'pore의 최초의 마스터 플래너인 Liu Thai Ker가 87세의 나이로 사망했다는 기사입니다. 그는 싱가포르의 도시 계획과 건축에 큰 영향을 미친 인물이었습니다.
+* **[방송/영화]** [Self-driving shuttle hits road divider in Punggol while doing road tests, no passengers on board - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE5PY2lnN0F1bXFVOW1PeDVoTWJEdkxHMU1sajJVWHZYc21uaTktVDhaUEZvWFZZaUdxRnZ5S2Uyeml3dFU1alJ6ckdxbWtmaHdjaFBvcG9JbDg0dWs3WHdpT2paRnJzUUIxRTc0YlpmVk4?oc=5)
+  * 💡 싱가포르 Punggol에서 자율주행 셔틀버스가 도로 분리대에 부딪힌 사고가 발생했습니다. 다행히 탑승객은 없었으며, 이는 도로 테스트 중 발생한 사고로 보입니다.
+* **[방송/영화]** [Syrian troops sweep northern towns as Kurdish fighters withdraw - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3Q4N05uV292ekFBZW5DcVRBUE5lZzJVbG9FZk1zTTZjYmRhQklhOXlfdkZoZ2o0ZnBEcDA4bUkxU2Z2c3Qzd2h3d3Y2S05rSExCcE1ieEJsX1hOYXV3ZXN4bm5pcUo2N21ZeUpXemhRVmZybl9qZ0MyT1BueGxGSFhad1k1a0Zfd3ZQcTVVTFZ6dlQwaV81QjVOalBJb2ZDUWhGQ3ZFVDh4Zw?oc=5)
+  * 💡 이 기사는 시리아 정부군이 쿠르드 전투원들이 북부 도시에서 철수함에 따라 이 지역을 장악하고 있다는 내용입니다. 쿠르드 전투원들의 철수는 터키와의 협상 결과로 이루어진 것으로 보입니다.
+* **[통합]** [Portugal votes for president with far-right surge expected - The Straits Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxONHVuTDhITktlNmRfZzZaMTFLanFscndtVVE3Q0N6ajQtVEd0cFZvV1hMUW5CaHB6QWd4MHN3TzNNbWhsbEI1NnNncTZBV3lTMWlOS2NMLS1VUFM1c0txcFdqSUQ4LWdqYi1rUkhla0Y1cmdCWTQ0dkxGR2lHTHAzZGFuUFdlOENaMmhfRl9VeWkyaTNyWkxvYTZmSWdYLVhHM0ZYWEpTSlpGOGpvMU5MV2l5TE1Zc2w1ZGwzTFZn?oc=5)
+  * 💡 포르투갈에서 대통령 선거가 치러졌으며, 극우파 정당의 약진이 예상되고 있습니다. 선거 결과는 포르투갈 정치 지형에 중요한 영향을 미칠 것으로 보입니다.
+* **[방송/영화]** [Australian government says firearms hit a record high in 2025 - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUxKdG9zNUNLMHhxeUJmN0hfTVVGUXlYRDhLRjF5OC0zU0RZSXZjd2JFZ2JUTmZpdTJTR0tvdzVJWmxiNXZsZ3dtVklPSUwtX1ptMDZjNnhfX0VJN2VtMWRDZGVTNU02ZWh4a2EycHZaQklnRmV2anc4Y3kzX1FWdl9rVXZ4NnhUdmxIU0I0MDJDdmo4bUxaRmNiQVRSOC1sX25RTTZVRC1MTXc?oc=5)
+  * 💡 호주 정부는 2025년에 화기 소지가 최고 수준을 기록했다고 발표했습니다. 이는 기술 발달과 안전 우려로 인해 관련 산업에 영향을 미칠 수 있습니다.
+
+---
 ## 📅 2026년 01월 18일 업데이트
 
 * **[패션]** [Man steals black bra from outside Serangoon Central HDB flat - Mothership](https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3JkS3ZUcmVMbXNZNWVYYUxPQ2NPZGZkT2tKSW8wdktwa2tWVGp2dlZmTkdYS0JwSWlZOV9ILWtDY3NEUlo2MFdrWGJ2SU9EQW1XR05KZC1UYTJTNWpPTDAyX3d2RVZTcjVmdTlZTnBsRTFQOHYzTGpnUi00Q0swREVFM3pjQTZPVXN4eVVYOVEzOUdXMHc?oc=5)
