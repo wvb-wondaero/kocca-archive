@@ -1,5 +1,21 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 20일 업데이트
+
+* **[방송/영화]** [Man, 27, found dead in room on Royal Caribbean cruise after docking at Marina Bay Cruise Centre - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfM1ZtRWZMOC1YSFV1SXRpYy1yQldMMkpkcmVNSzlVdm52M2h2SVpCMkwwM2xQSWozMFpKV21ya1laZ0lQWFJBRHVXSGpXNzNsYTRadm5nRkxoUDc0MVoyeDZqbl9Qdw?oc=5)
+  * 💡 이 기사는 로열 캐리비안 크루즈에서 마리나 베이 크루즈 센터에 정박한 후 객실에서 숨진 27세 남성에 대한 내용입니다. 크루즈선 내에서 발생한 사건이므로 방송/영화 카테고리에 해당합니다.
+* **[방송/영화]** [147 North View Primary School students reported gastroenteritis symptoms since Jan. 13 - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE45Xzl2SEJ4SDEwYnNqQ0QtUGpxUG9pRkdySkVWcVo3TE96dFctV1NtYTVYUVNabENFQjVOYkdsSWN3YUpCQW1XbDJXMWc1Y3NScjdYRFpmTFhnenoxSGZEVFZnaWRsU2kyWnd1WmpvcUd2Z0luWmtBYkpxUWE?oc=5)
+  * 💡 이 기사는 싱가포르의 한 초등학교에서 발생한 위장관염 사례에 대한 내용입니다. 147명의 학생들이 1월 13일 이후부터 증상을 보였고, 보건 당국이 원인 규명을 위한 조사를 진행 중입니다. 학교 측은 모든 학생과 교직원의 건강과 안전이 최우선 과제라고 밝혔습니다.
+* **[방송/영화]** [Australian boy in critical condition after Sydney Harbour shark attack - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGJDenlNaWQ3SHdBMnc5Zi1XbTZEUXdMZlc2NFMydVBtUXNPemFHOE1sMUVvcjFtVGJqUkY4SEJQREdXOW5yekhtS1I5THhlOVVjcEpvMW9mUmdHMHdqVktHT0RJQmQzcW4xNkZVQlJMZjh4YlNvZE94dTl6WlhQX0FvanlqZkJQZjlwaVRneGtOU1NJbWxZMTNlbmI0ZEhsV1kxTzJCN3pmcG8?oc=5)
+  * 💡 이 사건은 오스트레일리아 시드니 항구에서 발생한 상어 공격 사고에 관한 것입니다. 피해자는 중증 상태이며, 이러한 상어 공격 사고는 방송/영화 산업에서 흥미로운 소재가 될 수 있습니다.
+* **[방송/영화]** [Japan PM Takaichi to dissolve parliament; snap election set for Feb 8 - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGpmMGQ3Rm9WTXBpcTU4MDEtSHg0QWhmY0tJRVhRLXZGTDhHMzNvaVRKMUE5RFVmeHIyeWF2bl9saEo5T2pyaTFRYVpqLTZXQWtxV2hzQWpWZlA3WWlHZXdhTmNrN3lfLTRFNnNxR2FaTExJcWVROWVPWHc1VnBjNDVEdkYwVHhVcU9KQzRrTGE4UjU5cDM2RFBaTk02TjlRN0JseWNGUnNsakZCMVE?oc=5)
+  * 💡 일본 총리 다카이치가 의회를 해산하고 2월 8일 조기 총선을 실시할 예정입니다. 이는 다카이치 정권의 지지율 회복을 위한 전략으로 보입니다. 이번 총선은 방송 및 영화 산업에 영향을 줄 수 있어 주목해야 합니다.
+* **[정치]** [Tablets with no internet connection, no phones at Vietnam’s Communist Party congress: Sources - The Straits Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2E5NTZ5UEYwYmVMMHduYUc2M2V5SmdwemhEbWNSY2lJcmNxRlByOVo5TlRfQU91NUpYQVRpRTFxZlAxaDBhZ0FKZEJqVGlOQ2FMVVc0VWhoXzI1b3NWUW9EeGtNOENaeUFZbkh2aGgzMm5jU1g3blp3ZGx1Rm01Y3ByZEp1a0V6dTN6M3QxU2FHdXVGUHQ4MTJaYlFjS1RNQ2psVFp5OWtPQjVqZERiajhRTHlvOFpLUkE?oc=5)
+  * 💡 베트남 공산당 대회에서 대표단들에게 인터넷 연결이 되지 않는 태블릿 PC만 지급되었으며, 참석자들에게 휴대폰 사용이 금지되었다고 합니다. 이는 정보 유출 차단을 위한 보안 조치로 보입니다.
+* **[방송/영화]** [Clashes in Colombia between guerrilla groups leave 27 dead, sources say - The Straits Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWVkOFNHZ1kxS2dxd3BfM0UwZ18xc0JrTGszZ1Fpd0txakxZcXUyRXMydUJ4eE9haHBwYnczcXlDWUE3VnB5Q2s0YXltRHlOVHlwRlNjWFNaSGEtVVVGNEtral9XcHhrdnI5b0otZjlZRzEzQ1hFRTVlY3dya0lJLXEwclZlWjlUbjBFU3JGWHItMkJqUGw5YVJvVWNVeGJtTTlSZ2ZjaGg?oc=5)
+  * 💡 콜롬비아에서 게릴라 그룹 간 충돌로 27명이 사망했다는 소식입니다. 이는 콜롬비아의 치안 불안정을 보여주는 사례이며, 향후 콜롬비아의 방송 및 영화 산업에 영향을 미칠 수 있습니다.
+
+---
 ## 📅 2026년 01월 19일 업데이트
 
 * **[방송/영화]** [S'pore's 1st master planner Liu Thai Ker dies aged 87 - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMjFfVjRnbnR3SS01eFRfdmNmcmhBS0h4ZENMNDFja1lfSGNJNlpMbGlqdi1raHgyS3lTRklETlNjb2RacjlMSlMxbmdPWHdCWVhzdy05ZmxSSndCZzdlTjh2MA?oc=5)
