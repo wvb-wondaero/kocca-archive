@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 21일 업데이트
+
+* **[방송/영화]** [Pedestrian, 59, dies in Ang Mo Kio accident, driver, 50, arrested - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuanBrazBEOWNoSTd4dWNOWmdhZU4ySGc4Zk5PaGdZbmxRWGNwSHJZQkQySXY0WGg5MXlHOExheVBISWdYLWxXM2RlaWhjcldlSzRHWlBUR1c5UTY3bExYYTEzS3AxdUUx?oc=5)
+  * 💡 싱가포르에서 발생한 교통사고로 보행자가 사망한 사건입니다. 50세 운전자가 체포되었고, 안전 운전의 필요성이 강조되고 있습니다.
+* **[사회/문화]** [Chinese husband goes berserk, smashes house up after wife buys dishwasher without his consent - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WMC0xcWx1RElWektXNGl5SnAtdU1mdUtVMk5FamQ5bUp5a1FwMHdmbTdYQTJkbVg5NDQyVmh0ZjZLZXpqMHFjSm41Q3I4a3VBcXF0d0lKU2tGTG1WQ2p6am1qRU9IdEJ3?oc=5)
+  * 💡 중국에서 남편이 아내가 동의없이 식기세척기를 구매한 것에 대해 화가 나서 집을 파괴하는 상황이 발생했다. 이는 부부간 의사소통의 부재와 전통적인 성역할에 대한 갈등을 보여주는 사례로 볼 수 있다.
+* **[방송/영화]** [Rare purple star sapphire weighing 3,563 carats unveiled in Sri Lanka - CNA](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXc3ZWFUUGN3OWlNQy10OFRyZzNDdG9sVjNZNXVTWkw1T2lYU1FOU1Zud21SYkh6Skk2SHJxU2s1RnVXREJ5WEhzb2pWdENYWWExZXQyNG1NcGtlUXYyMUw0anpiWEhDRmFDNExHVWZ6cjdwcFhyQzhucnRCcjRxc1BBVXN5RUdNUmtXd3NqcGZxUWxBelE?oc=5)
+  * 💡 3,563 캐럿 무게의 희귀한 보라색 별사파이어가 스리랑카에서 공개되었습니다. 이 보석은 세계에서 가장 큰 별사파이어 중 하나로 여겨집니다.
+* **[통합]** [China plans new measures to spur consumption for next five years - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1N4X0dxSHRzNVVlU1pDS2NCd3ZrSjJjRUh0bVpiVWRXQTFzWUhNRXhvLXZWZl85M2pQUjIxZC1qVmFfX0dUZnAwSFVJeTJ0ZmdhVGU4YV85X2NsY3haOW12Q1NTWG9CSlkxUVVGZkt3SS1FSURySmU4ZGItQk1UZkZHYmFQUURkTzVMX2FzR0poMWNrcWVOSnZuQ2lwclVPNW0w?oc=5)
+  * 💡 중국 정부는 향후 5년간 소비 진작을 위한 새로운 정책 방안을 수립할 계획입니다. 이를 통해 내수 시장 활성화와 경제 성장 동력 확보를 목표로 하고 있습니다.
+* **[방송/영화]** [Sightseeing helicopter goes missing in south-west Japan, airframe spotted in volcanic crater - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOejhDc0RtOUMwS0hIYlVSbW5oWWVEZW5qZHBmQWpJVXJXZHIwSFBQMU5EUXZSR1otXzNsZ1RKNUhZdzU0QUNuS3pKT0NhRnlsa1FwY1lpQ2dDSWZHT0NfQWMya25hTVdNcFBNM0hmWi03QlFqMzQ5VDBlZGdNWTY4dUR5WXo3aHpodDhkbXpuNzQ2LVJxRUZYWldFTkRaaG9sVG1oMDBkUm9vSTJuR3JyNmRrYVFiNC1JOVJWUg?oc=5)
+  * 💡 남서 일본에서 관광 헬리콥터가 실종되었고, 화산 분화구에서 기체가 발견되었습니다. 이는 안타까운 사고이며, 사고 원인 규명과 함께 인명 구조 작업이 진행 중인 것으로 보입니다.
+* **[게임/융복합]** [Changi Airport deploys AVs as driverless baggage tractors between T1 and T4 after trial - The Straits Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWVViaXotbmF1Zl9ZbE5KRWd3OUlNVU01bDZaX0hWS3R0YzJlbjRlVUxLRjFNcVBhOE5BNTdTczlUbzN2d3FRNEVCUXp2TmVTZVlfaEw0YVFZSFA2MW9ScF9aM3ExdEJpN3lKUTF5N1ZXYi1kalM0aE43UFRDLXlKdFN1dlN0VVZiYks5VDRnT1pJMUVXWnRkTnRKN1hpcE1mb1hXREtOQjRUd29qbHV0RU9JeUgyUHVic1ZlQmV3Ml9KOE5JaW5kOW9oZXRiQUJhNWY0NGMyeGc3TDVabXc?oc=5)
+  * 💡 싱가폴 창이 공항이 터미널 간 자율주행 차량을 도입했다는 기사입니다. 이는 혁신적인 기술 활용이라고 볼 수 있으며, 향후 다른 운송 및 물류 분야에서도 자율주행 기술이 활용될 것으로 전망됩니다.
+* **[게임/융복합]** [Trump’s semiconductor tariffs to have minimal impact on Singapore for now: MTI - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTNiRUdXdTRFdFprSTl2b3FZbEtMUWthYzR6YzRtWUExY0VfSGIta0JlelJmc3lsTm53SWxEU3BMV0hYTURpRUZVVWpiMUk4Z1h6c2I4WnJBVFpfUEdOQnlBTnJwLXpMLXNQaUNtMXBlY2lYYnpwaEtKSWwtMUphNkFwazdoV01xY1JKUk5Hbk1ZcWNpTlh4YnNDUktGYnJ5TFN1TVo4WmRJVDN3SXZmVUFHS2ZqUjJ4cUU1R1R4Yw?oc=5)
+  * 💡 트럼프 대통령의 반도체 관련 관세 부과가 당장 싱가포르에 미치는 영향은 최소한일 것으로 예상됩니다. 싱가포르 무역산업부는 반도체 산업이 싱가포르 경제에서 차지하는 비중이 크지 않기 때문에 이번 조치의 직접적인 영향은 크지 않을 것으로 분석했습니다. 다만 향후 미중 무역갈등이 악화될 경우 간접적인 영향이 있을 수 있다고 지적했습니다.
+* **[게임/융복합]** [Starter Kit for Testing LLM-Based Applications for Safety and Reliability - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYWlLNEZKYUwxTDc3QlJnekxXMnFuNWVMLXo1Rkh2aGNKSWE5Qm5FYTF2RjRab2tjQlNFT0lRc0UwVF90c05mOGdnWDByVUdsUnRFeEdrNjdxcXoyeTlnQlhLd0tEOVBrUElRc0htdWM5bFRsLXBiT0w1S3ZXM3pDYmVMWm5sQ1ktUU5BWEZjbTN4TmVUVUZrOS1icWV6dU1hWm95SUhHY0ZkQ3VRMUN5NlBlTHIyZ0RXWDgzaGNqSHZtbXZjX09RYTFld2tNdjZuemZFQnFyNmxwZko0Tm8wbEZ6R3BfcUVyNEpRNFZDTmhYVlcwZV83b1JiN2tNdkJiMnBmaGxET1U?oc=5)
+  * 💡 이 문서는 IMDA(Infocomm Media Development Authority)에서 개발한 Starter Kit for Testing LLM-Based Applications for Safety and Reliability입니다. 이 키트는 대화형 AI 애플리케이션의 안전성과 신뢰성을 테스트하기 위한 방법론과 프레임워크를 제공합니다. 특히 게임, 가상 어시스턴트 등의 LLM 기반 애플리케이션에 적합합니다.
+* **[게임/융복합]** [MODEL AI GOVERNANCE FRAMEWORK FOR AGENTIC AI - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSW5sSWhmS2VOSzJGMmJ0aFY1cFNQRV9iMXV5U0Z1NjFxR0xnU0cwMFY4SzgyVGxrR1pLTWlIOG1SdjAzeGhHMDVkNVI5WGJnZUZlOHNDNlVsZVFqQWVZY0VnVkRUYzdoT09OdFdwVmx2WllfcnUtNHM4WFoxLU1kVHJXVVdfV1hpckRtalpVZ1paUmVUQlZVc0laMEFldTExT0d2c3FRRUJCMDd2dXlmZG5CWENNSWNWSkFzYWRoWQ?oc=5)
+  * 💡 이 문서는 인공지능(AI) 시스템에 대한 윤리적 및 책임있는 개발 및 배포를 위한 AI 거버넌스 프레임워크를 제시합니다. 이 프레임워크는 AI 시스템의 설계, 개발, 배포 및 모니터링 단계에서 고려해야 할 윤리적 원칙과 모범사례를 제공합니다. 게임, 가상현실 및 증강현실 등 다양한 융복합 분야에서 활용될 수 있습니다.
+
+---
 ## 📅 2026년 01월 20일 업데이트
 
 * **[방송/영화]** [Man, 27, found dead in room on Royal Caribbean cruise after docking at Marina Bay Cruise Centre - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfM1ZtRWZMOC1YSFV1SXRpYy1yQldMMkpkcmVNSzlVdm52M2h2SVpCMkwwM2xQSWozMFpKV21ya1laZ0lQWFJBRHVXSGpXNzNsYTRadm5nRkxoUDc0MVoyeDZqbl9Qdw?oc=5)
