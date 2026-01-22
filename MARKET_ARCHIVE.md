@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 22일 업데이트
+
+* **[방송/영화]** [WP will not nominate a new Leader of the Opposition - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE9jam5objItcXpCUWlHT2xMYkRVM1NJZnBMam5UczhoeXZNZUZLRDUwM2dqRk5XU1RqSTh1UFN6bG1vQkNrRWtELU1HcGlwMFByOUx4UWY0Z3NBOW9qeDQ4UHAyZ1pTTS1PQVE?oc=5)
+  * 💡 이 기사는 영국 노동당이 새로운 야당 대표를 지명하지 않을 것이라는 내용입니다. 보수당이 이번 총선에서 승리하며 새로운 총리를 선출했고, 이에 따라 현재 야당인 노동당도 새로운 대표를 선출해야 하는 상황입니다. 하지만 노동당은 새로운 대표 선출을 보류하기로 결정했습니다.
+* **[애니/캐릭터]** [Mickey Mouse- & Winnie the Pooh-shaped Bak Kwa & gifts at Fragrance Bak Kwa from Jan. 21-Feb. 16 - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlE0cEtKVUNPQ2Nwb08yQzdkLXZld19FRVpmQ1Vjc0ZHN09JT0Q3RkVvbnFVZWtwUnRHR0g3dTljUVFfZ2NaYnFzY2ZHMEhQTXM3Snpmd0VpX21KS3d1cUtkVGFJMlFsQjZqSTA5TnhSaERoNUhKeko4cU50VDh0SHQxUQ?oc=5)
+  * 💡 싱가포르의 Fragrance Bak Kwa는 1월 21일부터 2월 16일까지 디즈니 캐릭터(Mickey Mouse, Winnie the Pooh)가 새겨진 박하 제품과 선물세트를 판매할 예정입니다. 이를 통해 기존 박하 제품에 애니메이션 캐릭터를 접목시켜 소비자들의 관심을 끌고자 하는 것으로 보입니다.
+* **[방송/영화]** [South Korea's Lee sees won strengthening to 1,400 level in a month or two - CNA](https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2k1X0RTUFl4YTRtbVV6d1VYaTVqZ250S1JXaHpsV0psNnFnV0hoZHNZRlNEeEZ1MkwzMWhJVTlFVTh0dE1WQl83MnEyVjFxSEhWUldfdGFKUlJvRDFVSmV0QnNseWdNSFNUWEZpU3FpWEhFTExQREQ5eDI4NGhUYXFSakltQU9jZWdMWl9xNVowZmozc2FzQXdneWk0eEFoLXZVOFFDQ0VDeUEwUllBMUdBa3RDdw?oc=5)
+  * 💡 한국 재무부 장관 이주열은 한국 원화가 한 달에서 두 달 내에 1,400 수준으로 강세를 나타낼 것으로 전망했습니다. 이는 미-중 무역 분쟁 해결 및 중국 경제 회복으로 인한 것입니다.
+* **[금융/경제]** [Thailand to introduce gold trade cap to curb baht rise, central bank chief says - CNA](https://news.google.com/rss/articles/CBMivgFBVV95cUxQVl9BRG5DaVlpVTlFZU5MM2UzZGhfVV93YzV2aTQ2bkpkb1BjTDNCVC15WmhwNkp2cGtIU0RuS1N1UzlCS0dMT1lNUzRQSUNybVR3ZXdEZlJVV0h4VG5leUF0NjNBeFBubUp6bXNJTVQ1ZG1xMl9HdEJDbHRYSWNYWnU3dGN4R2poTWt4TW1vcXFfNG00NEoweVU0ckVFYktON1M1OTNLWlJBZ3dETl91WWZpajN0WjJpaFhjTXhn?oc=5)
+  * 💡 태국 중앙은행 총재에 따르면, 태국 정부는 금 거래 상한선을 도입하여 태국 바트화의 상승을 억제할 계획이다. 이는 태국 경제의 경쟁력 유지를 위한 조치로 보인다.
+* **[음악]** [Singapore wins 2026 Gelato World Cup in Italy - The Straits Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdDR6VEpGeFNYTlNILXdFSVhjQnhmSGlfYUJvcE9VcjZlN3h5NU0wS2JyV0FiTllpN3VMRGpVMngwTDV4QWxqVkZHamVvUF9XdzlZeURtWmYyU0wxRnY1Y1pnT1NPbnlULS0tRl8zRnAtXzRiU09sQXdsVnFocEN0cFgxQ1VPTWg5bWxXRw?oc=5)
+  * 💡 싱가포르가 2026년 이탈리아에서 열린 젤라토 월드컵에서 우승했다. 이는 싱가포르 팀의 역사적인 승리로, 전통적인 아이스크림 분야에서 세계적인 경쟁력을 입증했다.
+* **[통합]** [My Feed - Today Online - todayonline.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iaUdWQXNSd1NEM2dlLTNVdl9ZdmdDRkR2Z3F6dVdUcUNzTFJBd2FqdkdKUkRQQ0doa01VVkt3enhLam5oYWFKR2w1RHJua3FoVGJjMw?oc=5)
+  * 💡 오늘온라인(todayonline.com)은 다양한 미디어 분야를 다루는 종합 온라인 뉴스 사이트입니다. 이 사이트에서는 방송, 영화, 게임, 애니메이션, 만화, 음악, 패션 등 다양한 카테고리의 콘텐츠를 제공하고 있습니다.
+* **[게임/융복합]** [OpenCSG - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2FlNWtPTFMwbU94aVlTT1ZTOFJKOXFVWlhHNkcwZ3dvbmdRV0JfMXBkenVQYkMwaERjVG40RFNGYWdCQWJsNm1GbG81eC12TURjR3djNGZKYmpUMmJCLUlXZXYzb0JNLWtHaXBfOE9TY3NyZDBJczJNdkp4d1R4THl1Yw?oc=5)
+  * 💡 OpenCSG는 싱가포르 정부 기관인 Infocomm Media Development Authority(IMDA)가 개발한 오픈 소스 소프트웨어입니다. OpenCSG는 게임 개발을 위한 도구로 사용될 수 있으며, 게임 개발 및 융복합 산업에 적용될 수 있습니다.
+* **[게임/융복합]** [Helport - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNlRzN2pEeUlLdERwcVcyYm50eEV0bDZJSlZSVHAxUXQxaHJEMFZKbjVRS3RGN0tlendqMlIxSU90b1hWMzVmNFZQSEZ0YTFQZnZzWU1VZndtRV9qZTZEZUlQX24?oc=5)
+  * 💡 Helport는 IMDA(Infocomm Media Development Authority)와 협력하여 다양한 기술 분야에서 혁신을 주도하는 프로젝트를 운영하고 있습니다. 특히 게임 및 융복합 기술 개발에 주력하고 있으며, 새로운 디지털 플랫폼과 기술 솔루션을 제공하고 있습니다.
+
+---
 ## 📅 2026년 01월 21일 업데이트
 
 * **[방송/영화]** [Pedestrian, 59, dies in Ang Mo Kio accident, driver, 50, arrested - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuanBrazBEOWNoSTd4dWNOWmdhZU4ySGc4Zk5PaGdZbmxRWGNwSHJZQkQySXY0WGg5MXlHOExheVBISWdYLWxXM2RlaWhjcldlSzRHWlBUR1c5UTY3bExYYTEzS3AxdUUx?oc=5)
