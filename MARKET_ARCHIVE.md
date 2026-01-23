@@ -1,5 +1,29 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 23일 업데이트
+
+* **[방송/영화]** [China man fired after refusing to perform at company's annual banquet, boss felt refusal was 'disrespectful' - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTFBjREJGQV81YUJNM2tNemswTmpvQnNfWHU2eGNpV1hLVk1BOGdZZVZqNWk1eUhXcDA4dng2T1g4QlYxS2ctZ0FSVmc5SlN0Q2RfM0duT2ZmSGVSakFWMnJJS3ppVGpJUHJCa2JwUTFqSGQzWnc2YjhRWDNINE4?oc=5)
+  * 💡 이 사례는 중국에서 발생한 직장 내 갈등에 대한 것입니다. 직원이 회사의 연례 연회에 참여하기를 거부했고, 이를 불경스러운 행동으로 간주한 상사가 해당 직원을 해고한 사건입니다. 이는 기업문화와 개인의 자유 사이의 균형을 찾는 문제와 관련이 있습니다.
+* **[방송/영화]** [Post on M'sian who regrets taking up S'porean citizenship, says he will have to 'work until he dies', sparks debate - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE54ZGhsdDlBaUtfZlY2RVlndzVaVzlJSlVKbkppTFd2VUNucXpyaWdGSnUzeHUxd2JtSW5PWjZYZTZMa2VJY2ZtaXROY2FTNG5DOTlfcGhhWDNqVkM0VEZtN0JpU1RBZmhnekY0QTNiN0pIeXVQZ3h5YkVLUjE?oc=5)
+  * 💡 말레이시아 국적을 포기하고 싱가포르 국적을 취득한 한 사람의 사례를 다룬 기사입니다. 그는 싱가포르 국적 취득을 후회하며, 평생 일해야 할 것 같다고 토로했습니다. 이 기사는 국적 변경에 대한 논란을 일으켰습니다.
+* **[방송/영화]** [Japan pauses restart of world's biggest nuclear plant - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxNN00yUXhmTjBqNXRjS21MMUdERjhPaUNKeTR1ZjUzTEJQTEVGcHRaSmN4aWxPSFY3OWFOV2hNWENDaXhldTk2T0U3akdSRkhld0o0TjlRWEd6QTdIS3dHTFZLWVdURFp1bnJ3MDA0bHlWNGtYcnhXdzVKMTFxNTdfdW4tdGtObnM3M0hITENGb2tuZ1M1SUlVZXBlX3NnZ1RjMHUtT2ZUcEFJR2Y1X3c?oc=5)
+  * 💡 일본 정부가 세계 최대 규모의 원전 재가동을 일시 중단했습니다. 이는 원전 가동과 관련된 안전성 문제를 재점검하기 위한 조치로 보입니다. 이번 사건은 원전 안전성 문제에 대한 일본 정부와 국민의 관심을 보여주며, 향후 원전 정책 결정에 영향을 줄 것으로 예상됩니다.
+* **[방송/영화]** [BOJ set to hold rates steady as election, yield spike cloud outlook - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVB4WnhCbUNQZHpFWnhfU2k4MFdLUGJ0ZmZXLTdocVlKSXVITkZibHkzNFZpbFpHT25XdU1VQ3c1Ui1ROW5nSERVLU1JN1ZYcGkybk5oNktUVTd3RGJDM1VmaUNybFQ3Q055RFVMeUN6MHM1OGEycFg5TmxILWJqaTJQN3I1b0dSa1RJM0FfblkwSFpEd1gwSktlSGprTTdORzkyWjBWc05Sb3VPRGc?oc=5)
+  * 💡 이 기사는 한국은행(BOK)이 기준금리를 동결할 것으로 예상되는 이유를 다룹니다. 주요 요인은 대선 결과의 불확실성과 국채금리 급등입니다. 이러한 요인들이 경제 전망을 어렵게 만들고 있습니다.
+* **[통합]** [EU-Mercosur deal likely to take effect provisionally from March, says EU diplomat - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXNpUVhLUXNUU0VoTGt3bHJ4RDdPcjZDYVQ5ZFhjRkZRVzB0Q0FiTWV3QXBjenNJNlBjcTBnVUd4SVVJeHE4d0xtWDZyY0FNejdmWDRaVW1leEFMRUczbGdROVVlN1lyck02VGdHSDd4TnJNZDlPbEZpY2wtczZJR2FRZmZFT3pudlJYR3kxbmE0NWw0MWM2N20tdGllNnFaS1plUzBmbm85Tml2QW1jNVc5S3VVWDF3WENYNVlpaw?oc=5)
+  * 💡 EU와 Mercosur(브라질, 아르헨티나, 우루과이, 파라과이) 간의 무역협정이 3월부터 잠정 발효될 것으로 보입니다. 이 협정은 남미와 유럽 간의 교역을 확대하고, 양측 모두에게 경제적 이익을 가져올 것으로 예상됩니다.
+* **[방송/영화]** [US set to exit WHO amid warnings of global health fallout and unpaid dues - The Straits Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTI3MTBLaG12X0laaGN6NDJld056dW5LRXhJbmlDZldtUHdfbmlVQmQyUFBCRm5MYkR1TDV0SF9HUGJYXy1pbkhLa2FwelltWEdSNG5lXzRqZ3AzSzBjT2RPbWJ2a1gya0h1ZFMzRXAtbFpTREhQamRfb1hCaHZVWXVnYXVkb2tVQU9hbmNzbkQ1a28?oc=5)
+  * 💡 미국이 WHO 탈퇴를 진행 중이며, 이는 세계 보건 분야에 부정적인 영향을 미칠 것으로 우려되고 있습니다. WHO에 대한 미국의 미납 분담금도 문제가 되고 있습니다.
+* **[방송/영화]** [Real Madrid are football's biggest earners, Liverpool best in Premier League - The Straits Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3BlRVpSN0VzOW84TXZjS1pNbTJQUWxiLUlIaU5VVk0yN05VelE5NEYxNmpWcmQ3RXAzYjd5d19hazBteG1fRFhySEtfcFhGNGduR3JTVlZuUnBUb0liUDY0ems0OEI5M3RhRnkyZHVwMnlxeGJSZDJDeFFVcXAzQUdEMnA4RGc4Q3VuTF85TXBmaHpFT2pNWXB5azBRV2c1aDJkUExqb1NLYUlzNHVYR05aX0t6dUowRnc?oc=5)
+  * 💡 레알 마드리드는 세계 축구 클럽 중 가장 높은 수익을 올리고 있으며, 리버풀은 프리미어리그 팀 중 가장 높은 수익을 기록했습니다. 이러한 결과는 각 클럽의 팬 기반, 스폰서십, TV 중계권 등 다양한 요인에 의해 영향을 받는 것으로 보입니다.
+* **[게임/융복합]** [IMDA Simplifies Digital Sustainability Adoption for Businesses with New Practical Resources - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMikgJBVV95cUxNS2J2bVRwb3l5RzV6ZmpjSVhSVXpfc0M3eTlMVkZGWGxuekFZZ0Y4d3lXMXpKRDBDYjBRSFY5MlVGcFlmSUJhZjlsMEJVVkhDNXZXZUx3bEh0NUhpUl9VTmFBWDJmMndFdXZTQkVJdVBSZmRGak4zLVdKVDNUejZmanZIbGxjSWlyTmtMZ3JIaWJuVmtkdEFMZlY4anE5VUs1blFzVzZIWW5PMVY4RktUMzhwRVlUZlF0RjlIalBvNDRFT2VPaHd0Y2p6TFRKbUpCU2hHY0JpSGNNUzNTNEY5TDlraWhybEpGZ0VBdndRMmI3b0Q0ZWxOV05CQmFraUc1aUpjTDVSdmZmeTlMWndkdFpn?oc=5)
+  * 💡 IMDA(Infocomm Media Development Authority)가 기업의 디지털 지속가능성 채택을 위한 실용적 자원을 새롭게 제공하였습니다. 이는 기업들이 보다 쉽게 디지털 지속가능성을 실현할 수 있도록 지원하는 것이 목적입니다.
+* **[게임/융복합]** [Singapore Launches New Model AI Governance Framework for Agentic AI - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaHBWY2kwME5sYTJValVlWDBrT25yWEhsUnc1TFU2OWpJVE8xNHIxWmFGdVoyamtZSXVKTzhueGtZQ1VEVEkwMXdTbGxRaGNONDUxWjIyb0V6SUIzY2dDZUZRQWNQeFZncXEtdDBXcEhpMkpXV2NVQXZTSEVfalFDLUhLelhvSm55MVVUMG1JS0UwekNuU2QzU1BoOXNBYzljZEZBbWYwNzBIckZGb0xfeXJ6Q2hFNDJCS1ByeTVhcUFlSzNxaUdGd3lHOV92eUF0c1YxX2xpNFI?oc=5)
+  * 💡 싱가포르 정부가 에이전트형 AI 시스템에 대한 새로운 AI 거버넌스 프레임워크를 출시했습니다. 이 프레임워크는 AI 시스템의 투명성, 책임성, 공정성 등을 다루며, 게임 및 융복합 기술 분야에서 적용될 수 있습니다.
+* **[게임/융복합]** [How Upskilling Talent Powers AI Transformation - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXBWUFNESlJlR2plUmQ5SnF3Qk44aF8ydkVzWk9KUWRUZ08tMkxXeEdxMmpjMGV4SHZ4SUtuVnAtYjVBcTFWOE1QRWhUb09LUi13ZU81Yk0yRXNkOGJpN1NveklHUjg0X1UxXzl4aXJJd3VOakVzdmw5NjJheXU2clBUM3ZSQlNpYVI3a2FCbDYzTVlPQ0tFX1VCeGFPYnRuMmZzUWs1cmh0anM?oc=5)
+  * 💡 이 문서는 AI 변혁을 주도하기 위한 인재 양성의 중요성에 대해 다룹니다. 특히 싱가포르 Infocomm Media Development Authority의 노력을 소개하고 있습니다.
+
+---
 ## 📅 2026년 01월 22일 업데이트
 
 * **[방송/영화]** [WP will not nominate a new Leader of the Opposition - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE9jam5objItcXpCUWlHT2xMYkRVM1NJZnBMam5UczhoeXZNZUZLRDUwM2dqRk5XU1RqSTh1UFN6bG1vQkNrRWtELU1HcGlwMFByOUx4UWY0Z3NBOW9qeDQ4UHAyZ1pTTS1PQVE?oc=5)
