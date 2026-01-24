@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 24일 업데이트
+
+* **[방송/영화]** [Chinese man, 32, apparently overworked, dies, was added to work group chat while fighting for life - Mothership](https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MkpOX1VGaTBZU3llaEU1UjVIOVF6TExfa3pJSTFXdnFYT1RfUEx5N2xTQVRmTUY3V2llMmhpLWVMLTdjQjZ4dEhFaFdaeElHZUkydGlaOUtfcnhzOWc?oc=5)
+  * 💡 이 기사는 중국 32세 남성이 과로로 인해 사망한 사건을 다룹니다. 그는 생명을 위협받는 상황에서도 직장 단체 채팅방에 추가되었으며, 이는 직장 문화의 문제점을 보여줍니다.
+* **[방송/영화]** [Hao Mart & founder sue OG for S$57.5 million - Mothership](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1MnQwWGpTelhYc0tyTXNQSnVFb0pYN1JZYUNvX0FOdWV5X2RKY2lWRDZ1Zy1GTmttN0xkYWtmX1RFc1EyQzV5QkRVc1BYallWTWJMYkRZeWFyZw?oc=5)
+  * 💡 싱가포르 유명 편의점 체인 Hao Mart와 창업자가 경쟁업체 OG를 상대로 5,750만 달러 손해배상 소송을 제기했다. 이는 Hao Mart 브랜드 및 영업권 침해와 부정경쟁 행위에 대한 것으로, 법적 분쟁이 발생한 것으로 보인다.
+* **[방송/영화]** [Police report filed after S'pore man repeatedly yells 'you're nothing but a prostitute' at SMRT staff - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE1yd3NkYjR6VlQzT2Uya2NBTWliWk5qQ0hLcUw4b3lvek1BQ21kN1p4WUVac0tQeVZNUnNDdzQxRFJ3V2trWTdHcDNfSWVNUDRaSDdsR2FrNnlrYWhhRS10N2tBVnhkZmRhc1Br?oc=5)
+  * 💡 싱가포르 남성이 SMRT 직원에게 반복적으로 "너는 창녀 밖에 안 된다"고 소리친 후 경찰 신고가 접수되었습니다. 이는 대중교통 서비스 직원에 대한 부적절한 행동으로 볼 수 있습니다.
+* **[음악]** [Warong Nasi Pariaman closing: Long-time customers mourn loss of 'authentic' nasi padang in Singapore - CNA Lifestyle](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1cyRmJLem1Pa3NBM3pKejRVZXMxemZKRkg0dDQtNy1fU1kzZHlZZnA2SmhXTVduRHI5UjRXeWk1SXVJclhKRENNRzJNUndrbVhPV292T1Y2ekdDbFRXdW5XdVFmLTV0YlN1ZnZBdWZwQnpESTZUSjM0Z3Z4a1ozd0I1NXdLSlFDc0RiLW9fUEJsTC1Ic0ZrWG1LcWRvRUU0ckhJN3d4M2ZFSjhfYWFuMU0zOFA0MjhWRWc?oc=5)
+  * 💡 이 기사는 싱가포르의 유명한 나시 파당 식당 'Warong Nasi Pariaman'의 폐점에 대한 내용입니다. 오랜 시간 동안 사랑받아온 이 식당은 고객들에게 '진정한 나시 파당'을 제공했지만, 결국 문을 닫게 되었습니다. 고객들은 이 식당의 폐점에 대해 유감을 표하며, 싱가포르에서 진정한 맛을 느낄 수 있는 나시 파당 식당이 점점 사라지고 있다고 말하고 있습니다.
+* **[방송/영화]** [Brands drop South Korean actor Cha Eun-woo from ads as tax evasion controversy sparks public backlash - CNA Lifestyle](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVFkRGFmSTlicEVyX1Z0WHFmdzg0UHE5Zm1EVkpHWVh5ZFgtOEE5Qm1aN3FGejNQc0dhRGN4YlVRUFcyNGhoQ0NXRXAxSnpPZEp4WV9UU0U1SkdDVTlFQ1ZrTUxLUjhRb1pYSk40RXM2bV94a3F6VnRfVTEyR0JxaVBtZHFSVTdJQUJrOEVTeURYbHUyRFRqSGtOR3JLYmp1ZDgybkdB?oc=5)
+  * 💡 한국 배우 차은우가 세금 탈루 논란으로 인해 광고에서 하차되는 등 대중의 거센 반발을 샀습니다. 이는 연예인의 사회적 책임과 평판 관리의 중요성을 보여줍니다.
+* **[방송/영화]** [Medvedev fights back from two sets down to beat Marozsan at Australian Open - CNA](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0xSZWNzUGFQblVzbDEwS180WFFhSzZtS1padlJYVTQ3ZUNiWWgxMEhKc2lYdnlwYUpPZ2NneGUzMGlxanFZRm1mMzZzVkY0WUZsQl8wUWIwVm13WDdDMnBfRzdYakJzSllhSy1pU1NvWDBuWWM4VEtBai1DVE1oUWlsOS1GTFZCRkdpUGNxWC1HYkc3Nm5IbjROeXlnc0s1bmE1aFc2REZmcjFVc2Y4?oc=5)
+  * 💡 메드베데프가 호주오픈에서 마로잔을 상대로 2세트 뒤지다가 역전승을 거두었습니다. 이번 경기는 테니스 종목에 관한 보도로, 엔터테인먼트 산업 중에서도 스포츠 분야에 해당됩니다.
+* **[게임/융복합]** [Malaysia lifts ban on Elon Musk’s Grok AI chatbot after X adds safety measures - The Straits Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWpKQzk0cmJENmRNVjFOYXRkd09jUkcyVTFNUWcxRndfZkpwRXFubVBFcVpxNDJNSGpUM09rOXZUZEZkZTBJMlNXbTBlQURVMnAxeHhqNTJHN1lzd0c2SFBfZ0h2MXBUZnRnT3BYbTh4bTNTTEhSSHBkRjhGWWlRbmtWRHJDTEVLOVh0azdnU29kX0VNQi1ZZkxQYW9XU3lOanlMTA?oc=5)
+  * 💡 말레이시아 정부가 Elon Musk의 Grok AI 채팅봇에 대한 금지 조치를 해제했습니다. 이는 X(Twitter의 새 이름)가 해당 채팅봇에 대한 안전장치를 추가했기 때문입니다. 이번 조치는 AI 기술의 발전과 활용에 대한 규제 정책의 변화를 보여주는 사례입니다.
+* **[음악]** [BTS fans scramble for tickets as K-pop stars launch first tour since military service - The Straits Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWR2YjdYcnFiRF80amFFdjFIUXFBWmxnamItZURIMG9FYnZpVFpxT3I1dnBzazBTVGpJU3BESVhEZ3d0ZFR2dXc2cm1xdFdTNWZMcDZRcjNGSzBTcjRqUUxZYnFSUXBVUnQ4ZlV4ekhmaGREVkdlb0pWbkpMQXpIaVhJR2xUcXA3ZFRkZUgyN0phU3pPNWlyUUtONjBRTEZHU3ZxY3didUkySnBzelBkQ3NmVUxMLVVSMTVF?oc=5)
+  * 💡 BTS의 팬들이 K-팝 스타들의 첫 군 복무 후 투어에 열광하면서 표를 구하기 위해 몰두하고 있다. 이는 BTS의 인기와 영향력을 보여주는 사례이다.
+* **[방송/영화]** [TikTok secures future in the US; CEO Chew Shou Zi thanks platform’s users - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDBMcDBZSjJKR0JvU18wWkNVbVo5bkIxQWpUSGVINjVScE1VYnpCNFVVdVRUekJ5TzBZbDhtb2J1UldqZUszSjF5Y1lfYW1EWHlVVGdQSDExdlRQVDV0NkZiVDB6RnNwMkFQUWFJaVp0U0g1VmxDeXVxNUVQend6TGREMzZfeUR2MktiUUo0UmNyeF9sbGc5UHl1QnJRVmlJSnd6ZHNfN29OQQ?oc=5)
+  * 💡 TikTok의 CEO Chew Shou Zi가 플랫폼의 사용자들에게 감사를 표현했습니다. 이는 TikTok이 미국에서 미래를 확보했음을 의미합니다.
+* **[통합]** [Tightening of limit on number of postpaid SIM cards - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajdqYnNQeGlOYTBhWktOaXBDaHZMejVFb2QyWjVVMnZzMXV4VG9uUU9PRHNDTmdnc0RCcGVLZHkyNTkyUUdJUXhVamJqRURid3hYQkdSSno5aElWb243ektRamtpUTlxWWlwTS1rYV9rU3RVZTZpQ2RMMlRaU2dwWkViRDh4NkZNVWdrb21vTFQ5V3ZtblI1andZOFlMYXNEcHZYa1otMkxQOGNLbmpyS0pCNTZTc3hZQmFXTlFrZjZSdG5BRjhab2RWRkNpYlE1T3Fidlh1Skowb1BN?oc=5)
+  * 💡 싱가포르 정보통신미디어개발청(IMDA)은 1인당 최대 사용 가능한 후불 SIM 카드 수를 제한하는 정책을 발표했습니다. 이는 SIM 카드 남용을 방지하고 공정한 자원 분배를 위한 조치입니다.
+* **[게임/융복합]** [Singdata - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGxDSXpibnhORl9yd3JzWW5yRURSRzNDODI0NW5WdDdHenNrZWxsX3dEcEdKeUhoYzFUeU1SY1NnVFd5dEZlUnRURHJwUkNqQ3padWxxMGp6MVV5ZHVfRDFoMTM0dlF2WXpyS3d1RWZfcWdWUV8yNzZsRGxIMFp4a3RhTjM?oc=5)
+  * 💡 Singdata는 싱가포르 정부 기관인 Infocomm Media Development Authority(IMDA)에서 운영하는 정보통신 미디어 기술 개발 지원 플랫폼입니다. 주요 지원 분야는 게임, 디지털 미디어, 데이터 분석 등 기술 융복합 분야입니다.
+* **[게임/융복합]** [Factsheet - Model AI Governance Framework for Agentic AI - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQclFZZF9sZ2NiTlI1czU2c0tkR0NoLWhjN2dLYW5RVEZlM3ZkdTNjLUJRZlVlNEcySEQwN3dzR1BIMDFBSXdEZHk0Y3pCaFdBQmF2bkJWQTktM0xKWXBlQ2ZvZmFMdktNVUVnblp0YUo0Zm1IMnc1a1lBeDgwMkstRXZ5Sl9saEFTN0NEM0lPQ1Btd2JVR1pKVDAyVjZhdmRZTkZ0S3BmX1J0MjZxNjE3ZU52RnlKb2RkT2I1clhqUDBQQWx2Qk82TUNuOGN6d3lReFJ5ZndCQlYwemkyZkFwQWxLakMzZw?oc=5)
+  * 💡 이 분석보고서는 '에이전시 AI'에 대한 '모델 AI 거버넌스 프레임워크'를 제시하고 있습니다. 에이전시 AI란 일정 수준의 자율성을 가진 AI 시스템을 말합니다. 이 프레임워크는 에이전시 AI 개발 및 운영에 있어서의 윤리적, 기술적, 법적 고려사항들을 다루고 있습니다.
+
+---
 ## 📅 2026년 01월 23일 업데이트
 
 * **[방송/영화]** [China man fired after refusing to perform at company's annual banquet, boss felt refusal was 'disrespectful' - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTFBjREJGQV81YUJNM2tNemswTmpvQnNfWHU2eGNpV1hLVk1BOGdZZVZqNWk1eUhXcDA4dng2T1g4QlYxS2ctZ0FSVmc5SlN0Q2RfM0duT2ZmSGVSakFWMnJJS3ppVGpJUHJCa2JwUTFqSGQzWnc2YjhRWDNINE4?oc=5)
