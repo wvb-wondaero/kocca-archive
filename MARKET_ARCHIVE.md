@@ -1,5 +1,23 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 25일 업데이트
+
+* **[방송/영화]** [Woman filmed spitting water at passengers on North-South Line MRT train - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBORXV1SVdSRVZ1NXRYUUtiaTJwb3RPMjVlYUx6Tm5qVnBLWDRHOC0xTjF2OXIxY0E1SGh5VlpEUll2Mkk1bmtxem9HZDhWdC1JZURhczVUWE56YVlBYXB0OUprd0pKZVU?oc=5)
+  * 💡 싱가포르 지하철에서 한 여성이 다른 승객들을 향해 물을 뱉는 영상이 공개되었다. 이는 공공장소에서의 부적절한 행동으로 간주되며, 사회적 물의를 일으켰다.
+* **[통합]** [Fake bomb threat at Paya Lebar Air Base, investigations ongoing - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTFBTU0hXSGdpcS1EMjFBVDlNRkdQTHZLNlg0d1RpRXNfdEVXTmRDd0xjNTNrbm4wWlJfU20yMXQzdldqUkc0ajlZbDhZS3FBLVN4YWdKX0xMbDZJbl9LUFQ4SDd5TzJra3JWZFpDTmZxSDJCY3h5bnc?oc=5)
+  * 💡 싱가포르 팔레바르 공군기지에서 폭탄 위협 사건이 발생했으며, 경찰이 조사 중이라고 보도되었습니다. 이는 국가 안보와 관련된 중요한 사건으로, 다양한 산업 분야에 영향을 미칠 수 있습니다.
+* **[통합]** [2 babies dead after drinking recalled Nestlé infant formula, French authorities investigating - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SbjFUaWwwSDV2LXVkZV9pQ1ZtRGZoQkNRRmlDaHRmdTB0bGxsQnVCbzJ5T0swZWZWTHBRYUhsSFJFenQ5LTN5Q3N2TDVqN3hyMVZhbzkwTDdfSEN5Y19IZUNYb1lVWUhRTXc?oc=5)
+  * 💡 프랑스 당국은 2명의 영아가 리콜된 Nestlé 유아 조제분유를 마신 뒤 사망한 사건을 조사하고 있습니다. 이 조제분유는 영아에게 심각한 건강 문제를 일으킬 수 있는 것으로 알려졌습니다. 당국은 이 사건의 원인과 영향을 파악하기 위해 조사를 진행하고 있습니다.
+* **[게임/융복합]** [Singapore to invest more than S$1 billion in national AI research plan over 5 years - CNA](https://news.google.com/rss/articles/CBMirwFBVV95cUxQODFlZk5zTC0xblBBNEVqdHd0VV9xMHJNYXlnVnRrUnZGTTBjZGN0MktQRkxSWDhyVGVlQ09rRnRtSXdKTjFRMkd0OGtqcF9vd1BwT1ZxLWpnNTQ2RGt1YWxHVnZNWjhGTndNTzdCWE85VFdwQTVmQ01SaE5HVFIyNkF3UlpqaVlEVXQyODJKR1ZtZXpUQlhvSHZWeS14Tk1SanhXMjFHZHJlZGZkX3F3?oc=5)
+  * 💡 싱가포르 정부가 향후 5년 간 1조 싱가포르 달러 이상을 투자하여 국가 인공지능 연구 계획을 추진할 예정이다. 이는 싱가포르가 인공지능 기술 발전에 집중하고 있음을 보여주며, 게임, 가상현실, 증강현실 등 융복합 분야에서의 활용이 기대된다.
+* **[방송/영화]** [Indonesian influencer Lula Lahfah dies at 26: Media reports - The Straits Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGZpWGdKX2R4VWdDb2RHaFloUkU0MnlQV2EyUjNQNmJLTmhEZ1ZqLVlFNDFxemxtaktMbHU3NUE5eTdDWXloWUk4Q3EtcFJpNm1vM2hURE5VVTdXd1Q3aFIxNld1LVVmSEozSFlidGRTR2h5OWlHcEtzSE9uUTlnQk4wbmxPOXZVTnBQQXFJYXZ6UmthZUhr?oc=5)
+  * 💡 Lula Lahfah, a prominent Indonesian influencer, has passed away at the age of 26 according to media reports. Her sudden demise has generated significant attention and condolences from her fans and the broader entertainment industry.
+* **[방송/영화]** [Race cards for Jan 25 - The Straits Times](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TbUR0NUt5THV4Y3RYa3dWWm5kZ0RRakF5TXAxRjlnNUxQanBXVFkyOTRnU2FJRE5iQ3gxWEpQRGVqMXZQQXZfbGlMN18yV0ZqaUR6Nm8zYURPSTE2eVg1aDMtVGFveTA?oc=5)
+  * 💡 이 기사는 싱가포르 The Straits Times 신문에 게재된 레이스카드에 대한 정보를 제공합니다. 레이스카드는 경마 애호가들이 경마 경기 예측을 위해 사용하는 도구입니다. 이번 기사에서는 1월 25일 경마에 대한 레이스카드를 소개하고 있습니다.
+* **[방송/영화]** [Press Releases, Factsheets and Speeches - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMifEFVX3lxTFB0Tk9JNW9xaGtEYVlHMGswVEh6b0d2M2pfdlJuQk5KS25FN0p6ZWkwZTZqaFV0TGhISExpV29QQVRJUVM4MjI2UzhobDJ0Qml4NnJwdVMyMFJvakgxV20xbWljYm5nWXJzWlZfN0ZMbEpIU2pxN1hXLUJUeDU?oc=5)
+  * 💡 이 문서는 싱가포르의 Infocomm Media Development Authority(IMDA)에서 발간한 보도자료, 팩트시트, 연설문 등이다. IMDA는 싱가폴의 ICT 및 미디어 분야 규제 기관으로, 이 문서들은 주로 IMDA의 정책, 프로그램, 이니셔티브 등을 소개하고 있다. 따라서 이 문서는 주로 방송/영화 산업 관련 내용으로 판단된다.
+
+---
 ## 📅 2026년 01월 24일 업데이트
 
 * **[방송/영화]** [Chinese man, 32, apparently overworked, dies, was added to work group chat while fighting for life - Mothership](https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MkpOX1VGaTBZU3llaEU1UjVIOVF6TExfa3pJSTFXdnFYT1RfUEx5N2xTQVRmTUY3V2llMmhpLWVMLTdjQjZ4dEhFaFdaeElHZUkydGlaOUtfcnhzOWc?oc=5)
