@@ -1,3 +1,19 @@
+# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
+
+## 📅 2026년 01월 26일 업데이트
+
+* **[방송/영화/OTT]** [China's highest-ranking general accused of giving nuclear secrets to US: WSJ - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRVVLeGpreFpyT2FqcE1jZ1U0cjlRczlWZFZtbHRDVGF3VWVpX01OZXlFcThjbnFfa2taX254WjUzUE1aQTRDYzB5S1BNUHUzbEJWbnJBQzktRVlqT3FxcDJWYk9HMTBNNkE?oc=5)
+  * 💡 중국 최고위 장성이 핵무기 기술을 미국에 유출했다는 보도
+* **[음식/라이프스타일]** [This Gen Z serves up fine dining in a hawker centre - CNA](https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFhHUGZTaGxDUzhXeDNKUTVGLWdEUWRxR09aWVBOMnRYRGI2UE5ucHdOT3ZPMDJsc0NDTUJEMmZ1TFM4bk5UZ0xSbjBCXzA4UHEzLXdVT3FrTGNtd2QzaF93RnVoNmN4OHVfQm9zcVROV0FLTnFheGM4S2hrQlpJUm5aV085ZG90Y2ZDaW9NTlh1T1h2Qjg0MWdEUzZjYUZmOGdlRWw4ZHd0Tk9scmU3RVIxei1GWENrbG1JcmVB?oc=5)
+  * 💡 젊은 세대가 싱가포르 노점(hawker center)에서 파인다이닝 레스토랑을 열어 성공적으로 운영하고 있는 사례
+* **[방송/영화/OTT]** [New experimental arts sandbox opens in Kampong Java, already home to 40 creatives - CNA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmlJRk9aVXhDaXNGT1hVb3JWYjRURFpBWDVTQXhPZUUxMjc0aTJlazB2OGZ4SEh1aUV4OHZ1RHo0MmNYX2NINVpmODhDcVhrMzB5LVA5aFc0YmRET2tSMG9tOVg3WnA1UkNpT3lCcFdSYkV3VFBqcWtOdTZQdmpSTWwtR3lpTzVIaXg3cTdUdzVGbnd6ZDhXSzdoS0JrQ1FVQk93el9VVFNpWnNmRk1ZN1ZER1dzNUVtTVNqdms4Y1Q?oc=5)
+  * 💡 싱가포르 캄폭 자바에 새로운 실험적 예술 샌드박스가 오픈하여 40명의 크리에이터들이 활동 중
+* **[방송/영화/OTT]** [Trump to sue New York Times over unfavourable opinion poll - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1p5dzZrOS01N00xelVkMUJYVXg0WnJRZzdKZWRuRHFPR2FPWEpIQXVTM3FDOU8zdl9haDA0WExzdURfR3ZfazZ3WG5YV0VXRHg1NGtGcXUwRjRrTER2dlQxLUdBcTFBQmNGQkcyd0dPZVZRUjhZR3d2LXpUNGxISl9JaE1QbWNrZGc1bklJVnFkRURqdThtMGtlZXYtcDQxdk1obFNCZTZ1UGc?oc=5)
+  * 💡 트럼프가 뉴욕타임스를 상대로 불리한 여론조사 보도에 대해 소송을 제기하겠다고 밝혔다.
+* **[게임/융복합]** [Upskilling - IMDA - Infocomm Media Development Authority](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSV9zV1owNV9sRGdpaWxobWhzNVZibGVhNk93VEx2NlhzQ3NLd0F1ekswVmZYOW5wcDdJdXNRZGZQN2h0RFNrbFBDYkstR3BsbldYVjhadVJ5U0FqSUpOaWQzZWh5QVRGcl9kQm80MFVlNlVENmozb2Vlay1XT3VsaTRaWTB4TUozYlhBdkdaMUt4S01TM09Yb0xUX2NRT3ZsaHVmYVliSm1Ja0s5cUF1Q2c4LUcwMUc5SUY1U1phN1B6eXZJcEppWGx0UTZ1TmtvU3V2T2JVd29EQURmUnBQSzVzV1NBamdBa3pCcg?oc=5)
+  * 💡 싱가포르 정보통신미디어개발청(IMDA)이 게임 등 ICT 산업 종사자 대상 재교육 프로그램 'Upskilling'을 추진한다.
+
+---
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
 ## 📅 2026년 01월 26일 업데이트
