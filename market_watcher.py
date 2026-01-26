@@ -10,12 +10,11 @@ import json
 # --- [설정 및 비밀키] ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY") 
 NOTION_TOKEN = "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"
-# 🔗 드디어 찾은 진짜 데이터베이스 ID (image_08b4e5.png 기반)
 DATABASE_ID = "2e5653bb339a8069a3dcc3a6748a2ce3"
 
 ARCHIVE_FILE = "MARKET_ARCHIVE.md"
 DB_FILE = "processed_links.txt"
-CATEGORIES = ["방송/영화", "게임/융복합", "애니/캐릭터", "만화/웹툰", "음악", "패션", "통합"]
+CATEGORIES = ["방송/영화/OTT", "게임/융복합", "애니/캐릭터", "만화/웹툰", "음악/공연", "패션/라이프스타일"]
 
 SOURCES = [
     {"name": "Mothership.SG", "query": "site:mothership.sg", "type": "search"},
@@ -41,7 +40,7 @@ def fetch_articles():
             encoded_q = urllib.parse.quote(source["query"])
             url = f"https://news.google.com/rss/search?q={encoded_q}+when:1d&hl=en-SG&gl=SG&ceid=SG:en"
             feed = feedparser.parse(url)
-            for entry in feed.entries[:3]:
+            for entry in feed.entries[:5]: 
                 if entry.link not in processed:
                     img = ""
                     if hasattr(entry, 'media_thumbnail'): img = entry.media_thumbnail[0]['url']
@@ -52,11 +51,38 @@ def fetch_articles():
 def analyze_and_classify(article):
     if not ANTHROPIC_API_KEY: return None
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    prompt = f"당신은 KOCCA 분석가입니다. 결과를 반드시 CATEGORY, AI_SUMMARY, DETAILED_SUMMARY, SUITABLE(YES/NO) 형식으로 응답하세요.\n\n제목: {article['title']}\n카테고리 후보: {', '.join(CATEGORIES)}"
+    
+    system_prompt = f"""당신은 KOCCA(한국콘텐츠진흥원)의 글로벌 산업 분석가입니다. 
+    당신의 임무는 뉴스 기사가 한국 콘텐츠 산업에 주는 시사점이 있는지 판단하는 것입니다.
+
+    [선정 기준 - 하나라도 해당되면 YES]
+    1. 플랫폼/거대 자본의 전략: OTT(넷플릭스 등), 테크 기업의 콘텐츠 투자 및 현지 전략.
+    2. 정부/규제: 현지 정부의 저작권법, 콘텐츠 규제, 진흥 정책 변화.
+    3. 시장 트렌드: IP 확장(웹툰의 드라마화 등), K-콘텐츠 현지 반응, 라이선싱 시장 변화.
+
+    [배제 기준 - 하나라도 해당되면 NO]
+    1. 단순 가십: 연예인 개인 신상, 단순 시상식 참석.
+    2. 일회성 이벤트: 단순 전시회, 티켓 예매 공지.
+    3. 일반 기술: 콘텐츠 산업과 직접 관련 없는 일반 IT 기기나 테크 뉴스.
+
+    응답은 반드시 아래 형식을 지키세요:
+    CATEGORY: {', '.join(CATEGORIES)} 중 하나 선택
+    AI_SUMMARY: 기사 내용을 한 줄로 핵심 요약
+    DETAILED_SUMMARY: 산업적 시사점 중심의 3문장 요약 (한국 콘텐츠 기업이 참고할 점 포함)
+    SUITABLE: YES 또는 NO
+    """
+
+    prompt = f"제목: {article['title']}\n링크: {article['link']}"
+    
     try:
-        msg = client.messages.create(model="claude-3-haiku-20240307", max_tokens=800, messages=[{"role": "user", "content": prompt}])
+        msg = client.messages.create(
+            model="claude-3-haiku-20240307", 
+            max_tokens=1000, 
+            system=system_prompt,
+            messages=[{"role": "user", "content": prompt}]
+        )
         res = msg.content[0].text
-        data = {'cat': '통합', 'ai': '', 'det': '', 'ok': False}
+        data = {'cat': '기타', 'ai': '', 'det': '', 'ok': False}
         for line in res.split('\n'):
             if "CATEGORY:" in line: data['cat'] = line.split(":")[1].strip()
             if "AI_SUMMARY:" in line: data['ai'] = line.split(":")[1].strip()
@@ -72,31 +98,31 @@ def send_to_notion(article, ai_data):
         "Content-Type": "application/json",
         "Notion-Version": "2022-06-28"
     }
-    
     img_url = article['image'] if article['image'] else "https://www.notion.so/icons/news_gray.svg"
+    
+    # 오늘 날짜 생성 (YYYY-MM-DD 형식)
+    today_date = datetime.datetime.now().strftime('%Y-%m-%d')
     
     properties = {
         "제목": {"title": [{"text": {"content": article['title']}}]},
         "태그": {"multi_select": [{"name": "News"}, {"name": ai_data['cat']}]},
         "URL": {"url": article['link']},
-        "Summary": {"rich_text": [{"text": {"content": ai_data['det']}}]}
+        "Summary": {"rich_text": [{"text": {"content": ai_data['det']}}]},
+        "생성일자": {"date": {"start": today_date}} # 🔗 생성일자 추가됨
     }
     properties["이미지"] = {"files": [{"name": "Thumbnail", "external": {"url": img_url}}]}
 
     payload = {"parent": {"database_id": DATABASE_ID}, "properties": properties}
-    
     response = requests.post(url, headers=headers, json=payload)
-    if response.status_code != 200:
-        print(f"❌ Notion 전송 실패: {response.status_code} - {response.text}")
-        response.raise_for_status() 
-    print(f"✅ Notion 전송 성공: {article['title'][:20]}...")
+    if response.status_code == 200: print(f"✅ Notion: {article['title'][:20]}...")
+    else: print(f"❌ Notion 실패: {response.text}")
 
 def update_github_markdown(results):
     today = datetime.datetime.now().strftime('%Y년 %m월 %d일')
-    header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브\n\n"
+    header = "# 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)\n\n"
     new_entry = f"## 📅 {today} 업데이트\n\n"
     if not results:
-        new_entry += "> 📭 **오늘 업데이트 할 새로운 콘텐츠가 없습니다.**\n\n"
+        new_entry += "> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**\n\n"
     else:
         for item in results:
             new_entry += f"* **[{item['cat']}]** [{item['title']}]({item['link']})\n  * 💡 {item['ai']}\n"
@@ -108,17 +134,14 @@ def update_github_markdown(results):
 
 def main():
     articles = fetch_articles()
-    print(f"{len(articles)}개 뉴스 분석 및 노션 전송 시작...")
+    print(f"{len(articles)}개 뉴스 분석 시작 (KOCCA 필터 적용)...")
     combined_list = []
     for art in articles:
         ai_res = analyze_and_classify(art)
         if ai_res and ai_res['ok']:
-            try:
-                send_to_notion(art, ai_res)
-                save_processed_link(art['link'])
-                combined_list.append({**art, **ai_res})
-            except Exception as e:
-                print(f"⚠️ 전송 오류 발생: {e}")
+            send_to_notion(art, ai_res)
+            save_processed_link(art['link'])
+            combined_list.append({**art, **ai_res})
             time.sleep(0.5)
     update_github_markdown(combined_list)
 
