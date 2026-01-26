@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 01월 26일 업데이트
+
+* **[방송/영화]** [North Korean man who defected for love dies at 58 from cardiac arrest - Mothership](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VcmtCc2Y3T3NKMmdKSjd5OFFkbTJVZVNQb180ZmhUQkVSaHhYajBodDkyT0hrSnZCNGJaTWFKa0didmlPeFJpZXA5NUhXRDk0SzdiZnB3MA?oc=5)
+  * 💡 북한에서 탈북한 58세 남성이 심장 마비로 사망했다는 내용의 기사입니다. 그는 사랑하는 여성을 따라 탈북했지만 결국 건강이 악화되어 숨을 거두었습니다.
+* **[방송/영화]** [M'sia mosque secretary caught watching porn in mosque, imam who exposed him told to resign - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhajRfN2ZZcWNaVGlfM28wdWt6Vldnd09zWFc0R1VrQzVyWXhXaW9wVUlTeWM4azV3MWgtTWZXck96RFl1aS1ibGt3czRkMlpncVBHQUpFZVdtQ01PbWlHbEVtR2Z1X2c?oc=5)
+  * 💡 말레이시아 모스크에서 secretary가 포르노를 시청하다 적발되었고, 이를 폭로한 이맘이 사임을 요구받은 사건입니다. 이는 종교기관에서의 부적절한 행동과 이에 대한 대응이 문제가 된 사건으로 볼 수 있습니다.
+* **[방송/영화]** [Yamal nets spectacular volley as Barcelona sink Oviedo to reclaim LaLiga lead - CNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR3Y0SHNaTnFjbm9DdFhkT0xPa1VqT3B1eVRkdm9haHR2amdlcW5WWUV4a3ZYOXVNMFpKYU5TWHhpdGcyM1VGWUQ2azMwSDkzaktmNVZKa0pZekQybmNZdndkQ2lON19CY18zUEIwbW4xdnVPWndpTzBUZWtKNTJteG1KblNMRDNYaWpUNTZidEVWUEtwMFN6cVlMUkY2VzlBOEJBeTNKSjR3blVUcmRwYTk3ZlBLODdy?oc=5)
+  * 💡 이 기사는 스페인 프로축구팀 FC 바르셀로나의 라리가 리그 경기에 대한 내용입니다. 바르셀로나가 오비에도를 물리치고 리그 선두를 탈환했다는 내용이 주요 내용입니다. 이는 축구 경기 결과 및 리그 순위에 대한 뉴스로 볼 수 있습니다.
+* **[통합]** [Shrinking sales: US’ biggest shrimp supplier India, rocked by tariffs, seeks new markets - The Straits Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmVybklUSUQtTHZ0S3JodnoxbmtPZnpTaVZkaGFnTGk0b3M3aTNQX3FYeVNHQWpuY0g0VHBNRFlKZ2dET29WX2JaS0pnM3VsLXIyaENvZnFPR24xVG1peU82bUI3c3ZrbmNIQ0pqU2U4dUlOZDZpbDBKN01QWURaUWxEWWFvQVZEaUppNXl4cmkxM0hrOTlnb3FrZXdFTWFwWW1seVBrNDFXRE1pLXhpZ0pxRTU0Z2lMVk5zcFktM21HM09NNVVr?oc=5)
+  * 💡 미국의 가장 큰 새우 공급국인 인도가 관세로 인한 타격을 입어 새로운 시장을 모색하고 있습니다. 이는 세계 새우 무역 시장에 영향을 미칠 것으로 보입니다.
+* **[방송/영화]** [Trump to sue New York Times over unfavourable opinion poll - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1p5dzZrOS01N00xelVkMUJYVXg0WnJRZzdKZWRuRHFPR2FPWEpIQXVTM3FDOU8zdl9haDA0WExzdURfR3ZfazZ3WG5YV0VXRHg1NGtGcXUwRjRrTER2dlQxLUdBcTFBQmNGQkcyd0dPZVZRUjhZR3d2LXpUNGxISl9JaE1QbWNrZGc1bklJVnFkRURqdThtMGtlZXYtcDQxdk1obFNCZTZ1UGc?oc=5)
+  * 💡 도널드 트럼프 전 미국 대통령이 뉴욕 타임즈를 상대로 소송을 제기할 것이라고 밝혔습니다. 이는 해당 언론사가 실시한 여론조사 결과가 자신에게 불리하게 나온 것에 대한 반응입니다.
+* **[방송/영화]** [Race cards for Jan 26 - The Straits Times](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LOXQ5Sm03MkM2TXZUVkJxb3NUSmRkV01tMlBSdEpxQ0NnTF9yLXNtWG1tNE9QVi1iSU83Mjk2bWNPRXAyeWFONW94b2NkTTZTQUUzdnpJaG1BdTkxTlV3dF8wZGtXaVE?oc=5)
+  * 💡 이 기사는 1월 26일 레이스카드에 대한 정보를 제공하고 있습니다. 레이스카드는 스포츠 및 레저 분야에서 중요한 요소이며, 이번 기사는 이와 관련된 내용을 다루고 있습니다.
+* **[게임/융복합]** [Info-communications Media Development Authority - List of Registered Content Assessors CA - IMDA Online](https://news.google.com/rss/articles/CBMia0FVX3lxTE9teGM0cnZUcHVaLThkSjFid0FSM2VCQURkYlhWZ3ZZS3FDRWpWX0c3S0dDaWo0UVhVZGRwZ25vVUlRX0p6czktaUdkUGpLRjRfYXBadk83a1VtTjBpaEJzZ0tVQmY5NVhlamE4?oc=5)
+  * 💡 이 문서는 싱가포르 정보통신미디어개발청(IMDA)에 등록된 콘텐츠 평가자 목록을 제공하고 있습니다. 이 평가자들은 게임을 포함한 여러 유형의 콘텐츠를 평가하고 등급을 부여하는 역할을 합니다. 이 문서는 게임 및 융복합 콘텐츠 관련 업계에 도움이 될 수 있습니다.
+* **[방송/영화]** [Info-communications Media Development Authority - Films - IMDA Online](https://news.google.com/rss/articles/CBMieEFVX3lxTE5MLWpTQW55N09YVjg3cE1LSjF3VUF6OFRDdThSTmlPTlQ3RGJfSzJvQnRLLW5ncXVVWXNmZDh5THVIZ1NacmpPSDBrNUNBM01KRHU5QXJRclhDMXFHS01YUi01RkN6aTBpYW1QeS1aUFQ5blp2U19rTw?oc=5)
+  * 💡 Info-communications Media Development Authority(IMDA)는 싱가포르의 정부 기관으로, 영화 및 미디어 산업 육성을 위한 다양한 지원 정책을 운영하고 있습니다. IMDA의 온라인 영화 서비스는 싱가포르 내 영화 산업 발전에 기여하고 있습니다.
+
+---
 ## 📅 2026년 01월 25일 업데이트
 
 * **[방송/영화]** [Woman filmed spitting water at passengers on North-South Line MRT train - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBORXV1SVdSRVZ1NXRYUUtiaTJwb3RPMjVlYUx6Tm5qVnBLWDRHOC0xTjF2OXIxY0E1SGh5VlpEUll2Mkk1bmtxem9HZDhWdC1JZURhczVUWE56YVlBYXB0OUprd0pKZVU?oc=5)
