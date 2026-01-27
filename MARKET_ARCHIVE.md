@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 01월 27일 업데이트
+
+* **[방송/영화/OTT]** [Domestic helper allegedly hits boy in wheelchair at Hougang bus interchange - Mothership](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmlNNzItSTR1cGFhcG5HQVU3RXJ5bmVnVnNzdWtMOUhZZU96Sm5jQlVoVjc2Z3kxNUVyck5TaEw0cEx1SFctTEY2ZU9QU1ZwNHRUa29pMUFiNnJNV01Id1BWOWFVMFhrd0pnNWMta280d2V3Um1HbnVvbEk5ajJPWE5rVHJVTXRi?oc=5)
+  * 💡 홍콩 가사도우미가 휠체어 장애 어린이를 폭행한 사건이 발생했다.
+* **[방송/영화/OTT]** [China's highest-ranking general accused of giving nuclear secrets to US: WSJ - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRVVLeGpreFpyT2FqcE1jZ1U0cjlRczlWZFZtbHRDVGF3VWVpX01OZXlFcThjbnFfa2taX254WjUzUE1aQTRDYzB5S1BNUHUzbEJWbnJBQzktRVlqT3FxcDJWYk9HMTBNNkE?oc=5)
+  * 💡 중국 최고위 장성이 미국에 핵심 군사 기밀을 누설했다는 보도
+* **[여행/라이프스타일]** [Japan hotel staff finds trash-filled room occupied by Chinese tourists - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNEJHZkY0MFJpNXo2a3lGWEROd2kwaTl4Ny1EblNUcTUySV9YeVFrUHZiLV9wYklLZGNHYlM0bWN2bHNZdE1NUG1idC1GMHBQS1VLUWg2ejBMWXhOLThHWk1ReGFBRHcxVlE0?oc=5)
+  * 💡 일본 호텔에서 중국인 관광객이 남긴 엉망진창의 객실 발견.
+* **[방송/영화/OTT]** [Car repeatedly brakes abruptly & blocks bus on bus lane in Geylang, SBS files police report - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDdzcVlSQldsYlJyMWFqc2NRcHoyX2lZTUhxTnB0TnZYZlNaMlFHMllTcEZ6bm1wY0J6Sy1fSjNJUzVKZlpzZDhIODVzMnlaY1BPci1rbnFFYmNGUDNCVFdUV1M3VXczOUtOVTlVR0NHWlhSS1JOR1hwLXZGTXFQNm1uMA?oc=5)
+  * 💡 싱가포르 Geylang 지역에서 버스 전용차로를 막고 갑작스럽게 브레이크를 밟는 차량으로 인한 사건이 발생했으며, SBS 버스 회사가 경찰에 신고를 접수했다는 내용입니다.
+* **[방송/영화/OTT]** [Morning Bid: Yen's wild ride has markets nervous - CNA](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUlpT0VIRVNDazFWNGRuWTdpNkVtM1VVXy03SjUxZV8yZVg0MEFTMVJub0NUSnFQRkI5Y0xEUWRBVXRrYnh6dElISFFYUFZCVE5KbTRmXy14NndtN1p2YmhPbTdqb3Jjb1ZqdGtvMldnTUNxbEh6WS14RWpoQjM4TGZmcWF5ajVYYV9ia0c0cGZYRG9TbmNJWF9RQQ?oc=5)
+  * 💡 엔화의 급격한 가치 변동이 시장에 불안감을 초래하고 있다.
+* **[방송/영화/OTT]** [Asia First - Mon 26 Jan 2026 - CNA](https://news.google.com/rss/articles/CBMifEFVX3lxTE9iejRtdXNhR040dTRwZGVpbFVpakNEWFJUSlAzMVdhYllBY3NjTUNvM2pFYUJ1YjJ3ejhaWnNXX2RxQVU1aTFIQkFiVEMxeVdyOFk5Y1RrMWZvNU8xTFRUSXpjSlZHQnNFd0lWOVZjTG0yNjdCVVZ1bkxIbGM?oc=5)
+  * 💡 CNA는 아시아 최초의 Netflix 경쟁 OTT 플랫폼 'CNA+' 출시를 발표했다.
+* **[음식/라이프스타일]** [The MasterChef alumnus on a mission to spotlight Malay cuisine and heritage - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWlxZURZU2syYi1JRU05cTdJcm42cXJvbFlPSlVPTU0yU2lPNzhKR2RBWWdBZUpmWFZzOHA3anBFWjgtajNSeG1ZS2J5SDNZYlE0Mld0T2cxaExrNnpJSF92My16RGg4bmM3ZUxPSVl4NUZEWEQwaWVtRW5GMWsybUdjX3I2R0dmUGhmVDJTUzNxcU5CaWJGeGhOODJld3Nzb0ZPc25wUzJxY05WNVE?oc=5)
+  * 💡 말레이 출신의 MasterChef 알럼나가 말레이 요리와 문화 유산을 알리는 사명감을 가지고 있다.
+* **[방송/영화/OTT]** [Friedrich and Humphries seeking bobsleigh immortality - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXJ2NkxQVWZCdE5JSmVMR3IzZkwwbVR6MFQxX3pfaWtSMTNtRDB2dkJnYzZob010NndDZzhwRnd5OUxfcjBlT3lRcUMtcG1qLVRIcFRRUnF3b0RETVFxbF8zQVBnMURsWnpiN1gyRE9NYkNjel9URTd0a1BQUWlRcnhXZTZxV0lJYUZOVmR1N3dVeUluTTJYRTdzNVV5emZs?oc=5)
+  * 💡 2022년 베이징 올림픽에서 독일 선수 Friedrich와 호주 선수 Humphries가 남자 및 여자 봅슬레이 금메달을 노리고 있다.
+* **[방송/영화/OTT]** [More young adults, teens in Singapore being diagnosed with cancer - The Straits Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHgyRWFEUVA2cmdrM0VwLW1MZGRjZHpYNTBobHdIay1LaURFZ0NJMGtpZHcydGdpOHJiZzc2ZWdIMHQwTUJlUXo5VmRrbGFMM0N6WXJKbGtUMXF4YXVoRGxKd3Ayc3VPbU1QcWJKU0FKMWg5b0IwTkZLZERqb21DYjBqOGd6ZEFJT1NKQWZta1lEbkdIWGV6MDV3NExnbW1GN0pQNHZCUjIySHFVS0dB?oc=5)
+  * 💡 싱가포르에서 젊은층의 암 진단이 증가하고 있다는 보도
+* **[방송/영화/OTT]** [China’s Xi says India, China are ‘friends, partners’ - The Straits Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVRVSWJLQUd6ZGV6M3pKZFhVSjFfMV9JY29WU3B0c0pUSVhvREw1bmZFdHpJMEY4N2QxTEpNU0tLZkp3eEVqVHB0dkRPUFJ6cnNNM1BYUnVtXzhrcmlIT2ZqVzNLd1hjU2lxTU5IX1ROQTJGN2poS2ZPbkxGTWhveFlWY2Z2ZjFkdDZKQ0ZPQ2JkNGVVekE?oc=5)
+  * 💡 중국 시진핑 주석이 인도와 중국이 "친구이자 파트너"라고 언급했습니다.
+* **[만화/웹툰]** [Ringgit hits highest since 2018 on AI, growth optimism in Malaysia - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWG9NV3RRaEJoY0FSRmJmX3B0ZXFzQUlna2hIUGM1R204VUhlVjA4WnNxZjdLdGl2b2U3T0pFM1N0ZHdjYkVjcmd1S1RXemRwN2p0RjM0ZGlIS0FLbl9kMlJBSVhCNzdnMlhKY0lEXzNaWHo0WUh3OGdOakVFTGR6cDJKejRUVWs1QXZZRnVNOGMwU0lfRGh1R0dDZG9DVWlsM19PNzlRQlp1ZTVDMFE?oc=5)
+  * 💡 말레이시아 경제는 AI와 기술 혁신에 대한 낙관적 전망에 힘입어 링깃화 가치가 2018년 이후 최고치를 기록했습니다.
+
+---
 ## 📅 2026년 01월 26일 업데이트
 
 * **[게임/융복합]** [S'pore investing over S$1 billion in national AI research plan from 2025 to 2030 - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTE95LU12MU9LT00zQ0FMWnBYQmZmOTNoWTJXTmhKVDdSRXZiTkVBM2ZDZ3hWdkMzZnRYbUQzUjNVeURTUUZyR0xSUTJvcXA3TmJwNnZqUWpPNU5BTnJiMTduWjd1aw?oc=5)
