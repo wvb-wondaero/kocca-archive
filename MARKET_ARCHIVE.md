@@ -1,5 +1,35 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 01월 28일 업데이트
+
+* **[방송/영화/OTT]** [Love Mothership? Then you should probably set us as your preferred source on Google. - Mothership](https://news.google.com/rss/articles/CBMic0FVX3lxTE1Tbks4OG9SeFpPbi1IZ2R1T1VySm5WY0xtWkoyZXRvVVZ5SGlva0Q1WFMyWmtwZUxCdjFEb25PcDg5RzVoOGxDN3hiTHBoSnRCOUMyWWEzd2p3SXpqTnR0bXlLcEtPMW9lNzVGblFva3g2b0k?oc=5)
+  * 💡 Mothership은 구글에서 인기 있는 소스로 설정할 것을 제안하고 있습니다.
+* **[방송/영화/OTT]** [China cancels flights to Japan, cites rise in 'crimes targeting Chinese citizens' - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUzZqY1UzYWh4bjk2cFVvN1dqOU5iYURfS1d5X2JwVk11RjEyQzczVG9ybHBfR1FpdlFSSTVSdGNmOWh3ZDlEMGY2eGh2Ql9LZUZuZDQ3Z1JqWFBwRXIwZlgxeXdtWFhuT1E?oc=5)
+  * 💡 중국이 일본행 항공편 취소, '중국인 대상 범죄 증가'를 이유로 제시
+* **[패션/라이프스타일]** [Both myCK department stores at Blk 495 & Blk 504 in Jurong West closing soon - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nRW1tNnhQb1NKY3pzNWo2Q2NSb1FodkFNWTVDX2RZYjNoZ3N3b3NFUGZ0dmhjM1FUS2ZZaGdnQXNaOVNUUzFqdlFiZFJrNksxLTBWWGt6RFlpbWwxNlBuOVdnVG8zZw?oc=5)
+  * 💡 싱가폴의 myCK 백화점 2개 매장이 곧 폐점할 예정이다.
+* **[패션/라이프스타일]** [Snow leopard lunges at tourist in Xinjiang ski area after she gets close for a photo - CNA](https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3hYUEdKWXRKYXR5Q3FIcWdIdFVUcnpYS0gzeVV3SWR5YXE4MG5hQ3IzeURkdHU1UlhRdi1MVGhKU09BbjFHZHpWVTJaWEN0LTRoeFk0TUdLcEplZlc5b1BlZ0FfU01rSWFTV2p0ZlRvYXFrX05JUW9peFZhYlJQYUYtaHVFN0tYS2x0bUNWSTJLLUpGSzUyQmduSnI?oc=5)
+  * 💡 관광객이 스키장에서 눈표범에게 너무 접근해 공격당하는 사건이 발생했다.
+* **[게임/융복합]** [Micron to create 1,600 jobs with new Singapore wafer manufacturing facility under US$24 billion investment plan - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxOczhWQXJEbjRSY0RFU1JvTXh6cThpQVNBUVVwLXdsOG5yNktYeXFoeFh4UG94d2Z4bElSVW5vbTRROHh3NV93YnotbW4xTXF4SVk1WEI1WDBrTXBST25SZ3JYOUVOSVR1THJldGllTFd1NldvWUNsRnRjRENJam40aXk0YWhfQ2FvU0dvQzc1eGtYN2pCenFndTlMVXh6TWMwQkdkaGR3?oc=5)
+  * 💡 마이크론이 싱가포르에 240억 달러 규모의 신규 웨이퍼 제조 시설을 건설하여 1,600개의 새로운 일자리를 창출할 계획이다.
+* **[방송/영화/OTT]** [J-10C fighter jet to make Singapore Airshow debut with China’s PLA aerobatic team - CNA](https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0FLWlFhazNKQUtPd0tUNFNfQ0lzTHBUdjJLeUJ3MVUyUTBDaUkzRU10VDJ6Zk91M2d2M1V3d0RPY1FJWnpmQURMdXg2cXJ6a3JJMlFqZ0lZX0FFNndCOFBHT1B0UDJzQUNqSU1YeVhZd3BDRGJpcjdkTUJ6Z2ZDbmhEVGJRZ2dfM3NaYTJTRXE1R2Z4T2h2eXdB?oc=5)
+  * 💡 중국 PLA 조종사팀이 J-10C 전투기로 싱가포르 에어쇼에 첫 등장할 예정
+* **[패션/라이프스타일]** [Thai gold traders with at least 10 billion baht in annual transactions must report to central bank - CNA](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXNUWnY3Z0lLU1A5NExqNXl2QnFtQ2F1OEFvWlRacWp0ZURqaFoxNFJkWkZ1WFFSOE0teWFVOEl0bVJDcGJwYlU3N1JMYm1fbGNUV1JGbFpOSmVvLTNUajZ2TFRtY2p1M3ZvdFJ5aG5fLWdabExJOHZLcmpZXzRUV3VqY2ZWREFPZTBHX3YtOG5LYU15eUJhOFk3dGE3UzBiWGdPVDdkUlJuV2tONTF4TnE4TjJ4YndSblhXdm1MS0pBQWhKbVpRUTZja1FSWVhfVlE?oc=5)
+  * 💡 태국 중앙은행, 연간 거래액 10억 바트 이상 금 거래업자에게 보고 의무 부과
+* **[방송/영화/OTT]** [China cancels all flights on 49 routes to Japan - The Straits Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFyYTFGYy1JN2Z4RWQ4YV95M0loVjNDUEFiUGdrcUpBVjlFbld6aEZYV3JqSHpUMGRCcktQcmlNakhxTHJkVlBTU2lJN2ZNR1lMcmw1NDVHcjVyc1BrSHVMZjZnRW9PczZzV1BxLVFHd3l0OVZfUVphVVIyX2t0WE03cTdtTVVrREloVTZmdHJUa1BPcEE?oc=5)
+  * 💡 중국 민간항공국이 일본 노선 49개를 운항 중단했다.
+* **[방송/영화/OTT]** [China’s industrial profits reverse slump after deflation eases - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxFOFB5Z3lpRnpnanRjSW1BRm1vMHZ2Y3VVWWFLeVJ0YThFMG5yUndKejlvWE5mTE5yQ3VZcmUtcjZVU3c0QThob3B1LWtHQ0tXS0VqSFBNX3EzUk1YTXZfeWRwTm9TazdRaG43V1NQWVJrZkJQSkpOdlpGNlRtUnlUdWZhS3FOeWc2QnhFTmpwTFhnajJBUmtWU0lCRm1nbjYyVGFpcDFQTXc?oc=5)
+  * 💡 중국의 산업 이익이 디플레이션 완화로 부진에서 벗어나 반등했다고 보도.
+* **[방송/영화/OTT]** [China to seek deeper cooperation with Britain, Chinese ministries say - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHVwOGsyZTNpRFFZTGZZZWZvalBVOXpweF9PbjhldjJ1OTI3eDRHUllqNmF3RHhzUXd5VDhRWFRFMTVvTGlLeFBzYlp2bzl5cXR0b2hZQmdQUDRsTWpUanBPT1JZWGRoNTJPNXV1TWtLTzNza2JTcllHeC1uaDFGVGt0VkJsUjBHd2FIbDM5LW9XcXJldWR6OHI4UnlZQ0Zrc1kySzB5TzY5V0U?oc=5)
+  * 💡 중국 정부는 영국과의 협력 강화를 추구하고 있다고 밝혔다.
+* **[게임/융복합]** [Micron to invest $30.5 billion in Singapore to boost chip production, creating 1,600 jobs - The Straits Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMWRfZXN3S1RCZUlvaEd1X0p0Vm1EclA2RzhoY2xVQlA1dExGWHkzNmVyV2lzY0htRVJwQWdjeC1kODRKaDR0WUg5ZWZvSDNmWUFoSGZEV3JoR1JOQzl6RlJwUXhUM0pUWi1oNm85TndCQzJfdVQ2c0ZGOXNfOGcyMlQyS1Vxand2WnFRalhsdXBqcXBJOEN0RXp0VV9nTWtwMlo4ZGRlOTE0Mk9RZjl0dUFVbXBuQXZVYkNRRGl3QkxGUQ?oc=5)
+  * 💡 반도체 기업 Micron이 싱가포르에 305억 달러를 투자하여 칩 생산 능력을 확대하고 1,600개의 일자리를 창출할 예정입니다.
+* **[방송/영화/OTT]** [Malaysia’s health ministry assessing situation after reports of Nipah virus infections in India - The Straits Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVV9xaElBYk5FQ0cwcXBMTzNaMTltOTVrWkU2TUcwNmhHbUFMMW41Si1iWmFkVDZJUmxGQ0k3a0lnclFqYzVEUVFlYUZUTnRkUzFFVl9NYWxraUNIdzhSYmtNbGN2a2lsM3B3NDdHRXItbkdiNnJyNnJhX0V2MklPdkV5Qnc5SVhza3FTb3FZSktOZjljbWxDblBteHNVeWs4d3V5SlF2TFE5WHZnUkd5b2c0SHhVcFVNT0JadG9GdXJGTkp2SVMxYURHOFBJN3lHMEE?oc=5)
+  * 💡 말레이시아 보건부가 인도에서 발생한 니파 바이러스 감염 사례에 대해 상황을 평가하고 있다.
+* **[게임/융복합]** [GenAIxDL Scale Up – Voltade Pte. Ltd. - IMDA](https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2V3bVpoZXMwUWxybThSS1RTcXRYdzdqTTNWN2lIeXp5dXJWVlB3bXkySjFMY1FDU2F6UlpyQlhxTUlvckI1NkRkcU9qU2d2M0tqQ1FrUkJTOVFhZjlpMjhHSWZxQmRTTmwyamJBTG9KTVk4eV9PYXIxQzZJN0IwZjB3cTRJXy1OQUpWWG5hbmJuNms4ejVPdmVYQkZIek56WkhtTnZOOVFoS2twNFE?oc=5)
+  * 💡 IMDA와 Voltade Pte. Ltd.가 게임 AI 개발 스타트업을 지원하는 프로그램 GenAIxDL Scale Up을 공동 출범했다.
+
+---
 ## 📅 2026년 01월 27일 업데이트
 
 * **[방송/영화/OTT]** [Domestic helper allegedly hits boy in wheelchair at Hougang bus interchange - Mothership](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmlNNzItSTR1cGFhcG5HQVU3RXJ5bmVnVnNzdWtMOUhZZU96Sm5jQlVoVjc2Z3kxNUVyck5TaEw0cEx1SFctTEY2ZU9QU1ZwNHRUa29pMUFiNnJNV01Id1BWOWFVMFhrd0pnNWMta280d2V3Um1HbnVvbEk5ajJPWE5rVHJVTXRi?oc=5)
