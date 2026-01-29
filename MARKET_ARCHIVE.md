@@ -1,5 +1,39 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 01월 29일 업데이트
+
+* **[패션/라이프스타일]** [Nanyang Optical undergoes voluntary liquidation after 65 years, customer's S$1,800 order stuck in limbo - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTE0yXzFLcG0xV2RFMVo1V09naExVbDQ0SGtjWHZ0OTZYMEFlX3c1bVZ1YVZac284YUFvZl92MXhTNlZWN2thS2Jwa1ZzM1RJd3lKTjZHczYyU1AwWWFHdnl0SmFiZWdDcERJUFlJOXlpMFYydlRkMW00?oc=5)
+  * 💡 싱가포르 광학기기 회사 Nanyang Optical이 65년 만에 자발적 청산에 들어갔고, 고객들의 주문이 돌려받지 못한 채 보류 중이다.
+* **[게임/융복합]** [PropertyLimBrothers confirms resignation of co-founder & VP, 'will not comment on rumours or speculation' - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VSXEzYTVZZEowMXZaZHVjZml5TFZpSzNqbUFvQXRfcmNXN2JvVGdFMnZnVGd3aTBxY3ZocU42ek53YlFtbVA4MVdRRlgyUVFPcUxZa1QtWloybEpneENKUVpXcGY?oc=5)
+  * 💡 게임 개발사 PropertyLimBrothers의 공동 설립자 및 부사장이 사임했다는 보도
+* **[방송/영화/OTT]** [Woman, 37, filmed spitting water at passengers on MRT, charged with public nuisance - Mothership](https://news.google.com/rss/articles/CBMickFVX3lxTE1hMXdTM0V1UUpDLWZCd09QaTBMSUhOWUxUcHRSMFRiUFpoMkcwcWNzZVdLVVhNX0xBOWZ1SUxtR1RtV1FtVXNOOFhFaDRmNkQwTERCdGp1VDhCbEZ3ZnQzZGl3RmdET2M4c1NSRTFZV2RYdw?oc=5)
+  * 💡 싱가포르에서 한 여성이 지하철에서 다른 승객들에게 물을 뱉는 행동을 하다 공공 질서 위반으로 기소되었다.
+* **[방송/영화/OTT]** [SIA aircraft tail damaged after aborted landing at Changi Airport - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQ1pYcUtfeFYtcGI3U1JjQTROekdhamdkRWtYTXVjR0wycV9lUkttT0pnbTdMd0k1WGJUcXpOQWFDNENCMm5SWTFBUDJDOUp4VWRFblZCN21jMmwta0UtZVlDb0U1dk0?oc=5)
+  * 💡 싱가포르 항공 비행기가 착륙 도중 활주로를 벗어났고, 기체 꼬리 부분이 손상되었습니다.
+* **[방송/영화/OTT]** [Microsoft capital spending jumps, revenue fails to impress, shares drop after hours - CNA](https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2Y3N0FlbDlPeWZNUnpLQ2ZlR1Bvek9sWC12ZnB4d2F4MGx4dUUxcGJOdGRvNDRIbjVQaE9SVXN4OHprcFA0T0dRQmdBUlh4OG5rZUxvZ2VyRHhONUVJcGxWb0dJaTVMRUFIRnY0Ylp3TmJNUDF1VFUtQmdSa2VfYTNGZlJ4dWRqQ0tvNV83bVZKd1FNbEp4MUZ5VTN6MjBLWm9nZXhGM1d2aExlRTVONm5RTHVVd3EwOHJ0TU9aeERlOWJ6UHc?oc=5)
+  * 💡 Microsoft의 자본 지출이 증가했지만 매출은 시장 기대치를 충족하지 못해 주가가 하락했다.
+* **[게임/융복합]** [Singaporean boy who recreated ISIS attacks, executions in Roblox and Gorebox gets restriction order - CNA](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGZYcVhCV3RXYmFTSzFxSGZlbUxZX1l2Q0N1b0lSaC1jZnZ6S2ZfODc5a1VxTE8td3pCdzJDRGltT0ZYTXpVLTVPaWpYOGlrTUM3Skd5MXRrXzA0NmEzTVI3M0ZlbEg0b0NValEyeHVqZDdzY2djWTRSVXZsOEdBUmo5eEJoMExodzZ1M282YjJlRTBzUEt3VGpVOFc?oc=5)
+  * 💡 싱가포르 소년이 로블록스와 고레박스에서 ISIS 공격과 처형을 재현해 제한 명령을 받음.
+* **[방송/영화/OTT]** [Rybakina downs Swiatek to move into Australian Open semi-finals - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFRxZjdMbG41RUl0d0pySHRwZVJBYVJhNkJhYmRzTE5rQmlsZ3BuNm9OMl9YQVg2WFBLVmwwSFRJOVRFR3hFMjRFcG5IZEdSYkFzNkhTQ01CbFExLUlxVEpTWWFKWnBQemNIbDFzMHJkNk9ibmd3eHdIa3gzYUMyOUt2b3ZvVzFJM0VtbG90azhPVFktVU5WLUpSb3JmM2xpZjhj?oc=5)
+  * 💡 호주 오픈 테니스 대회에서 카자흐스탄의 엘레나 리바키나가 세계 1위 이가 스비아텍을 꺾고 준결승에 진출했다.
+* **[방송/영화/OTT]** [Indonesia landslide death toll rises to 38, dozens missing - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbU9YTy1hQ293aFVlRzZZUURhOV8wazk4Q0RLQjRWcTR0TWh5QjdUZXlzZ0tBci02NWwyY0E4eEMxQ2dfR1NPQXdadk1qRkktVFZYTkJ1NkctdUhRTjNnd01sVlBtSVZ6QTJXNkdBMnl0YXN6OTJ0SkhidFh1X0I4LXR1Q1Njd29yak5iYWNfaldWWFU3OUEydg?oc=5)
+  * 💡 인도네시아 서부 수마트라 섬에서 발생한 산사태로 최소 38명 사망, 수십 명이 실종된 것으로 보고됨.
+* **[방송/영화/OTT]** [Online snark and tea-spilling communities are calling out influencers - The Straits Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWmU0OFNQaEQ5VWl2RkpGaEIwVXJSWWhxNjJHU0hLRkJ5bEdUY2ZpM3Ixd2ozR2tFXzh5WWs5VnJhdlA0WS00dDl5S3BXeEFUaGtJR25nWUR6N21Ga01KRmw5UFJVcjFITXU1NmxaLTBicmhKVVVNQ3J6aXpSNjJ5NU5ZVEVBQXcwVXN0dG1SQWV4VDZZeHdkTzdBTXdYbVdRX3dZMHJHanJEOXhMSW9uS0RXaDFoNVgtMWFBeG1rc0RHNHFyZGVfS1Nn?oc=5)
+  * 💡 인플루언서와 팬 간의 관계 변화를 다룬 기사로, 온라인 상에서 인플루언서의 잘못을 지적하고 비판하는 커뮤니티가 등장하고 있음.
+* **[방송/영화/OTT]** [PropertyLimBrothers CEO and VP resign, interim CEO appointed - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkMwTTdCMjRmakRyNGZjTTMta05mOGVhM1d6YmotWTZaRWViSjVaV3BkZkZKcUdlMmFiMnBrazJvSC1VQk9zd3hYVkJSajNsWkVUc2FKaVI4aU9rMmZMMkY1NHZ4aDg1Zm9MeUF0Zmt3VlhqM3gxTDh1elBHTTZmX09CZ2dRMFRrUjZGZjVEUWc0ZEVzRmlGZWxqWERKQTJWbGI2dzBGZjQ3X1R6R0E?oc=5)
+  * 💡 PropertyLimBrothers의 CEO와 VP가 사임하고 임시 CEO가 선임되었다.
+* **[애니/캐릭터]** [‘Buck looking for bucks’: Deer rescued from US bank after triggering robbery alarm - The Straits Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxNWE10OFFoaEpoZnA0VHRZekI3T0Y3N25iUEN6NmlyOTBkQlowTmNjX1JVLU1RT0EyOFlTdWJ5WGhPd2Q2cndLMktqZzJGQURlSDVtdUUzclA0QnhValhIM1VEMElDcS1oRGlxNzd2akZwc0pGZHZQYjI0aWNDZGtUU3poNllxbzgybUtiNW1kUmNISVVpLW9MMGNEOXVpVHFZWjBQZ2QydDBnY0dfNjVLU1U2SU5JXzRZeTZVeC05RmVfY3IzbXFB?oc=5)
+  * 💡 미국 은행에서 도둑 경보를 울린 사슴이 구조되었다.
+* **[방송/영화/OTT]** [14-year-old Singaporean issued ISA restriction order - The Straits Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJ3dGF3X2NSOWt6b0lhR3RvMGU0R0RSV3RrSk0yTFNMZUdtWGpXZklhQTFuOEpnUkZFTFZmNHF3RGtkTWpsX1FBR0tRSUVYb3U4UXZkWTd6ck43U0JVdVdVdHVUTUVwWTc3Xzh4clNGSERWVkFmaG1kbmNhNlpmdnc1Uy1WN2JnWW5oRXZ5UlBuNkVZb2F6NEhsX0kwQ0Y3d0ZKLTE0MjZpUi10YlpIS3RyVUNkbk5nQlJhOVcxN0xXcDBtVmRkMndjT2ZTT2pDYXoxRlBR?oc=5)
+  * 💡 싱가포르에서 14세 소년이 국가안보법(ISA) 구속 명령을 받음.
+* **[방송/영화/OTT]** [Justin Ong Guang Xi - todayonline.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQzh6RDM3TFhBajVvbFJrZ1dqSGJlbDJLSDFvY2tVSnNQaWtKa012a0FVWTlNTW80Rl9MaEMwc2xsOFQwbFBtMWhVdzdUV0FYaXA0aWc3eV96TlRRSlI1LTFqSHJVOHhPZmNSX25zYw?oc=5)
+  * 💡 싱가포르 청년 Justin Ong이 넷플릭스 오리지널 시리즈 '마이 리틀 유니버스'로 데뷔했다.
+* **[게임/융복합]** [How I Love Taimei grew their business by 200% with a Loyalty Management System - IMDA](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnVPRTFOMGt4V2NsVW1KVFhJZlY3Q2J4ZVV3MHlFWTNlYnE0LXp1ckVTRVFueEVsZ3l1WW1CTjZWNkFjSTFzeElvWUdhQW9Xczk0bVhucVctTl9KNEJJUXQzaGVjSVJHdUhCbEZDQW5fb3RTUU9Ma3ByNmVrdktFZGllaGl3MWFDMU9pNUZrYUhpMU05SktXdmFoMGxlLVA4OGZHeTBUMTdWZVF6dlgyRVRTWUpPcVZhMjhQR0Jrb1MtNml5YVpHTTJ3?oc=5)
+  * 💡 싱가포르 기업 Taimei가 충성도 관리 시스템을 도입하여 매출이 200% 증가했다는 기사입니다.
+* **[방송/영화/OTT]** [Internship - IMDA - IMDA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UdEQyMEVEc0RDZWFQNGxYTGl2NzFqVFFIeW1tcTNnQW1sNFVBM01kZFU0M3BhVUtnRVlBbE9OOUEtYUh4YTVTdWx4NG9vQ0NJeTdIaDA1RmRBaVR2ZG1sZWFFM1ZEN0xM?oc=5)
+  * 💡 IMDA(Infocomm Media Development Authority)에서 제공하는 인턴십 프로그램 소개
+
+---
 ## 📅 2026년 01월 28일 업데이트
 
 * **[방송/영화/OTT]** [Love Mothership? Then you should probably set us as your preferred source on Google. - Mothership](https://news.google.com/rss/articles/CBMic0FVX3lxTE1Tbks4OG9SeFpPbi1IZ2R1T1VySm5WY0xtWkoyZXRvVVZ5SGlva0Q1WFMyWmtwZUxCdjFEb25PcDg5RzVoOGxDN3hiTHBoSnRCOUMyWWEzd2p3SXpqTnR0bXlLcEtPMW9lNzVGblFva3g2b0k?oc=5)
