@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 01월 30일 업데이트
+
+* **[게임/융복합]** [Former PropertyLimBrothers co-founder & VP step down from KW S'pore leadership roles - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTFBGN0NVTGJsLW5xYUVKRmk4VFJTUW5RUTFYZFVzVUNqV3RNOUlISUtIMmZfajJLQjJXckljUEFxZ213Nm5BQ0gxZm42MGZfaVhuamFMOHFnVnlEaWI1ckhURmZ4WTU1WkswWkk1NFI4VEhrUjI3YjM1ajlaYWdqdw?oc=5)
+  * 💡 싱가포르의 부동산 게임 플랫폼인 KW(Keller Williams)의 공동 창업자와 부사장이 회사에서 물러났다는 기사입니다.
+* **[방송/영화/OTT]** [Din Tai Fung operator in China allegedly embezzled S$19.3 million, 14 outlets abruptly closed doors - Mothership](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQUlKelpIYmlucWJ0TklrSU4xQ1lLYUZhWHVmT2RITFhCYTliWXFMZTR0dTBwYVBRN0duZjRyaDZyMk14TUhfSFFnbEQ1RFJyVUZ6bW5jeHRiQnNNTEozaXpKc1liSjJ2VkJfcWFJaWd0M3Y2T2tzVnZRTWZpa25ZTG40RWhMT24tNXI0?oc=5)
+  * 💡 중국의 Din Tai Fung 운영업체가 1,930만 달러를 횡령했다고 알려지면서 14개 매장이 갑자기 폐점했다는 뉴스.
+* **[게임/융복합]** [S$13.5 million Toto top prize won by 6 winning tickets, each get S$2.25 million - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTE40SlQwdWh2c0FEX1E5SDRyWFhValRoX0U2ZTBNWHJGV0Z1UnZ3WkhZMXlqSHlNQXhkSVk2Q19LZmI0R0VZTEhEeWV1MUFMczNZQUthOVhnYjZ6aU9UeDdUdkFHOA?oc=5)
+  * 💡 싱가포르에서 Toto 최고 상금 S$13.5 million이 6명의 당첨자에게 각각 S$2.25 million씩 돌아갔다는 내용입니다.
+* **[게임/융복합]** [China executes 11 people linked to Myanmar telcom scam empire - Mothership](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3hNOEIwMnVnTWgzdG52UE14M1NMTDJTSkg5cUdLTFduNnR5Y0kzTzdQQk4zV1J3MmlpbTE5VVdPaFRVOGkycU52c3BUUWVfaHIzOE5BR3p3Y1NhQTc4WlJEVjlxT3NrNTZkaUlwckVSYXpRc2gzSzdpSUxKS2NDY0o1WjVVRjgx?oc=5)
+  * 💡 중국 당국이 미얀마 통신 사기 조직 관련 11명을 사형에 처했다.
+* **[게임/융복합]** [Samsung, SK Hynix warn of squeezed chip supplies for PCs, phones due to AI boom - CNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUE3Y1ZoTnR0bmRLWkVjUEpYWGI3T0FrOVBwcEZ0ZTRjNmhfWGZvYldIUkxPNnl1dWNaVEd5VklzTmlfckFneGpBdjh1ZlZlUEhXaWd4Q2ZnekJwVS1ySUVmVURoX3dKQS15d1Jlcm5NWWN1MTN5X2NUeldtMENqN29nOTAtcFd0Wm5YNXNEUmJwRUZ3Snp5Wk1lcml5eTAxQlN2UmEzQzNmcndXdnFWc3Jmc3dUZ3c?oc=5)
+  * 💡 삼성과 SK하이닉스가 AI 붐으로 인한 chip 공급 부족 경고
+* **[방송/영화/OTT]** [China bans 73 people from all football for life, will punish 13 clubs ahead of 2026 season - CNA](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUdRTHFGZVB4RDlTTVI5VDlzc0E1N3czalllUmVfbVV3Um90YWRSN0JobEZDNXFpUERYSG40VG1yVnEwenFxVlFIUmhlZGNxcjZIT2RrMUUxeWIxZkVMMXhhS25UMlZJZzYzRXEzOEVUVFI2Q2VieG9kNWN4MzhUR09LYmZrSTlaeTJpWUJ4eXdYWTRNcEE?oc=5)
+  * 💡 중국 정부가 축구 부정부패 사건에 대해 13개 클럽을 처벌하고 73명의 축구인을 평생 출전 금지 조치했다.
+* **[방송/영화/OTT]** [Indonesian stocks recover as authorities attempt to allay investor worries - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHdiT1psMFVKS0VVbmdLSm9HTmZ0UGRSbjBNS01sQ0hUeGdGSkJUMThKaUc4R0otUXREbFJYMEhELTBRZjBWN1lZc0dVZHFLUDBqZ09CbGRYd0prN2tnWUNaUENaaDB6SldsbHlzOGdVWl8zaXAzd0ZEUk5NQ19KVEVCRGtxbmU2dUlndEs1dmk3LXViNjl0VWVsd1JHbmNr?oc=5)
+  * 💡 인도네시아 정부가 투자자들의 우려를 완화하려 노력하면서 인도네시아 주식이 회복되었습니다.
+* **[게임/융복합]** [China executes 11 people linked to Myanmar scam compounds - CNA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWtoVUE5dlplZm11Vi11ZkYxY1Y2cTdKTElidXVTeHljZXl3QTdCX2VUNGJTVG9ONHI1SXYxOHpkdDBSZHZNaWs4YURybU5GNmllX24weXBRSjZwWV9pZGpWS2Z1NWxKU2t1aHFFWmNHNXJIdTVaYW5iamZwTWlxWGFaNjBsanA0WEdxVlVVWVFvdUNkQmdZTE9nSGVubk1sUERzSk90dlZIUXJjcGN3VndnbHhaUlJkbjI5dlF6NA?oc=5)
+  * 💡 중국이 미얀마 사기 혐의자 11명을 처형했다는 기사.
+* **[방송/영화/OTT]** [Ukraine contacted Musk’s SpaceX over Russian drones using Starlink to target cities - The Straits Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnV4TnczYVdiXzFWdW15REdYX1JPUm9uZEY1MFpFMlhBSzR2ZkEtQkRjY19yZW4tR2xZWmpIVW51aGlMdHNXVXpkQ2xRQ2NEQllUeVgxNWFhVTF5dHh6eVFVU09La04yY1V3dmo2eVluUmItRlhHTjg4NWNsZlZoVmJQRDBYYWpEeUxxdnVIMzhrTnllbHdzOW83NlEyZHdkUTZEOU9QdmJsR2s2QW5RY1NrVXQ2cGVyZW1Lcm1hQkFPZw?oc=5)
+  * 💡 우크라이나 정부가 스페이스X의 스타링크 위성통신 서비스를 사용하는 러시아군의 드론 공격을 제한해달라고 요청했다.
+* **[게임/융복합]** [South Korean children starting to gamble earlier: Survey - The Straits Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxPamJ4TmRlVWhuTlM0eHIxREVoQlhnQnZXVTlFNmg3RlhPRkRTTm9qMFFPQUEyVjkxRFBFTVc0cjJzN091V3pDVWxHM2thWnFNUWVhLVJ2Q0k4R3JlRW9WS2FPSDd6WF9icjNkVzV4emRlSHoxWFhwdVg3a0NoQ1g4RTlpdms1SzA3c3JNQ2NCZVBBREJyX2dFM1VyY0QzRV83?oc=5)
+  * 💡 한국 어린이들의 도박 참여가 증가하고 있다는 설문조사 결과 보도
+* **[방송/영화/OTT]** [US opens probe after Waymo self-driving vehicle strikes child near school, causing minor injuries - The Straits Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMXNSdldZWVFQZHpiZ19aYTh6T1JiZ1BGNjlkR3BDUzRjRnlIU2dFZU5VOUI0bkY0YjZPT2tpcWk4U0w0UjRidmZNNnRtbzhUcklpa0tzUF9jNzNMbDhoeGJfNFhlNkRtcThFWkYtQXdkQW8zS0t2QjZLZ2VhSzBZSW1qTGFVaWllOUh5VkZOaUtrWVAwUkdjUXVrQjFsRnRqclJfYlEzNUtjbUl4c1J1TTItSG9CdGk5N2xRclcyT0tEUUFRTzNQMGdaZG9ZZVJIRDBzNzRzTjVrWi1LZmc?oc=5)
+  * 💡 미국에서 웨이모 자율주행차가 학교 근처에서 아동을 치어 경상을 입힌 사고가 발생했고, 이에 대한 조사가 진행 중입니다.
+* **[방송/영화/OTT]** [China vows to develop space tourism, explore deep space as it races US - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2ZhRHhDXzNXYzUtZWZ4VlpDdVF1N1lGNzRIYUdQdWtTYVBDLWxTbVNRNGJHWThMWkRGdXV3dDFZVDdUZVVMQ2RseTNCRlBSLWlPWlFsa2pfYy0weVBERVdOeWxSTFpsMC0xaUNkckt1NWVEVVJnMzJ1aEFNOUZScVViTWZIX0Q4REFUWncxUHJCSldGUTRaQ0FZUU1xeDFqdUo1aWlRQ3k1NkxNZ3BsTHVlVQ?oc=5)
+  * 💡 중국이 우주관광과 심우주 탐사를 발전시킬 것이라고 밝혔습니다.
+
+---
 ## 📅 2026년 01월 29일 업데이트
 
 * **[패션/라이프스타일]** [Nanyang Optical undergoes voluntary liquidation after 65 years, customer's S$1,800 order stuck in limbo - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTE0yXzFLcG0xV2RFMVo1V09naExVbDQ0SGtjWHZ0OTZYMEFlX3c1bVZ1YVZac284YUFvZl92MXhTNlZWN2thS2Jwa1ZzM1RJd3lKTjZHczYyU1AwWWFHdnl0SmFiZWdDcERJUFlJOXlpMFYydlRkMW00?oc=5)
