@@ -1,5 +1,29 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 01월 31일 업데이트
+
+* **[방송/영화/OTT]** [Comment: The PLB affair is a tragedy, not a meme - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZ3NQMWo4dU5WS1B4TDQwclhkRWhjbzhrdzFFaG1KZzdkckRUVUw3Wjh1OEkzYnFCdnVMS2tXcm04UzBhVy02Y2lnSjBVWDZUemVPZlAyZlk5UWgzNmkyeXlhRUNKUWI3?oc=5)
+  * 💡 싱가포르 게임 개발사의 CEO 사건을 다룬 기사로, 대중의 반응과 산업 전반에 미치는 영향을 다룸.
+* **[음식/라이프스타일]** [S'pore woman vomited 8 times, had diarrhoea 10 times, sent to hospital after eating food from Jurong biryani eatery - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTE5YRVpiTEt4STZWNFU3TFlOaVNCWGg5cmlYM3pScHhINmVyc19HZTd3REdhWG15S3JtNWdHLTJjNkFmdmxWcE5VbUZxNkhVbWFvVlNJNkJQRnNUeDlqeGFIZGU2MWFzZzBpMmtidmlndUhnZ0tr?oc=5)
+  * 💡 싱가포르 여성이 주롱 비리야니 식당에서 구토와 설사를 겪고 병원에 입원했다는 소식.
+* **[방송/영화/OTT]** [S'pore CNB teams up with Indonesia authorities in anti-drug operation at Batam entertainment outlet - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTFBHcDA3SHMybUI1SlFRM2FNaE50ZVlCRmhFUDR5MnNRZ2JuaEtTYnpxbWpPUTB3LXhGZTVud2ZlVkZwVUtKTktQZ0xsTDY2TVdXd3RsM1RuRFZ6MDZIbEppdkJDZDlhVUY0eGM1Tg?oc=5)
+  * 💡 싱가포르 마약단속청과 인도네시아 당국이 바탐 엔터테인먼트 시설에서 공동 마약 단속 작전을 진행했다.
+* **[패션/라이프스타일]** [Woman books private-hire ride in JB, driver allegedly turns up in underwear - Mothership](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWowR0J3TUdhbVR0XzU3YW83ZFZmZTVRZTg5MEM3WEQzNnZOVmNkQ3BIVVhoUmNjTnJwNHAtZGFJOXhiZWlSeS1RWUREQ29RdXBCSGRvc2t1VXBhN1lhX0dBMnJibWwwYlFyRUt4Ny1TZnlqNkhNVXBaaTZ2M2pOTTJmRUg?oc=5)
+  * 💡 말레이시아에서 여성 승객이 호출한 기사가 속옷 차림으로 도착한 사건
+* **[방송/영화/OTT]** [Blue Origin shutters New Shepard rocket program to focus on moon lander development - CNA](https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1RKcVBXVWF2LUpYYU9DNW5ZemZfR2tGZFJqRERweHVRZUZzQTV1Nm1wX0VQejd5eFlrNnh1dFlSeGhuZTU0NWZwUFdIek0zSFpUYUcwdlJvcHNCcDcxd1R0ZDVrWmNPSWd3MU1Fa2pYVzYxQUNSaDFacURsMGJMZF9CS01PRVRVWFBraFUzbzZqM1BCMXk5M2Y4XzNURVhvVEhfbFlUZG81NnZTRTd2eWJYc25JVks3eGhyRFljSlBXelFD?oc=5)
+  * 💡 블루 오리진이 뉴 셰퍼드 로켓 프로그램을 폐쇄하고 달 착륙선 개발에 집중한다고 발표했습니다.
+* **[패션/라이프스타일]** [Beverage container return points to be set up within 5-minute walk of most HDB residents - CNA](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXEyeklHVnQ4ZFZXeFY4WDA3c2ZWelFRTzVNTEluR25rZlE4SGwydDFacWJRM0hCMlF1NnAxN2xDREk2M3EtMkV1V3h0YzJ3X0hvaVFNZ2dSZ242SkRfeldZcW40akRIYTFPYlhqSFZOck53bHhPVUVnU2NVTUVPRTdRYnpTV3VfWG01cTZvOFVHWDVSV09rZHIzZFVhaWo4ZmdIWm5ISWVQTERmTVJRM09YTQ?oc=5)
+  * 💡 싱가포르 정부가 공공주택 거주자들의 편의를 위해 5분 거리에 음료 용기 반환 거점을 설치할 예정.
+* **[방송/영화/OTT]** [China renews call for citizens to avoid travel to Japan after robbery in Tokyo - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmU1czUwZm5uMktUWm1YZHFjVXJ2YzJ3TXlTRHBaX0hhMWZnaHpsRHUzM3Y1OVJyaEJ0TGpTQUJvSGdSZnV5WkpTY05JVkZhXzdyUTFoNnZIcld5V3U0cWVNWG5qSDB0dE5RRjVaLU94eDk2b0ZwbUtTMlp5ektNekJ6bFlMY2RtZ3pFa2ZKQzl6b0I3NzFXM3FJcWFYUV8tZjE3eWxkS1Q5N3NCTzBGYkt1VQ?oc=5)
+  * 💡 중국 정부가 일본 방문 자제를 다시 요청
+* **[게임/융복합]** [Apple to prioritise premium iPhone launches in 2026 amid memory crunch: Report - The Straits Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXNuNjZJQ3pfNldXUmFQVjVRRkdxRDBVTkV2ZkVGcFp6ZEZsYTlrT1FYOWlQNVpoazRpMUVoWldwR1RvX2x1Yllpa0pmV3VOZV9qT3hUbkQxRjRGb1FiTnEtY25uamxkZ1dHTmwteVctRnJmSEpXX2pOOFFDY3RHcU1FYjJiUnp5amFKZ1RrTEZEeXQzbmZmUXl6NHoya3RSSFdJQk9OSmt5bG1udmZuQlVn?oc=5)
+  * 💡 애플이 2026년까지 프리미엄 아이폰 출시에 우선순위를 둘 것으로 전망됨.
+* **[방송/영화/OTT]** [Singapore rolls out 7 strategies to secure growth, good jobs amid tariff and AI threats - The Straits Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZqWi0zZmJ4SVJXbjZyaXV5R1AxZUs2Yko0aE9mdmp5NnpwY3Q4U3VPNThVN25Pa2p6bl9xOXFreXVIOUZaQjJMR09nbmRCWE5fUDB0SFo0VE0tOXVvUGthWEhKNkp1aW9wWDBJVXVMTlhuNGdKWDduOC1DN1Z3Q0RtUUc1SGMyWDlBUVlYWF84enFmVTlOTV8xZ2J3WkxCR1lnMzlEdFpwMkxEZ252OHNDYnhCSGdDaUl1STg4WGtkVWFV?oc=5)
+  * 💡 싱가포르 정부가 관세 및 AI 위협에 대응하기 위한 7가지 전략을 발표했습니다.
+* **[방송/영화/OTT]** [Australian Open shines as Carlos Alcaraz and Alexander Zverev produce an epic in suffering - The Straits Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWNLNDFVSElNYUpCUGhtZ3k1eHo4RjBBYU9sSmRJOC03M0dDOWdFbGhHVWZSQk1FdFJEM3IydVNsckN3VWtDSGVDWUxoQnczTEM4SXlrWWZWU2ozQThvWHlReDNuRlFtNjdnYlJNVTRZMTh4QXFnU3RJRWlpallvSDF0cVRITU5PQng2ZGxBbDlVczlhbUptY1YwWE9BbnBOaDMwREZGaVBDcmtHS1NKb0UyWEpUSFhGMkNfY2Vnb3diR2M?oc=5)
+  * 💡 호주 오픈 테니스 대회에서 알카라스와 즈베레프의 극적인 경기가 펼쳐졌음.
+
+---
 ## 📅 2026년 01월 30일 업데이트
 
 * **[게임/융복합]** [Former PropertyLimBrothers co-founder & VP step down from KW S'pore leadership roles - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTFBGN0NVTGJsLW5xYUVKRmk4VFJTUW5RUTFYZFVzVUNqV3RNOUlISUtIMmZfajJLQjJXckljUEFxZ213Nm5BQ0gxZm42MGZfaVhuamFMOHFnVnlEaWI1ckhURmZ4WTU1WkswWkk1NFI4VEhrUjI3YjM1ajlaYWdqdw?oc=5)
