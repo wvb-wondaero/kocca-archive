@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 01일 업데이트
+
+* **[패션/라이프스타일]** [LNY festival with giant hotpot inflatable playground, interactive plush bazaar & rewards at Suntec City till Mar. 1 - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bkxIMjBGWFhxWE1hTUFfVDF3Ty1sN08tUlJCYi1iWDJwOHlSWDZlZTgxOFJZM1F0aHRJRVdTejloX052bFBweUppMW5MMEFMNlNhVWVvLWZpeGdxb2p5TURVZ09kUQ?oc=5)
+  * 💡 싱가포르 Suntec City에서 새해 축제와 함께 큰 핫팟 모양 놀이터, 인터랙티브 플러쉬 장난감 마켓, 리워드 행사가 진행 중.
+* **[방송/영화/OTT]** [Jeffery Epstein emails allege Bill Gates had sex with 'Russian girls', hid STD from wife - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTE51RnpwN0xkVXlHSTZVMUp0SG5wY3JERF9xcTRrTFBDTTdFRm80dmxXalRVOERHaGlLY3I4VE5rNTFNRU9wMXBSTVB4STg3NTJOYzZaNjR3T1lGX2JPcUMtams3aG9MRHM3QmE5cg?oc=5)
+  * 💡 빌 게이츠와 제프리 엡스타인의 이메일 내용이 공개되면서, 빌 게이츠가 '러시아 여성들'과 성관계를 가졌다는 주장이 제기됨.
+* **[방송/영화/OTT]** [Born in a bush and raised in a shelter, this former flight attendant opens up about surviving trauma and chasing a new dream - CNA](https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3NrZkRUN0tqNjFyWE1US2xTdGoyNEdOeGhPYkZhMGcwQjEyUEZtSEpUMDcwX1l4X0VGSmc1ekJJSFVmWFM2OG9VWUx3V1FNRTBPMkVjU212RW9mOHZHWmd6MTJxWXpTdGdwaXAxcl9waWhfb1llUmpTR2VFQklxVEkxeEhEU2FXYmNySXRBYjhXaGoxZFE1S2xJTWVnX0FpZ1B3YWp0NVFRblFMRzVB?oc=5)
+  * 💡 한 전 항공 승무원이 과거 트라우마를 극복하고 새로운 꿈을 추구하는 여정을 공개했습니다.
+* **[방송/영화/OTT]** [One killed, 14 hurt in blast in Iran's Bandar Abbas; gas leak identified by fire chief as cause - CNA](https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUQ5aHd2Ql82UkZtR0ttZjIxZWQ1anFScDNLbnpac3RWYzJKdjdKQml2T09tRDQ1MmlmeV9BZ2RDRXNyNzhMOElXaW40NkM3a09iRl9ickdMOGVTazNUZVBIN3FGdkVvc184c3VIYzBzTjVBQ05GZWd0cXRtVlZFbVh0NzlSSFdrMEhhQUdPMk0?oc=5)
+  * 💡 이란 반다르아바스에서 발생한 폭발 사고로 1명이 사망하고 14명이 부상당했으며, 화재 대응 당국은 가스 누출이 원인이라고 밝혔습니다.
+* **[방송/영화/OTT]** [Notable names in the Epstein file dump - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkJJQW1xclRHN3QwRFFxQW1RVWttQml1Z2EtN0lEek44TUhzX1NiU194UEN0QVN1azB6TnA3Y3psdjQ4SUMwa1JEUW4zLVFrcUpsVEVLblRPQUoyWHhJdVpYWG1iU2R0R3NrempUaWs2ZmxJRlNhR2Z4N05BOTc1bVBSbmtCcktFZUlwa0U3UmNNYkFIaW5PQw?oc=5)
+  * 💡 제프리 엡스타인의 기밀 파일 유출로 다수의 유명인사 이름이 공개되었다.
+* **[방송/영화/OTT]** [Water activities halted at 3 Sentosa beaches after crocodile sighting; search ongoing - CNA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpkTW9zX2Rxa1l2SDNSY2ROc1Fwc0N4T0VPMFY4aXp5QzRwODMxNzFqM3NaUURSTFktRjlOM2U0S3pxR1l2LUgzd1pWMkRYVnVYQjBEQ25vRVlDQnp5SzZFdlphNFRkRkVjU20zRUZZRHVwb3dpT1NPeWdHZGh0RnRlWktDazVLZzJCX1Nvd0k4cC1PQ3ZnQWdKaldZWjNUYW1yQjhwU3c?oc=5)
+  * 💡 싱가폴 센토사 해변에서 악어 목격으로 수상 활동이 중단되었고, 악어 수색이 진행 중이라고 보도
+* **[방송/영화/OTT]** [CNA Homepage - Asia Edition - CNA](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6V09udHN1Y2tYWWtXeEl0U3drdEsxbVcxRHIxVjJFeThVTndoVjBvaFFSWURrN2k1MEhvNW01TjRJSFUwV3dPaTVjOXh3VHhTUVE4M3BpcG4?oc=5)
+  * 💡 아시아 지역 내 OTT 서비스 시장 경쟁 심화, 규제 당국의 관심사로 부상
+* **[게임/융복합]** [Bitcoin plunges below US$80,000 as the crypto slide accelerates - The Straits Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXM5dHQtMVprbEVSXzBQS2ZRSktrbzhOdXFyQ1NEUnRsSi1tLS1ILXhjMVNCUlFhalM2RmM4MjRHM3pYaklRVU1rUkF5VlB3S3VoV3FVbnlTVUpKVW5XT050NUhGS05UYjNtVDRMSzBLQndnX2VZbU82RFNLWFgycDR5SlJiMk1qYWFISHNiVlJQQ2NwNmdLMTBtNlhDU2VfQ3FSZVJRRDNmNmQ1enl3U2RzWndYcldz?oc=5)
+  * 💡 비트코인 가치가 급락하면서 암호화폐 시장 전반이 하락세를 보이고 있습니다.
+* **[방송/영화/OTT]** [Investigations ongoing over fake bomb threat against Paya Lebar Air Base: MINDEF - The Straits Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmcxZ3NZXzZXSjJuTy1jakVJM3FfOEUxaVZvRk11T3gzTS0zWWNUd0RWUjRZTWhqMl9TaWh3TEc2aU8zb1F4akdULXF2ZmM1T3BYWHhhUUZJQjdJQkZKS1h4RDVYZllTZnlGOWRoQ1hyNm9laXhjcnRPb05GVEVkRWVwS1h4NURsakpXOEtrN19hc0NmQjN4TXZYVTd3NkgyQ0JkVHo5ZHRMenBNTVhodXB3b1ViTFU?oc=5)
+  * 💡 싱가포르 국방부는 파야레바 공군기지에 대한 가짜 폭탄 위협에 대한 조사를 진행 중이라고 밝혔습니다.
+
+---
 ## 📅 2026년 01월 31일 업데이트
 
 * **[방송/영화/OTT]** [Comment: The PLB affair is a tragedy, not a meme - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZ3NQMWo4dU5WS1B4TDQwclhkRWhjbzhrdzFFaG1KZzdkckRUVUw3Wjh1OEkzYnFCdnVMS2tXcm04UzBhVy02Y2lnSjBVWDZUemVPZlAyZlk5UWgzNmkyeXlhRUNKUWI3?oc=5)
