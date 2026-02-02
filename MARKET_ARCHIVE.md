@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 02일 업데이트
+
+* **[음식/라이프스타일]** [Popular grilled meat hawker stall Blackgoat at Jalan Batu closes down, shares recipes online - Mothership](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWUZXMFp4MnJVRVkxbU5zdlFXaDNZZll6SzRNVXo4UEh0Tm5fT2N3b3o2dHVzRjFNS0tXTzVMbTJiSDRrNzNBMzkxanVTa0NLUnhHWjQ5dEtaLVVITm9Od0xB?oc=5)
+  * 💡 싱가포르 유명 구이 가게 Blackgoat가 문을 닫았지만, 온라인에서 레시피를 공개했다.
+* **[방송/영화/OTT]** [Water activities at Sentosa paused after crocodile sighting, search ongoing - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjckdCWnBrak5rbmlSaTZKQVd5dllvdHA4YkQ3U3V4X3UtNFJac1ZDSnktUkczT3VXTGtoVEs2SmlNdUZNYUxtZ0VJcHZzSVJldjg3T18ycVYyWUdraG1ReGMyWmhESVJj?oc=5)
+  * 💡 싱가포르 센토사 섬에서 악어 출몰이 발견되어 수상 활동이 일시 중단되고 수색이 진행 중입니다.
+* **[방송/영화/OTT]** [Myanmar junta calls coup-protesting civil servants back to work - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGJUVUVraW5PQnozNDRuOVRodTM4Y2hxb1ZPNTRPWllGUHRZanZOenVScHF6dXJpSEMyazlJcDZDS3l3STlnTVVidldlWlZpVWVoRldQcDdleVFNN19oTlgzbnpJV2VqSmdjOTEzY3FIRmNrZzltMi14ZGdIcnY1N21iN2hra1lWQUppZkdEN0Ffa09Sbnp3TWRMOV9HMmZFYW1fdWpZU25lcUk?oc=5)
+  * 💡 미얀마 군부가 쿠데타에 반대하는 공무원들에게 복귀하라고 요구했다.
+* **[방송/영화/OTT]** [Asia Tonight - Sun 1 Feb 2026 - CNA](https://news.google.com/rss/articles/CBMifkFVX3lxTE9oNS1zZHdBNzQwSUNqRjk1Vkpyb0NuWDlSQ0hab3d4MWxnRmUzbVNKOWVBOHpiY1FIbklNYWRjV05EMW9KLXhXVjBZWVdOTGNXcHVfeWd2bXFfU0lpOExZMTlRVl9lQUZ1WkdTdzNDRjdPVENsSm5KYlZjZ1NsZw?oc=5)
+  * 💡 CNA 방송의 유튜브 채널에서 제공하는 최신 아시아 뉴스 보도.
+* **[게임/융복합]** [India's budget focuses on local manufacturing amid volatile global trade environment - CNA](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0NEc1BDeGQtM0RLZkdOX1VDX0Q5NnpiRms5SS1BbVRWaEhfa0cyT3pyQ0gxcVE2bmdYdHpqYnhFWWZJM29nSGgxaDAyM2xTSDNkTWp2UTFqOTlsVjRNNTBZdmxXeDBsSWs4T08ybUhOSXkwSjhycVl6R3c1S0hiWHN0b3VJMlZaUnVMaW1wSkFna2xndkVFYk9TQmIteHE0eWpENkxrNXJpcUhrQ2VYYVJaUDJrN1BVWW1rT0YzeWE5YVFq?oc=5)
+  * 💡 인도 정부가 휘발성이 높은 글로벌 무역 환경 속에서 지역 제조에 초점을 맞추는 예산을 발표했습니다.
+* **[방송/영화/OTT]** [Singapore Airshow expecting largest turnout of more than 100,000 visitors this year - CNA](https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEs5T2ZrOThKR05QQklsS29PUHhZT3ZlQmMtbmxoZXZvZk1uZG9xQXNLRHM0U2JWcktoOTV6Y3JSTE02RkRuWmFVMmRwU0ZrTW52dWJka3hDX3doME13NTRCUFB0UHVDSFdIblZ6SDVPUzZsM1JibWgwMkEwaHVlMQ?oc=5)
+  * 💡 싱가포르 에어쇼가 올해 10만 명 이상의 관람객을 유치할 것으로 기대됨.
+* **[방송/영화/OTT]** [Japan Prime Minister Takaichi cancels TV appearance after arm injury while campaigning - The Straits Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFJoWnZWZWxObUM3ekgwcHRFcmhKZkY0b0hCZjhWemZYT2F4UzVtRUIxWlJQYjVON2VrWlc0d2dtbzdtVUkwZHNXUTgtdDVLQkYzYU4zMWRJZXg4Q3dPN2tQdGNjaXhiNl93dGEyNHFMSXpSSVRkN2hFMUdtZ3I5UmpsQVZucW9iczc2RlVDVjZQVTZwRFp5WjkybGVwOUxVMlcwcXNySkhMM0Jaemc1UEhIdlJmLU1GdFZZNXdBRUNRNGJhQk1VZ3hFQQ?oc=5)
+  * 💡 일본 총리 후보 다카이치가 선거 운동 중 팔에 부상을 입어 TV 출연을 취소했다.
+* **[방송/영화/OTT]** [Australian snowboarder dies after ski lift accident in central Japan - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkN0MzlKdkhGV0E0dlcwblc4amtnb25SRllkUHBvWkw1ZnhHT1V5UUhFTmlrVmVmWjM3NHJ3U3cwUUl0bmRzSzlzRjJQRzlJeXhpUGZBNDE2RlhjTjdkLTk2R1pXaFRXQnJrNERTX1lzNi0wbHRHcElIdVZUWExscXZkbldoY1NnUWpKZVRab2ZHTm1IS21xRDZyNWtXSUM2cVA4Y2prdmlaZw?oc=5)
+  * 💡 일본 중부에서 발생한 스키리프트 사고로 호주 출신 스노보더가 사망했다.
+* **[애니/캐릭터]** [Race card for Feb 2 - The Straits Times](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTTBLQjR3aGdmQkwtd0tIdXRscnhjMTU1MFk1SS1YazNWZDFUTGZyTGFtejlNb2xuS09xNmQ0MENLeHMxelFTMWM0YjQtV1FLbnVYYmlpc3lWQmFIME5feS00ak8?oc=5)
+  * 💡 말레이시아의 애니메이션 축제 'Race' 개최 예정
+
+---
 ## 📅 2026년 02월 01일 업데이트
 
 * **[패션/라이프스타일]** [LNY festival with giant hotpot inflatable playground, interactive plush bazaar & rewards at Suntec City till Mar. 1 - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bkxIMjBGWFhxWE1hTUFfVDF3Ty1sN08tUlJCYi1iWDJwOHlSWDZlZTgxOFJZM1F0aHRJRVdTejloX052bFBweUppMW5MMEFMNlNhVWVvLWZpeGdxb2p5TURVZ09kUQ?oc=5)
