@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 03일 업데이트
+
+* **[패션/라이프스타일]** [156 FairPrice stores to stay open on 1st day of CNY - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE01dTBNZjk5ek8wWU5JSFNETDRPNWp4UnlTU2hNc291ZENJaHJCdm82cWJrRDJaVWI1UkxreXlEZ1cwbEVtOTgxa1ExRE1KX1NHZUU5WE5sV0FaZ21jdGpBSnRLbEJ0cEZtOVQ3Yk83b1hNVDZCNlNtUUFzeVotUQ?oc=5)
+  * 💡 싱가포르의 대형 수퍼마켓 체인인 FairPrice가 설 연휴 첫날에도 점포를 운영한다는 소식
+* **[방송/영화/OTT]** [Singapore to set up new national space agency on Apr 1 - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWpNYmpVcEk2Q0FWRndIM2diOWxNSEduZEFWOEIxRUVkYVVULXFXQjZLS1ZJSVczR1dQcEhJck1McTA2SWMwLVVJekNaWnoyYk5UcFB6ZXdiY3pNMW5mVGYxTzExY0pYQmo3OU82dXM3bFExd1ZwRF80TDdmNzZILWcyQ3l1OUdGMTJWam5XUzBGWlRDV282ZkYtMS04cWxURGlkRjd4VQ?oc=5)
+  * 💡 싱가포르, 4월 1일 새로운 국가우주기관 설립
+* **[방송/영화/OTT]** [Private organisations must stop using NRIC numbers for authentication by end-2026 - CNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFpvRGdYTi12LTg3a1BySE0xV1hwekw4UmlaTTdZM2pBYnp6RlpreWczcWg1eFhMYTdWWHdBS2Q2TTdzd19jNmdiakx4S2VNSTZWUmN4MklPd25MeE9RLWJkeEpFcTA4cXZIXzNkT25JOXVmTkJTQTQyNlJxSFpzUjR6WHhoUDJLWWhIOEJUN181UlpQdFBabzl3RGt3TGlCOC1VYWNfc0VOb2dTQzhjcXhCRXRuWlpI?oc=5)
+  * 💡 싱가포르 정부가 2026년까지 민간 기관의 NRIC(국가등록 ID 번호) 사용을 금지하도록 정책을 수립
+* **[방송/영화/OTT]** [BMW driver gets jail for killing pedestrian by speeding into him while drunk, severing body - CNA](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTdEczBmU3VDZ0VwX2I1dzU2MEc2dzdjX3BzSXdFNkE5YTd2Tkd3QkxHUHFZNkhEZWhfek0wQ1RGZERCYnBCdGNsM2xpTm9EUlg1ZlpXTGdpUm9wYndqSFVoOEpPNUk2Y1IxblAzVW9UdjJGY1pSNFZSRjltTFM1dFhEYWs3UGRCMEh3YUI5RS05Zw?oc=5)
+  * 💡 음주운전 중 보행자를 치어 숨지게 한 BMW 운전자가 징역형을 선고받음.
+* **[패션/라이프스타일]** [Private organisations still using NRIC numbers for authentication may face sanctions from 2027 - The Straits Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFJ0ZTA2TlpobWJ0ekhRbGgzNXpVQjJrQUNkOGhMd2ZsOUR5MkZCQjNlaW15MG9sTmNOeVVWZnZXWWtPcmxjcnY1ZlZMNUhfOGdJR1JaZDRuc3lxbWl0OEY5NmRfZ0lDY0twckJ2X1VldENRNS1VelRLYXNfdmNyUHdNZmdxYTFtd1pZX1NKZ0pJSTZkUWVvWHVOTHJZcmY0TUNfQVI4RUtlcGNhYmxhTjEtWU1ZRVFEZDRXSVMtT0ZBSFNzUUJMaW1ORG1NQQ?oc=5)
+  * 💡 싱가포르 정부, 개인정보 보호를 위해 2027년부터 민간기업의 NRIC(국민식별번호) 사용을 금지할 계획
+* **[방송/영화/OTT]** [Over 12,000 vehicles in S’pore yet to be rectified for faulty Takata airbags that killed man in 2022 - The Straits Times](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUFoVExHd2VPcGxzUG9nMm5aM1ZIdjk3U0psell5bFczbGhVSGU2OTBkaDdDUy0tLUU0WldKV3dpbTlQTTdtdWlTclVDYllQQ0ZkU1hMd0lQOGxfT1JMZFBBN1JCSy03VkdCcVUtaTJka18wQk5oNFZxSVZ5dDJGVzhIOFRaODZYS3A1THpBMGNIZVl1WGkzSVJqakhVODZaQWNITnJPRS1YOGp6Z1ZBcjJia1ByNjJEbmNQNFExbnk0NHUyc1pQdXpydUlnYl9yaktndG9SVnNGVXJl?oc=5)
+  * 💡 싱가포르에서 타카타 에어백 리콜 대상 차량 12,000대 이상이 아직 수리되지 않은 것으로 나타났습니다.
+* **[방송/영화/OTT]** [My Feed - Today Online - todayonline.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iaUdWQXNSd1NEM2dlLTNVdl9ZdmdDRkR2Z3F6dVdUcUNzTFJBd2FqdkdKUkRQQ0doa01VVkt3enhLam5oYWFKR2w1RHJua3FoVGJjMw?oc=5)
+  * 💡 넷플릭스, K-콘텐츠에 대한 투자 확대 계획 발표
+* **[방송/영화/OTT]** [Highlights - IMDA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MX1U4ZTNHU01VcGg4Q3ducGJGVGZfS2VqVklBNHJXcktnNHlMTzM2a2RQWDExQWU1S29nMUJ5ZXMzdFpieEc1TU94Vk9hRjE3eGY4YjdYLVlTVlk?oc=5)
+  * 💡 싱가포르 미디어개발청(IMDA)이 주최한 IMDA Awards 2022에서 국내외 기업들이 수상했다.
+
+---
 ## 📅 2026년 02월 02일 업데이트
 
 * **[음식/라이프스타일]** [Popular grilled meat hawker stall Blackgoat at Jalan Batu closes down, shares recipes online - Mothership](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWUZXMFp4MnJVRVkxbU5zdlFXaDNZZll6SzRNVXo4UEh0Tm5fT2N3b3o2dHVzRjFNS0tXTzVMbTJiSDRrNzNBMzkxanVTa0NLUnhHWjQ5dEtaLVVITm9Od0xB?oc=5)
