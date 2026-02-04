@@ -1,5 +1,39 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 04일 업데이트
+
+* **[패션/라이프스타일]** [2 S'poreans, 27 & 28, spend 8 days travelling from S'pore to Krabi by hitchhiking with strangers - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTFBPOV9mRFZMNlVDU0RGeDZOd2RTRWtQZ1ZHeUt4YkdtQUJXaU9MZkVfTzJNN1ZNYURyMHFYTTVncHp3bXFmN3VUamc0dEhZalhBV1AxRUhrbG1YTjNDSHNlbm9qcTFUQlgzekE0?oc=5)
+  * 💡 싱가포르 2명의 젊은이가 낯선 사람들과 함께 자동차 얻어타기로 싱가포르에서 태국 크라비까지 8일 간의 여행을 했다.
+* **[방송/영화/OTT]** [Foreign domestic worker, 43, secretly worked as prostitute in S'pore, earned S$108,000 in 4 years, client who became her pimp gets 6 months’ jail - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTE1acUZ5eWYyWXRRbHlPVGF4M2NNQ19LbW1LQWF0ZlYzV25XWU1tTmZPc2Q3bTRKQ1RZVVMzbEJPcG4wbkJBMlQyZi02Rm9FZlR0OTJId0RtbTMxVDlDUlM2aXJVNVc1NFdGTmp5dXJKelVWU0o2Q2lrUA?oc=5)
+  * 💡 싱가포르에 거주하던 외국인 가사 근로자가 은밀히 성매매를 하며 4년 간 10만 8천 달러를 벌었고, 그녀의 고객이었던 남성이 그녀의 알선책이 되어 6개월 징역형을 선고받은 사례.
+* **[방송/영화/OTT]** [HPB's LumiHealth to shut down on May 31, 2026 after 6 years - Mothership](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zSTNVSjJmSW1hazRXYThWMkJmR2hqS2lJSkdQZV8wSEdFajFZMko4elI1V2I0T2h1cDhYS1JmcC11dlluVEtIdm1Uakx1eWdOMHRqQ1NzQzdySGs?oc=5)
+  * 💡 싱가포르 정부가 후원했던 건강관리 앱 LumiHealth가 2026년 5월 31일 서비스를 종료한다.
+* **[방송/영화/OTT]** [Balestier preschool shuts down, citing 'significant increase' in rent & working pattern shifts, parents seek alternatives - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTFBVdjFEYmtIV2VndHFvZkZZM1RmX3FNY3NvS1lzWFc1OEdGQk8taEZJREpXYUlmY212Vnc4TDNGMHpwd28zb0syeXRlQUZab25pZ0lCYUNBN0VReGZVS1dtWTFIZ2l0bFFDWGQ1cHFMaktGUjJ1T19F?oc=5)
+  * 💡 싱가포르 Balestier 지역의 한 유치원이 임대료 상승과 근무 패턴 변화로 인해 폐쇄됨에 따라 학부모들이 대안을 모색하고 있다.
+* **[방송/영화/OTT]** [Prabowo slams Bali local government over island’s waste crisis, warns of threat to tourism - CNA](https://news.google.com/rss/articles/CBMilAFBVV95cUxPakU4MXFicEpmdDI4RUFha0E0ek1lekpCeENKYnlFaEdjUXUyTHBNTGVXSXhlQmo5eER5ZkVLM0pyWjZSY1JEMFlnTXZCa2hwcHZRclJvY2RxM0tYd2tEOENEYVR6WkVvYy16anlVMkZSeXlzY2liMVpvV3BkRkdSTHo2d29WSHN4LWplNHVTdWZhaXB5?oc=5)
+  * 💡 발리 지방정부의 쓰레기 위기로 인한 관광업 위협에 대해 Prabowo가 비판하였음.
+* **[방송/영화/OTT]** [Myanmar and Russia agree to new military alliance - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHRMMjRJcE9rV3NKNFNnLW93S21tc2VDMUpQTEFNc3gyT3o1TnMwcEoxVnR4QW5FbWpONjV1cC11bC1RbmJMSUc4WWFrVjM3QXV0M3picXo3YXdFTTBEMlNjbWo3X2dxWFRtdWFXcG1jN3QydGliS1VrRlcyT2dxVDctZG5seWJCQ091ZF84OGZ4bGc?oc=5)
+  * 💡 미얀마와 러시아가 새로운 군사 동맹을 체결했다는 소식입니다.
+* **[방송/영화/OTT]** [Man who allegedly posed as police officer and raped maid goes on trial - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFM3bU1FSFVaS29WOXJmSC1UWjR5ZjIxdFFDamdNZGZMMF8yZEc3NzlkQVNYTUJjbzdsUHFfWmdJU1dXbkdwWWpNbEVHZkVOTy1UR0hQYWlsUi1xRVBaU2dWZFZMVXNjS2dMSVZWTUI0X21EM0pCREpOc1l0WTU5M1RTazh1QVhaOVdKU2tuQmhYSFk?oc=5)
+  * 💡 경찰 신분을 사칭해 메이드를 강간한 혐의로 기소된 남성이 재판에 넘겨졌다.
+* **[방송/영화/OTT]** [Latest Singapore News and Headlines - CNA](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TNEdILVBJUWgyRGlhU3NrSThzeFZMOXFERHBldm9EZXpKal9mcVpPWlBTWmNjcHBDVS1XdFFTcEZmMmk0LUJ2QTFnMWdDSUQ3My04?oc=5)
+  * 💡 싱가포르의 최신 뉴스와 헤드라인을 다룬 기사.
+* **[방송/영화/OTT]** [Trump cuts India tariffs, says Modi will stop buying Russian oil - CNA](https://news.google.com/rss/articles/CBMimwFBVV95cUxObHBxNEN2SDNwOWtlNXpuWEFyX0JHZXoyVU5UQ2hrb3JqdDVqdEtHaS1JUENnSlNyTWs4eHJubW1XaXIwalhKVXNydUVGODYwTTg4SDN3UzRQUnVHeHpfcHdhQWlYQVU1M1ZVNFdSUG82UW1QUy1lVHFoUnlPWE5Mbkl2Qnc0SEtYay1WTVl1Wk80VGpfTWh4XzlIYw?oc=5)
+  * 💡 트럼프 전 대통령이 인도에 대한 관세 인하를 발표하고, 모디 총리가 러시아산 석유 구매를 중단할 것이라고 말했다.
+* **[방송/영화/OTT]** [Paris prosecutor’s cybercrime unit searches social media network X’s offices; Elon Musk summoned - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVhyRHNaV05FWHN5a1MxMnlKQ29JLVh5SEFTVnc4ZExSSFFBR1J3d0pjVG1BTzB6ekg0R1JIWlo2elhiNWk3bnR4aF9EdllGYU00UFN6Sml4MDZ6M3ozSEJ5M0VuUEc3cU9pVVNUNUxGcF95ejFkRjF5SmZzcE9NcDJDeHdEVEFEaXlwdGhjUGNDaEpYaFU0X0ZLU3ViWUFyeDg3Z25rVDhVTTgyaHc?oc=5)
+  * 💡 파리 검찰청의 사이버범죄수사대가 소셜미디어 플랫폼 X의 사무실을 압수수색했으며, 일론 머스크가 소환되었다.
+* **[방송/영화/OTT]** [China warns Panama of ‘heavy prices’ to pay after CK Hutchison contract quashed - The Straits Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVJZVmU2NkRXR0tHU2FXZHJHUTNGM2tDSVgwNWd2RlU3bUI1NVZYdWxPRmRJQTZyZDh6MERCZUNvOXR1ekI4RVpoRjhMNUpCSUpUUEhmcGlJa3phRTV2QjI2a2p3SG5RbU0tVHVoN0FPLS04WTlEdDVnYjZrTlFmeHRhM0t1NTRZSFBVZnpvZjFiQTB3UW5BS2hDRDBYS0trMzBnZWNiNk5VNEdPQXFJWnNDd0ZXYVdpUTB1SThR?oc=5)
+  * 💡 중국이 파나마 정부에 자국 기업 CK Hutchison과의 계약 취소에 대한 "무거운 대가" 경고
+* **[방송/영화/OTT]** [Ukraine agrees to multi-tiered ceasefire enforcement plan with Europe and US: FT report - The Straits Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGxoU0N3ekxteUwzQXpqQzNOeldXOFhtRlRIUFF6N28zQ3dKNVFCNVYyMHkyZ1prOG12M0F6MkpTUDdYM29nVnZjcVZwYTJqQVJOYTBMVjloaEljU2l2SnFjR2hlMk9lbDZfTi1tNmxuNzUyUTFEcE95Z0d5am8ydXd6WGxzNzZuMVZrcEJSNUR5aUxFSjRsb183RzFHSGQxV2ZYVExTenlQbGlYdGNzMlhvY0tfTzZRbnZ5bE9jam1XQm9OR2l1Zg?oc=5)
+  * 💡 우크라이나가 유럽과 미국과 함께 다층적 휴전 이행 계획에 동의했다는 보도
+* **[방송/영화/OTT]** [Taiwan must look to democracies, not China, for trade cooperation, president says - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVdkNEVCOEJhZWhyZF8tTEVmcExRUlFKZ0VqNWYzUy1rbEpTQnI5aEdVdWFVNm5mR01ZSFlVZTUyWHRpeDUtTGwydEhrRmhqclU2MDJidEl5bGlSZUZwQnNHZnhCQ0FGZ0R6Y3VaVk82Q0pxaUNpa2FhN0hDWkc0MDFOWDNqSWVrd3NkMU1GbmxWMmtEX0JBQlJHbm1BcGZrcnZ4cldrbDdvcmtFbEpieGRuXzFzS1doVlJTaG9Edw?oc=5)
+  * 💡 대만 총통이 중국이 아닌 민주주의 국가와의 무역 협력을 강조함.
+* **[방송/영화/OTT]** [China’s Xi calls for ‘equal, multipolar world’ as he meets Uruguay leader - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPY25NaV9lMnNQNXNYam1uRUJCazliQTBQdUU0QXZLbHBBdzJUOGd5NER0T0o2OGlkaTFKWklmUmtqVnJ4OG50V2cyR2F6Y00xd1JlT25JYldtZnI0WWJSeXQwekxkWHRUSWY1Y0Zlc2tkNUtPSzdua2hhRFpERTlxOEd0cF9ncTdoZE5GTlhCWHpMZ01FYzk5Y0JheUhzcjhEdXl6MkJ6bUpjMXZxcEE3SzAwOA?oc=5)
+  * 💡 중국 시진핑 주석이 우루과이 대통령을 만나 다극화된 균형 잡힌 세계 체제를 강조했습니다.
+* **[게임/융복합]** [all activities - IMDA](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KVF9EYkRNSUhCc1VjN1NIYVdTRXIxdkRlQU0tSElSNlduT0xNMll5cXlwRi16ZExubTJEdWZvYlY3bXl1ekxGaXln?oc=5)
+  * 💡 싱가포르 IMDA가 게임 및 대화형 미디어 컨퍼런스를 개최하여 산업 발전 전략을 공유
+
+---
 ## 📅 2026년 02월 03일 업데이트
 
 * **[패션/라이프스타일]** [156 FairPrice stores to stay open on 1st day of CNY - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE01dTBNZjk5ek8wWU5JSFNETDRPNWp4UnlTU2hNc291ZENJaHJCdm82cWJrRDJaVWI1UkxreXlEZ1cwbEVtOTgxa1ExRE1KX1NHZUU5WE5sV0FaZ21jdGpBSnRLbEJ0cEZtOVQ3Yk83b1hNVDZCNlNtUUFzeVotUQ?oc=5)
