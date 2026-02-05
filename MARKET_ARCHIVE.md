@@ -1,5 +1,35 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 05일 업데이트
+
+* **[게임/융복합]** [MP David Hoe uses physics to raise concerns on 6km/h PMA speed limit in Parliament - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE9CckVXeEpXSWdtUGtQQks1cFo4LUY5N0NPeU1LLTBER2FPM0NvUDRlSGRSR0lkWXpnMVkybzFHRE9pT0tyVWhMT2Q3TWc4SjBDOGZUMFlFb0xFODg3dlFZN2oybndrYW1qSmxkZUxfWmdGcWNRNV9iUkI5ajI?oc=5)
+  * 💡 싱가포르 의회 의원 David Hoe가 개인이동장치(PMA) 속도 제한에 대한 물리적 근거를 제시하며 우려를 표명
+* **[패션/라이프스타일]** [Woman in S'pore, 34, charged for allegedly telling daughter to drop rape case against stepfather to be 'one happy family again' - Mothership](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNTZqR3RMamkybWJDcFA1bVp1bk9PRmVWVGtCcXBiX3E3WWpQSnJHSzZFSHBfNVpUdXp1YmhtZXF1ajFmNjVrb2lLRFNqbnM2aHlOSXc1SU5ySU5DTEVpTWtib0F6c1NPQkhTMmRwTWhPSFdPc1pwV3dMaDFiaGVySzl3?oc=5)
+  * 💡 싱가포르 34세 여성이 강간 피해자인 딸에게 사건을 취하하고 가족이 행복해져야 한다고 말한 혐의로 기소되었다.
+* **[방송/영화/OTT]** [Man, 45, holds up entire bus as he shouts at SBS bus captain & accuses him of poor driving - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTE1kSTBHdDFLOFlWMzdWVzFlS3RlZlNiVlFJdnhOaGhaS09tSzVpT3dpWVdVSVUwRHJ6bzUyLV82Z05mZlNpTC1GQnQ0T0l3UHhuSG05Ui1TUlByNWY5SmxUT21kTGNOUmZxOWZVZDZ1R0dfUFo4?oc=5)
+  * 💡 한 남성이 SBS 버스 운전기사에게 소리지르며 버스 운행을 방해하는 사건 발생
+* **[방송/영화/OTT]** [NFL-Super Bowl prepares for potential AI cybersecurity threat - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejQwSTg4WXFldEZJT2dPMVlUcWZzc0UyNTRVZURDbnU0QVBNRUJsZkxDMUFkYnR2bWJMdm5MZ3g2T0JnYlF5Nl90NndmODNkUE5UU2tZQ3l3YmV6OVlabThRbEs3VG93ZFZxS2pDb19yaE9qclVYVjQ3N3V0U2dwYzg0dHpTM2VYME1fUC1fQ2NHMkxpa0puaVBUZzdKLWVvMHQzZWVUUjg5Zw?oc=5)
+  * 💡 Super Bowl 행사에서 AI 기반 사이버 보안 위협이 발생할 수 있다는 우려가 제기되었습니다.
+* **[패션/라이프스타일]** [Woman, 71, gets fined again for feeding pigeons repeatedly despite conviction last year - CNA](https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0N6WGl5QTM5WWpmUGhDa2RWQnJxMldqT3p6eElFWlJBTENUdndMVXlBbURYdlhKemFYRGd5WEs1TGk3azJEaU94M1BPMFQzamtkamJUUkFJczVCRjY1TmVXTEstRVRrS09BOXd0dG1lWHVvdElQWU11U2IycHNWWFQwTEpXX3pqZTRUYWhn?oc=5)
+  * 💡 71세 여성이 비둘기를 계속 먹이다가 처벌받은 사건
+* **[방송/영화/OTT]** [Japan warns of avalanches as snow deaths rise to 35 - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkNGV1p4dUgzZFZpSDFVQ2VzUTIzV0Fyd3JHRGN6YmhtcGh5VnNjM18xb0tDVUZOMHB5RnEwTlNMTEJ6MjlRQmJuMktaa1pnWlQ5anBBNDR6dHJOekJCdzVBbTltZm00WlVTSXdrTkM4RUdpZ2ROekJEYUpMTTRzdUpJTUZwQ0lTMXJhME82OFhuTE0?oc=5)
+  * 💡 일본에서 최근 폭설로 인한 사망자가 35명으로 증가했으며, 정부는 눈사태 위험을 경고했습니다.
+* **[방송/영화/OTT]** [Taiwanese actress Barbie Hsu’s memorial statue unveiled as family and friends mark first death anniversary - CNA Lifestyle](https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHFwQXdJMHJEdFR3R3lxY1JxQ21iNy1wbjhPZFhBZ25vLWxCdTVfZGF2TjlCWjBqOFFHaGU5ekw4dXRCZUNmZElhcmJlU1lEMHA4WnAwVm5xdUN4LUtIUm9TbWdlQ3lOdHBLb05neXFUMmI5LXR4eDJXZ3RjYTAwRUlQVnZPVmU1bERRcTJwQ2d4UQ?oc=5)
+  * 💡 대만 배우 바비 허(Barbie Hsu)의 1주기 추모 동상이 공개되었다.
+* **[방송/영화/OTT]** [‘No need to break the bank to keep shares up’: Goh Jin Hian criminal trial on market rigging begins - The Straits Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZy01dVNqVGVVdnRoUkpJRG5Ob0lxZU1Qc0ZWRnk3b0x1YWJ1cWc1anFUaFlGeU4yQnJtMTJsQjFKclAtOFlGc3I5cnRnMUhIU3diVDJRTmUwdlcyaVhRNVkwRmQxRkVfWVhrRnhFSkNqS0g1amMyZm95akVSNEMyNUg3RjV0dVdxZTlCaGp0TlY0MlZmZkE2ZE9OaWlZZEJYbVBJTzJ4RFhHT0hqVG1sMnJ2VFFRSHA5Q0lhNUZYZmhwOEhNYVc4RUJVc2RHSDMzMGkzOXRoZS1iNVpnOWV0QzZyeF8?oc=5)
+  * 💡 싱가포르 증권 조작 사건에 연루된 Goh Jin Hian의 형사재판이 시작되었다.
+* **[방송/영화/OTT]** [NFL-Super Bowl prepares for potential AI cybersecurity threat - The Straits Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHFYWHJOQm83bG5waER5SDZYYmJZYmN6OGUwdEpLSVRINTI1ZjVHR1hOV0ZUTWtjVkc1XzVoWURXdHIxM3ZKVi13VTRaN3JBd21wbll1VWJHTWNDTDNMcmU4MnJEZm5MOUNHNENwazJ2VDZkaklKTldhdGNtRFRYZlVfV01yUzhpM2xfYVBjQVRjb3MxTExJSjlTdC0?oc=5)
+  * 💡 Super Bowl 행사에서 AI 사이버 보안 위협에 대한 준비가 필요한 것으로 나타났습니다.
+* **[방송/영화/OTT]** [Shooter of ex-Japan PM Abe appeals against life sentence - The Straits Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxON1J4Qkc2Ymsxb2pveVhZUGRkTVNVbXVTcmJ1dWdINUFEa2xHZzBFNmVLTktjcUREdHdkY0lWR3pKS0dYaF9jNmh5MDFjaHJ5QXEyWGdETWZOdVlpZHpxMkhFdW0yZERNYVFhSHF3ZzZxNVZpWWJ2bFEzTXh5X2xPVml4Y2xQbFFwLW9nVERRcmpGR2M5SVZv?oc=5)
+  * 💡 아베 전 일본 총리 암살범이 무기징역 선고에 항소했다.
+* **[방송/영화/OTT]** [Hundreds protest in Milan over US ICE role in Winter Games security - The Straits Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUVIbXIyMkVTd1oyYnBvTGRYNkNYdEJ6Xzh4YWZRUkVMQXpkZVNKMDFGcHNudnRHZG14elFMbElhNzJHWHBjWTIyZEtrVVpVUjVHMVJuOHpYdlQzcG9TaHk0VURwQm9OZ0dVOVZPMUE4R3htdjVmZ3NQVFBzV1AxS1pVS0tsak5idGZ3VnNJZ2VLVk9KTnc4UUJSQQ?oc=5)
+  * 💡 이탈리아 밀라노에서 수백 명이 2022 베이징 동계올림픽의 미국 이민세관단(ICE) 참여에 항의하는 시위를 벌였다.
+* **[방송/영화/OTT]** [Citi analyst rebuked by Indonesia finance chief for lacking PhD - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXpHTlhBNTBPYy15V3dOQURXMGhuM3NzWjNUa21KMGUtcGZ3TDNfX29nR1VZN3lKbWRKUjlMcVltaXkxYS1reDVzdm1kTU5LMFJoZXlqVHJVX056ZDBPVWJ0Q1M2WndjRnd5X0FDOWplOE5jOG9yRDVJdDRPam5yQnExZzRCa2JQbnJiLTR5c1pTYkJUclBJV2FoUVpMYzdaaFBkUi1kdExGb0tQU2c?oc=5)
+  * 💡 인도네시아 재무장관이 시티그룹 애널리스트의 의견에 대해 비판적인 반응을 보였다.
+* **[방송/영화/OTT]** [IMDA's TradeTrust Steps Up Efforts to Accelerate Global Digital Trade Transformation - IMDA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWJ3YkZ5QTREdGVXZ2ZZVlgzU2twamx6bGdHUHBFRWNycjk5VHBNX19ZTkZXTjc1bnBVWlZ0UVA4ZzhZcWJNZEU2d3dpWi1fODhfZ2szR1pxTC16V09TeUlHV2NWYkNiMGVWdFVzTldXVHo0OUJtRl9ycFlHcnZsT0Y0d01BQ1l6aEd2MU5VZEhENzVTcm1FSWtsX0VEX01KZjFoNXNpOGdmajJFYk1NR05nUWJhclN2UjI2Q20wbXdRc2s?oc=5)
+  * 💡 싱가포르 IMDA(Infocomm Media Development Authority)가 TradeTrust 이니셔티브를 통해 글로벌 디지털 무역 혁신을 가속화하고자 노력하고 있다.
+
+---
 ## 📅 2026년 02월 04일 업데이트
 
 * **[패션/라이프스타일]** [2 S'poreans, 27 & 28, spend 8 days travelling from S'pore to Krabi by hitchhiking with strangers - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTFBPOV9mRFZMNlVDU0RGeDZOd2RTRWtQZ1ZHeUt4YkdtQUJXaU9MZkVfTzJNN1ZNYURyMHFYTTVncHp3bXFmN3VUamc0dEhZalhBV1AxRUhrbG1YTjNDSHNlbm9qcTFUQlgzekE0?oc=5)
