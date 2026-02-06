@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 06일 업데이트
+
+* **[방송/영화/OTT]** [Ex-actor Ian Fang's PR status revoked, to be deported & banned from re-entering S'pore: ICA - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KdDFMY2pYdTZZNEtXZ056RnN5WTk3ekpndHI3OTdQVW1wZ193QXljclFkZmdPbnVwVG9kaTByaDZ6ZXlEUjBweTdsZFRjeHBYeXliOFIwdzYzM0s2R0s2T3RGdlBFN2cz?oc=5)
+  * 💡 전 싱가포르 배우 Ian Fang의 PR 지위가 취소되고 추방 및 재입국 금지 조치가 내려졌다.
+* **[애니/캐릭터]** [Malnourished-looking panda in US zoo returns to China & gains 20kg - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSy1ISGhSQmMtLW1LM1I5bmpKaHBtX0wzWkMydDFsN1Q0bU9vQ0UtTDBicHlpTF9SS1hVc2h0anNhWWdTS2lDMjdnSXR6VWw4OERrUGpSUkZZa2NLYnNOYzU1T2RxYkNTNjdn?oc=5)
+  * 💡 중국에서 건강하지 않은 모습으로 미국으로 보내진 팬더가 건강 회복 후 중국으로 돌아감.
+* **[방송/영화/OTT]** [Amos Yee, 27, addresses S'pore govt in new blog post: 'You shouldn't let me back' - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE10S25TUVYtZDRNc0hnSUdlcHpCdmZvcGQ4VVYxczZIWllMSHJXaWZISk1SSEtsazE5QWViT3lUWjJGQWlLOVhBQUhoUDdRbDB3Q05BMXV3bnp3VlJhOXVBZW8xRUNGcG1TNGhoaFB4UQ?oc=5)
+  * 💡 싱가포르 청년 Amos Yee가 자신의 블로그에서 싱가포르 정부에 자신의 귀환을 허용하지 말라고 호소했습니다.
+* **[만화/웹툰]** [Man dives into e-waste bin at Yishun community club, allegedly takes phone & tablet - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90S3VZTHRBWHdNZVNrODQxTUZJSURkV1dKdFhPcXloQjUwUFN5dF9IZGt2ZjduTURmNjBoamI3QkhTN05zakdOVW1YZ2R5Yk1xeHNWY2FfWjFPVzl5M1dxdVJBczk?oc=5)
+  * 💡 싱가포르 유수의 콘텐츠 거점인 Yishun 지역 내 주민 센터에서 전자 폐기물 더미에서 폰과 태블릿을 가져가는 사건이 발생했다.
+* **[관광/라이프스타일]** [Mount Fuji cherry blossom festival cancelled due to overtourism - CNA](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTNXZXk2MWQ2MXU3ZkJGbUFObDFjTzBldy1UUEtoVktLUTVsSVdpRWpRS2U1bG8zak5LUHJhTHRqaE14QXFtSkFneDQ4cVV0cTRGNkhqQjhEZ1pBbTRuczBMZEg1YUh0ZDg2Vl84VkVOTmtLLXR6UDBPZVptd0I1X2pSSnI5TGdPYXJVNFo5Zk9IZVZrS3RHdllicjhsdzJfd0d1ZF9KOFI2QktpRWw4bWp3?oc=5)
+  * 💡 일본 후지산의 벚꽃 축제가 과도한 관광객으로 인해 취소되었다.
+* **[방송/영화/OTT]** [Former actor Ian Fang's PR status revoked; to be deported and barred from re-entering Singapore after sentence - CNA](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTZ2cXlVR0tVcXF4MWVGLVlvaElhYzhxeWNEb0NQdGY2ZjNDcnZlT1laOVd5dlNzV3dxSDF0bTdOblgyb2s1RDMzdGlJODExV0dKWlJwZTRETHdiangwRFdiNzExaXZvUDgwVlB0dU1fRDZkYUlmRmZHVjhHU1B1NHAtZDlEMEV6bEw1QS1XZjlSWV94TGxCTEc4R0tPVGNBLV9jNQ?oc=5)
+  * 💡 전 배우 Ian Fang의 공식 신분증 취소 및 싱가포르 출국 및 재입국 금지 처분
+* **[방송/영화/OTT]** [India seeks Singapore capital to fuel its ambitious private space sector - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1lLMUJzNXUzdno2aXlwUU5nZ3VDQWJQWF9JbDl5aTE4eTRTX0JjR013T2taYW1tRGtmTFZrTFktNkQ2eGVGd01pVjI0VGtOYngyMmR0SEV3OThQdlg4U2lQZkdCUG5lQTVma2NUUFJLYk1MOEM3ZHJvVHZXTVdtSlp5X0I0ZUprNGtOSUlONm1wR0dEV1lKSGpxYXZRcFZDY3VfR1RIb0d3Zw?oc=5)
+  * 💡 인도 정부가 야심차게 추진 중인 민간 우주 산업에 싱가포르 자본을 유치하고자 노력하고 있다.
+* **[방송/영화/OTT]** [Coupang confirms more users hit by data leak that South Korean official says has ‘shaken’ US ties - The Straits Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkFobnBsWS1IUnZINnEzenFXTHlTN2tlcjdiNE5YeXV3RkZHY0xSNVRKblRfa2ZfN2NCZ2RMb3M1aE04NmZ2N0hDZ2RrOUFsNldMMEs0MUhNUlQ1YXhXMGpQMTNjOS0xcFBfMTluWG9QRXotX2xEbTh5X0oyTjhzMFctRGhocDlheGd0UERmTXZMaEcteW1CdWxtLXlGTnU5YjZ3dGtzcU5vc280LXFqR21VUkJFZw?oc=5)
+  * 💡 쿠팡의 개인정보 유출 사고로 더 많은 이용자가 피해를 입은 것으로 확인되었으며, 이는 한국과 미국의 관계에 악영향을 줄 수 있다.
+* **[방송/영화/OTT]** [Russia's Dmitriev says progress made on Ukraine peace deal - The Straits Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDVkX2o3WGthdlNUbENOTWVDUERpaFNBSTRxQm1VSGZVMXZ6QkwwdnZvUmdsTG81a0o0Y19YT1BVSzU4T1JJRGhFMUtlRTV5c3dOX0RGQkFjaC1Yd2Y5Q0JxQjFmSi1MUzN0N0htRWxZWFhZc0JhUy1ZOEtCcE9EOFlmZ2J1cHJSNWJLSGpqLTZyUEthNjhNVEhZdWRCb2Fn?oc=5)
+  * 💡 러시아 관료 Dmitriev가 우크라이나 평화 합의에 진전이 있다고 언급
+* **[패션/라이프스타일]** [Malaysian eatery ordered to close after viral clip of worker ‘washing’ unsold food for re-use - The Straits Times](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVnTGxFNUpRTFl5eWt5VmtOU2JROXZDUXdIT1RNWl81N3FmRWlkM3llSnZVYUhZRXFSdnc1YXJHTUFRbjVOZDVheWxWdVJaejhSbTJGY1N2MS1zRS05UEFiOWhMQUJmUjNGNWR2RGhEaWVScDJpczlhc2FJOFZIV3FxZnZpRG9GdzJTVnJ0VV8tRWROMjhvVWVqRUNWcUF0VlVVOTNfUzgxSWduRHpGX2pDTjJncFhyQ1RidDJxbGlLYjJXMDgzZnBTLXlBb3l5c2NB?oc=5)
+  * 💡 말레이시아 식당에서 판매되지 않은 음식을 재사용하려다 적발된 사건.
+* **[정치/외교]** [Trump endorses Japanese PM Takaichi ahead of Feb 8 election - The Straits Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDFCZnlibHZmc0w3Y3V6djdVMzE0ckNsQ2w3ZUkydmc2YXMzbWZjZ3c4eUZnQ2lsRFpUVVhOZkdNV3pBT1Z5RV9NYlRzam1SYWFKQm1yU1VLdENlbDhaQnE3blJzcG14RVB4MThCTG5GQmlQaHlIMjZXZVFieERfc0FYOUVrOWpzdEFhSGl2VUdSeVhGeVZha2lYV3V0WVNpcW50bmNCaw?oc=5)
+  * 💡 트럼프 전 대통령이 2월 8일 총선을 앞둔 일본 정치인 다카이치 산키를 지지했다.
+
+---
 ## 📅 2026년 02월 05일 업데이트
 
 * **[게임/융복합]** [MP David Hoe uses physics to raise concerns on 6km/h PMA speed limit in Parliament - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE9CckVXeEpXSWdtUGtQQks1cFo4LUY5N0NPeU1LLTBER2FPM0NvUDRlSGRSR0lkWXpnMVkybzFHRE9pT0tyVWhMT2Q3TWc4SjBDOGZUMFlFb0xFODg3dlFZN2oybndrYW1qSmxkZUxfWmdGcWNRNV9iUkI5ajI?oc=5)
