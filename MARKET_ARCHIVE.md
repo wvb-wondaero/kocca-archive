@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 07일 업데이트
+
+* **[게임/융복합]** [The Hainan Story undergoes restructuring, shutters 4 outlets within 2 months - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE03ZkhTckx2LXh6bklUeHBPakdmdnNySzhaVlJWVXQxTDg2S254djBMZGRnLWtJV2dXSDE0LU1sZ1BRLWxWYjZDeUVJbXM0VGVTSDVoUkFJY010NWlqVE1kQk96MVFnS3VVbzdHU0lkWllBZXFJb2FUMUF3?oc=5)
+  * 💡 중국의 온라인 게임 개발사 The Hainan Story가 최근 2개월 내 4개 지점을 폐쇄하는 구조조정을 단행했다.
+* **[방송/영화/OTT]** ['What is Shan’s Ikigai?': ESM Goh at Shanmugam’s book launch - Mothership](https://news.google.com/rss/articles/CBMiYkFVX3lxTE45YWhSbmFjLWFVNU44TnBqN3lNN1kySmdTVnhPUlJJMXNHdEFOTEhzVkJLS1A5TDNXWmIwT3VNVkFSX3RDWUVOZC16U0RGb1pxTG9rZ3Q2NWVQZjRFaENUaGNB?oc=5)
+  * 💡 싱가포르 법무부 장관이 작가 Shan의 책 출간 행사에 참석하여 Shan의 삶에 대해 언급함.
+* **[방송/영화/OTT]** [Measles cases rise: S'pore to start contact tracing, mandatory isolation - Mothership](https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVZxZVdsbnBNNDFxckxSeWwxX241MXRnZEhTdHdoV1NPbWpnYnVRYjU4SHZSME9XRW9XWnpKdGF5aExmekhyYVkwamFDVTJCU2lyS1NNbUQtOThEWlM1WGJIRU84Y0RXUnVmWEtQLUJQV3RBZmxQZ1U1bGg3bzV6RkotT3R1QnV1NEs0WUVUSmlmNzA?oc=5)
+  * 💡 싱가포르, 홍역 사례 증가로 접촉자 추적과 격리 조치 시행
+* **[게임/융복합]** [Bitcoin plummets, driving US$2 trillion tumble in crypto market value - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGNMS2RqMWhfMEw3ckFCcFllUWFTTUx2RC02UlIwSHVSTXNhQk9jMVdFT3hvaFVNYmtOQUtvcXF4dGdaLUNiRHdibFJ6aTg3RUlxRUlfNWl5dGJrMklQbnVPNEhTWDBzenUwUnEzbkRjdHd3bUlJOGswRGw0d0xGWFlpMUpfX2FMNS1nNy1DbkxxalJBOENDZGIza0duZEZuMUhiN3hFdnpUdw?oc=5)
+  * 💡 암호화폐 시장 가치가 2조 달러 이상 급감했다.
+* **[방송/영화/OTT]** [Singapore to raise entry permit fees for foreign-registered vehicles from 2027 - CNA](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzdZWG0teVlVNV9wdlFsRE5uT3hYRWFZeV95cmdhWHpaRTZRdVJ0OW9PZktGNEZTTFBaNHcydkVjeC1SVkhGbTh1TUpOYVUwWF82UGtMeE5lZzRia0hvX0hXZDNUVmg5UmJMc0djbTVpWFJzYUYtdEdaZURsTldvaHUtWnBrdFJCQlJOWE9kb3hZbm1yT1dxeFFsTVFoVVdaeTFGTElwajhrR1BjbUlEYVlqamw5blNEY1NNbno1eW5WbTVrNnU5eXJiY05UaEdOQWVldFdrbFJGRUo0Rzhr?oc=5)
+  * 💡 싱가포르가 2027년부터 외국 등록 차량 입국 허가증 수수료를 인상할 예정이다.
+* **[게임/융복합]** [Chinese battery maker Sunwoda settles lawsuit with Geely unit - CNA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2ZnNjY2bzdzNXlHNWJDQ2dkOUZQSlVGSUZYR05wakYyZ3Q4M0V2WkFVYkNGZjlPLXNNOXRxamdWTzR6Z2dSUnNUcC1Pc05iM3pPM3FwZjF3QkhneS1QWU5iVGRCMUJXcGY1eGdlaWdnN2FNUHlCNnlCWTMtbzl2ZmNxaXM3TEVRZkRCTTRQTE9JZklMdUtqZkJGY3czUVdfZUp1bHlNNHE?oc=5)
+  * 💡 중국 배터리 제조업체 Sunwoda가 Geely 계열사와의 소송을 합의 종결했다.
+* **[방송/영화/OTT]** [Why Xi spoke with Putin and Trump in back-to-back calls - and what it says about China’s ambitions - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxPenEzY2dIeTlia0Z2NnVrUkkwRW5WdERHREJFMm1iWE5kNUlKVVdmRmZtcFBMMVFzZU1ldXFvdHZvWGpwOU1ac3UzWkp1ZzUzblZsMFpzX1VnX2g4eWhiQnVENTFuT2dka1NCV3JkSndpbXUtV0RLRlRReE5BMmd1UllURjdObWJRWE1YVVhOam9ZZDNPcDZndG5IRmNWT3FqeWlvR0tub3JpSGkweHc?oc=5)
+  * 💡 중국 시진핑 주석이 러시아 푸틴 대통령과 미국 트럼프 전 대통령과 연속으로 통화한 것은 중국의 글로벌 야심을 보여준다.
+* **[방송/영화/OTT]** [Singapore imposes mandatory isolation of measles cases, contact tracing, as infections rise - CNA](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZSOUZmWTJyaGZXZm9yMzM5NXhDejVZeVVlakdhYnFSUEdtYW9vV2JZaGRTM0V1RU9ESkJBZ2NrSkRReW9XdFd5cVFTZkhLZUtXQXYyVXdBZTZoVVp0YXlHbHNjeWh3Vlk5cGU1akRqejU3NlQtZlMxb0k5TFZ5Q01SdHI0ZFBISk5rTU5yeGw2aXl6MG9NTjhWUVkxcm1IdDZCSmdXR253YVFOaVhz?oc=5)
+  * 💡 싱가포르, 홍역 감염 급증에 따라 감염자 격리와 접촉자 추적 의무화 조치 시행
+* **[방송/영화/OTT]** [Ex-actor Edmund Chen’s jail sentence stayed pending appeal outcome, bail increased to $15k - The Straits Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjgwdWlNeGtXX2V4ZTl5ZV9pTnd1WC15eFl0VWdZdHRZcml6SVZFcU9tVXlESllsZjJvLVc0V19pb2pyUlMtMmNOLTFfUHAzREpZWmtwRG1iWXJCVnFXZzlodjhaMm9QeXY4bS16SzJqQ3dmUGp2aUdWbTdjZ0JGZlhuMkpFTVJtLWt2SVU2X3Q2WlRzRWhaM2YwRXlUOF9TSnlfOW9RV1kyMlhiYkJOS3YyZC0tSG1yMXBET2Eya09tYVlTblZFWkVXRmU2ek1yTUVPTXBB?oc=5)
+  * 💡 싱가포르 전 배우 Edmund Chen의 징역형이 항소 심리 결과 보류되고, 보증금이 15,000달러로 증액되었다.
+* **[방송/영화/OTT]** [Nipah virus: Daily temperature checks for new migrant workers with West Bengal travel history - The Straits Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxOVy1vWWxUUGdBN1h3anVnTnh3cWxBemY5UXh3am1sektaTURETnlhVFVwYXRucG96dUNGN2Fyb1RzNTA4c2dpVjEybWtyY2U0V00zZ3ptQ1MtdVFqbGZDSEZCVEZVRkdOSW1iYlpVYXluVUl1MnRRQjV0YlRZc2FMdTE0TXhIdVRXa0Q5OFJtNS0yOTAwMExwLXJlckNwb0lmVHNXV0ZrSGRPRXZVTS1ENlAtamNDQWlpRXZJZFo2elc2eno0THJzTW13NV9iVWs?oc=5)
+  * 💡 인도 웨스트벵골 주로 여행한 이력이 있는 신규 이주 노동자들에 대한 매일 체온 검사 실시.
+* **[게임/융복합]** [Spectrum Right Issued - imda.gov.sg](https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0NCdHBJdENMaXVBUmhuYnVTQmpmd3pKS0ViOC1EX0hTaF9ULWROREF2MXVVV3hmTlFjQ2xBZlFBSTIzcnRTVVBNYTlkNmVvSWg3elpBRV91QVpjVFZNYWtleEN4dWpOc3piWlVGaHZaV284U2puMXdJbnAxaU9VNnF2d3VsZVZSakFqa3I5WE1GNGdiY2xDNjZtak9UMGpV?oc=5)
+  * 💡 싱가폴 정부가 주파수 스펙트럼을 할당하여 게임/메타버스 서비스 개발에 활용할 수 있게 되었다.
+* **[게임/융복합]** [GenAI x Digital Leaders – Participating Tech Partners - imda.gov.sg](https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFZNdHBkZ0VFR3FMa080eHlPNGJtejdDVWJfR2FVZS1OZHhNSXFIbmR6NDlLNmtLS2RRTDlhTTRfQnFRYkZUOWFQWXB4QmpMY0VBYTV1Zks3Skx0TGxiV0tMWDI3RTk1S0dZYW14LU84aDdiU0NPaUNGX28zdGE3T3BmRWtuMjdoakllTXNQb2pIR3dvb2lIdWppOVBqN3Q4bEpWbUJPVEFXbU5ZZ0RxbGlvTnNjb0NTZXFDdGxxZ2M2RU1tbUxvOHNnX0l1WlU3NjRJT3JmdmVYdlRWZDNFS0Z4NnRHaTlKVlR1MGdTTHowcnJ5VnhzVmU1cU04YXFnUnc?oc=5)
+  * 💡 싱가포르 정부 기관 IMDA가 주최하는 인공지능 개발자 콘퍼런스에 한국 기업들이 참여하여 기술 협력 기회를 모색함.
+
+---
 ## 📅 2026년 02월 06일 업데이트
 
 * **[방송/영화/OTT]** [Ex-actor Ian Fang's PR status revoked, to be deported & banned from re-entering S'pore: ICA - Mothership](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KdDFMY2pYdTZZNEtXZ056RnN5WTk3ekpndHI3OTdQVW1wZ193QXljclFkZmdPbnVwVG9kaTByaDZ6ZXlEUjBweTdsZFRjeHBYeXliOFIwdzYzM0s2R0s2T3RGdlBFN2cz?oc=5)
