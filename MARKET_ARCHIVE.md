@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 08일 업데이트
+
+* **[게임/융복합]** [S'pore man, 25, arrested for Pokémon trading card scams with losses over S$135,000 - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbnlDZ0xma0NRU2VKczY0V1Y1elZjaVVyRGR3YnJSZXZ0dUp1S0xjODZwN3psb3FMbV95SENsVUNrNHRrYnB1bTVta0dJNENTUmtQLWRFd0p4QVZKNkNBc09GSGc0djJ0a1FXUXNLLUw0amQ5NVI1R013?oc=5)
+  * 💡 싱가포르 남성(25세)이 포켓몬 트레이딩 카드 거래 사기로 체포되어 13.5만 달러 이상의 피해가 발생했다.
+* **[음악/공연]** [Ex-PPP member Samuel Lee spotted doing GrabFood delivery, says it's 'honest work' - Mothership](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmcmFsaThjYnVURlpzTDdoY1RqSklxVTI3U0NvNkE0WnJYZ3BwWlNUQWJxbjhHR25RNXZNNWduZldwZHctSlFwZS1RNnQ3VWcwNEpXTnhxRXp4QzVaelNJ?oc=5)
+  * 💡 전 K-pop 그룹 PPP 멤버 사무엘 리가 음식 배달 서비스를 하면서 '정직한 일'이라고 말했다.
+* **[방송/영화/OTT]** [Analysis:Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty - CNA](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWRwWHg0ZjdRcHRBaFptM0JHeEhoN0piUGNqdU9ERzVXRC1EZEhzMkJhQVg5RlhUQmpiOTdjaEoyaWRkQmJKU1RQbk5RQjg5M3N6WkZLSEF5QmR0ZFE1VTVUUlU0QWxtM3VidjVYbmg0elJYTmVEWEdaTWJ4cmlxekVXWC1QRGZmOE1OZmpnYVBGNkZiQkc5WG9DZmpRT0FrbG5kbGt3a0NJU1lsaUQ4QnY5bl9JeTRDSHlVNXNOclozT05od3FhWU5mcw?oc=5)
+  * 💡 비트코인 가치가 트럼프 시대 이후 하락하면서 암호화폐 시장의 변동성이 불확실성을 나타내고 있다.
+* **[방송/영화/OTT]** [Live News, Documentaries and Videos - CNA](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJQjloOFJmUlo2OHA2Mmh1YkNFMlpJSTJNNGRLUlY0bEhDSkkxUGpIa1M1enhnc2pnZWctdUMtOVJ5a21HUjg0b0JTM3NOdw?oc=5)
+  * 💡 CNA의 실시간 뉴스, 다큐멘터리 및 비디오 콘텐츠 제공
+* **[방송/영화/OTT]** [New programme aims to strengthen social resilience - CNA](https://news.google.com/rss/articles/CBMifEFVX3lxTFB0X3o1eGdIMFRLSXBpSkl5VEFXUVgtWUszbl8tSXh0M1ZGM0VzRTZjUFVhU3A0dXZaQVl3Ums1eTVwdzVkeVVabGN2ZWdwQXU1NTN1b2Rvczh3UjdPUU1hcUhJTEpHLW8xNXU5OFBuakJkOGlyVGdfakFwa2Q?oc=5)
+  * 💡 싱가포르 정부가 사회 회복력 강화를 위한 새로운 프로그램을 시작했다.
+* **[방송/영화/OTT]** [US Justice Department casts wide net on Netflix’s business practices in merger probe, WSJ reports - The Straits Times](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmxXZDdCaU1ueG4xSWwxbWY3NjdXejBFbTNWQ2hIZWlyaEpDRXNlcTVYMjFTZlJXdWdubURsX2JrRXVxR3Y0dFM2WVg5QkFfR2h6TzE0VkN3cjlmUDdpVTBqb1h1el9oZVJTYlRLblZqSUxfTGd2NmNHZmVjcWc2MU1KNzFKSkswVWpuZ2xQXzBQTllQWjZORTNkeGJMV2xHWUY2dlN0aVE4TlpKME5zLThkUGZXazFEbEtCQkhWN3QyTWJUTlhIMkhpb2o4bnd1aTF4OXY2eUp3bW9n?oc=5)
+  * 💡 미 법무부가 넷플릭스의 사업 관행에 대한 광범위한 조사를 진행 중이라고 보도됨.
+* **[방송/영화/OTT]** [Hong Kong summons Panama envoy over CK Hutchison ports ruling - The Straits Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXRmSWhkMkJQd2tOc1ZLR0hjdncwUTZIUXZvN0lpR1VwZmpicHMwa2hGS2k5X3ZpMzMyZk9ROHlYWldwRXFuZ3lrTGtzTGVmdXdCczlvY1RobUhHZUhjYk4yVldpcFZLNWxLVjIxOTM1Y0RGUUgyTURjV3JxTU9vR3FwRnJuOGNVeEl6MWNBZXAzZkVnUkxUT3pnY0N0SEItNmNnb2F0UXI?oc=5)
+  * 💡 홍콩 정부가 CK 허친슨 포트의 파나마 항구 운영권에 대한 판결에 대해 파나마 대사를 소환했다.
+* **[방송/영화/OTT]** [Norway suspends celebrated diplomat in Epstein probe - The Straits Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnR6Y3E3OWlMQU1ka0FNSlBtZHE4RjJPcGZjUHc0U1ZmRUJjcm5MckJ6eml1Q09MVUZpaElfb3VyTVg0czVLWEZwSVhYX0lDemZwSG1WSy1uNUZ0a2ZaQngwOFVBalBDVE1mdHZlVENWV0M2V0lIZFFheGFoVkYyT3FpakQwU1VLdGFxQlN0RHBDZ3QyTDFwMTRB?oc=5)
+  * 💡 노르웨이가 제프리 엡스타인 사건 조사와 관련하여 저명 외교관을 중단시켰다.
+* **[방송/영화/OTT]** [Nipah virus: No cases detected in S’pore, authorities closely monitoring situation in Bangladesh - The Straits Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxORHN6OXhPMXJGWW5fNUxOcUMwVmJSaWEwbWpxY3AxMUhzeTRSV3pVTGkyUTFFbXFocEUzaTFmam12RERIMXVSYlVOUXlXSGZadExQOUdHVE1US3dKd2JGNTNFZ0Zoa0U5ZkdONDZvTzFLcEZuYlY1OHhab3hCRVpqS0lzQmlCOC1CelVacTgzSEs1Q2UxWGZDSE42LVl5RXI4dHNfR3lMcU01MnpRT1JKYnFkLTRLWDY4V2pHOGlrX2J6WlJGblM1SDNuT0o?oc=5)
+  * 💡 싱가포르 당국은 방글라데시에서 발생한 니파 바이러스 유행에 대해 면밀히 모니터링하고 있으나, 현재 싱가포르에서는 감염 사례가 없다고 밝혔습니다.
+
+---
 ## 📅 2026년 02월 07일 업데이트
 
 * **[게임/융복합]** [The Hainan Story undergoes restructuring, shutters 4 outlets within 2 months - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE03ZkhTckx2LXh6bklUeHBPakdmdnNySzhaVlJWVXQxTDg2S254djBMZGRnLWtJV2dXSDE0LU1sZ1BRLWxWYjZDeUVJbXM0VGVTSDVoUkFJY010NWlqVE1kQk96MVFnS3VVbzdHU0lkWllBZXFJb2FUMUF3?oc=5)
