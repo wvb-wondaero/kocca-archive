@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 09일 업데이트
+
+* **[방송/영화/OTT]** [Woman, 38, arrested for causing death while driving in Chinatown accident - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMTc4T3VBX0FLeThOWmRacGV3WUdmRksxSVljN29KcWNHV1ZUbXoxV3pTVnZmdjA2bzVQSktyamtIdzhlMXBueUZRWVhqZHJLb1hGTFBlZ1FBb2RXa3Rnb3hKZ2p2enBQNVV0ZXBzTQ?oc=5)
+  * 💡 싱가포르 차이나타운에서 발생한 교통 사고로 38세 여성이 체포되었습니다.
+* **[방송/영화/OTT]** [Woman, 63, dies after S'pore doctor cuts wrong blood vessels during kidney surgery, fails to report error - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE9EazRNYU9OOTRxN0tPSWpEOEJzRTBqMHRFM0tUMGdVYUVPWEZVRmx4Rkd3enZZdWpldWh0T0N4S0daT0RtQ0EwVUVFMUJQX2xOU3dZZ25mVmZUWUo2aV9yQ0RkM1ZQUWJ5T19vMzNwRQ?oc=5)
+  * 💡 싱가포르 의사가 신장 수술 중 잘못된 혈관을 절단하여 63세 여성 환자가 사망한 사건
+* **[애니/캐릭터]** [Man caught on CCTV pinning down & cutting fur off Everton Park community cat at its sleeping area - Mothership](https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jd3BXbmRRVWEtX0dRbWFqWURSeFZ4VTdxaUJ2OUZiZnpBYl94UkZ5SWQycGlhWmZ5NjdMbGN5MzV6TzhmaVZEQTFPUkw0cDF3eWJZSUNhMXdVeTZzSFVFTHhYRFN3dGZqNmhteDdn?oc=5)
+  * 💡 에버튼 파크의 지역 고양이를 해치는 사건이 CCTV에 포착되었다.
+* **[방송/영화/OTT]** [CNA938 Rewind - Soft power, hard cash: How culture turns into economic growth - CNA](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTJ3RDlITWg4Qk9sRzdlMDZlUWdGUXF3ZTJrVC1XVHVIclY0YzFQZG9EbnpkQ1dhMGs4ckJleHpfNlF4Wmx5R3pieGNWTzZDZmZ0ajBfT0pIMk9TLWFQeTJscnlMYWFsdi11VlRURE13eDV1cGRQVWJ3ODdCeHlPeDNxNUt6czZTN19sLWlUbENVWHZ0RUJSNEZ0SzVCeFU3SHRJZVFuYzdxT3NRZl9ZQXpWSnYwdw?oc=5)
+  * 💡 한국 콘텐츠의 글로벌 확산이 경제 성장으로 이어질 수 있다는 시사점 제공
+* **[방송/영화/OTT]** [‘Better economy, fewer scammers’: Hopes high among Thais voting in snap election - CNA](https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JLdi1VTzdFWVhkSXI0OE52a1p2RnhWaFdRM1dyQ21wMWJYNFRHbFdJdlM3U1ZyOXZYcW5ZX0p5YW9RY29XU3lMdmV4SC0wcVBJRDMyamdQQ2ZZSGdDYVMxMmRHSENhWVRPbERQUnpzYTNiNjZmOUZEZUdBVlBKX2RFaUJITmVkM3JYUk1UZU5hdw?oc=5)
+  * 💡 태국의 혼란스러운 정치 상황과 부정 선거에 대한 우려 속에서 국민들은 더 나은 경제와 부패 감소를 기대하며 조기 총선에 참여했습니다.
+* **[방송/영화/OTT]** [‘Clear signal’: Thai PM Anutin says Bhumjaithai won most seats in election, open to working with other parties - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEF6akZNaHFkSXMwVnNKZm9VZzRWX3lMdXR5dGFVNndMY0JuM0FnYVNBS09fUTRHSDk4MlpsRFZRUlc1NVZYZFkxSGJmNm9jVF9naGhDZm9ueEREUEpXUWJ0bjhaVFRBR1hKanZCQjJkVHJwbHBUWVdVMnNVLVJFMUZBX2xkd3REbkp1d2thYk03WUw1SVVlTHIxcW5DN2hVUjE1UEhHQ2hhMlkzdmlQag?oc=5)
+  * 💡 태국 총리 Anutin Charnvirakul이 자신의 정당이 총선에서 가장 많은 의석을 차지했다고 발표하며, 다른 정당과의 협력 의지를 밝혔습니다.
+* **[방송/영화/OTT]** [Memorial for Swiss bar fire victims goes up in flames: Police - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ04yM1JhQUtlaWlBc2tGeHNWNy1xT0htWGIxR2JLY1RQemxJd283RjB6OVlsQTVSanRsdmM5SmlqMW5aM0stZ2JUdllrM0hDek9LSlV3TkVDbkQyWjRMdFBINHVMblBYQ2ROMzF1aHlubkk0czNXQlcyazRsX1dzQzRPbGRLRTZhNmFmUjJTazJFMTRacEJhbw?oc=5)
+  * 💡 스위스 바 화재 희생자들을 기리기 위해 세워진 기념물이 불에 타버리는 사건이 발생했습니다.
+* **[방송/영화/OTT]** [Waymo admits its robotaxis call ‘response agents’ in Philippines for help - The Straits Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMURvYlk4V3RqRW5qYTBHcUs1aVoxamhnZXhVUnhuQTRad1c0SmVBTzZaZ21oOGk1Q3VrWnJCLUVrY3NNWFFkakxzZkJqS3NjS25vRi01THlDRXVFZzJkbktkcUx2MHZld05BNDYxUnhCQ0thVWd0bWpFeWJFRWlCOHozbWh6cE5WUUwzV2dERDdMaW9JbDltT19CNldrRUFZMXkzR09acU9YMnota1pvOFd0VmU?oc=5)
+  * 💡 웨이모가 필리핀에서 자율주행 택시 운영 시 콜센터 직원을 활용하고 있다는 내용
+* **[애니/캐릭터]** [Move over, Ghibli – caricatures are the next ChatGPT trend - The Straits Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlZJdDVMT1ZQSG94azhfTlUyTUtJMnIwNlRPWHpZMjRLdnJqZjRiZGNnYXJBbEc2NFd2RF9iN3hpUThTa3RQZ0l4NHRHMG1DemdpTkJGSGxqTW1xb3ZnNXRYQ2FxQkhfVDh3ai03RUw1OF9sUmdHWVU1UVlvbmtpeUtFa1AxYk9sWnI2MWQxbnQ0dVU?oc=5)
+  * 💡 ChatGPT 이후 새로운 트렌드로 떠오르고 있는 캐리커처 제작.
+* **[음악/공연]** [Race card for Feb 9 - The Straits Times](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcElNbXNUWVd4bV9WMDIxU3VCLXliNlpFaG5tZHhmOVpkWk81a01zbUZ3bC1XXy1zRUtYdWQtQmdPZFpuNjQ5Wko5OXlkaHlFN05YTUpKUzhwOUc1T2dDRmVHT2I?oc=5)
+  * 💡 싱가포르의 주요 경마 행사인 Race card가 열릴 예정입니다.
+* **[교육/학습]** [Sound slumber is the secret to PSLE success - The Straits Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVSNkpXUlBpckx2X3JaQTJ3QlJzSGhZS1dpYjNUNFk0SzE4TGc4U2l2MENUYnFBb29wQlJoeWJEODk4ak96dHhKNVVTaWNoc1N1WGtUcVJ5dkpvNjFjTk1ULTFIdzR0R1BONEZsaGtmVFE3b0lQejhpUUE1dmwwRGhNNTBKNld6NVhjeEl0SWNPVnU4UllIcjByZDB1R1BFLW1JTA?oc=5)
+  * 💡 좋은 수면은 PSLE 시험 성적 향상의 비결이라는 연구 결과를 소개하는 기사입니다.
+
+---
 ## 📅 2026년 02월 08일 업데이트
 
 * **[게임/융복합]** [S'pore man, 25, arrested for Pokémon trading card scams with losses over S$135,000 - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbnlDZ0xma0NRU2VKczY0V1Y1elZjaVVyRGR3YnJSZXZ0dUp1S0xjODZwN3psb3FMbV95SENsVUNrNHRrYnB1bTVta0dJNENTUmtQLWRFd0p4QVZKNkNBc09GSGc0djJ0a1FXUXNLLUw0amQ5NVI1R013?oc=5)
