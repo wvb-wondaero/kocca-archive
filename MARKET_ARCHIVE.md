@@ -1,5 +1,37 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 10일 업데이트
+
+* **[패션/라이프스타일]** [Mum of girl, 6, who died in Chinatown accident, still in intensive care in S'pore: Indonesia police - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1fcmN2eTUtY3YzQU5ldVZLc2NWVUt3bFVuWUJNYzAzQ2k3MVdNdXRwQ1kySVFQa1QwRVE1cGd1eE1qSVF4bW1hNGh6MVprRDdYSjdIN3R2T203dmhYR05ueFRvdTNUZjRxcjIzenZKWQ?oc=5)
+  * 💡 6살 여아가 중국타운 사고로 사망하고, 어머니가 중환자실에 있는 사건에 대한 인도네시아 경찰의 보고
+* **[패션/라이프스타일]** [More hazy conditions observed in S'pore as Johor hotspots persist - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTFBPdWgwWm94RWI2MWw4VkJtcFkzQ0FRRHlMUExtYjZqNGRCVlJxQUlsa0gyRXBQYkxxeTNTWUpSbUxrcXJ2bmx1MUF6ZjVqbUF4VG5yTXVvejFzekJGRF9pTldkNGphLXhBV09ndVJmaldyd3dE?oc=5)
+  * 💡 싱가포르에서 조호르의 화재로 인한 대기 오염이 지속되고 있다.
+* **[방송/영화/OTT]** [Singapore telcos targets of UNC3886 cyberattack; no customer data stolen and attack contained - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxQa284QVRrTkR3T3AwM0M4WVgwcUpXZ0RGTE9vM2FkYkN3bC14OHdSUHBaU2VaanhoOXRzM0w0WWx6Q2o3NzhlQXlnS0ZmNnFhYkZQcjFVNVBYbDJsMVdOR3hhdUM3VnoyODNRYWZTNXk0Mm8tN2JRYmxSY3BOeVpsN0V3cmZIQ0kzcm5GR0ZvaHgyTUQ0XzQ0bndudEVuRDVQaGVOYXVUd0Q1VU52dzFaWQ?oc=5)
+  * 💡 싱가포르 통신사가 UNC3886 사이버 공격의 대상이 되었지만, 고객 데이터는 유출되지 않고 공격이 통제된 것으로 알려졌습니다.
+* **[게임/융복합]** [Databricks raises $5 billion in latest funding amid IPO expectations - CNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHl6WlAyUVByb1BTZ3BGWURUQ2lqVkZuRnI4VGZ2VjF2Y3RDVzhnUFlKNFB1MDRoWFhUUHROQXozR0NIa28tQVlJNlVVY0FsX2tZRmtUM3ZLQXpnMndSYl9iaG40SXVJbEJheWdURmJyVFhmLXJHcjRNc3RIZEd3WVczY1ZVZV85cjV0aXBReWpKZmNzZ1d2R0c1WjV0X0xhWmQ4ZE83WlNSUU01ZnZIaWN5LVRzUGc?oc=5)
+  * 💡 Databricks는 5억 달러 규모의 최신 펀딩을 유치했으며, 이는 IPO 기대감을 반영하는 것으로 보입니다.
+* **[패션/라이프스타일]** [Singapore's wealth inequality higher than income gap, comparable to other advanced economies - CNA](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEdLbUptOWNGcFVtbDdwSk9kS2ZXemVBeEwxMWJpQ0VrOEVvc2dpNG9kd3h3RkY0dDVrQ3g0dm5IaWszVFd4TTltdVp1TXFScHRLeVk0OVo0azdTVG53dVZ2VVMwcU1Bby02U0dCQk0zdUVvaEFHWllfb2JmS1E0WlZSbUtGaS01V1VudWI1QTIzeEpiNllEeWNzRVdzTXZiYjlEdFhXYU96ZVVXUW9CVGlWRlVBZjU3N3d6NldEd2M?oc=5)
+  * 💡 싱가포르의 부의 불평등 수준이 소득 격차보다 더 크며, 선진국 수준과 비슷한 것으로 나타났다.
+* **[방송/영화/OTT]** [Jimmy Lai's children look to Trump and other leaders to push China to free their father - CNA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3cwa1BES1VVenZqdERZTGJ4MnZoLWFPY2JpV1RDcXlqUWVSQ29qZWhiSUlGbTFORHpLdDhHd2RzbFE1bExKX1E4MUFnZmZmOENON2ZETmFMQ0ZLZXhWQlhNQkJiMm1oU3kzeWxiWnExcEVsRlhLd0JRemo5ZkxzRVU4d2NYOXVoUmc?oc=5)
+  * 💡 홍콩 미디어 대표 Jimmy Lai의 자녀들이 트럼프 등 세계 지도자들에게 아버지의 석방을 요청
+* **[방송/영화/OTT]** [Singapore monitoring 'relevant standards' amid safety concerns over hidden car door handles - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxQazh3cU1xVTI2VV9lc2twZV9wUy1XTlFQMUF5aWlFUnQ5VUVoanlhcnJENUN1c19iLURWaWNsQkhzVVg3ZkJzZVJxeXZ0cDJjWTR5UWxmTDRBU3Y3WE1UYTRXNE9CSnhnZmVWVkZfbjNBSXNyNHJBUXlNSGlRVjlxd1V2MGNOdjVxVWYtWTdzcHg4V3dRNEE3dzNaNXIyYXJIZmJZWFBZMA?oc=5)
+  * 💡 싱가포르 정부가 차량 문 손잡이 안전 문제를 모니터링하고 있다고 보도했습니다.
+* **[방송/영화/OTT]** [EU tells Meta to open up WhatsApp to rival AI chatbots - The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHN4dlR2S0dKRlZHakdVMGdDaUM4RnNXSVB2YzVWRkIzUFlMWU5zTWhaamFKQW91TExERkotNzAyV29ySWo4am9MR0ZSdVR5QlV2N0dyT2l3REdNZzVHTzBGZVNqOURYTHdkczZOWGdfOXJfRFYtNzl5YTRBWTVWdWdIemdoTnRjTTUtam9aRERGVjUzSUVqUjJKWEZIdWtOYURJ?oc=5)
+  * 💡 EU, Meta에 WhatsApp을 경쟁 AI 챗봇에 개방하도록 요구
+* **[게임/융복합]** [China digital exports surge as Alibaba and Tencent lead global push - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxObE9IV01PSm0xUVlseUhqUzQ0MkhIRVNNMnAtNTdwV2V4bkh6bHhUQmhIVzVGa0NWdmhDZ3dTQmRncXE2Qlo1TEJhMnZrLXVhMjJiX2JrSlFwbFB3TVRWUVlPYUhMT1M2ZUhnM285SC1fUDJ3eGtMSlRKY25CS0ktQWlWTHFoek96dWp0WDhqZ2xkLVEyay01RXZwLWpHbk5jUGQ4U0V3elNlWWY5S1E?oc=5)
+  * 💡 중국 기업 알리바바와 텐센트가 글로벌 시장 진출을 주도하며 중국 디지털 콘텐츠 수출이 급증하고 있다.
+* **[방송/영화/OTT]** [Man admits to torturing woman, 19, to death; her brother and their MLM coach facing murder charge - The Straits Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0xfNUlaUUZ4SWVXQmRlTXltY0RRSFdwbEpIeDhwdkZGOUZtVldVX3MtZmVXR0hmUEs0aXVFLW53M0hlbDVPRHlTU3JXX3dBbkpLSDdUZ1p5QnlDNlVwQ2NURVQ4c1VUT2xjZUpldjhGNDE2RUxKUElLblBCNU5DWWVJUEo2WnptWU9HWHJJdGRoVnFWQUZPYWVmdXRpVjdULWRrUHRSbWx4MFZRejlQQnBweXdrZF9nUFhtTGZNQ1V3eDVrVkJIX3YzY3dHR2pNSXg1MjJBckQ0TDNaRXY0?oc=5)
+  * 💡 한 남성이 19세 여성을 고문해 죽였고, 그 여성의 오빠와 그들의 다단계 판매 코치가 살인 혐의로 기소되었다.
+* **[게임/융복합]** [S’pore’s four major telcos came under attack by cyberespionage group UNC3886 in 2025 - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2N4LXJmb3hJUThmSjRQTWd1bEo2ZUNOOWtJa2pRTUZlcVFUTzV6ZEdpZ1VfZFM4RXYtZVZZbDBXZHd1MWgtdkJjVzdqUFhMc1p4QUdJdXFfeXZqN1VrRkcxN3JUSUNfV3FzeTBtV3NEdFU0NFp6MUZoWFY4N1p3Q3RRUE1jMF9SRmZmTVhCSndxVm9BVWdCR3ZqVi13QWlTd1YycGtaSkJsSlNLOFE?oc=5)
+  * 💡 싱가포르 4대 통신사가 사이버스파이 그룹 UNC3886의 공격을 받았다.
+* **[방송/영화/OTT]** [Largest Cyber Operation Mounted to Counter UNC3886's Threat - imda.gov.sg](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0UwUmQzbTFFZ2ZpUUNCRTF3cDRtLXpHeEpMcnNQY2dvRl8taVJxdWItWTg4dkt5bkRMc3hUZ3hwanhkNkFwSzdhd0N2NWZaR0RZREh5bXYwYUY3ekh2R1JwWVNIWHRPdDgzREJUaWdpTWQ0SVFES0Jla1c1WnphMGxWT0ZEZVVYOWlhWkRmY2MyR2ZWc0toTGZQMWtYT1VRdTg5ZXViREs2S2pZWlpZUUY5Z2hPOGdUYXNUVHZ0dzFNV2t0R3lUbFdJeEV4VHJnZG9TWkhFZzJiQndZNlE0RHJ0NEo?oc=5)
+  * 💡 IMDA는 싱가포르 정부 산하 기관으로, 최근 UNC3886이라는 위협 그룹에 대응하기 위해 역대 최대 규모의 사이버 작전을 펼쳤다.
+* **[방송/영화/OTT, 게임/융복합, 애니/캐릭터, 만화/웹툰, 음악/공연, 패션/라이프스타일]** [Refreshed Industry Digital Plan to support over 1,500 food manufacturers in accelerating technology adoption - imda.gov.sg](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMGNnZGQ4NWstQnR2RV9CNGZPRXRwS1VzRFVZX2todlU3UjZWZnJPRHMyMDBTaEVOWmR1U3d6aDY1NFY5aG1OOUlzbGJTeU1oNnlNaVBhSlJvaEwzeWM4LVZmeHNJdEp6Qmc2aFlSRjFSQ24zZ091YlFQVk5ZblZGVXNzVDBqd1FtWDI4c2ZYRHoySFNleUh4RGNDY2FabFlhSGdZLUlOaWNUWVd3Z0xfRlJJNlZscm1aQ3NjYlpQZFpLTGxpUlhzeFoxY1E3WnlJTkNLR0dfTlltaDZDTzBYbE5COUlKaVgxYjA5allWTUNkVnQz?oc=5)
+  * 💡 싱가포르 정부가 1,500개 이상의 식품 제조업체를 지원하여 기술 도입을 가속화하는 새로운 Industry Digital Plan을 발표했습니다.
+* **[방송/영화/OTT]** [Media - Infocomm Media Development Authority - imda.gov.sg](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3BoUnJTTnppbGRUWWFLTTlUNG91V1pqMmdmcXBrWnBHSUgtNlAzRFZvaEV3WWdNMHk4TjNyUzBDX1pSbENERzI1QnFuQkdhbTRzeWlwS2NLdUNlWmh0VzJHbGpnRTRlVWd0cy11V0lZczFJbUhUc2g2ZjNrSzBteWJ6YVhwSXgxbW1oSzdiX3E1TDhER3hwTA?oc=5)
+  * 💡 싱가포르 정부는 미디어 산업의 디지털 전환을 지원하기 위해 다양한 정책을 발표했습니다.
+
+---
 ## 📅 2026년 02월 09일 업데이트
 
 * **[방송/영화/OTT]** [Woman, 38, arrested for causing death while driving in Chinatown accident - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMTc4T3VBX0FLeThOWmRacGV3WUdmRksxSVljN29KcWNHV1ZUbXoxV3pTVnZmdjA2bzVQSktyamtIdzhlMXBueUZRWVhqZHJLb1hGTFBlZ1FBb2RXa3Rnb3hKZ2p2enBQNVV0ZXBzTQ?oc=5)
