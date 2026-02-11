@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 11일 업데이트
+
+* **[음식/라이프스타일]** [Cleaner seen sweeping BreadTalk shelves with broom at night, company says it's 'completely unacceptable' - mothership.sg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXJqYzlpZnIwbzc0M1V2OTJrWXpsZlpMWDB4WkUyalZGbHZ3UlZ6SWdGX3U1X1hrZmFIQzFxel91bk0tcjBnVC1IQkc3cHVCWm83SnUybmxtUWhNYmdfUUhTdG1md2lRcmZtLTM4TXkyVS1tYkZXbDc0NWxiVUtzVXVvbkRicWVrdDVtQWVRY1lzSEdEcWpQMjZkVQ?oc=5)
+  * 💡 BreadTalk 매장에서 직원이 빗자루로 선반을 청소하는 모습이 포착되어 회사에서 '완전히 용납될 수 없다'고 언급했습니다.
+* **[방송/영화/OTT]** [Mum of girl, 6, who died in Chinatown accident, only told of her death more than a day later - mothership.sg](https://news.google.com/rss/articles/CBMic0FVX3lxTE5NUWlyTGkwclQyMGZheERid3RITDM3UXVsbXhhMGVjUXNWcWQ4eUJRd0JNc1FIejRtbjZjcWx1UDVWMWZKemxsMklxWm5nNkFqbFR1NS1mNmZxa2x5TTVocUVnbEYyb3hlaTNiVEVxY0pwQ1E?oc=5)
+  * 💡 싱가포르 Chinatown에서 발생한 사고로 6세 여아가 사망했으나, 사고 발생 다음 날 오후에야 어머니에게 알려졌다는 내용입니다.
+* **[방송/영화/OTT]** [Korean fast food chain Lotteria is opening in Jewel Changi Airport on Feb. 11, here's everything we tried - mothership.sg](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtbEFFV091U1ZSTWVIeFR2a2dDaDVJRDJxLTJ6MmlZc1dDQ2phWDRYb1k4bU9hM1RTSExvU21TdkVSUWpOZjBVQUM2LTZkR3ktNTNwS2FpeWlYSXd3anc4?oc=5)
+  * 💡 싱가포르 주얼 창이 공항에 한국 패스트푸드 체인 롯데리아 신규 매장 오픈
+* **[방송/영화/OTT]** [China to support 'reunification forces' in Taiwan, go after 'separatists' - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxPS01qOVRvVmlqd25pZFdRUkdxU1dVbm9kLWNoRWdCQk5QanRDem5RNDY1d0lpcVVkX253alVoWHhibkZ1SGduZGd2QmFhdkVLRE4tdFNGeTZyOTZ0cDRQV1ZHbmR3RWszVkR5dFYtekNoSlJuejJWTThGeTVkRWxSVWNPVjc4Y19ZNjdJU2FBTjhHOTVvelNiVF9RUV96RGZzOXFFNUNn?oc=5)
+  * 💡 중국, 대만 '분리주의자' 척결과 '통일 세력' 지원 방침 발표
+* **[방송/영화/OTT]** [Britain's financial regulator seeks to block crypto exchange HTX from UK social media - CNA](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblh5N1dNa243c2lFWGVIZUZ4ampGSm9Zb2thNVh2OE5MbVd5dFZzVWF6MHNyWW8wSVR3SWVHV3YycGdjZ0R4N3Rsbkhjal9GaFpKMWRYWHlVNXcyeHBYU0tFZW5qQUJUeHNjeGplMm5LWkMtV0pQUWlVM3ZoUnBMY1UtcWFHM200QWZPd2NTcGFaWW5rc3pUODlYMlJvYXhpU1A5OUVxWjRBd1hXcEtjWmpmaWlaWmtkQnNpMkhWZ1FnV28?oc=5)
+  * 💡 영국 금융감독청이 암호화폐 거래소 HTX의 영국 내 소셜미디어 활동 차단을 시도했다.
+* **[방송/영화/OTT]** [Thousands protest in Sydney after police used pepper spray during rally against Herzog visit - CNA](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1k3R1JQTmItaEVJMVJLem5sSHRjWlQ3UHRhSHpFNHRKc1RDd2t6SVl1ZWkzWGFIVG03VnJwclh6dUY0Q0hsTXhUMk1YeVY4UFczYkZoT0tYcUdRTUVBd1hYcjhnNW1kUVM5U1NHQXVoX0g2X1pBZXIzT2pUcWtsWTQ2bEVUbDFPclhtQkRmVFZ6VEFsYUVSajYya2hlcVpzV3FqMk1EcU50TjRpVDJhX2pQSm1CRXRUTE9mZ1pzZEZMN1JhUzU5RnZLTTdPeXl3VldYSQ?oc=5)
+  * 💡 호주 시드니에서 수천 명의 시위대가 경찰의 페퍼 스프레이 사용에 항의했다.
+* **[방송/영화/OTT]** [Japan election results confirm supermajority for Takaichi's party - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUpFNXMxQ093cTNIUFgxc2pLVGpubklDdFMwMTdSUzBvTnZpazRaeXh5NUpXQXNYRFhJczRuajdmbF9IalV4X2NKYWtiX0dPdExmbGJ1aGloLUtGZkcyUl9NN1FzdEV4dV9zRnlNWHdBVDg0V1JUM0NYaEJkaE1zV0tJeDJsYWVZV25hVzNIYldZS1BSWXlyaV9PME1jZjVm?oc=5)
+  * 💡 일본 총선 결과, 다카이치 당의 슈퍼 과반수 확보.
+* **[방송/영화/OTT]** [Tool developed by Singapore surgeon’s team makes knee replacement safer, more precise - The Straits Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOU5KZTVYOWVoVWY4MFRDNmVCMlFfY1FXVFlPZUlVWl9rNXNkRVI3YkkzcGdZSkxuQ1JsQkZiTEtic2llbTNyT1Z0aTdJM3JpeEdCc29zZDVlUzhkTk9UakRuOWlHcEtLUEZlSGNkbHJ2VnQzM2lvSS1qbl8ydWZ4bEpJRVBQc2wxR1pxZVRVWDl2dlVuVTQtczRwRmRLZko1TkctblA3c3FyZzBuVWpObUl4ZE1pZ0VkbDhQQV9iLVdqaWFFbk9Z?oc=5)
+  * 💡 싱가포르 외과 의사팀이 개발한 도구가 무릎 치환술을 더 안전하고 정확하게 만든다고 보도됨.
+* **[방송/영화/OTT]** [Taiwan’s security blanket may become warmer after Takaichi’s big win in snap polls - The Straits Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFXNmJOOG1XVVpmNC1Pa0FaeGwwTzI2eEozVjJRX3dPZTNRRlRJbVdRRVZEeXo4ektzdE1UT1Y3WXBlclpoNkpkNWt4NGdLYWxrOTQ3cHg5SzNET0VyUXIxVjVwZGxnS09lY3BYS2pJVGdTZTZ0QndXNUkwbGFUWmtKMHF4ejdUcm9FNERDRE81Q18wMjdfSWs3QVdBMnZabzVCN1V2QXRaS1ZqcDc0OXp0bGVTNEYtanBidGQ3bHRPY0huSW1UVkxn?oc=5)
+  * 💡 일본 신보수 정치인 다카이치의 선거 승리가 대만에 군사적 지원을 강화할 수 있음을 시사
+* **[방송/영화/OTT]** [Seven killed in gold mine accident in eastern China, state media CCTV reports - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHBnVFFOeXdvMm9lUVltMW1FVW9CX3l1dEhURXFNS2JKLW9fcmI4OFNSWjhWaEFtSnQ2TzFBS0w4M2NpN0dpYXkybl9OTXAtMlhmZXBFR21XcUtpcHk4WFkzSEpyOE1wRDBIWks1a21RdVFtenBLaExUMVRFN0xEZW5iekEwSFlSZzdnRjB0OUE1MjVNNjM1WFhXU21sc0NIZkU0aG12S2dMZW15QWpkczlVb211Njhoa3h2Xw?oc=5)
+  * 💡 중국 동부 금광에서 사고로 7명이 사망했다.
+* **[게임/융복합]** [NSF, 22, arrested for allegedly making fake bomb threat against Paya Lebar Air Base - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxONjVZbWpMRFExYUZkM0JzQTdGcmRjQ1lyU2tnMDlDendRNjBBQ05yWkh0RUF0aXpZc3VNRmRfQktYU0FNNVpfVm5RYlgwTW1MOU5CbndBd2JacmVva1BaR3hkX2NDVDN3VFk4QnlpazIxcDBrVDA1U2E5TFU2SDN6cVVxYXdJS3VBRndtVzFKcGRYVW01QWRFR1BBQVlTanpnbjZWbFhPb2QybnZ6a3BlSkkxT3k3LWgwazNUSA?oc=5)
+  * 💡 싱가포르 국가보안국(NSF)이 22세 남성을 페이아 레바르 공군기지에 대한 가짜 폭탄 위협을 가했다고 체포했습니다.
+* **[방송/영화/OTT]** [Film directory - Infocomm Media Development Authority - IMDA](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0E1TDJfaE5sc2Z3dVF5OTQxbkt4clVlTUkzS3ZseUUzUlFybGVMX3VRaTRJNDNqYjlWcUlKSXRFQWF1OEhLY1o2a2thZGQ4MXBLd3NocnpOWTA3cmpTVGdqZXR3MXJKY3Y0QngyUHMwY09MQ2pLY25jZVpSZzFPMC0tUHlfOHI5UjVKZkhreWVxLWE5NUFJanZzdHlQSEltbTYwd1VINjNRZWJfQmxmOUdYX3lDZ1Z6V0xsUkNoR1QwZw?oc=5)
+  * 💡 싱가포르 정부 미디어청 IMDA가 영화산업 종사자들을 위한 디렉토리 서비스를 제공한다.
+
+---
 ## 📅 2026년 02월 10일 업데이트
 
 * **[패션/라이프스타일]** [Mum of girl, 6, who died in Chinatown accident, still in intensive care in S'pore: Indonesia police - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1fcmN2eTUtY3YzQU5ldVZLc2NWVUt3bFVuWUJNYzAzQ2k3MVdNdXRwQ1kySVFQa1QwRVE1cGd1eE1qSVF4bW1hNGh6MVprRDdYSjdIN3R2T203dmhYR05ueFRvdTNUZjRxcjIzenZKWQ?oc=5)
