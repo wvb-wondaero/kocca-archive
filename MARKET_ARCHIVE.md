@@ -1,5 +1,35 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 12일 업데이트
+
+* **[방송/영화/OTT]** [Ascott S'pore offers free accommodation to father of Indonesian girl, 6, who died in Chinatown accident - Mothership](https://news.google.com/rss/articles/CBMif0FVX3lxTE16bXh1RzZxckQybmYzaTlSZ094Zk5qSjJTQTBhM2I4c3FXMXg4LWxWMG4ybllQV3F5TVNkRENDQ2FfQ2F4a0g2bDVfVW1RYlVyTllmSmVRTTByQ0Y0TTB0UjAtZnRvb0c1ZmFiNThtTmRmV0VzeXpodkRPaEQxV0E?oc=5)
+  * 💡 싱가포르의 아스콧 리조트가 중국타운에서 교통사고로 사망한 6세 인도네시아 소녀의 아버지에게 무료 숙박을 제공했다.
+* **[패션/라이프스타일]** [Large crowds gather at ION Orchard for Chinese actor Dylan Wang's fashion pop-up - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qRlVuekRGSmZQQjk3T2xIdy1GZEowZlloSDhDOWIzT1p5YW1oaThTN01PSTJuQzVUeFpkOUhGX0NET25ZZ2UzeENTdFRJUkVBV2hiMy1EM2xtR0pfMV9kNmVhMzhMajA4Qkt1WkNTM3o?oc=5)
+  * 💡 중국 배우 Dylan Wang의 팝업 행사가 ION Orchard에서 많은 사람들이 모여들었다.
+* **[패션/라이프스타일]** [Taiwanese actor Jasper Liu shocked after paying S$64 for 3 bottles of water in S'pore - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUkVtaG1jR0JScjBNVTFzVUpYLVVnaDVTczgtN0JGY1o2RlVhWWRnNThUZENPSmNuZ3FjYmsyN2FPVlJKeXlybzB3U3ctRWVjaUpnUFJrOEtnMnRJMEtZMmpHWjUxdXQwUlE?oc=5)
+  * 💡 대만 배우 자스퍼 류가 싱가포르에서 3병의 생수를 64달러에 사고 놀랐다는 기사입니다.
+* **[방송/영화/OTT]** [Taiwan opposition party agrees to consider president's defence spending plan - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3Z2VWRweWpXZHk2MFV1cEEybE0tUzlaNmdlOFNsTFZLYjNEZzJONkNhSUVNVHJFYjZEdHp2NWF6RXNyN3FjNEZORFBzbE9HcjBSblZTZVBVeDlmUkpnM2tKYVdRNHRjRzNHRkhVb1kyR051VGhtU1I2LWx2c2lMcjh5SUFzRURKZTlYSnpacVpvZXJ3WEdXWWlFU1hKMVVsdDNPQV9qcGI3b0x3WVE?oc=5)
+  * 💡 대만 야당이 총통의 국방 예산 증액 계획을 검토하기로 합의했다.
+* **[방송/영화/OTT]** [Struggling brewer Heineken to cut up to 6,000 jobs - CNA](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVJxaVhDOFcxZmgtYjNJX3BEcXowUllVWkNMYjJna0pQSFUyRm90aC1ZZ1RldlhHRWx3UGVuUm9lS1lrSDZkdlRKQXBMV2w5NDRJSnlEUVp1S0EyNWJBTndkS2dFOUtfN0FTWF9UOEFDbmN2cDljRUlFSG1XOVZuTVo1SzVheUM2aV84MTE2aw?oc=5)
+  * 💡 힌케n이 최대 6,000개의 일자리를 줄이기로 결정했다.
+* **[패션/라이프스타일]** [Malaysia projected to save over US$600m in RON95 fuel subsidies for 2026: PM Anwar - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWU9leGhKLUJfZkNXalZhTk44WENTanN3MGhoVEJGREtrb0VobXhrU3JTLVFOTi1Qa1o0RDRlVEM3blg3azNaSTF2b2paMHE2SGg1UktrRWxYUEJMbmk1RWFiajIxYUh2TzFIRVpuQWRJTHdtbUs4SWotTmd2RDUtQlp5WU54WWFSQ200Q2daTFZ0dmM?oc=5)
+  * 💡 말레이시아 총리가 2026년까지 RON95 연료 보조금 절감액이 6억 달러 이상이 될 것으로 예상했습니다.
+* **[애니/캐릭터]** [Watch: One Piece Season 2 trailer drops with dinosaurs, Chopper and other Easter eggs - CNA Lifestyle](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUJuSGlsSC13RlMxSWxqeVFSYUE2WkJKQnBkclBESmRlMVlieFRDR3RnMGxBcERSUllkT2p5cTk5Umc5X1lGN21DRHFWYWlyald2ci1XbHpLdk5zeG4tWC1HZUNoejgyR2NxM3JoSjBQQVo1WktmRmxKRkxzbnAwMjhkVkwxdHdaQ2FFeVl0VFlfQm1EdV9pa3JmSFQ?oc=5)
+  * 💡 원피스 애니메이션 시즌2 예고편이 공개되었으며, 공룡과 초퍼 등 다양한 엑스트라 요소가 포함되어 있다.
+* **[방송/영화/OTT]** [Can Europe survive Trump’s ‘wrecking ball’ politics? - The Straits Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUhOTjg0MmVLRmdwb1pwQXZWT1hSSDE3TFRmZEVCcm8tTTU2UE5USlphQTZCelVIV042NG9nVmltUzZSNXY0b0ozSE1wcmJfMUV6NXZSMm5lb0JHaS1OeHFYQmhtU3VEMkVET2M4MndtZ2hoaWJCUnhIb0FhQW9KOTFtRXcwOFo1TjliY0hB?oc=5)
+  * 💡 도널드 트럼프 전 미국 대통령의 정치적 스타일이 유럽에 미칠 수 있는 부정적인 영향에 대해 다룹니다.
+* **[방송/영화/OTT]** [Taiwan president urges parliament to pass stalled special defence budget - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3AzZDhQbjdxME4ySldYdVdmRGNGOFE2Qmg2NGhYTHNzOGtDMmJQTVFENEF4eDZCdUlkTm1rdXhTQTNyRURqSzkzUkVabmdBU19HQVJLRTFnNzczeld1bUhtWkFLRGt5MTlOOExRZExiaTBRaDJFaDAyZFhTSGNFTTV5TEViOGdpcEhQZFpWUmlEeHc1QTNxOEpZbFlmSE9HVlZ2LVRfQXdZUQ?oc=5)
+  * 💡 대만 정부가 국방 예산 증액을 의회에 요구하고 있습니다.
+* **[방송/영화/OTT]** [US forces withdraw from Syria’s Al-Tanf base: Syrian military sources - The Straits Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbG11UVZXTVpOSEJTT29RejltUDVDYWNDcUtNOGtHcXFsWXZoNXVzSjVnVUpfSl9XdlVzdFVHeDU1LXl1alJtSk9Ib3hyMzJ1MlV6YW9ZcXYwOGwyOXNuRWt3T19iRzhRRmJHSEdvMTlfTVRwMjRxdDczRC0tclJ3aDN4WS1MLUF2ZkdHaDA4c3FtaEdyWG1nUldKdTdpQ2pBVXlhOGFqWXBWZVMxMmpSU2FrMFI?oc=5)
+  * 💡 미군이 시리아 알-탄프 기지에서 철수했다는 소식.
+* **[방송/영화/OTT]** [Trump tells Israel’s Netanyahu he will continue talks with Iran to see if deal possible - The Straits Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxPc1FQRTliX0x1MDVjb2ttVXZyRXVjNUVjVVB0VExtYjJTRGtCWU9sVUY4aGxRVFBlUFhMbXNaMmlyMWlWVFJmUmV0WFEtM3BNVmdMUjBNbmYtMkZIQ0QzT0piZnFNQS1LSzZXeWgxUkoxekV0OFhVWFVCOFBWcWo0ZmJFa1dGbWJFelc2c0NPdU4yWER3X3BSb2hUUEpuS3cteVFNUnVmOWNQTUR5SllzQ29DUDN5U3VmbmNTYTk2NFYydjM3RXc?oc=5)
+  * 💡 트럼프 대통령이 이스라엘 총리와의 회담에서 이란과의 협상을 계속할 것이라고 밝혔다.
+* **[방송/영화/OTT]** [Taiwan says budget delay risks ‘rupture’ in line of defence against China - The Straits Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUwwSUs4MWhIbkR0c2pZUFdZWkEzbnJTbXhEZU9oejQ4U2JMOTQtR0FBZHN2c2JYY3pQdmxqX3RyX2xGX0pGc2xlV1VENXh3YkM3RXMweFpBNHVma0tRVTFIcFZYZVctMlpDMXJpUWI3T19tSko5aWxUYjdvUDJyaTNVUFRrRG56LWlsMnBHVFNVRkV4djVFQmQ2QVJyWmRFa2lrMnVDbVhYMW5veUREVTJwUXI2MVk?oc=5)
+  * 💡 대만 정부가 예산 지연으로 인해 중국의 공격에 대한 방어선이 '균열'될 수 있다고 경고했습니다.
+* **[방송/영화/OTT]** [| CTO-as-a-Service - IMDA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnFGNmxwTjhQNXFBcy1RVWZZZjAycjFjOVNwUXZUNldxRzVoZDl4NktkY01xeGEwVTN3UFJfU0hDLW1FVjB0TXZ1OTRBbzkyZWJpenZ2dDRTa19jZTVjTDZCVkJZcHIyQ3VMVmFQLUpGMDFoOXhUVjAwRVJPYmNZMFV0VldUcmhVZENkRlFkdVZqeFk4MnpfV0hMb2FYV0owOV9xWVFCMA?oc=5)
+  * 💡 싱가포르 IMDA(Infocomm Media Development Authority)가 중소기업을 위해 CTO-as-a-Service 프로그램을 운영하고 있다.
+
+---
 ## 📅 2026년 02월 11일 업데이트
 
 * **[음식/라이프스타일]** [Cleaner seen sweeping BreadTalk shelves with broom at night, company says it's 'completely unacceptable' - mothership.sg](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXJqYzlpZnIwbzc0M1V2OTJrWXpsZlpMWDB4WkUyalZGbHZ3UlZ6SWdGX3U1X1hrZmFIQzFxel91bk0tcjBnVC1IQkc3cHVCWm83SnUybmxtUWhNYmdfUUhTdG1md2lRcmZtLTM4TXkyVS1tYkZXbDc0NWxiVUtzVXVvbkRicWVrdDVtQWVRY1lzSEdEcWpQMjZkVQ?oc=5)
