@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 13일 업데이트
+
+* **[음악/공연]** [S'pore F&B company gives gold plaques worth more than S$500,000 to staff with over 10 years of service - Mothership](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkhDLVo5WlJuZHp4QlhzU0ZUSkJwV1EtNUpHVWlwN3NnSG5EbHNpWmRBc3BYUnl1TmNKeUtRTHNjRklpc3ZIODl2VUNDcjZGNVQ3VW8xZndzM3RHTlRFbmw4ZTVraGhzSTNNcUFYTFRTN3JfYmJMYnp0NGVBYWhlLUZwT28zQQ?oc=5)
+  * 💡 싱가포르 식음료 기업이 근속 10년 이상 직원에게 50만 싱가포르 달러 이상 가치의 금 플라크를 수여했다.
+* **[게임/융복합]** [S'pore to establish National AI Council, to be chaired by PM Wong: Budget 2026 - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE0yaFlEdzExbERpeWd2RHgtbEY5eUZqQkgyR3Bla0dTVGxmSGIyanJaSnB2YkRuMEFGWXdCYjROejFZRXhRTHBqSmw3Z0FYbTloRVBlNEpHbTR4ZkRfRU9mWG9EbmxfbzFKWmwzZUM2cFZEalNRTHFyaHpn?oc=5)
+  * 💡 싱가포르가 국가 AI 위원회를 설립하고 총리가 이를 주도할 예정
+* **[게임/융복합]** [Budget 2026: Singapore to set up National AI Council, chaired by PM Wong - CNA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYldvV1RPTWk1RDctU1RYcThwc1FjZTlxaWlJaDdiaHY3Smt6WkZiNHFXV2o1ZmF5NWxQOGtrbTFhNThKck1LcmNfbzVwM1hVcmVFZWR3U2NYOEF4VC1VMWlPTkpBZ0FCeW5OeFpmZW1kVUVUZngyR2ZGdng4ZmFfcl9ZVzRvTmdEZFgzYXdTWGZqRjVCN00tQk5ZZDE2c2hpNmZMR1M2c1hPMDd2LWNkS3FKdTdWaUJSMEpN?oc=5)
+  * 💡 싱가포르 정부가 국가 AI 위원회를 설립하고 총리가 위원장을 맡기로 했다.
+* **[방송/영화/OTT]** [Trump warns Iran of 'very traumatic' outcome if no nuclear deal - CNA](https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2JBb2lmWkVGSnB5RE51bV9pODNkc3IyR2JDdGhUZzdmVU1jM2xNMHE4RW1qYUszVS1WMVVSRkVVTWxPaTlDNGpsUENka2ZoRTlpVEVvMWtObUNyaVRLU1pTLWJNbk1ORXpmRklmaHdvNzNlVUUzdEVWZXVUVzlLQzMweGt1aDkzSFE?oc=5)
+  * 💡 트럼프 전 대통령이 이란과의 핵 합의 실패 시 "매우 충격적인 결과"를 경고했습니다.
+* **[게임/융복합]** [Budget 2026: Support for AI adoption to transform businesses and empower workers - CNA](https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1pUV3dUNTg4aXRqdDg4MGFRMHN0WHgwcTZkQmFuRlBIdElqZWNXMmd5OEs3cDAtTVBsRWpqdGM3ZHdaNEJQN0NWX2dkVEFyWVVQOGpIRVVBR3J0ZkxVcWV3SjNQelNEelZqakRZWDNpU2M1d0J3cWV6eVMwX0ZfMkY2cjIxVzJ1LUhtelR6WGtqazNFSEVneUMyaXV3QzVEaDlkRFFYQkpLZHNhdGZ3S2JOczBvYzNBc3c?oc=5)
+  * 💡 싱가포르 정부가 2026년 예산에서 AI 도입 지원을 발표, 이를 통해 기업의 혁신과 근로자 역량 강화를 도모.
+* **[방송/영화/OTT]** [Budget 2026: Additional ComLink+ payouts for lower-income families who make progress - CNA](https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RpU1lUMThpeXl4MGpadEtHV1hES2pfNmRiOENZWWdfVlJCUkhFNnpvTnMxY2hWQ29XYjU4ejRzSkhvVmg1UmlFdWMtYzBOY2puR1FMbDMtN2EwcC1vaGsxRzI2c2dSWTV6WTRmMXJvendzcy1tZ2Z4bEtNWHduZmxTbkFHeG1mYnI3bzhhVnJ0NWN1?oc=5)
+  * 💡 싱가포르 정부가 저소득층 가구를 위한 ComLink+ 수당 추가 지급을 발표했습니다.
+* **[방송/영화/OTT]** [Recap: Key announcements from PM Wong’s Budget 2026 - The Straits Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE9STFZjSUVUalB0S19rdVpkeFRtaEc0RDBPOGNIWWkyZW1rYUlkQU1qanE3eXhaVDJpRGdpaXo1WG5uSU1MNjdMUFFHYUNpYXpsYVRBOW9TTFRSSGhuTVZrRXk0MS12R2FBRy1TMk8wZ0E?oc=5)
+  * 💡 싱가포르 총리의 2026년 예산 발표 주요 내용 요약.
+* **[음악/공연]** [Jungkook of K-pop boy band BTS joins Hublot as new global face - The Straits Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGR4VG9JNE53V1B4S3l0Yk5DR3NwQVpsZlQ1eHhlYmpqWmxmWTctTWlqcUlVaVNEZHFVSm9HOW45MDUzWVFiblFJMFd2TkZSSThRLWVnOTFJOWJCMkdWQjZpMXl4UWJxOEhOUmt0VktZZHVGb01KeEs3LTJhYzVGU2lwakFxdEFhODRPbng5UTRoWUxLM2JabkRhaldBT1JwTlR0Y2dLSW1YYklVS0FN?oc=5)
+  * 💡 K-pop 그룹 방탄소년단 멤버 정국이 스위스 럭셔리 브랜드 Hublot의 새로운 글로벌 모델로 선정되었다.
+* **[방송/영화/OTT]** [Putin’s children’s commissioner says six kids to reunite with families in Russia and Ukraine, thanks Melania Trump - The Straits Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDRKbVBFN2tDR0pFb0xOY2NrNk5tcWxkM1l4YUxna2ZXeDhvNHRmQ25SMGM2YnRaTVlKcGRxbTJjRFFZX3EzN3hKcHVIOTFmb2h5czRwVXZaRjVhNjZEYmlacUFyV3dVN2ZsYUxTZ1RlbVFlSm9ITzZOczB1M1VleHBHWTBfQm5QeVpBMjZ4TUVtSXNyZVg4WkxCM3RCSE9zVmJLa3R2dW5xcTU2NGNBRENpRmZzdFJQTk5GUGtZREZ6eGYyOWM4bVg2cTA?oc=5)
+  * 💡 러시아 아동권리보호관이 멜라니아 트럼프의 도움으로 우크라이나와 러시아 사이에서 가족을 재결합시킨 6명의 어린이에 대해 언급했다.
+* **[정치/사회]** [Bangladesh’s BNP wins historic parliamentary election - The Straits Times](https://news.google.com/rss/articles/CBMingFBVV95cUxQQTY2VEc1eUZQVWRIdVhRMkRoamU5WkNUSGpkZlRSaXNhaFFkcHBSRmhKamJiS2NKQ2xsQzUxWnM4Q0FMa1pzRlhQbE5WeFdRWTVCLXVIZE5zM04tNnRqZmNpS2NRU2xqRXZTWmFNZ1M3S2ZZZGRySkNSTk5YMVlJMkpCSDh3T2NoY2Z4MDloUzFzc0dON2hvQWxPeWd1dw?oc=5)
+  * 💡 방글라데시 야당 BNP가 역사적인 의회 선거 승리를 거두었다.
+* **[애니/캐릭터]** [Go Jetters Go! - IMDA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmk0TnA1azlkMmhBRnJ6R3FPOEpRZVd6WGtyWUNsQklPN2xmczZYaDdsSUpjaXJkOGtaSWtXRnpsTDZ4dzJ0b2JNTEh1RGx3V0t4cW9XR1FiQnNmcExMaGVvenNYTVdSUXY1S280c196MThCdmRUNFcwckd5QWZNVGktYlR0bl9VWXV0bUI3T3pOMFljNjJYZk9OVXlLVDd4Rm4tSWpSaVVvQQ?oc=5)
+  * 💡 싱가포르 미디어청(IMDA)이 애니메이션 캐릭터 "Go Jetters"의 콘텐츠 제작과 배포를 지원하는 내용의 기사입니다.
+
+---
 ## 📅 2026년 02월 12일 업데이트
 
 * **[방송/영화/OTT]** [Ascott S'pore offers free accommodation to father of Indonesian girl, 6, who died in Chinatown accident - Mothership](https://news.google.com/rss/articles/CBMif0FVX3lxTE16bXh1RzZxckQybmYzaTlSZ094Zk5qSjJTQTBhM2I4c3FXMXg4LWxWMG4ybllQV3F5TVNkRENDQ2FfQ2F4a0g2bDVfVW1RYlVyTllmSmVRTTByQ0Y0TTB0UjAtZnRvb0c1ZmFiNThtTmRmV0VzeXpodkRPaEQxV0E?oc=5)
