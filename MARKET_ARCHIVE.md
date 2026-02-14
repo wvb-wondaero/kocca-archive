@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 14일 업데이트
+
+* **[패션/라이프스타일]** [Tipsy Unicorn club in Sentosa closes after 3 years - Mothership](https://news.google.com/rss/articles/CBMickFVX3lxTE1vVU1aM040RE90Y2wyclBqVndOcGg0SUxsMEs1VTNtcFBZYTVqRDZLZXo5aFFoT2RtMGY2dEo4cjQ4Z29iVzdZeTVaSFFicmJKLUtyeUp0MWRDdFMxeXpkNFhtQmFhTE1adU1ibm94WmhCdw?oc=5)
+  * 💡 싱가포르 센토사 섬의 Tipsy Unicorn club이 3년 만에 폐업했다.
+* **[방송/영화/OTT]** [North Korea warns of 'terrible response' if South sends more drones - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnUtaWN0NGx6Sk9SemE0d2ZHV2NsZDNmTTROQjc1cXZYQm5YM3FYMTF6b1RhQkdGMXRpMmhaaUtqZklyb1BuRUd2WUo0anNpUXA1NTg0eTNpd0RRZElJWW1sTTFCbnF3d1ZUTHdPMF9UZHpGRWJiTEhjS0IyNHFDaFZWRXI5ZmM5YTk4MnVVcER0T3p6a21XeTRqdm1veFg5QjRtUkRDdw?oc=5)
+  * 💡 북한, 남한의 무인 항공기 추가 보냄에 '끔찍한 대응'을 경고
+* **[방송/영화/OTT]** [Massive sinkhole swallows road, part of construction site near downtown Shanghai - CNA](https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3J0NmlfSHZPZEpyZ01uRmtlZ0dhTWRIWTVHdUJmOHlaRnZzWUwyZWRyTlhyc0RlZmY5NGRjbHlmWVpNQ1hyNUJNQkpDUUFtdktrdHZ2MUpuOWNmM3VPbkZUeXpHb2lvckJvekhLMFpOVkRaR19RYzkwNnRLOTVFRW4tZU5QcElJN0xtdEFFVGF4cmVs?oc=5)
+  * 💡 상하이 시내 근처에서 발생한 대규모 싱크홀로 인해 도로와 공사 현장이 붕괴되었다.
+* **[방송/영화/OTT]** [WTO chief urges China to shift on US$1.2 trillion trade surplus - CNA](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUVqMDExV3NGcW1Na0JDaXlVaXZESUYtU3FNc0pZTnNKcEZ6NEJUV01zQk00VENsZnoyVHU3Z1NHMHZDbFVXVXlTT01nUkZ6dG1CazlHTzd1UFIycDBwLWhkdzdHTXMyeU5FdFFMa1FpOHlITlE4aUl5Nk9BbVhoZkJR?oc=5)
+  * 💡 WTO 사무총장이 중국에게 1.2조 달러의 무역 흑자를 줄이라고 요구했다.
+* **[방송/영화/OTT]** [Sinkhole swallows part of metro construction site in Shanghai - CNA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3JsRWdtYXJfdlNzelhyc2YwRWFTNERCOFhhV0NsSWk4Nk1qVkJZaG5JbEFEZmp1alhha291VnpXdDVqZWVJZDR3YXJsODZERFlyTXV6TXJDQ01yZFlOOXVKMlliZk9xSW9BNHYzaF9pQTJ1US05Zm12b3ljaUJfZ1BscF9YVGhyTi1mbFkzcFdXTXF5TWNoS3hqQUhJYUNHTllBS1dZQ1U?oc=5)
+  * 💡 상하이 지하철 공사 현장에 싱크홀이 발생하여 일부 공사 현장이 붕괴되었다.
+* **[방송/영화/OTT]** [Police raids target vice in Singapore massage parlours - The Straits Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTjlNZFc1aEhGakIxcXBFZENXMlNJMGVvaVhLQXlxV1d3UTJXOEhQaGxPdmxBZFdIQmRGSVl0Y1dkTXVyOVJqdzVxV1lONXJSUEd6bDlQbDdkTWpUVFlMdm1jVW8xY0dvOEVGcmgwelNHUDJKMTc0Q3R5TDE2Z3VhSkVkeUJZckRicUt6REdHOUVoWV9ldmZOdzQtTmRwU0lsckJYc0hyVHhQa1lBLXlaYS1RdkFaVkozRk02anpoZDdoX1NWUDNXaWtlTDNuMGQ4dW1jQ2NwblJqa2kyMW9yXw?oc=5)
+  * 💡 싱가포르 마사지샵에서 부패 행위를 단속하는 경찰 수색 작전이 진행되었다.
+* **[방송/영화/OTT]** [China calls Taiwan’s President Lai a ‘war instigator’ - The Straits Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1hpcVpiQjNDTXA5OVpCZ05DWlN3MUw3alBVT3FnWkNRMm5ONWZzQ3R5T2gxcllVMTZsYlZ3YXhnR3NXVzF6N0NsTXVMeVVpSTVnalBpcUQtTFRONk9EOU9SZnBmMjJnR2xPalREOXA0M2JWZkIzdVhTSS1XV1cxTUFuVDF6NmhxelZYTEl0UTY?oc=5)
+  * 💡 중국이 대만의 신임 총통 라이지엔런을 '전쟁 선동자'라고 비난했다.
+* **[게임/융복합]** [Singapore to regulate blind boxes due to gambling risks - The Straits Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG1lM2lnTXBZY3ZTTl9Gd2FMU2F1dHN1WHFaTHgtOFB4UzNOZFdRSlozVXhyLTZZSVBkZEVIbkNhZFVPYjVNWk9DdUdRM2tmcmMtaXZ3Q21tbzhUQUVSdlBLNmRNOXJJcnU4RGVsZ0hIOWF4RGFsMWttNGhoNE9USWI4QlhXaXQtcENoeW4wbV9vLXJ0WjZsSmlLWEpPeS1LWUM5N2tua2tLcmVVQjFJ?oc=5)
+  * 💡 싱가포르 정부가 장난감 뽑기 상자(blind boxes)에 대한 규제를 도입할 계획이라고 보도됨.
+* **[패션/라이프스타일]** [China orders cereulide tests as infant formula makers Nestle, Danone face recalls over toxin - The Straits Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxONzVWVkdGNmtQM2xOcnZGVUxscEZsY3ZKVHNvQU5Wa0tLbFhrcE1LbjM1VXUwZ0VUZUFGRm4yem1KT0ltVWRXdk14ZUdZN0JvRHU3dDVBeEo2c3ZCdk9yY2dyb1UxUENIbmdOXzQxWVF3MS1uTWR6X2MyeEJpUWxMOGc2UHhoNlpFQ1VReGJwUXYtNlliX0dGWFhSMUp1SkJkUVBmYQ?oc=5)
+  * 💡 중국 정부가 베이비 푸드 제조업체 네슬레와 다농에 독소 검출로 인한 리콜 명령을 내린 가운데, 유아용 식품에 대한 검사를 강화하고 있습니다.
+
+---
 ## 📅 2026년 02월 13일 업데이트
 
 * **[음악/공연]** [S'pore F&B company gives gold plaques worth more than S$500,000 to staff with over 10 years of service - Mothership](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkhDLVo5WlJuZHp4QlhzU0ZUSkJwV1EtNUpHVWlwN3NnSG5EbHNpWmRBc3BYUnl1TmNKeUtRTHNjRklpc3ZIODl2VUNDcjZGNVQ3VW8xZndzM3RHTlRFbmw4ZTVraGhzSTNNcUFYTFRTN3JfYmJMYnp0NGVBYWhlLUZwT28zQQ?oc=5)
