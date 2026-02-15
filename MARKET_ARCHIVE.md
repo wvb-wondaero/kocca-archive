@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 15일 업데이트
+
+* **[패션/라이프스타일]** [Deaf woman, 70, allegedly charged S$9,000 for packages at Bedok salon, only S$50 left in bank account, family files police report - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTFBLUngtbi1oMDAxUU00RzJ1RXlYVnJrVU1ucE9kdHl5TjFjcS1DZEluTzUtWlRzaW9GUjdtUUNzWW9ZdHN2T1hWQmYwM25Db3QzdjlpRUZ4THdhRENIeDFYdU1GOENkQ3ZFZ3hZ?oc=5)
+  * 💡 70세 청각 장애 여성이 싱가포르 Bedok 살롱에서 과도한 요금을 부과받아 은행 계좌에 50달러만 남게 된 사건이 발생했다.
+* **[패션/라이프스타일]** [NTU students filmed throwing lo hei at each other, uni says those involved will be counselled - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Od1IwOGFzMnRWZkFaOFhRSnNHN0xKM2lDQkZ1c1E3cl9WSGdmbkhFZldRSGVjZjdNSy11MUM3OVY1Ym9SZFd4SnAwdW5yS2pJYTh4NUhyUlB3V19YYy1xM3l1OGZOZnVaeDBiaEl3RF9yd293Z1VF?oc=5)
+  * 💡 싱가포르 남양공과대학교 학생들이 전통 명절 lo hei를 실내에서 서로 던지며 즐겼지만, 대학 측에서는 해당 행위를 문제로 인식하고 관련자들을 상담할 예정이라고 밝혔습니다.
+* **[방송/영화/OTT]** [Wang Yi warns against 'knee-jerk' calls for US-China decoupling - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEZkenczV3hkM3JyMW5SRmtra2p5dlp5M0xZQXFTMUM5REhyd0hWQmUwNEswRmg3ZWNLRzNvT1FDOVBpdm01ajdSXzFtVE4wM09ZTEc0UU1lZEdidDdpTWtaeTAxaTZsTHdPczl5bnRxdnM3LXRtb1lYcHoyRTk1bWRETS1QU3R3dUpDTFJ0THAyWjRJRmp2QzZtSm9uZHpTZWhOWURyWQ?oc=5)
+  * 💡 중국 외교부 장관 왕이가 미중 디커플링 움직임을 경계하면서 양국 간 협력의 필요성을 강조했다.
+* **[방송/영화/OTT]** [China's Wang Yi tells EU diplomats not to blame Beijing for bloc's problems - CNA](https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1RQSmZ1ei1Mank5bHRjZ0Nrd29Kc1I1NkV1eEg5bXNOMHdzaWFQS3pNWWlCVE9rMHJYeDZpQ0t3Ti04SFUtNzdsSF9mUFpuV3d2UldtRXA5dHNfbldVV3J4bURkTl81c0pndUE3YmdMaUFsZ0dDMTllMkVscXNhZVBYSHhrZmdhUmRpcVRRVlhoUklqOVZoMWYweUpaT0pFVm9aSDZ1SUVZY1ctMFpjOF9BYVJ6WkVOM0E?oc=5)
+  * 💡 중국 외교부 장관이 EU 외교관들에게 EU 문제의 책임을 중국에 묻지 말라고 경고했다.
+* **[패션/라이프스타일]** [Viral video of fruit stall owner and tourists in Singapore's Chinatown sparks debate - CNA](https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWlaS2Y5Tm9KclI1eVdjbWViTjl3bzZUV2VyRUxGTUpHbnBzbUFTdlhjWXJaR3E0bXlzQUdwLWZUZ1c5MGZSWmlyQmNjTG5JMmdlWHFoSktkamJPdHk3eEdua3RSTnNlRjh4eENEMkpFQ1JXaUtienpWeEFDcmxuaG5md1g1Wk1EMTdfM2dIV29sNlJ0ZVc1V1loWW1jNWxhYkdlMmNUVHNvLWlhZGlkSXpDeTRtaHBGbVJFdGxPWHlPc19lUnc?oc=5)
+  * 💡 싱가포르 차이나타운에서 과일 가게 주인과 관광객 간의 흥미로운 상호작용 동영상이 화제가 되었다.
+* **[방송/영화/OTT]** [About 200,000 join Iran demonstration in Munich: Police - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlNCbXlVMFNSMi1TNzFEeG83NUR3RlEzY0dZWW43MlpWTkVFS1dOdlpXbnBaOW5vZm94TGRIWUVINmFKNVhvNl9lXzQyajRjMENKdjBneVp1OWZxd3lidTB0amppRlVqTS1fcHBxekdSRmFvTEVlaE81SEtRb0ItWXc1R1djNXZSR0ZDb1dNbjVOSTJUc0MxeHZVV1R0Ylc1?oc=5)
+  * 💡 약 20만 명의 이란인들이 독일 뮌헨에서 반정부 시위를 벌였다고 보도됨.
+* **[방송/영화/OTT]** [Masked-prowler video tops sheriff's list of clues to Nancy Guthrie abduction - CNA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcU4zOFh2c1cyeTBjclZ1U3lNTDhQYXZnNnZtaVJhTXR5bG5TMVBXMDJ3UThMel9teDB2ZFBPdFI3N0JiSnM0RnBCb1Nhb1kxYXZXZERnUWdXNk5JaUVKUkhPOEQ2YnZFR1RRSGdjMHRYZlZOTmdUTjhRcHdxQTBsQ0NmWHQyWGJ5cWctYVAxV1Fkd1lvdUxZWDNGMTUwd0pnbU1yalprT1c2S3lHMnl5aE5TMF9hc0RiNDEw?oc=5)
+  * 💡 미국 경찰은 낸시 거슈리 납치 사건의 단서로 도주하는 가해자의 영상을 확보했다.
+* **[방송/영화/OTT]** [Epstein files spotlight Philippines online reputation - The Straits Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdU1kQXFKbXRsVXZ3S1haaVBFU2pNX0xqVElMTi16WEVNUUJ3cllBWVNLZWNuV2tiR3lZU05GZWlwRkdzQXZUM3huUm9aYnBrd0J2cm9HWHFCWFJhUVhnd3pQYWJCVWF0SGItcnpUeGhIUE5fMlc2bVpXOWlaTWo0ZGxIaHFVcVJudU9aOUROLTRDbG8xcmVVOS1lZ2hvTEtJTWc3SS05b3dOSDlKZnF4eTN5dEFnTnZqWGZtOTFTSGNhbE9lSGVrZ01kbjFCOU5IVTRfbA?oc=5)
+  * 💡 필리핀의 온라인 평판이 제프리 엡스타인 사건에 의해 주목받고 있다.
+* **[방송/영화/OTT]** [Wang Yi warns against ‘knee-jerk’ calls for US-China decoupling - The Straits Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmIwalZKaXFBWEhXUVM1WTFPMVRZczBZNGVyQ0dySjB1bHZGSEFiY0F0d1NFSzkwZUM5OTFydU5ORE9lZVF6cEI0LWZQc2dGNENDVFRkYzNkbUQxclhXamhwc3hrVjBidEpxLWJqRUJhY0RGTXhGN3dsN0VwXzNocWFNUXNDUV9XOVA3bHh1c25DZkk5VERqVEJJQmFLOU0yV085eE5WdTJDbG1r?oc=5)
+  * 💡 중국 외교부장 왕이가 미중 디커플링에 대한 '감정적인' 요구를 경고했습니다.
+* **[방송/영화/OTT]** [Rome's record rainfall & Italy's extreme weather - The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHJHb2w3bmh4TFFoNV8tLVQ0UjhjQ0tUQjcwaUp1NmlhNFE5U2NsMnppSFVuYUlvSTBYbWlkYzBIZktHMWlLODgzZTJzZG1kNG1LcEY2d2VjUkJyb0g5c0ZURXhJTGR3ZlYzWmtwcXk5TkQzZzduUUZZMm9Xb0ZtdWdYUm12dG4wVi1FaDViUkFhaDJEQ0pyY3Q5MVMxZS1GX19r?oc=5)
+  * 💡 이탈리아에 기록적인 폭우가 내리면서 극심한 기상 이변이 발생했다.
+* **[방송/영화/OTT]** [TB outbreak in Malaysia: Is there a need to defer travel plans? - The Straits Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHNFV3RSSl94bUQ4WlkxVGxkQWxnRjRHUThOYXg5RTlDd3ZfRzFMWE9ueklwR1FIRHFTMUdlMjhlQWltXzlNcFYyajFWUUVwVXU0TGx3eTJEejd2eFhnZ0JvZTFzenlyU0VQekN4UHQyX3dqY0JsbmZadF9fbERRUXU0UFFPWE1EZHZxWldGX2FzYkpCVTVoa3BFRi1DSE03NXc?oc=5)
+  * 💡 말레이시아에서 결핵 발병이 보고되면서 여행 계획을 연기할 필요가 있는지에 대한 논의.
+
+---
 ## 📅 2026년 02월 14일 업데이트
 
 * **[패션/라이프스타일]** [Tipsy Unicorn club in Sentosa closes after 3 years - Mothership](https://news.google.com/rss/articles/CBMickFVX3lxTE1vVU1aM040RE90Y2wyclBqVndOcGg0SUxsMEs1VTNtcFBZYTVqRDZLZXo5aFFoT2RtMGY2dEo4cjQ4Z29iVzdZeTVaSFFicmJKLUtyeUp0MWRDdFMxeXpkNFhtQmFhTE1adU1ibm94WmhCdw?oc=5)
