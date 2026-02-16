@@ -1,5 +1,37 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 16일 업데이트
+
+* **[방송/영화/OTT]** [Chinese influencer alleges 2-day detention at Changi Airport, ICA says foreigner entry 'not a right' - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxONHQtVDQ3OERTOFh5WlUydHR1blBGaTA0SzJrbUljTXYxM1FEbkdQR19UclhPOGxOMEhDbHJRRVE2aWdxeEtFLTBlWDE2NW10Qm9HQU9aTkgzX1l3RzFHTU9jVzBzb1hrTURSNlVLRHR3X2laSURtbkdtTjlNWnFHT0FEUQ?oc=5)
+  * 💡 중국 인플루언서가 싱가포르 창이 공항에서 2일간 억류되었다고 주장하며, 싱가포르 출입국관리청은 외국인 입국이 권리가 아니라고 설명했습니다.
+* **[방송/영화/OTT]** [Pedestrian, 23, seen lying on Orchard Road following accident with motorcycle - Mothership](https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lc3dkanlUUHhwZTBBSU1ybFdTMGhvTDdoT1FaY2xIb3ljZktHd2NCLUNlLUw4MXN5VXk4NGVrQWxIS1NJMFhpUVpJdVVaeExfWUEtMF94X0h2cS1jU2VaWFhPT0lLYTFwc3c?oc=5)
+  * 💡 오차드 로드에서 오토바이와 사고가 발생해 23세 보행자가 부상을 입었다는 내용의 기사
+* **[방송/영화/OTT]** [Johor–S'pore RTS fare to be announced later in 2026, could cost S$5-S$7 - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WWdKUnc4Q2Q3d0FpMWpXWEZRWnJ0dlhRc0l4eVhsMGVQTUJPZ0ZLUGttczNrZ09ZUTVBRlRKSm9qdWFRcEh3TEE2WXNrdmhuaTk4cHpLb1RJR2dPNC03LVFrdWZ3eWs?oc=5)
+  * 💡 말레이시아 조호르와 싱가포르를 연결하는 철도 프로젝트(RTS)의 요금이 2026년에 발표될 예정이며, 5-7싱가포르 달러 수준이 될 것으로 보입니다.
+* **[방송/영화/OTT]** [Man, 46, borrows friend's PMA to deliver food, charges it 1st time, burns Punggol flat down - Mothership](https://news.google.com/rss/articles/CBMiYkFVX3lxTE84RjNnaS01TGpSMjlaaU1UNlJyR2NFcFk2RnBVaWZsYlBDT3M3YVJQQ0VNd2U5MkY3WDVfNHJEcWZJckdMRGJHTzFpV1lsUUZtaUJjM2ZhdTRGSlhIdGxFeUtB?oc=5)
+  * 💡 화재로 인한 주택 파손 사고의 배경에 대한 기사
+* **[방송/영화/OTT]** [Board of Peace members pledge more than $5 billion for Gaza, Trump says - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGtfZ215eGpDX0V5RF8zWFE5aFVvb3VSTE05OWtQT2RmbkwwS2pZQjd0c1JVOXphT01Ob2dRWEZGa0RqWTIzVUt0ZDlwTjlRUk9jR3JIclZrbnhZWWJBeUplUnVuM2lvR2ZyOEl6SGFPT0dGdmRjTmFJZ3E5bUNsZVZOcGFwVXhIWFlSdExqYmJ5cDBPUVVxTEVfalVPcklYcXRsRmJOR1Ffdk43Nnc?oc=5)
+  * 💡 가자 지구에 대한 평화기구 회원들의 50억 달러 이상 지원 약속
+* **[방송/영화/OTT]** [Commentary: Anxious about AI, I went back to school and this is what I learned - CNA](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpLZzlUTzhmR2JlQmt2LVlOOW5pcG9BVXA4ekJUWkxjUktYcDQ3cEhoOVh1TFd3Slk2VWw0ZTBUamV6NFlpNDQzQnFYY0xmU1FOSjVRQm92WlpEQTBDTll4WFJjcmg2RGhyYWpJV2xBTExRZTNIRVBzeFdEa0R1ZERMZF82Q25PM3pPOGNLb0dFQmVsRGkzX1ZoYw?oc=5)
+  * 💡 인공지능(AI)에 대한 우려로 대학에 다시 간 필자가 AI에 대해 배운 내용을 소개함.
+* **[방송/영화/OTT]** [Rubio on Europe tour to bolster ties with pro-Trump leaders - CNA](https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2pHV1VQMGVXSEpvcWM3Ym9LTDE3NnAzbkdQaFJNTElZdHhUcmRnWE1SRG12Sjh6cV9feDVncGVZUmoxaXB3ZV9PSkM2Q1h5OEZIcXhWVmRjUGJvZnlPanZ6dWhtdWJBVEFnTnRpZFREeVZfMnY0N1owVUNyMFpHTHFPOG9KdHVldHB1QTk5dmU4ZktyMkY0TEJB?oc=5)
+  * 💡 미 상원의원 루비오가 유럽 순방을 통해 친-트럼프 성향의 정치인들과 관계를 강화하고자 함.
+* **[방송/영화/OTT]** [Singapore Tonight - Sun 15 Feb 2026 - CNA](https://news.google.com/rss/articles/CBMihgFBVV95cUxPVG42U2hXVE1HNWp2YmMwY2swV0h4bGZJQlpqYXNSTFdJT0FyN1BFd2ZrSjVFNlZTeC1xMXRkTVNDeXpiUngwV3BodjJ4M1VBeVpESkZXeGd1ai01NndnY3VUQ3pWYVZRSU15VUxtUVFSQnpHanNrbFBjU3pObmpxc1dlemN0QQ?oc=5)
+  * 💡 싱가포르 보도국 CNA가 제작한 저녁 뉴스 프로그램 'Singapore Tonight'에 대한 소식.
+* **[방송/영화/OTT]** [The Love Auditors - CNA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE41b0NsLTFrRTZXRmVRcWZoRGREY2lscS11OGd4Vk53cW1HOGlVTGlWVS1EZkRGSndPRTc1alU5VEJIVU1vN3Y2Y0xPUGJnUmUyYk9WZ1JjV1Nla3VvUUxoOHdGM2FhYnFr?oc=5)
+  * 💡 싱가포르 정부가 자금세탁 방지를 위해 도입한 엄격한 규제로 인해 콘텐츠 제작사들이 어려움을 겪고 있다는 내용.
+* **[게임/융복합]** [India plans AI ‘data city’ on staggering scale - The Straits Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeENqMjE4N1B1OE13YVJaTFNrOG50WlZQMGdVclI1ZUludGt3RFFiYWZGY0pTdnVRUF85N0FhNE5XcDRJeUdHbk1wN0V2TU9KZkRPNDVhdy13SURkbDdkVVloWUxjbS1ONUduZll6eXhVUndIZ1FHWnJrYjBDRHBiN0JkZTBnZUpJR1hIbm9kVjYtTHM?oc=5)
+  * 💡 인도 정부가 인공지능(AI) 중심의 대규모 데이터 도시를 건설할 계획을 발표했다.
+* **[패션/라이프스타일]** [China confirms visa-free access for Canada, UK visitors from Feb 17 - The Straits Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWJzaUhwRnNMQ0M0UTF0NGdZZDJVRGZWZmpLZk50RVBwMTZUTmdCbzd2dWVWdE94Wk5jNWNVVHVHVl82UzNobDBsRWx3RlBkdHM3clpjR1VIMFlkb3pPZEw1N3NzbEJHaHBXRWR2SWVlZEEyN1FwR2VYN09MbkRQWFo4bHo3c0dpNnBFRG5Xd3l5Um1uNEZHQlRDSGpMU2gxVFVGZFBYM3VrSG5pbDNB?oc=5)
+  * 💡 중국이 2월 17일부터 캐나다와 영국 여행객에 대해 무비자 입국을 허용한다고 발표했습니다.
+* **[방송/영화/OTT]** [3 teenagers stabbed in Osaka entertainment district, 1 killed - The Straits Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZngtVVQ4cVBnLU8wZTVOY1pDckNhUHdoajUxZW5LNzJiTFhSSXljVWNrQ1RrcHBHYmhOXzRYTDZrNlNscDhoM2hwMkZfTjFGWVFyVkZyX1hnUGIxT1JneWxxWlNlQktxV0plcjVhTXlFNm1SYkpvYzBlcjdRLVJvOER3Z3RHWm9uWHdaZjhDNzQ3WEwxVmJVM1YtTUFZb2s?oc=5)
+  * 💡 오사카 엔터테인먼트 지구에서 3명의 10대가 찔려 1명이 사망한 사건이 발생했습니다.
+* **[방송/영화/OTT]** [China is the real threat, Taiwan says in rebuff to Wang Yi’s Munich speech - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXVVa1h1ZDVfQ1dxUERtNWFGYUM1N1lKZjZVNnAwTl96VlVyWkpaYXY4WUJ6UXF2YkJ1c29XTEZiemtHbmxYeXhHZE95STlwdGhXMnNMZ29sSmhEN3QyTHh6R2hidEZJUmItcjA5UTU1UzlxamRqWVJqWThwak1OM3VpN1o5c1BXU3ZoZ2RyMFVPVG54QWZRZFpiTzMyOWV2UGxqdkhzcGRvek0?oc=5)
+  * 💡 대만이 중국의 위협을 강조하며 왕이 중국 외교부장의 뮌헨안보회의 발언을 반박했다.
+* **[게임/융복합]** [Singapore AI Safety Red Teaming Challenge Overview - IMDA](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVdELUEzeVQwMXZRUEs5amNkTjJxM2pGWHN6aUl5QVh5V2JhSWplSGlraFJBa05NZElLU21jZmpDNV9ZRDVCb0FZVV9mRl9JQnRBMGJLYXEzVVBaQlgzdXAxSGl0cjR3c1JyZFA3MENLQ1U1a012NEZMOEliWFhiYmZHekJLZWxUcGtJRUF1WlBGT1BVaFpKdFpQRHNpc0dLaWhzWlBfbi1NdTN5Sl9mZkJwaEl0ck1xVXNRYjNjSHpWc25wSy16NkJwMjZONnlBaS1ZRWlwZ1FHRWVIZFZ1c1NwZXljdUt6a0xkWGZlMjJmdw?oc=5)
+  * 💡 싱가포르 IMDA(Infocomm Media Development Authority)가 AI 안전성 강화를 위한 레드팀 챌린지를 개최했다.
+
+---
 ## 📅 2026년 02월 15일 업데이트
 
 * **[패션/라이프스타일]** [Deaf woman, 70, allegedly charged S$9,000 for packages at Bedok salon, only S$50 left in bank account, family files police report - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTFBLUngtbi1oMDAxUU00RzJ1RXlYVnJrVU1ucE9kdHl5TjFjcS1DZEluTzUtWlRzaW9GUjdtUUNzWW9ZdHN2T1hWQmYwM25Db3QzdjlpRUZ4THdhRENIeDFYdU1GOENkQ3ZFZ3hZ?oc=5)
