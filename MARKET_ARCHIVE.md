@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 17일 업데이트
+
+* **[패션/라이프스타일]** [S'pore woman cancels restaurant dinner due to family death, allegedly charged S$400 cancellation fee - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE16SGxySFdZemp3THU2dmZSNlpQYkF3eC1SN3pVd2pDSm55NzJWdkVEcEhmRzk4d1E3ZVUxQ29ZNGxxTy1VdWVaVHU5X2J1ZGY3b3RBZm1qNHo3WTRCYU1HLUVZSjlRT3EwNzdyaUE5N25UeWJNSDRfWlA3T2g?oc=5)
+  * 💡 싱가포르 여성이 가족 사망으로 레스토랑 예약을 취소했으나 400달러의 위약금이 부과되었다는 보도.
+* **[패션/라이프스타일]** [TikToker shows off Republic Polytechnic food court's 'sheet'-thin cut fruits - Mothership](https://news.google.com/rss/articles/CBMic0FVX3lxTE9YbzdtNl9XN1l2dUFRN09ZS21SYWNTdnpnVS1PTldMYmQwNjBDM2RpZEczRzlCWnlXVGI5UG0wY2F0cFp1V3dkdUUtZm1MaVV0UVItTUIxNGRJZy1WUXpZZ0ZhQ3V2RTM0LUNIX0FOa3M1NFU?oc=5)
+  * 💡 싱가포르 한 폴리테크닉 대학 식당에서 서빙되는 얇은 과일 조각이 화제가 되었습니다.
+* **[방송/영화/OTT]** [Indonesia set to become 5th Asian country with aircraft carrier - Mothership](https://news.google.com/rss/articles/CBMigAFBVV95cUxOdk1saUc1elJfSDFHeG5TZy1FQm9qdkVFQnpPaERiaDZoS05pa1pFb1FZdHAyTW55ZDk5UGc1YUxNeHBkTl9aek9UQUZNbVZudmR3Q3FTTmphem82S3I4LTgxbHA3TXNZRFBfazJYQndaT25XeS1JY1daYWtsckRqaw?oc=5)
+  * 💡 인도네시아가 향후 5년 내 항공모함을 보유할 것으로 예상된다.
+* **[방송/영화/OTT]** [Kim unveils homes for kin of North Korean troops killed aiding Russia - CNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkNnZUt1ZTBaXzBGb1ZNM0dqeG9KLXA1V1o2XzZXSFgyaXBCQ0t2bEVwVnRFV2RmRUZtd1ZYOVdsUE1DcXpWX2FUaENoanlWb3VyaUdUaGVzbnNGRlVhU01BRUJ0WEw1MHJ0RDN4WHNmZi11MnZLTWJRdEtsX3piQmtxLUlqSWdxaURVLTFlX0xaNDJQOHdlejVWSGF3S25Pa3VISnJCdTRnSU93Z2xCZ0t5R01vWEJQ?oc=5)
+  * 💡 북한군 사망자 가족을 위한 주택이 김정은 위원장에 의해 공개되었다.
+* **[게임/융복합]** [Iran's Revolutionary Guards begin military drills in Strait of Hormuz - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWROdkFXN3E0T3FhR3N0R05zYkROcjdrajBpaFlMSTRfYmJxRmd3WDRkbVpJWl9nOVlOa3R5YVFSTFhKbGRBODByT3lRcFBSRXRDY2Rkdm10cTBGemhPa3F0SGdIZXZIbUxWcmp5bGRlTVhvczFLZy1EbnMyTXhWdnRrU0d2UUFLaFNDbWc5bXE2VEtLVTJ4Um9CSDlJeE1MbEpfZ3YyUThtZlhUX1hDbg?oc=5)
+  * 💡 이란 혁명수비대가 호르무즈 해협에서 군사 훈련을 실시하고 있다.
+* **[방송/영화/OTT]** [India hosts AI summit as safety concerns grow - CNA](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcHd5alN5dWhsRHNhM2hlWEd3eUUxb21lR1FkTm5JUkVpSEhQSTVmRU9fOEtGS2xoVThPNzNQSEFGUXVlVzByV3FIYU5LT1c0WWdOU0h4amFtVE9mbENmTV9iVWhiUk5IRDY3ZmxiT3FLZ0p6YlV1U1RCTXZXemtscmpiMEtST1R3LUR3dmI5N1k?oc=5)
+  * 💡 인도가 AI 기술과 관련된 안전성 우려를 해결하기 위한 정상회담을 개최했다.
+* **[방송/영화/OTT]** [Wild storm in New Zealand disrupts flights, thousands without power - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXBQZXJjRGpOcDdXbWE4SklIOUdrQ3ctUnpYbGZlQlUwYWFic1VmeVYxaUdaOVdrS044b0VWM1FfMW53ek13RlY3NGI0Q2dlRTFBUUF3cVpjTWI4VGlYRm53Rk9fWE44SktRQi1ibExMWnpZc09kWVp4c3FSdnNnd2VuLUUteERzbXh3NTdkZWVyTWtwRVN5c3V1VVpxclBhd1l1RTlJOVBSeDNxLWc?oc=5)
+  * 💡 뉴질랜드에 강력한 폭풍이 몰아치면서 수천 가구가 정전되고 항공편이 차질을 빚고 있다.
+* **[방송/영화/OTT]** [NTU to counsel students after CNY lo hei event on campus draws flak over food waste - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTY0eGhEMnFoQXU2WmgyYThPOWpIQU9hdk5SRExDWVE2TjQzZ2tuTjRXVWVyeXVkbkRCeHdpeUVzN2tXYmROci15WTJkaE1FMUtqLUFfYVAyQ0lHTXpVeFliMUpkLUpWTFM3SG1EWDFGRDlCY2EzOWJhWXQ5OVhaSE5MOXd3U0ZFdmhLS0toNF9rMEZfSGVRaVhfVHo3ZWxBeDBrbm9rMjdMd1JtRjVQUnBFS0Vaa183bVppZkFjaw?oc=5)
+  * 💡 싱가포르 국립대학(NTU)이 학생들의 새해 lo hei 행사에서의 음식 낭비에 대해 우려를 표하고 학생들을 상담할 예정이다.
+* **[방송/영화/OTT]** [Race card for Feb 17 - The Straits Times](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zME1rV0tReVNMYWJ3Nkx5dGdUWV85WjhfeU1Rd1J4V2tYbm0zQjdzMnZNalZ2ci14ajRteUdUdU82bEEzckV6WDBkbXpTb2llS18yb2VURFVtS1FpYnRhbGdBT3N2QQ?oc=5)
+  * 💡 싱가포르의 말레이시아계 배우들이 인종차별적 대우를 받고 있다는 논란이 일고 있음.
+* **[방송/영화/OTT]** [Australia rules out repatriating citizens from Syrian camp holding ISIS-affiliated families - The Straits Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1VCVENYblBxVFBGODdJbHdFQ2xVSWxoYjZ2THQ0YS00a3Q4MVhTTW9DdjNnbE9NRjZVSUhXcFozZFZIZ3l5MEZKWlpQbmpPTmZEYzZpY1Q5LWZPZV92YVpaZENxcXZSS2ZQb2tCSGNuNTRRT2pBUEpNNS1BUHRoRG04am02YkllcURBNXFGOG9PMWg5ZVJyb0VSS256TXFaLUdKUVZlQQ?oc=5)
+  * 💡 호주 정부가 ISIS 계열 가족이 수용된 시리아 캠프에서 자국민 송환을 거부했다.
+* **[방송/영화/OTT]** [20260212_D16667 IMConnected 2025 campaign Tent Card1.2P_No Bleed - IMDA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZG5MZUgtMHlIcEtJUHNqS29iall1bXI0ZlNQYzM0dXR4aUk5aVpnWC1NNjZJQlhtTGRwaHRGbFpiRG9aQ3lYYklSb3ZzZDVhcTd5Z0VPajBkME5ndEVqbHc0VFBQVWlLcWdGdzVENU1HTHBxNGl2a1h6Y2RtOWItMlp3UkVfWjZWSWYwLTZIb05QeWFWdnhadU5Cd2xTUW8yeXRKQWt6YWY?oc=5)
+  * 💡 싱가포르 정부기관 IMDA가 'IMConnected 2025' 캠페인을 위한 초청장 디자인을 공개했습니다.
+
+---
 ## 📅 2026년 02월 16일 업데이트
 
 * **[방송/영화/OTT]** [Chinese influencer alleges 2-day detention at Changi Airport, ICA says foreigner entry 'not a right' - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxONHQtVDQ3OERTOFh5WlUydHR1blBGaTA0SzJrbUljTXYxM1FEbkdQR19UclhPOGxOMEhDbHJRRVE2aWdxeEtFLTBlWDE2NW10Qm9HQU9aTkgzX1l3RzFHTU9jVzBzb1hrTURSNlVLRHR3X2laSURtbkdtTjlNWnFHT0FEUQ?oc=5)
