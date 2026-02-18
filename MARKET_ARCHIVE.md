@@ -1,5 +1,21 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 18일 업데이트
+
+* **[패션/라이프스타일]** [Owner of bak kwa shop that caught fire finds silver lining despite CNY order woes - CNA](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWR3OUh4MWVKQVNKMkw4T0pjajR6STVfczYtdUE2TTh4TWl3RlNpamJnY0VDdkhPMnVpYkVpeTRhR2g5WVJqajI1UFJ1aEU3bmd6UEgzSHNCejZQLVVzYUt0dWp6d3VKeGM4M3Vac3NjcnhjbGpqX3VIYXdlY0EwZ3prTExTRWJPcjlfQVI5dEpGMzBsc3NxRExRTnpWUU1LeHkzZXZ0ZEd1Y2FRakk0UjhiSWJ3Z3VjQXluZA?oc=5)
+  * 💡 불이 난 바캉사 가게 주인이 설 명절 주문 관련 어려움에도 불구하고 긍정적인 면모를 찾아냈다.
+* **[방송/영화/OTT]** [US civil rights leader Jesse Jackson dies at 84: Family - CNA](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU9sMmJCLWZEYU1lZy1TT2g3VlFiWUhOdHRBdWdrbjNKa1p4bXRrLVI5WXdOeXJoa2dvZTh0OFJtODJwMWVjRUJJbkdLYVZLUmlJUUdSTzBMQjJURUZKb0RVejNudGJMaGx5cEFOZFdyc19NUmNtYmE5dFRRMTdqaUl2UUpydkxtdmJ0cXFFT1k?oc=5)
+  * 💡 미국의 유명 민권운동가 제시 잭슨이 84세로 타계했다.
+* **[방송/영화/OTT]** [Iran foreign minister says progress made in nuclear talks with US in Geneva - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEhmQ09LSFpBM1JkTFVYeGtJc2owMkliNXBSNjhJV3JXYUI2d0gtWU1DNmJLMGZubEpOaGd4aG9oRGJUcTlETmdTeXZGNzZ2OWp5blNabU5ZX2ZaX21DM0ZUWE9NV293bGtfdHdzYS1hb2FBa09uRjlNMmdHcERHQmVyamlwemNSNnFjNmY5OVpoWUE?oc=5)
+  * 💡 이란 외무장관이 미국과의 핵협상에서 진전이 있었다고 밝혔다.
+* **[방송/영화/OTT]** [US judge cites '1984' in ordering reinstatement of slavery exhibit - CNA](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQks3dnc0Y1NOOGs2eWFpa0NVdkxEVDFUTzNTVFN5RGl5TUdUWDhEYnVCOGZ6RTJTdE0wOUdfNUZTMTB3emZSdHp1cjNNcjdrWUZPSzRQaVg3M1MxQnM3QVJhaVJCUUhBd1F5dG5INW5oS3VjcFZzM0NYaFFpUXJjNmpnNVh6RXFLMnFySEYtWG8?oc=5)
+  * 💡 미국 법원이 역사적 노예제 전시를 재개하도록 명령했으며, 이 과정에서 '1984'를 인용했다.
+* **[방송/영화/OTT]** [Australia defender Miller ruled out of World Cup - The Straits Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmxyVkpxazRyN1JzSFp4SHpsdHpzQlpMS21zMkFmc2VFOXB6bmYwM1V5S2NQVUxvamNnWnpLTzJMdWZnVUFRZ0dZR3RaUGlxX1VOUFJCUFJGakVMeDB5MEhKLVh5c3lTYWNHQm92Vk03SEJ5OFNTMHA4WlBMRTBVMktqNDhiWDJCZlVRcnMtYWVhejlqdDFZ?oc=5)
+  * 💡 호주 대표팀 수비수 Miller가 2022년 카타르 월드컵 출전이 불가능해졌습니다.
+* **[방송/영화/OTT]** [Ukraine hits oil terminal in Russia's Krasnodar, chemicals plant in Perm, SBU says - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDBoaDFLNU9VdkpldDZWZklCWTNNRUJaWlVlcjMtNDBqN21pQjVaLWI0dGVNSXN6akt0WFdJZ091Yl8tT0tqUWlENURqUWpjSGtUaVZCTWZsejNZdG9JRFphWDg4T3ZhWEVvZnpvTS1rdmNzVW5BYzF0VkNSQ3FQUjdsbE9vVEVyVmxuOXVwUDBJMF9Ebl91Z1J5WWZtc1FyZ2xYX2lFckpYNnVzXzBVWlBYYw?oc=5)
+  * 💡 우크라이나가 러시아 크라스노다르와 페름의 주요 인프라 시설을 공격했다고 보도됨.
+
+---
 ## 📅 2026년 02월 17일 업데이트
 
 * **[패션/라이프스타일]** [S'pore woman cancels restaurant dinner due to family death, allegedly charged S$400 cancellation fee - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE16SGxySFdZemp3THU2dmZSNlpQYkF3eC1SN3pVd2pDSm55NzJWdkVEcEhmRzk4d1E3ZVUxQ29ZNGxxTy1VdWVaVHU5X2J1ZGY3b3RBZm1qNHo3WTRCYU1HLUVZSjlRT3EwNzdyaUE5N25UeWJNSDRfWlA3T2g?oc=5)
