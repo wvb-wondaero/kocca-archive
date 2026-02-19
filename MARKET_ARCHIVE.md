@@ -1,5 +1,23 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 19일 업데이트
+
+* **[방송/영화/OTT]** [Beyond race, religion & labels: Indian M'sian chef, 34, cooks CNY meal for Chinese godmother's family - Mothership](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzFiYkVwX25qWFJ5UmI4emhoMUFfQVZxbWpsYllvY3k0eTBRd1J5Nk5iclpEeXM3bTB0dG54bW42V0NZTlV0Uy1PWVlkWk94dXlPeWtXSWhtN3djSHotRVdiZEpaYnpJdXRnV0p0d090bEozYTluRzdldENLSXAxb3JaaTN5MWc?oc=5)
+  * 💡 말레이시아 출신의 34세 인도계 셰프가 중국 대모의 가족을 위해 설 음식을 준비한 스토리.
+* **[방송/영화/OTT]** [YouTube recovering after disruptions in the US, Southeast Asia - CNA](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WekgwcTRtRzFTcWZlcUhzY2VsTzU2U1lLSTZZS2ZXTEFYQThRY0ZCM1hfd1dTNGZFejNoS2h2REpRdGFTOWstbWtTVnJMX3JHVmZzRnFfREw2ZUp0QWZPLTV3WE0wem51NUFDTHh2Yy1lb0ttbGtfT0NDZ1NIMHM?oc=5)
+  * 💡 YouTube에서 미국과 동남아 일부 지역에서 일시적인 장애가 발생했으나 현재 정상 서비스 중입니다.
+* **[게임/융복합]** [Saudi's Humain invested $3 billion in xAI's Series E funding round - CNA](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmVEWUNSYTBmeXZwUHF3S0I5d2JLRF9MOHA4S1FXd1hTa3pvaVpDV1Z2MzFZMEdBazBtQUdacDNqSVpackRSY01KVUpvekxZY2pMamxJUjBJTFB1Q0d1LVk2MjJTenFZZG9GdEo5MXFUMG5lTHhSNDNaZV9KMUtzZGpRU0FZVlpKdGxoWDZBZmt2eWV4ZHZuQ2NFYmhBU0VwTFc2STd2Z0I3Nmd5T2VmNU5R?oc=5)
+  * 💡 사우디 아라비아의 투자회사 Humain이 인공지능 기업 xAI의 Series E 투자 라운드에 30억 달러를 투자했다.
+* **[게임/융복합]** [Cisco and Qunnect build quantum network using New York fiber optic cables - CNA](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGFGaDR3Si1jYzUtM2lzTGVzTWk4THNrbHJLWWRrOXN0NFk5SnZ4bnIzOWFiNFVvMm1uQTFWM0RLVmwzTUxFd3U1R0hOMDJqQ2JhNkE3QU14ZDdsUWFqY29UOE5ScXh2VTFaeXRpWWJBV2ZCeFI1bEJfY2tvc0NFcXpCRHdTOXAzejFuRmliVGgteUJzQmNQMGlNcWpIYmpQY0hXU0tZYm5Xd09kRmhPakk3MFZ3TFpCMmJkRmpoVQ?oc=5)
+  * 💡 Cisco와 Qunnect이 뉴욕의 광섬유 케이블을 이용해 양자 네트워크를 구축했다는 내용입니다.
+* **[게임/융복합]** [Batam’s ambition to be a regional digital hub - CNA](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmcyVklibGdIRDE1UmhwQl9mNTBIVWhMaDVBemZmekR1dS04RWxsdHE3eU1fTUt2WGJQd2dKVmZTcXdBVk5iWWdiWW5INXlYRi1IWU5RMXlpMGpWYXg1LS1GQndxQkJ6aEROMTB0c0FZUmZ6dlQtaFFabzQtZUJvb3lVYWM4ZWNPZmwxTmVn?oc=5)
+  * 💡 인도네시아 바탐 섬이 지역 디지털 허브로 부상하기 위한 계획을 소개하는 기사입니다.
+* **[방송/영화/OTT]** [In letter to Iowa friends, Xi offers reassurance over Sino-American exchanges - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEE0dW9kZEluSlVLeFhtQms2dGUtZHFLR2pPaWdIbUJ2Sk53OXl5Nk1sMXhpRnkxellHZ2I1NUY1Uk1OVXJ5Zi1fRGtlNnNXR0d0bEx4UVFfbzVaUHJyb05oeU5JZ0gzd0V3Y2FjcWtjUEtodXl1Y2QyQVdSS1V2U0MyRzFJN0N6OGFYLVFiTG95cC1paUNGU01OOVQ1WkJYYy1DdEMzSlBpTkhDY2MxWWZTTDN5ZGs1NjhrMg?oc=5)
+  * 💡 중국 국가주석 시진핑이 중국과 미국 간 교류 유지에 대한 확신을 표명
+* **[방송/영화/OTT]** [Takaichi reappointed as Japan PM following landslide election win - The Straits Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjRPMDNrVW5Ra3FoZTZoSDA4bFNPTXRYU2w0LVZQQnE5djMwSlhVNTk3OUt3b3pnRER3NExtVF83ZEozQlhkNkczOFZ5NjRUSzNsOEJJbDhjQkxNV3N0d1Z5TnFIRFkzeHZJbG16ZTJqUWxRMzlLcHBnQmZEU1J2eDBqV2NQVkVFaDhxdjRVcnJRRF9xZUln?oc=5)
+  * 💡 일본 총리 다카이치 산나 재선거 승리
+
+---
 ## 📅 2026년 02월 18일 업데이트
 
 * **[패션/라이프스타일]** [Owner of bak kwa shop that caught fire finds silver lining despite CNY order woes - CNA](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWR3OUh4MWVKQVNKMkw4T0pjajR6STVfczYtdUE2TTh4TWl3RlNpamJnY0VDdkhPMnVpYkVpeTRhR2g5WVJqajI1UFJ1aEU3bmd6UEgzSHNCejZQLVVzYUt0dWp6d3VKeGM4M3Vac3NjcnhjbGpqX3VIYXdlY0EwZ3prTExTRWJPcjlfQVI5dEpGMzBsc3NxRExRTnpWUU1LeHkzZXZ0ZEd1Y2FRakk0UjhiSWJ3Z3VjQXluZA?oc=5)
