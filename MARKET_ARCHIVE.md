@@ -1,5 +1,29 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 20일 업데이트
+
+* **[방송/영화/OTT]** [Man in China lights firework, it explodes, half his body disappears - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE15UmZMN0JZUmI2UWRfYlo1THc0YWdfQlhWZXFjRGJIWXU0WmZqVXgxbVlVQ095ZENWMDdHRmxsTWVIaEtlaGthalROWTFjMW1Oa05pa1F6d1NoZ0NEWUNQcWYzdHVOdGszVWxXSjlWMUs?oc=5)
+  * 💡 중국 남성이 불꽃놀이를 하다 폭발 사고로 상반신이 사라지는 참사 발생
+* **[방송/영화/OTT]** [M'sian man in his 30s loses leg in fireworks blast during CNY celebrations - Mothership](https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3hTSXdldG9WNDJOeF85aWtDdGJyQmJ3R2s1bGE4NjB2MmdiOUo3c29hRDlFM3FsWHQ2MXBWcWRwelhPNEs0NHltaEdyYzZwVmduMTlLSUNwUm1HSllhRk9qcWJZWHdRekxUOUZ5SVBFOFVvRFJOa2l3R2V1dTZiamdNMXhNU0h4cVBtY1JsUQ?oc=5)
+  * 💡 말레이시아 30대 남성이 설 연휴 중 폭죽 터짐으로 인해 다리를 잃었다는 내용의 기사입니다.
+* **[패션/라이프스타일]** [Temperature drops to as low as 21.1°C in S’pore amid heavy downpours on Feb. 19 - Mothership](https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRnlvWFktUEk2SENSeUJRejNlUmlxZGhOcHJwbHdvRTFaQzR1OG1WMF8zUW1MVkk3UkJwT1Fybzk5SmNFRFZLUFZHSHlVNnA1Rkp3T1NoX3Q2VlhVRmlYMGIyWnZOVkJ3UC1jTDNB?oc=5)
+  * 💡 싱가포르 2월 19일 폭우로 인해 기온이 21.1°C까지 떨어졌다는 소식.
+* **[방송/영화/OTT]** [Wall St ends lower on mixed economic data, US-Iran tensions boost crude - CNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxONGNYZW9nUzQyQmdFUmdwdjl5RjdhZF9ET0ZzbTFfZjZNMU5KWHJHRXhHdmpPRVRVbmFpNFZYNVpITV93cnZabDVYMjNSMUV5Ql9YcF9MLWVqcDRsNUpBWndBc05HZkdtOTNyNTBWNVJBallEVXcwaHdYNWJhbkdyYjF6V2g2akRvQ2lGRFg3bTBtaklTNXBwSkh5V2VZZjVtUU5xZnhpdGtvU0lqTWlUSFNyUUtLc0k?oc=5)
+  * 💡 월스트리트가 혼조세의 경제지표와 미국-이란 긴장에 따른 원유 가격 상승으로 하락 마감
+* **[방송/영화/OTT]** [Hotel group Accor narrowly beats profit expectations in 2025 - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVAtcmNXS3RpVE1vcUM4WE5YMDhMdFVUTG1idHpiYlRSNk5qelRkUVVtTlVhOGpLVjJSVmVCS0dLSXZhcEc5czk0T2JrM1I4NS1icjN5R01yUDFIOU1JaUtDaTNvWkhJQzdsZHVieDZ2dFdwamFsREYtdFF3aU9ocWI3RWthX2xERkl1eU9CWjhLNW1ILW5FNjJrZWdvUVRHQkJUZVJVd3o0YS1CbFE?oc=5)
+  * 💡 호텔 그룹 Accor가 2022년 이익 전망을 상회했다.
+* **[방송/영화/OTT]** [Nearly 200 Southeast Asians, including 2 Singaporeans, served in Israeli military: IDF data - CNA](https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVE3QUswMlU3allvR2dLYnVEVlZoVTNoVWhmMVNJNGpwcEM1Y2tTWHNhZFNFUmUtUGVtMkI4NkpxWXBtLXg4RFp4NEFGeXFPM2lYYzhGVFAyc3hpNGVyRVdXYmhVcjJ5VmFybVpBWmJPOFR1VmJNRXB5SnJ4RkFwWHJSV0VoVUhNekhab1ZBaWdyNG1uOFF6eGtaUEhpY0FIdkxYaFhRcGlBR0pWNEEtZlIxOUMtY1NuUGMtTXdsMlB2MFZad3VlUWtXaw?oc=5)
+  * 💡 이스라엘 국방군(IDF)이 발표한 자료에 따르면, 약 200명의 동남아시아인들(싱가포르 국민 2명 포함)이 이스라엘 군대에서 근무했다.
+* **[방송/영화/OTT]** [Fourth impeachment complaint filed against Philippine V-P Sara Duterte - The Straits Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxNajFUNW9PeEp1aE9uNFVtTmhZMVMzSWl3WTFzUVo0SXdzSE9wcjl0cVZsTmdxUnRMTTRJZ0hWUEY5S2VaLVpDMGVSZm94ZWFuSE5zcTA1LXBSU3I1dlRNSWIzNXZVNW1QLWZraTZmQV9LcnZDVS1UUnRJcUFtZkpkdzA3WVR6UUMteVNmQWxmT2VBNHVhTmFLYmgtTEhmVmIySHJ2ZjBUOWJ6ODQyNjRYYzZB?oc=5)
+  * 💡 필리핀 부통령 사라 두테르테에 대한 네 번째 탄핵 소송이 제기됐다.
+* **[방송/영화/OTT]** [US to deploy more cutting-edge missile systems to the Philippines - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDV2eWFZbUwyNldlLWdRRm9BRFExdVdVMmlzeV9yN0p5Q3V1aXdhbG9UdlExa0ZKdjdMbmpoZWNJSnZxZmN2blVFcnZJNDduWlYteWlLZmZ4TWV2c2hlQkV5VldxMC1ibEZwWjZlcjZkVDFOMkZHQzloNDM4U1dib1M1ajFKdE5hWVMyWHhXRzlQT1F0LUVUS3kwYnl6ZEhJdFo0Vl9Iek13MkU?oc=5)
+  * 💡 미국이 필리핀에 첨단 미사일 시스템을 배치하기로 결정했다.
+* **[방송/영화/OTT]** [Ukraine, Russia hold peace talks in Geneva as Trump puts pressure on Kyiv - The Straits Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQbFhnNzhuZzluMkNEdFdCRzJtVHBlMzRfUUFueVktaDYta3c0RTFQN3lfbVlBeUhHclgtWFY2Sk5GV1Q5Qk1scXVSMkw0RXpXY1lYSU9rZ3pMMUdtOXN5dzlsdVN5bzdXTlMyOHZHSHd5X0FLZWUyaGc4UUY2ZldDcDFiLXJzRGlFQUNlQ3kxS19Pdjg?oc=5)
+  * 💡 우크라이나와 러시아가 제네바에서 평화 회담을 개최했으며, 트럼프 전 대통령이 키예프에 압박을 가하고 있다.
+* **[게임/융복합]** [Landslide at Indonesia Morowali nickel hub kills one worker - The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTd1Q3QwTk44Mzk0aEJTRmstQVFDYVZORndkcy1VNnI4ZzNiYS1xTUwzcjJNMnFrMk9QVGdlZ0VyMERjdmxOSGo1VHVYUldsVXd2N2lTbExFNWU2dUNMWExNYmJzb3dDSlhIV1NxRmR0LUNhWGNQS1A0UlJ4WkZhYTAwWDBNX0h6MzNDZEYtSklRZERZQzRQUU1nUUlJb3B3YmN3?oc=5)
+  * 💡 인도네시아 모로와리 니켈 허브에서 발생한 산사태로 1명이 사망했다는 보도입니다.
+
+---
 ## 📅 2026년 02월 19일 업데이트
 
 * **[방송/영화/OTT]** [Beyond race, religion & labels: Indian M'sian chef, 34, cooks CNY meal for Chinese godmother's family - Mothership](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzFiYkVwX25qWFJ5UmI4emhoMUFfQVZxbWpsYllvY3k0eTBRd1J5Nk5iclpEeXM3bTB0dG54bW42V0NZTlV0Uy1PWVlkWk94dXlPeWtXSWhtN3djSHotRVdiZEpaYnpJdXRnV0p0d090bEozYTluRzdldENLSXAxb3JaaTN5MWc?oc=5)
