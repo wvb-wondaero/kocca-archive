@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 21일 업데이트
+
+* **[패션/라이프스타일]** [Pull&Bear closing last remaining S'pore outlet at VivoCity on Feb. 22 - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE83WTcxZnprVGhsQWVXbk1EYWVkUXhFNzdab2k2aUs3V0JZTG54WFRUMEZZcXRQMkJzUXlKLXNydnk5ZHhZcWpkcnJNVGFaRzN3dkhER3ZBU1lzbzdwOFVmMFJZYklWejBRWkxz?oc=5)
+  * 💡 스페인 패션 브랜드 Pull&Bear가 싱가포르 내 마지막 매장을 폐쇄한다.
+* **[패션/라이프스타일]** [Sentosa club Tipsy Unicorn closes due to court-ordered compulsory liquidation - Mothership](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQmNqenY5cmhLVFNNa2dnY2VVbG1vZVJQelhfN1hDM1g3cWtfQ09YUUtDV3MxTFlLWnVsRGl1OXFnXzZLZTFXYUxPZDJKYjRYcTJRWm92ejM1V3o0dWZmYXYzVHR5MFR3czBrMy1xZDNmOG1kWlFoT3JORjBNcVhIdE1IWE45aWZLenl4VnZwVFM?oc=5)
+  * 💡 싱가포르 Sentosa 클럽 Tipsy Unicorn이 법원 명령에 따른 강제 청산으로 폐업했다.
+* **[애니/캐릭터]** [Fans flock to Japan zoo to see viral baby monkey Punch - CNA](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdEpWbGV6WVNianhVWEF6T1ZPcFZHY0hRa1hhVlJTeUJ2UFloeFkwZ3BVbm1tUGFUaWZvOVJpaXFhd19abk9FRzFPTG43UTZCTlRnYWpKNlpwMVZuTjhyR0xFeGFwc0FiMlVlRk9yWG44a2FwZkwzdWNwUTlPOVNaVUZUdFJ3SXEwUjFmQjRfVEt1VWozQ0E?oc=5)
+  * 💡 일본 동물원의 귀여운 아기 원숭이 '펀치'가 화제가 되며 많은 관람객들이 몰려들고 있다.
+* **[방송/영화/OTT]** [Tesla unveils cheaper Cybertruck variant, cuts Cyberbeast price to drive demand - CNA](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3BzUl9FNWQ3Ym5HbExyaEszMkEzYjRWTjNJN2xWa2VHMlZRTzFsTHFoRklWSFJKSW9zWUFPZExETlV2UHI3bTUtVkhIYVNZb0h2c1BKRjBKYm12NzhUZTBxd3RiYnVsejI3WjF2Z0NWVWZEZ2hLT1ZrMS1kbjZLNWtaYkVRZmREcWQ3MnFSSzNXY2s3OEtUbEw2QmpTeFZPclVKbkkta3dwdndVSTdvd0phdk1Bb0NoWXQzajJHZXQzZw?oc=5)
+  * 💡 테슬라가 사이버트럭의 가격을 낮춘 저가형 모델을 출시하고, 사이버비스트의 가격을 인하하여 수요 창출을 시도
+* **[방송/영화/OTT]** [One Indonesian crew member dead after fire breaks out on Singapore-bound cruise ship - CNA](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUh4RFQ5RkczTWZSdDZHU0tHTTNGODJGazlfdC1Wdno5anhreGJnSHd1TzlzREhlV1Zrc1NPeUplR0xuZmp5U0RUa3NyWGF4RWZKcUlSclluaWp5X0RXS3gwN1V0YWJENjlLRGREVmtLbGtoVXdpU1dFby1MajV0NW43VGZOdw?oc=5)
+  * 💡 싱가포르행 크루즈선에서 화재 발생, 인도네시아인 선원 1명 사망
+* **[융복합]** [Tesla unveils cheaper Cybertruck model in US, cuts Cyberbeast price - CNA](https://news.google.com/rss/articles/CBMitgFBVV95cUxORV9nSWZ1elhxRGFUR1VaU1N4WFU4ckxHbno1M19yNWdnd1RoQVRtUUZJWEVza3hQUlVFaC1oZ21hVzhEMWVwQVk3Y1dQaE1hTGtxWUpQUlI2Qm9FbmVuaDJsZlpadWNvY013TU8yc3VzUTloUDBtMm5IWUpPV0VPUGdteXFIVHlKSFdYUU1oMFFGUnZuNF9QekoyVWloaEVEd3pQc0p3OWFqdXdVeUNEZlc2VThJZw?oc=5)
+  * 💡 테슬라, 미국에서 더 저렴한 사이버트럭 모델 출시 및 사이버비스트 가격 인하
+* **[방송/영화/OTT]** [Tesla cuts price of Cybertruck model Cyberbeast in US - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnhWWVltZ2RVeldWTVgxN1VMdW5tajVVT3VDd1QySGpZMWJ6STlvR0tMblhyVlRJS2lMMWhrOHU0WW9TUzd1UVNMemY4d3BhaHVIX2dtUlRrbHdWSlRoaXc2ZlhIQmRjTlRReW9GX3VRQkphakJoaGNRNnYtVVBVTnJIc29lclNVUGVtMGs4N2NITGR0U2JOdnQ2R28yT2RV?oc=5)
+  * 💡 테슬라가 미국에서 사이버트럭 모델 '사이버비스트'의 가격을 인하했다.
+* **[방송/영화/OTT, 게임/융복합]** [NS brings youth to forefront of cyber defence & AI - The Straits Times](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWNEU2RZN2lldFBGcmRWX0t2cFRJTUNueGtDTzFMa3Y3WU5jSkF6OFJnYnozZUNhTzFwZjJsU2NNbW1sNlVxcHNOYUlkX1kzWVhzVm90ZWFDak9RV3pENEtpNnFaWDA3VVJZT21kV1MzOS1VeGZhaFZPN2xFdkFZNkp0U0c4eXVtWHB1RkVJNG9vaVV2eGJ1Q182UGdFbmlfcUpoU0hMc2N0TlRPalVGMldWN2J3c3g0WGk2M1pteUN5NkppR2FPdkY3UXM4aFZDTWd4dGdKLTZQNmtqUDFn?oc=5)
+  * 💡 싱가포르 국방부(NS)가 사이버 보안 및 AI 분야에서 젊은 세대의 역할을 전면에 내세우고 있다.
+* **[방송/영화/OTT]** [7 Chinese tourists dead after bus sinks in Russia’s Lake Baikal - The Straits Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlRjQ2N1UWZzdGx4a0t4clpGLVVjVm56VXhwLVJDb2VRazNuNHZtYjFfUV93RDhGVFRldE11dFRoOER5Q010bmpCVzFmU2dPd0JaUU4yeXNKN3JhNm8wcGNDUE5UQVdvQ1RFZ25nRTJ6NGlrSXNQYWtBdFZDN2phRUx0WEhxUjllT0FwaDJVTzBleFcyZFhlS0hQMHlJYjJhRDNKdGNQQ2I4N3lwaWttOE8xR0hEMFVWc245TjV0X2VRRHBO?oc=5)
+  * 💡 러시아 바이칼 호수에서 중국 관광객 탑승 버스가 침몰하여 7명이 사망한 사고.
+* **[방송/영화/OTT]** [Honda battery issue adds to Aston Martin's testing woes - The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXE2Ri1pbnZtMUpKX1A4dVY5d0dkVkRrQWdXVGh4VkV6U1BrcWlNMjk1UzBjaG1QY2hWYzQ5Sk1ZbHVrakRhV05Yc3ZodTdlemxYdWJRd2RldGctVTN3QlMyZnhMaWpUZVRQbzJyZWxDRUtFc2dYTHdXelBpVVRwWDl5QjJaZkhNbG5KRzdGM1FhN1J1dzF1alc4MzQtODNyUzVv?oc=5)
+  * 💡 혼다 배터리 문제로 인해 아스턴 마틴의 테스팅이 어려움을 겪고 있다.
+* **[게임/융복합]** [PARF changes likely to spur more COE renewals, tilt balance further towards EVs - The Straits Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNvSDZ2TXRYRnRDOElYY09tMDhGVy1aeEtoM1Z5WlVDMHJldVk2M2M1clFJczlueW1ONkQ5N3d0N1RBY3VFSzlEWUR1NVJQRHZUdERxUkp3aHV1MWtYUERidnkyNDhWWlpSNm5pQkt2Yk42NkhNVnZOZm53SFYwamlZZmx5ZklfeUItckJvRHprYU5oZTg0NXlDaGZGOFNnbnE2cTNTMDhUMzVmdVBsMXlNOHRiNGFrVm05UTFqVWJlWWNaVXc?oc=5)
+  * 💡 싱가포르 정부가 전기차(EV) 보급 촉진을 위해 PARF(자동차 감가상각 보조금)를 개정할 계획이며, 이로 인해 COE(차량 구매 허가증) 갱신이 증가할 것으로 예상됨.
+
+---
 ## 📅 2026년 02월 20일 업데이트
 
 * **[방송/영화/OTT]** [Man in China lights firework, it explodes, half his body disappears - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE15UmZMN0JZUmI2UWRfYlo1THc0YWdfQlhWZXFjRGJIWXU0WmZqVXgxbVlVQ095ZENWMDdHRmxsTWVIaEtlaGthalROWTFjMW1Oa05pa1F6d1NoZ0NEWUNQcWYzdHVOdGszVWxXSjlWMUs?oc=5)
