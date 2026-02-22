@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 22일 업데이트
+
+* **[방송/영화/OTT]** [Man in China lights fireworks on CNY eve, ruptures eyeball - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PR2NpdkJteWpwdEszWUJFM3Q2U1N1eTZHMGtFa3pRa251Y194R3Y0VFFDZ1YwSlVfd09Xa0diUVgtdmd3RjBfb3JUNUtFSWpTMHA3UXBiTk1MSWFkY0tUdlVfTU1CUU0?oc=5)
+  * 💡 중국에서 새해 전야 불꽃놀이로 인해 한 남성의 눈알이 터진 사고가 발생했다.
+* **[방송/영화/OTT]** [Jack Neo sheds tears while discussing filmmaking, says it's his 'mission' - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsQkhsYmc0aWZGb2NEMVlMcGt2U2JRQWhYRE5iMXRuMUVkUnYwV0xRMHF0b1hyUURpNUREUW9JSlVEbmVPcW1xcFdVdzhaR0NXWE9EUXJ0dFlmVi1uc2JXdGFyd3R5VHc?oc=5)
+  * 💡 싱가포르 영화감독 잭 네오가 영화 제작에 대한 열정과 사명감을 토로하며 눈물을 보였다.
+* **[게임/융복합]** [Toto Hong Bao Draw on Feb. 27, 2026 to have S$12 million top prize, final amount likely more - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBISXMwQ3pUSFNyUmE5ZWpBZlZRdVpSZWFvSlIyY0JWcnVWel9rR2sxcTJsaE94U2cwTnNWeWVlYVNNSkJkOFJ4TUJOZ0xCSzBQV1ppcW1RNUNOdWY4R2F6aXdTc2k?oc=5)
+  * 💡 싱가포르의 국민복권 Toto 게임의 2026년 2월 27일 추첨에서 최고 상금이 1200만 싱가포르 달러(약 91억 원)에 달할 것으로 예상됨.
+* **[방송/영화/OTT]** [North Korea's Kim Jong Un reviews country's progress at key party congress - CNA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTM0MFJYVmxBTkRSLWNuZVkxcW9YQlk1YnlpN1dNWUlJVXpZUUJraVJGc002cExfSl9RYXFkc09tMk9HRkRvaVcyRWlRd2tadjdJS0RzOUctdGd2VGxWMk5Sa0tWOWRuMkNmb3MzOEhkekpzdDk4WmpPR0EzVUJUVnBsSGhyZlNidjVZ?oc=5)
+  * 💡 북한 김정은 국무위원장이 노동당 대회에서 북한의 성과와 향후 계획을 검토하였다.
+* **[스포츠]** [Speed skating-Bergsma rolls back years for gold as Groenewoud seals Dutch double - CNA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzdHa1o3M0pBTXhURFpLZ1lPenBDLV9TTXFpOEhqcWtXSkJicGx0Yzdyd2prRFpaX1pjZWs3MEFhR0hTOUFiRl9IV0FXQ1VXVmU2MlJ2OG1qQmRrSVhyLThTOGJ2RUE1OXhSanNCbEEzaWhhN2JtX29LXzh4M2FoZVhtYkRRZUt2eWd0WEE2SHo5ZDVTS2lodk1FcjFOU080NnJXRVBNVFN5ZHdQZkkxNjgxYkJ6N3hCV0R3?oc=5)
+  * 💡 네덜란드 선수 Jorrit Bergsma가 스피드 스케이팅 금메달을 차지했고, 또 다른 네덜란드 선수 Marijke Groenewoud가 동메달을 획득했다.
+* **[방송/영화/OTT]** [Trump to remove Vietnam from restricted tech list: Hanoi - CNA](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTRmbHVPeGRqUXFWTDMzQjk0cjVYcDFMV1REWEVGN2NZamFhV0hjUkZqbFhVRzk3bEpOQ25qbjh3WWN4cVZHWFlDaGJRLVI4VmdxMVZUa1l3THQxNTNBTkpYZFVTRWJNMjVzS0h4WURhM3NYZy1xRVFtd0JGVHhHb1RqSHdpZEJHUjl6Yk9YOVFJVmVPV3ZN?oc=5)
+  * 💡 트럼프 행정부, 베트남을 제한적 기술 수출 대상국에서 제외하기로 결정
+* **[광물/자원]** [Brazil, India ink critical minerals deal as leaders meet - CNA](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTThKRWwyX1RKNlluNzZLNkd5bndHTDJhVzgtX1dLeTR2VVhOZ004a19Od0FSdGdiQVRTTnJsUTJmQ1NuMDhpQk5pdnpNVDdKQm9yRHJicllqOFlNZWUwNG84WGFwNlFad3ZZY0xSNnQtelNCMXNMTFgxeUFSdk54LXU3cS1UT2J6SUo5MUxHRkc?oc=5)
+  * 💡 브라질과 인도가 주요 광물 자원 분야 협력 합의
+* **[방송/영화/OTT]** [Virus kills dozens of tigers in Thailand park - CNA](https://news.google.com/rss/articles/CBMiigFBVV95cUxPaVdNUDVuc2dHRTAtbXpBYmZZVExjaUZHWlQ5ZmtjaHFMM2t2N3RmRTVJdGNVak15dHlLMDh0b3IzMGpjTFNEX1lFNVFXRENnRTNGMHc1aXUxMi1HWERyZDZZM3JMZXQyeS1lZ3hQa2RsRHB2eEp4X0RuWGI1WlZDUFIyTHIwOHkzQ2c?oc=5)
+  * 💡 태국 국립공원에서 수십 마리의 호랑이가 바이러스 감염으로 죽어가고 있다.
+* **[방송/영화/OTT]** [OpenAI flagged, banned Canada suspect’s account 8 months before mass shooting - The Straits Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjdxVzdteDBSOEY2aU9adTR6a3QxRWZMbGJaVEVIcHJCVGxsaFpka2dVWGgzYkJpbDBicHUyTzg4NDVLdHRkOU0weVhuMmIyQ0QtRmxyQ2lBb0ZtbF9OSUl6Tm4zaFRXVmdleFd4SFNCdDBZczQ3NUM1TlJKc0NWQURmV1hmaW9vbHV3LTFlZ0YzWUN2RlpteUl3MmFUYkI5Yl91c3RJY0JmWDI5?oc=5)
+  * 💡 OpenAI가 캐나다 총기 난사범의 계정을 대량 총기 살해 사건 8개월 전에 이미 경고하고 차단했다.
+* **[방송/영화/OTT]** [Malaysia’s TB outbreak: Public urged to mask up in crowded places as cases hit over 3,100 - The Straits Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnUtN3MwN0lLSmVsTTJyRlhPSm55Q1h5bG9PS1lsQWFIVHFjYzFxWjNRbnVUUklUd3pSRTFFN1VDd0ItUDlVLWlUS3NldHNSdG40LWMya0sxd3RVQlhvNTZTdW9tVHdCeDRuV1h2LVNxOVZveWk1TFFmVW5iaFpzdmNIc2lyUzRVNXZidFdndFFHbzdBbUZQTDVaRlNyRzNCOGJ0cHpLRGlWdE1oeDZsMXpiV2hQUndfaFd3UV96THFObEdpbkNwdTl6b3VxRUZIbnBCTm93?oc=5)
+  * 💡 말레이시아에서 결핵 환자가 3,100명을 넘어서면서 정부가 사람들에게 혼잡한 장소에서 마스크를 착용할 것을 촉구했다.
+* **[방송/영화/OTT]** [DBS to impose 12-hour cooling period for adding new payees, raising daily transfer limits - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVJBV3BrOFF4UndsRy16NmV0N050RUE0N3NGM2hxbndJMF9lQkMzaHRTcjU5V2JKeFR5b3FqTWx3WmpPaE84Q0hrbWpLY05fU1h4UGZtcDRmVlBubTJNcWFpc3dtaWdWeTZaWFl1YXh2V2U1dEhvTWdBd185c2liMkx5ZEJNV3NiOWhzNmxNa2dJMmFwYUZxOHhBVE9HMjUtWjF4bFFsalNKam1pbXp6NVhmTjYtYVFpT1BYLUZqTQ?oc=5)
+  * 💡 싱가포르의 DBS 은행이 새로운 수취인 추가 및 일일 이체 한도 상향 시 12시간의 쿨링 기간을 도입할 예정.
+* **[방송/영화/OTT]** [Austria turns Hitler’s home into a police station - The Straits Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHR3VmFvQUN4d2I2V2NfNVRMd0tGT19yRUVDeG94QlZKY2Iwel8tMF9OREFVSjJDY2dzQkxwVHlYbG50V0ZjeDdGcl9fY1hDUEhyWmE4emdoWTROMU9EVzI0dGRhWlZlREtTLUg5ZGVfZUtqU2lYakl5d2pkTE1PLWVDOG9uRzFIaHFfM3lXZThaYjho?oc=5)
+  * 💡 오스트리아 정부가 히틀러의 고향 집을 경찰서로 개조하기로 결정했다.
+
+---
 ## 📅 2026년 02월 21일 업데이트
 
 * **[패션/라이프스타일]** [Pull&Bear closing last remaining S'pore outlet at VivoCity on Feb. 22 - Mothership](https://news.google.com/rss/articles/CBMia0FVX3lxTE83WTcxZnprVGhsQWVXbk1EYWVkUXhFNzdab2k2aUs3V0JZTG54WFRUMEZZcXRQMkJzUXlKLXNydnk5ZHhZcWpkcnJNVGFaRzN3dkhER3ZBU1lzbzdwOFVmMFJZYklWejBRWkxz?oc=5)
