@@ -1,5 +1,33 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 23일 업데이트
+
+* **[패션/라이프스타일]** [S'pore woman, 71, probably holds record for highest CPF monthly payout at S$4,600 per month: ST - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ETDZ4Q0tIcVNpSjl3YW9pRy1ETVBIemc1Rkd3WWJsaVFSc3FXLURKQmhySWhwbDRFU3V3clBDZTA3UVlMSC1wQjNKRERRaGVkU0Q1NnRPcW9PeUNEUjJ0M2J0cVhwSjQ?oc=5)
+  * 💡 71세 싱가포르 여성이 월 4,600싱가폴달러(약 380만원)의 최고 CPF(중앙연금기금) 월 수령액을 기록했다는 내용입니다.
+* **[패션/라이프스타일]** [Chinese wellness operator opens S$45 million 24-hour spa complex in Jurong East - Mothership](https://news.google.com/rss/articles/CBMiWkFVX3lxTE84a1kyMi16V3QtRC1oUWNENEJGRVV1UVNzcWl5dE1zU3dpYTZobWIwcWp0X2tKczdmZEt3ZjBVcExSSThLWWNQLVlFZUdSWUxqSjJaWU9rR0ROQQ?oc=5)
+  * 💡 중국 웰니스 기업이 싱가포르에 4,500만 달러 규모의 24시간 스파 복합단지를 오픈했다.
+* **[방송/영화/OTT]** [Woman faints on NEL train, MRT staff & passengers rush to help - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WV2gzODVNZ3dZWUhoZ0Y5Rjdtb3BlVTlmcWxDejQ3aVNBTlE2MkhIT3Z3MlJTa05STnFrcjYtb2dZUm5DOExKc0FGSU1qbGRDdUdLM2luMVZJOEo3a3h4TGZnd0FVSTQ?oc=5)
+  * 💡 싱가포르 MRT 열차에서 한 여성이 응급상황을 겪자, 열차 직원과 승객들이 신속하게 도움을 제공한 사례
+* **[방송/영화/OTT]** [Strong quake hits off Malaysia's Sabah - CNA](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjNhZmlReUNUQjhZQldraTg1eFRFczdmWTBDY1IxSm50SUwyVGxJUVRWa1h6V2MyTGNpbHJQamYzbGMzRXRtOTdqRm9CbzdXUHFfNW9fMlJtaGtQTTZ0Q2V6aFZpRjhnSEFjUEMzVElDNGRxY05oRUdmaXhoMGJDUWhXdGJfc0pGRGZoU3JB?oc=5)
+  * 💡 말레이시아 사바 주 근처 해역에서 강진이 발생했다.
+* **[방송/영화/OTT]** [Andrew's arrest hands King Charles fresh royal crisis - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1RTSmVKU3BqTEthMTE5T2FHWUZBUUZSQkVkcDF6ZktIN01EY0Q1ekVMM3JvOXQ1UzBfaG5wYWNva0ROc09CeERCWG9TM2JQVnpwa1Z5SHNDQlpRZEY1SVNNWTgzaG14NHVuTzVvMEFqaU8xZFNCZjRsRUVkVnFJN2RiQVdxVGUtZTJlQk5SVU5KWm1odTRQRXM3b2hJU2hmVFJ3?oc=5)
+  * 💡 영국 앤드루 왕자의 체포가 찰스 3세에게 새로운 왕실 위기를 야기함.
+* **[방송/영화/OTT]** ['No thanks': Greenland, Denmark reject Trump's hospital ship offer - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGQwYldKVWZjZU1mLU9BcDNYNUhVaEZ3TEZJWkJoRFdmbEZKeV9hdEZXRWE2TDBtRW1YenZ5a253N2RQVU5RWUU1Rm5jYUhIbFgxS1ZtSXF4VU93NUNuTEtfamdsVl9OSGd1b09ZY3VpNFM2U1dtOGlDcG9pQ2pUWXBaUEEyazJ6a1FJOWE5OTlpelNhU2ZUZnhWelBKN3ExejVJSzR3LVYxeDQ?oc=5)
+  * 💡 트럼프 대통령이 그린란드에 코로나19 환자 치료를 위한 군함 파견을 제안했으나 그린란드와 덴마크가 거절했다.
+* **[방송/영화/OTT]** [Commentary: A US war with Iran is close. But what's the goal? - CNA](https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVNmNUJZM2pXT2JRaHF4cC1rbGRBaWNUZkF1bmVoUGtjYTNfUmljYURZYWZSQkV4Skx5aXFyUVV5Z1lnWUxQVG9pcW01MWFVSlBFM2hFUHJVRVFpc0VtZEJyYnF3VnFNN3lkeUZZd21CRmhfWlJUX09vQmxaQVpqbDhBelFQT1lFNGtsdjRKaEE3U0VDeUFv?oc=5)
+  * 💡 미국과 이란 간 전쟁 가능성이 높아지고 있으며, 이에 대한 미국의 전략과 목표가 불분명함.
+* **[방송/영화/OTT]** [Netanyahu says India's Modi to visit Israel on Feb 25 - CNA](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSndKMlhaLWFwSzlDTjB6OFBZWldITHZvZjktREU0ekZhb09VYTF6c3lweWV6Q21DZEdSSFBRY1puSnd5V1dXeG1MT2h1Q0hSRUw3bHFuSUhqM3duSV9zVGtNQ0FzOGw2QlN1LWpvSmdYVTdCRnNibWFkbDdzdVpYVnZneGM1VzNhQms1eENGa25ZMFVLS2JF?oc=5)
+  * 💡 이스라엘 총리 Netanyahu가 인도 총리 Modi의 2월 25일 이스라엘 방문을 발표했습니다.
+* **[방송/영화/OTT]** [Russian embassy in Seoul displays ‘Victory will be ours’ banner ahead of Ukraine war anniversary - The Straits Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ2hlSEwxaTc4cWVyUXhNbzFBb3JBUmhkTFNFblNSTzllVnNyRzZaVzlMSThGZDI5bHlUYzNWTTdsaEVZWi1aTndyUnR0QW5KR3VaWEljQ1dlMUdwY2ZfMG9xM1F0ODE3YzRmdUpqenRtRmZ3MThvOXREV1kyT1ZFUnFjSlNWOFV1ekZzamx5bGVGYUZWSHVUZlR1bGFJekJIVmJxc05BbDBjTW9SWjZiUkQ0ekpXaEozTXhlMWc4Rk5Ma3laM19LZFNDemJYZkdDcnB1bg?oc=5)
+  * 💡 러시아 대사관이 우크라이나 전쟁 1주년 앞두고 "승리는 우리의 것"이라는 배너를 전시했다.
+* **[애니/캐릭터]** [Virus kills 72 tigers at Thailand animal park - The Straits Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1FMUUpfZnpGQmhncnN4dkpiVGVPdWRfMGgteDJlWjdTUllCSzFBbURvNGhTdjFOTlJ2dmFBUDFBaGpwVHlqbjRVU3dISjBidzhrZmhqdGdqYVZ5a3ZnbEZWQlZqcUdodXdtRDZTdU54ZU9POUtBLUZEUXRBaEx0TmZUUEZ4ZTV2QXNsamdn?oc=5)
+  * 💡 태국 동물원에서 72마리의 호랑이가 바이러스로 인해 사망했다는 기사입니다.
+* **[방송/영화/OTT]** [EU says it will accept no increase in US tariffs after Supreme Court ruling: 'A deal is a deal' - The Straits Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNDdZdG91TnBPc21sSUxTdjFPcHg0MTdJcmh2VnRQZkJrSFBrX1VBZWZrdzlXa0tWTzFMYTZDb1BVSnZjN3lrbDFWUm9fa0Z3VmpNdVhwYXhYeDNUOFhPa1ROS21NQ203d1gwNWNmc1BaY0lockRFMU5rMU42SkJLZC00UXRlcExIS0lFaDV6WVZJRGp4QzdiLXBPbl9IQzlRZjdfa21LbkdZUkVNYzQ2TkM0UHBFQldiZXV3V0UxTGNLUmtNek5QWm1lZFFEYnc?oc=5)
+  * 💡 EU는 미국의 관세 인상을 허용하지 않겠다고 밝힘.
+* **[방송/영화/OTT]** [Iran protests resurface at universities as war risk persists - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVJyMklSVGZtd3V4UG9VT0RoMEw2NGh6MnFVVE9GU21kUFZIc045b1VCM01BTEU3U24zWjlxSWpSbGhDejZQS25sb1c0LXlrODQ0bXFEcWJIbFp6Z1FVV09NWlVJTnFFU1UzTjJLT2wwSm03Slk4dHhYOTcxUVJSNEpWeUh6cXZKaGlOc0k1YjNyZ3VLY1J2VUFPS2RTS3NPZDNJaUhnZTNRQjA?oc=5)
+  * 💡 이란의 대학가에서 반정부 시위가 재발하고 전쟁 위험이 지속되고 있습니다.
+
+---
 ## 📅 2026년 02월 22일 업데이트
 
 * **[방송/영화/OTT]** [Man in China lights fireworks on CNY eve, ruptures eyeball - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PR2NpdkJteWpwdEszWUJFM3Q2U1N1eTZHMGtFa3pRa251Y194R3Y0VFFDZ1YwSlVfd09Xa0diUVgtdmd3RjBfb3JUNUtFSWpTMHA3UXBiTk1MSWFkY0tUdlVfTU1CUU0?oc=5)
