@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 24일 업데이트
+
+* **[음악/공연]** [Woman, 32, who sustained 80% burns on body saving fiance from burning car in 2021 Tanjong Pagar car crash, returns to getai stage - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTE54cVR4Sk82Q1pUdGdQZ1QzVmpRT0loRjFpa0ZVeWkyMVNudU9mWG5EWkF4bmZRc3B0NFlNV2ZCeERaLU96TE04YjVYMTFyQzAwclFPbEJoMDZodm8ybm1CN0QyaC15X1pNMFVrXzc1RDhHWXEyVUtDRw?oc=5)
+  * 💡 2021년 탄종 파가르 차량 사고에서 80%의 화상을 입은 32세 여성이 공연계로 복귀했다.
+* **[방송/영화/OTT]** [Mexico cartel burns buildings & vehicles after drug lord with S$19 million bounty killed by govt - Mothership](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3ZG5qbjFBUlR4NHRZWHBLNlE1UTNoVEk4Q2dacHYtUXozVlNtVmYwanFuUUNuUTZtQnJxSkx3VnJhRTVvZWhEalNfRk5jWndLZFdqU3pGR0xLZzl3cFAxQ1c3TkE?oc=5)
+  * 💡 멕시코 마약 조직이 정부에 의해 제거된 마약 조직 보스에 대한 복수로 건물과 차량을 태우는 사태가 발생했습니다.
+* **[방송/영화/OTT]** [Dollar weakens as US tariffs struck down, Iran tensions rise - CNA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTdqSGdyQm9BblFIa1o5UngwU19EVG9yYXVCRjM3WXI0cjJ2OWk1VTdYWnNNcUpQR2dCbXZ5SXYydmQxWkhsdVhVMWhweURiXzlpaW9GdlFCVU0xRzVxc01lLTVYSm10UllSOVdfVjN2emdELTI5ZzJMZlpxZlpCaGVZcXpqZ1BhaUQ5ZkZsNkVPcjBiZDY5N2FueXZiY0hPdG9UMlE2Z2k?oc=5)
+  * 💡 미국 관세 철폐 및 이란 긴장 고조로 인한 달러화 약세
+* **[방송/영화/OTT]** [Mexican military kills cartel boss El Mencho in US-backed raid - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxNY01Nd2lWMjZqTVlTVzNuc05QV25pcGs3MkZWbUc3T25KaWt2NjczczljMFZzLVNqRW1uejdkQ0dYLVhMbmtPRlpfMmdZdGRtVElNdy1IS3czRU9NRF8wNm1rNHV5bTlNTmFJZ2FuMEFiZnJwcVhjLWRMNC1PWkhKR05GNDVmRWtpV3czdjJ2WktqR0E?oc=5)
+  * 💡 멕시코 정부가 미국의 지원을 받아 대규모 마약 카르텔 보스 '엘 멘초'를 사살했다.
+* **[방송/영화/OTT]** [China urges US to cancel unilateral tariffs after Supreme Court ruling - CNA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX05RTjZ6Qzh2OGwzNTZQSXdBejNmWW1XMzlTdERfZk5wZ3NNdy1DU2thYUM4RjBna0EySUV3ZnRMWUdSOEFHZzZ0TVRpYkRaTzNrYkV1RE5JUlBFTFZtQ3UtdjZKbU9QRE0tZ3UyMjNiOUljNWdvNzRzWGdMQ3hLaHNfbTNNaHhxRGxYYzlQRGhqWE1fZFRiZlpha1FfNmtnZGtLQWxQTkUyMUtfdXNfM20yM1BnQ1Iw?oc=5)
+  * 💡 중국이 미국에게 WTO의 판결 이후 단독 관세 철회를 요구
+* **[방송/영화/OTT]** [Crow shooting to resume in Singapore as attacks swell - CNA](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVhZbDdFcWs5UUxJNmR1ZlVjb1hNd3hsTGFBVGR6eVBDZ0YxTk1ET2ZVMXJBcWtYRmxNS0tUa3FPT2ZxWVhoSHBKMFU5ck15QWhyQU5vQzNySW45eG1tTFY4a19OZUVoWHlRTC13Q2JOSWd0SFBYSEZVdUdlVl9hUWw0Y0ViMnYwNFR4UFhDemwtbl9LNFdqWFRNMWdtYVNBZnZBMHB5bzlOZw?oc=5)
+  * 💡 싱가포르에서 까마귀 사냥이 재개될 예정인데, 이는 까마귀 공격이 증가하고 있기 때문입니다.
+* **[방송/영화/OTT]** [Trump warns countries on trade deals, threatens tariffs - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWNBbVVjYkpUXzFYWF9aSzhNV2xIYnlScDBreG1DY1Y3WkV2U3pVT1hpZkpXUzFGN1lZaUVUd2NlUHpmbnFRczBSUXN5SllpZlZmMEZJRFFCOE9BUTY4Zl9NS1NINFFmQ1NsWHJ3ZmJUWVVhbXMwOWtxeU95VDI2SDNXSy1kV2FSTXRYRFhucnN1aDR0MkNWMGdRZld0VzR5Ym1KZXE4bHlVX3cxX3c?oc=5)
+  * 💡 트럼프 전 대통령이 무역 거래에 대한 경고와 함께 관세 부과 위협을 제기했습니다.
+* **[방송/영화/OTT]** [Scam victims lose $2.9m in less than 3 weeks in Feb after fraudsters pose as MAS, MinLaw officers - The Straits Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGxjRWVmbVBzdmhNbEhzMDRneGtqTTBKU0lPeEtrWDFxUUlGSng3NXJjTzRWY3lTM1VCNlhJOXhKVjFKbU4wR1E4NUg4NHFTRXJNQzNtdnNyQkVzZXVfbmJIRW5Lcnd3aHpSSHlZT3BBZW1HV1c2TGl6Z1BkZU5hQ2tDT2V1b3F6QjB1WVFudnhGZVZELVdFQ2l6RWZiLVFLcF93bGRVNzh3dl9BZjl5ZVlnQ29fT3lWY1pJSHZKaHBvMjNEQm5mZS1fNmVEODA?oc=5)
+  * 💡 싱가포르에서 사기범들이 중앙은행(MAS)과 법무부(MinLaw) 직원으로 가장해 2월 3주 동안 290만 싱가포르달러(약 245억 원)를 훼손했다.
+* **[방송/영화/OTT]** [US women's ice hockey team decline State of the Union invite, reports say - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFVMUWFZUHQ4cXFlYW1IRVk2aC1RbXU5UWMxV1JSQmZSNkJPNTVkcXNhaGN3ZnZScm5KLUpPSmljTXNfUnJhTWZyTDhDSU5ycEhzbmV2TjZIQk1pUjJJSDdlWUdxb1JDTUpvZ1pnQ0VmOXdlN2kyb0l2OHBLUkxMRWM0NllsVmk5elA2Rmc4RGhMWkljeXJKZUEtS2owVk5SQlpwVFRRdU1JUQ?oc=5)
+  * 💡 미국 여자 아이스하키 팀이 바이든 대통령의 연두교서 연설 초청을 거절했다.
+
+---
 ## 📅 2026년 02월 23일 업데이트
 
 * **[패션/라이프스타일]** [S'pore woman, 71, probably holds record for highest CPF monthly payout at S$4,600 per month: ST - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ETDZ4Q0tIcVNpSjl3YW9pRy1ETVBIemc1Rkd3WWJsaVFSc3FXLURKQmhySWhwbDRFU3V3clBDZTA3UVlMSC1wQjNKRERRaGVkU0Q1NnRPcW9PeUNEUjJ0M2J0cVhwSjQ?oc=5)
