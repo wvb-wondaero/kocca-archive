@@ -1,5 +1,11 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 25일 업데이트
+
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
 ## 📅 2026년 02월 24일 업데이트
 
 * **[음악/공연]** [Woman, 32, who sustained 80% burns on body saving fiance from burning car in 2021 Tanjong Pagar car crash, returns to getai stage - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTE54cVR4Sk82Q1pUdGdQZ1QzVmpRT0loRjFpa0ZVeWkyMVNudU9mWG5EWkF4bmZRc3B0NFlNV2ZCeERaLU96TE04YjVYMTFyQzAwclFPbEJoMDZodm8ybm1CN0QyaC15X1pNMFVrXzc1RDhHWXEyVUtDRw?oc=5)
