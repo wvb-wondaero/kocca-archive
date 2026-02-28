@@ -1,5 +1,29 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 02월 28일 업데이트
+
+* **[게임/융복합]** [Trading card packs to be regulated in S'pore under new blind box rules: MHA - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvY1Q2SVJLMlp3V2FmNld6WGF4cWg3blNvRENNNXVnM3lUVlVDM3d5VTBDblViMUg3NmIzaEphOHItQ0ZyZkJYMkhCcHhEaTN2bEIzQ09HUGVMejM3TDlHQVRoZU1CYlYtMTdfZ082ZmY1WHFVV0RSNw?oc=5)
+  * 💡 싱가포르 정부가 맹품상자(blind box) 형태의 트레이딩 카드 팩 판매를 규제하기로 했다.
+* **[스포츠]** [S'pore paddlers applauded for returning 'unfair' point to Argentinian opponents, giving up their win - Mothership](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNndYZWFfLW0xcnpUS29tRzhpeU0yZ2lndHZwZ09xUlVneTY4TG1TQ3ZnUG9UX2UxX2ZIMGdiREQ2bmpHYUJwcTBEOUNLQ0tUQXZlTFE1MVRHU01xa0dNR3NzR0pOT0Rtdk50MmM2QXNZb3lDckRwemlqZ3F4YU1zTHozdjg?oc=5)
+  * 💡 싱가폴 탁구 선수들이 아르헨티나 선수들에게 돌려준 "불공정한" 득점으로 호평받고 있다.
+* **[방송/영화/OTT]** [Polish ruling party plans social-media ban for children under 15 - CNA](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHFROElxU2F6QU5wbXRoZk04Mk80bDR1S3ZhUVFwMFR3WXBNUHdielZwamlrQzdsb2xVT21ORmxOZHF0U2FIa0gtRFVxekNqbXNMU3BBZHZ1NUx3VE5tRXdEZjJ3cG5WTWh5bkFmM2ItbXVmQzNLRmU5SUZoSm14QUR6OUpDTkt6bm9fUFhmaWMtYVZWZFVodVIzSVpGRnlybzg2Y1I5T3NTQURBV1E?oc=5)
+  * 💡 폴란드 정부가 15세 미만 어린이의 소셜미디어 사용을 금지하는 법안을 추진 중이다.
+* **[방송/영화/OTT]** [Philippines, Japan, US hold joint military drills in South China Sea - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkNua1lwYTRWWU1lWk8wWUhWUXZLb3ctLWJWQ2VqMGlyYXA1S1AzLUJYVVhld3dYUlgta1N6TVl5dGhqNS1QdnVreDZPRHJ1UGI1ZXNUczlfOEFOT2NyMmkyNDQ2UmhveEFMUElMcUpCWWZ1VkZBN0RsQmk2dk1hRmpibnNHUVBjSjR3WVZmSUp2b202dnFRdWdKdmduSkEydXFJZ3Fn?oc=5)
+  * 💡 필리핀, 일본, 미국이 남중국해에서 합동군사훈련을 실시했다는 기사입니다.
+* **[방송/영화/OTT]** [Poland plans social-media ban for children under 15, Bloomberg News reports - CNA](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0Q0cXMxMWNORHVIcHA4RVRTdmpwWEhvRjFQN2lhRVZMTkcxRENQOG84U3M0Q2hHZGlmZ0FrdnFVN3Btd3ZYcjRwMzdjT3N4R0lZREpjVDBlbXhpYkdFdWpzczRma3E1cVBKX0NyTGFlRzFLeXVhdzZ1ZnJiai1CNFdBdTlIWnNZbG5sWlM5aDVjZkR6Zm5tcVM4TmtuTGg5SkNhTThCTzdWcmxkc2JLN253VS1FeHF2NU5V?oc=5)
+  * 💡 폴란드 정부가 15세 미만 어린이의 소셜미디어 사용을 금지하는 법안을 추진 중이라고 보도했습니다.
+* **[만화/웹툰]** [South Korea finally agrees to share data with Google Maps - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxOazNGU2xreDE0S0dUUjhnQnY5MGVLaDZqNndxOUM5Q0pMRmpuNERRNE1JWWtQM3NORFBsVC12dkRIdGI4NVkyWTZnRF81R0dESzFxaDNWM3BGdzVRSE5iMHVpbzV1TGFySzVYY1FURG9QaGlRRlV3Wi1qSGxLZ2J0UHltdkVzREx1dzBNNm9NUERJMGFLcXVlU1N6WTQ5enNJ?oc=5)
+  * 💡 구글 맵이 드디어 한국의 지리 데이터를 공유받게 되었다.
+* **[문화/라이프스타일]** [SG Culture Pass book buys: 1,500 SingLit titles at 40 outlets islandwide - CNA](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkdUNnRnb0lNaHJfV293d0NNWWZqV2dhV21CcWt3LTRud2hBQXVXVjJPY0VTSHhlYV85VWpVR1AtbW9obWxvaldPR0pmRC14VTVhdmdBdVJud0lXTmw0N1haRHFKTjZhM21BRVhrcklrbFhRR3JWUmpGck5nLVkxNWZHZTNmSVpvSkM1Q1V2Q1VOY01JN0k5eWhSY0hfeVpj?oc=5)
+  * 💡 싱가포르 정부가 독서 장려를 위해 1,500권의 싱가폴 문학작품을 전국 40여개 서점에서 할인된 가격에 판매하는 이벤트를 실시했다.
+* **[방송/영화/OTT]** [Singapore studying separate car licence plates for EVs to warn SCDF, public in cases of fire: MHA - The Straits Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQndGWVNwWnR0Z3JJMmFpRHNCQVJtOEhIMTRzZjNISWdnZ3pmSjI2ZEFvN1B6WnZndGRhNUlMc1VCU3N1WWtYT2ZjSm0tTXZmd0NDVkFINTZJSDlsUTZYcloxNFQ4Xy1aV2tUcHhvXzRmMnFvUVZJVTBQV25IQnFmbUJSbWc3Y2VSZS1ucDJrNHIyOWtLdTJOTG14TWtaRUFzOWVLenhQLVRxbFQ2R1JqcERyTHlNdEVpVTBmeGJyTDlFRnBTSDRab0FVbzZOdHBBRy0wRFR3?oc=5)
+  * 💡 싱가포르 정부가 전기차의 화재 위험을 고려해 전기차용 별도의 번호판 도입을 검토 중이라고 보도했습니다.
+* **[문화/예술]** [SG Culture Pass can be used for 1,500 SingLit titles at 40 bookstores from March 1 - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDlTQTFMbUV6dExyUDlRWlp0d1ZpcnQ1SC02WEUxOG1nLU5WdDZfbkJ0bHBVWFRuOW96OE1sbmhETHhhRkRFMktlbkNRd19tZWlNUlYyd2J5TXNzQUtPSE5EdGlqcU9TOXk5XzJoUDRxX1dtWHRiR0pQZDk4V3hHb1BJQWJnMzFkUDRPeWNDWGJRWUs3ZlFjQ2lXQzllZUJESW5PZkxoS3lNakYzamZ1SUdCN3o0alpNM3UzVg?oc=5)
+  * 💡 싱가포르에서 3월 1일부터 SG Culture Pass를 이용해 40개 서점에서 1,500여 종의 싱가포르 문학 작품을 구매할 수 있게 된다.
+* **[방송/영화/OTT]** [Deliveroo’s Singapore exit ‘bound to happen’, paves way for Grab to expand: Analysts - The Straits Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWljVk1IeGJPY19ZOWQtY0tGUUtDOXJaWnVZSWpyeGlyMzJVT1BoZFZ2VE9BMWUwOTJyV1NjQTJtbGZrWTNiRFZrdGlxd1VabV83X1ZDd1pFdFVTOFJNUHJHS0xFRjN6eXFoTDBkR2xPbEFCRUk1WlE3SkNxTVVzd2lmUGpxb3ZtOW1ITWJxOWFKZ2g5Yzg2ZzhWaVRxYnNkUzJOX3BfTXloUEdVMGd6WUFQWnpTV21Q?oc=5)
+  * 💡 Deliveroo의 싱가포르 철수가 Grab의 시장 확대에 도움이 될 것이라는 분석
+
+---
 ## 📅 2026년 02월 27일 업데이트
 
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
