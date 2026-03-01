@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 01일 업데이트
+
+* **[방송/영화/OTT]** [S'pore Airlines & Scoot cancel flights amid US-Israel conflict with Iran - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZ0pjNElFcThKT2dCNXZ4VXlJZHdCVjlBMVNTNmdTTEp4U1U5RmtJdUpNM2JCLWJuZ3lVRS1rZHZNM3FfSlk2OUU1cFdWcFd6VGpMdWZPLWJNTzZOemw5REJlNlFyTTBHank1M0tINjNfckFlTVE?oc=5)
+  * 💡 싱가포르 항공과 저가항공사 스쿳이 이스라엘과 이란 간 갈등으로 인해 일부 노선 취소 결정.
+* **[방송/영화/OTT]** [Raybe Oh, 32, makes getai comeback, packed audience included her mum & nurse who cared for her - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTE9aSGNlVkZyV05QVmhsRGZjOTBrblhTanJfMno3aDNicWlOaUtDSEpvU2JrVEdRdDlfNF82VXM1cXNhRmtNbUpUZHRpZ19TMDlJMG84c2tNTGV0UC05d2tobUxrbDN3X19uTGpkQnpxMkVKamxH?oc=5)
+  * 💡 싱가폴 가수 Raybe Oh가 가태이(Getai) 공연 무대에 복귀했고, 공연장에는 그녀의 어머니와 간병인 간호사도 함께 있었다.
+* **[방송/영화/OTT]** [Faishal Ibrahim calls Iran strikes 'failure of diplomacy', seeks de-escalation - Mothership](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ENkJhSnlqRkJMYjQ0aHpKSF9qZDVaLW1sckZYaWF6VHdWS0U1ck5pMDl3SDBiYnU2VHhyb2wwQ2hKZ2J0MTcyWWJTandJd0tlTkN1NHB3aUJUUElZLVJzZA?oc=5)
+  * 💡 싱가포르 외무장관 Faishal Ibrahim, 이란의 이스라엘 공격을 '외교 실패'로 규정하며 긴장 완화 필요성 강조
+* **[방송/영화/OTT]** [North Korea unveils image of leader's daughter firing rifle - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmtUcmdOclBzMGVpUEU1Q1pfRi1SZms0X1h3bWFZUm15MjM0eTFJYVRhdExaYlNMUXl6Ulk1RXZJbkVfRUJ5TVlsTm4wMk9jMEg2cHFESnYtVVlWNC1CWkZWQ1MtVlVsTzhhWnlTUUlZZHh1VDl5aDFZdl8yM1BiLWhKNFItaklZUTF4QkhjZmtITkhkSWJOZUI2Y3doZDZGeFlZTV9sb3B6aWNHb0JNZQ?oc=5)
+  * 💡 북한이 김정은 국무위원장의 딸이 소총을 쏘는 모습을 공개했다.
+* **[방송/영화/OTT]** [Trump says US aims to destroy Iran's military, topple government - CNA](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3dOd0Nqc0lnR3VUck1zWjVfMzJFdXB4SnBwcmlpMjVlR21MZVNwSG0xTzlsU0NXVGNSQUwzMmdnRmZNbm9mOV9fLTZ1LVFkQzA5U1lVbmlFUEZhRVAtT00xOTNRa05MeGZyWjVWN29TdVlUeUs2T0RaSmlrWERCYW1uYnJoNFpU?oc=5)
+  * 💡 트럼프 대통령이 이란의 군사력 파괴와 정권 전복을 목표로 한다고 발언했다.
+* **[방송/영화/OTT]** [Airspace closed, flights cancelled as US, Israel strike Iran - CNA](https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2RONnRrU0xtMHBESXFFelltdEVyal93enctU1FRMjZfNktkSlBnZmIwRVdnc1lETUwzeU1BQzA2ZU9CYlRvNFNvamZOSUc0ZVJoRWM4WmxRY2JzUWJPcmZBZGVjekF4VktFVUhKZHVUcEZBQmJJQ2EwOTIzd3ZrS1dyUDk3eGNBd3FvTVYwSG5XVVhNX0dmWHBTbE9qOE1aVDNBZQ?oc=5)
+  * 💡 미국과 이스라엘의 이란 공격으로 항공편이 취소되고 항공 공역이 폐쇄되었다.
+* **[방송/영화/OTT]** [Israel closes crossings into Gaza Strip, including for humanitarian aid workers, Israeli government agency says - The Straits Times](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzR6andlZ09uVEw0VVlXdld4a1dUNW1NRG82QTVkRjN0djVDeW1BVzhfN19GMUd0Uks1d284VUlQWmRXeGJUZGtpY0hJeElQVkdfTWFtTEhOOGRaTDFDVUFfYmU2WkVxbDBsX3VhRWUxdnk3a2FBS0d2SFZjRHRndnhoenVXR3FvT2VQa1dpa3BpNU91SDJmeThJZFZVd29XWDExSFRnMmVHZ084T2E0aUNIUlVEcDRSMVhRdGV5aFNXQkhrYmVIZkJCMkN1aUlfQl9hekJYUkpqQThO?oc=5)
+  * 💡 이스라엘 정부가 가자 지구로의 모든 출입구를 폐쇄하겠다고 발표했다.
+* **[방송/영화/OTT]** [Airspace closed, flights cancelled as US, Israel strike Iran - The Straits Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3BTMEROYWpVQm0zM0ZwNGRPbzZZc1RhWldDcUJLRThpdm9VX1NrcHFLOVJoYXREQ1o1Rm82TFJXR0NrOUMtRlBETndabmttTDU5OUFxMXhxTFJIeHdwSWdfYWNzRjFuWTNGQlotMk1SNHB2NnFWZUZjakM0bUtOVndDYTg0OEl4dGNxbklLYmZxYkx1RlZuY2t2aGdZUjVfb2o5RUZzYXY4dld4d1R6bDlGc2xsQQ?oc=5)
+  * 💡 미국과 이스라엘의 이란 공습으로 항공편이 취소되고 비행 금지 조치가 이루어졌다.
+
+---
 ## 📅 2026년 02월 28일 업데이트
 
 * **[게임/융복합]** [Trading card packs to be regulated in S'pore under new blind box rules: MHA - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTFBvY1Q2SVJLMlp3V2FmNld6WGF4cWg3blNvRENNNXVnM3lUVlVDM3d5VTBDblViMUg3NmIzaEphOHItQ0ZyZkJYMkhCcHhEaTN2bEIzQ09HUGVMejM3TDlHQVRoZU1CYlYtMTdfZ082ZmY1WHFVV0RSNw?oc=5)
