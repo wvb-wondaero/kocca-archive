@@ -1,5 +1,35 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 02일 업데이트
+
+* **[패션/라이프스타일]** [Thai woman, 37, marries 2 Austrian men at the same wedding ceremony - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1UbDhsMjg4VzZVZkYtV3hsZXROOGdxX0NLNU9CLWFjVEtVcFBPbU5YV1B3ejh2RlhZcU53a0tGMlJhd0tLdjZubjZxaUk4cnVJcFIxYm1XQXhfWEZGYWcwVjFPaVZJdUo0SXlEZzg5VQ?oc=5)
+  * 💡 37세 태국 여성이 같은 결혼식에서 2명의 오스트리아 남성과 결혼했다는 뉴스
+* **[방송/영화/OTT]** [Dubai Airport, Burj Al Arab hotel damaged in Iranian retaliatory strikes against US & Israel - Mothership](https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUWIyLVZhSDhkT3ZDdUNuODQ1UVJyaUMxdDJUdTRoRkVTUVNRVjV5OUNhY1ZHalBKMHJFQzk2V2lNQ1lZWDRVczVqeXhtZk5oaFZwMFoyekhndm9YX19pb2pyS2k5SmppOVFiQjhudEh0eXhYRzZRck9lcw?oc=5)
+  * 💡 이란의 미국과 이스라엘에 대한 보복 공격으로 두바이 공항과 버즈 알 아랍 호텔이 피해를 입었다는 보도
+* **[게임/융복합]** [S'pore man wins S$250,000 after finding Hunt The Mouse gold coin under tree in Upper Thomson - Mothership](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZOERVSHhMUXRqcEdZTnNXc0tyUjFDeWpZRlE5REgyWllvOXNkWXJtVGpSQ1VRVHhWRjcya2NOVk42b2IxQnZJM21KSG9MeXZPQzg2enZfZ0JsRlBHN19COGwyWFl5WTJROHEtag?oc=5)
+  * 💡 싱가포르 남성이 Upper Thomson 지역의 나무 아래에서 Hunt The Mouse 금화를 발견해 S$250,000를 받았다.
+* **[만화/웹툰]** [M'sian man, 64, fined S$650 after killing dog in Perak with firecracker - Mothership](https://news.google.com/rss/articles/CBMidEFVX3lxTE1SMmtlWjdSWEdrNzcyN2VJM2ozOWFVRmNDeThhQkdmU2lQZTJDZGJfZTllZGlhODhfa2haQVNVclJnN1U0ak1ydUk4cGJRYnFtOUQtaEhCa00waGNGdnRUMHJpN3JTa0VhaGJBYXFZZkRXaVFF?oc=5)
+  * 💡 말레이시아 남성이 불꽃놀이로 개를 죽여 벌금을 물은 사례.
+* **[패션/라이프스타일]** [BYD February vehicle sales fall at steepest pace since pandemic - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2U4SEpxS0M2SGNJenJ4WE96OVlHcWhtZmtvbFpka21nUlM3TXE0MFh4TGU5Y3JMWWY2bnVrT2M3ZHdwYndodzRvSXFkQmZLang4bG9CX1BoYUFYdTZuZTgwZ2ZPeGExaHRkYlRfOUxsd3ljUzBmbGNKVnpDbndSVG9FeFZCVkt6ZWE3WmhoSG5GMHNWbXpJTlJid0V5ZWU3c3p6ZzZn?oc=5)
+  * 💡 중국 전기차 기업 BYD의 2월 판매량이 팬데믹 이후 가장 큰 폭으로 감소했다.
+* **[패션/라이프스타일]** [Indonesia's Garuda, Malaysia airlines suspend flights between several Middle East destinations - CNA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm5PVTR2RUVsMVhVbWRILWk0NmcyRnNIS2NNUjhRWHkyNzFwdjdSZTZwa3RzUW40ZkVHWUZTLURjRmFyR2JrdVpLSmhyV3pJR182YU9kNjl5T3BwV0Q0X0FfeUZBdVhIc2pfNnNiNURxVjNNOHRvTWM1ekFzSmpJSUg0WVFRRjBhc2NzLUdSNzJFVGdibzc5QzRWMFNFUFVPYjlUT19MSEE5VVpWN3d5cUtvZ2l5WTRHTkJ5LW9xbUNVQm1sOEdMZXhRUVB5TmRoQVB3?oc=5)
+  * 💡 인도네시아 가루다항공과 말레이시아항공이 중동 노선 운항을 중단했다.
+* **[방송/영화/OTT]** [How South Korea nudged its birth rate back up – and what Singapore can learn - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaG1veDFCNy1ZWVdBVXk4NzVwX01FbHJmZzl3TjZDdU0ycVE2SENoMm5qMEhST0FwMFBjS1ZkblFiQjAzRmNDMTFVMHctRjR2ZUhuQk1fN0E5QmNxdm5FLUQ3NXA2eUN0cVcwWW1PbHFMOXZ1QWdmc1lyUk1aVURQRF9vRHVRZ1NKVUt0VTRnWDZKM0ZlcERGeGxMNkE4bVFsdU5WVTZn?oc=5)
+  * 💡 한국 정부의 다양한 출산 장려 정책이 출산율 반등에 기여했지만, 고령화와 경제적 부담 등 과제가 여전히 남아있음.
+* **[방송/영화/OTT]** [More SIA, Scoot flights to Middle East cancelled amid US-Israel war on Iran - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2JwTGFtRFVDS0ZXNmRwTElrOWFuVDAtcGdrRWNmUTNDb3pHX3hCa1dMS25hTGx3RjJtMTBuVDh2Y3Y3LTVVOXFpYlpVckRPVEJjakMwdVZaOFgteE1MZmFlbW9tYmFFUG1BX0k2YUJCVVNBN0IzR01qSHJOVGpFRFczeFhReThjOUVzVUdCY3Q0YW5LZ1RnME1ra2IwQXdhUGsxQzJEMlpHQWc?oc=5)
+  * 💡 싱가포르 항공과 스쿳 항공이 이스라엘과 이란 간의 갈등으로 인해 중동 노선 일부를 취소했다.
+* **[방송/영화/OTT]** [Iran faces new strikes after leader Khamenei's death - The Straits Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWpuN3p0cEZKc2J6di13ZloydGl1N2VKQzN1anFVc05NVmt5WXNsQmpCWUN6ZW9sSTJEbmZBcndUcVpiZ3RoODlhcHZnMzhxTGVFOFRFWHZESjFLOEFaM1l6Ry1QdUd6SElINnp3NHE4cjZadmNRSS1SZHVOQkhWMG01Y05pVEFacUVtN05iTUFyblE1MDc5Wlc1SlpaQU1tZFdCX2w3dkhKbXNPRlI2SVRhVTBpV2dZelZJ?oc=5)
+  * 💡 이란의 지도자 하메네이 사망 이후 새로운 파업이 일어나고 있습니다.
+* **[방송/영화/OTT]** [Abu Dhabi complex housing embassies damaged as retaliatory strikes widen in Gulf - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxQazdzTU1RaUhLZzJvNXlIcTVqaG9Da1pYZ2MwQ1d2MUltYWxWY0RMWW5uSHg2YjNmQmZoMGo4RjJZbzVTVGZLdUJUaE83YWNJTTNJYWNrcmgyTVFoNlpLYVljUFZNRS1scEcwbGNuMFBIMS1kQzFUQTdTR3BaZEY3elZUeEY5Mld0QmtxWFVaVTFtSTdxek9jU0RHekZ2M2EySmV1TkJnU0d3aWxaU1M3T3hoNA?oc=5)
+  * 💡 아부다비의 대사관 단지에 피격 사건이 발생하며, 걸프만 지역에서 보복 공격이 확대되고 있음.
+* **[방송/영화/OTT]** [Iran attack a major triumph for Trump, strengthening his hand ahead of China visit - The Straits Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxQeXJBZ2NEWUtoQ2ROc0tCYlVOMlpoRmN5ZjhrSWNHSlFpS3lhOTctaWdhU3NIZldHZm9oczhveC1vY0ROV0htN0c0TkNGcmxTQmRDSFZRcHJ3MGpRVWRvWDltbjVLR3BHX2Z1VGVqRm5WSzFIRElKV0QtVGR5aTd0aVVJcTdweHBUNXpLeUhyLVRhMXpRdTlESW1zMGlxcFA2Mnc1WENLUEM1T3pLNy1UNkVmQi00MmotNDVHZmpUOVVsWWVIZHJpaUZB?oc=5)
+  * 💡 이란의 미군 공격이 트럼프 대통령의 외교적 성과로 해석되며, 이는 그의 중국 방문에 긍정적인 영향을 줄 것으로 예상됩니다.
+* **[방송/영화/OTT]** [Trump’s trip to Beijing could be cancelled after US-Israel strikes on Iran: Analyst - The Straits Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3N4NGdTWXpQd3NjQ2NaTDFSYUxtVEJQVW9oeFhNbVhtQkdLVzdoRk9pMWNhWnJld2NtSGF4SDBaeUJpbnlEYXpjVDBLelJJM1hzZjA3MVBSUW9EbUtXczl3dmlldkdlMzlfUnZ0UmtzN1JFdC1xWlRweVZpYTRRbW94cEhIOUh1bWpWcDNlclFMWUd1WEVFaUdHc2VmZWh4Rm5tOXFB?oc=5)
+  * 💡 미국-이스라엘의 이란 공격으로 인해 트럼프 대통령의 중국 방문이 취소될 수 있다는 분석.
+* **[방송/영화/OTT]** [Cardinal found with phone during secret conclave to elect Pope Leo, book says - The Straits Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnVyVUgwVlkyOHdYZmt1d1Z3akg4VnhycF8tTmJDWnZ6dVBnZWwzQi0wcThid3FseHBVdGZERGFXUklvLVZabk8ydlJPX0hyMnAwUUwzOFpOV18wQkpZUzVkMGZEVlhnR1hld1NjMnpkamJFT2N2N1p0VkJvNFNLRTZhTDg4RG4za3MxdmFzNXlXcWhNWTZ1aEg1bzVtYlkxRWVERGhlYUxoaU1IUUt3cGctY29jWUV2ZHc?oc=5)
+  * 💡 교황 선출 비밀회의 중 한 추기경이 스마트폰을 소지한 사실이 폭로되었다.
+
+---
 ## 📅 2026년 03월 01일 업데이트
 
 * **[방송/영화/OTT]** [S'pore Airlines & Scoot cancel flights amid US-Israel conflict with Iran - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZ0pjNElFcThKT2dCNXZ4VXlJZHdCVjlBMVNTNmdTTEp4U1U5RmtJdUpNM2JCLWJuZ3lVRS1rZHZNM3FfSlk2OUU1cFdWcFd6VGpMdWZPLWJNTzZOemw5REJlNlFyTTBHank1M0tINjNfckFlTVE?oc=5)
