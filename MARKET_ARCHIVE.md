@@ -1,5 +1,37 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 03일 업데이트
+
+* **[게임/융복합]** [S’porean man, 35, scams Grab of over S$13,565 by using multiple delivery accounts, abusing loophole - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNXZxVVdnU1NoV3NFdk1UUktYY1FKZy04aXlsNGdHRmFvbU5kZ3lGdkJ3OGVMMFF6bWtFVjZNbmpBODRsLWt0c3pQTXN6ek0wYmtmbFdKSUZORmVra0dCWE9VdTZiTFVZUGVEMjJVSUtDeklnVEYyMTZyLWpPdw?oc=5)
+  * 💡 35세 싱가포르 남성이 다수의 Grab 배달 계정을 악용해 13,565 싱가포르 달러를 편취한 사건
+* **[패션/라이프스타일]** [Sheng Siong giving free tubs of Häagen-Dazs ice-cream at some outlets - Mothership](https://news.google.com/rss/articles/CBMickFVX3lxTFA4cmgyMmlfX21tTXoyaHZuRlNsT1A5QWJYVTN6QjgwN0t1ODNWVWJnWkdnc29yX3FWZWtRQ1RwSGhYa1o0Mk1FZWR6aEJmM1RGMklaZ3hXcFJpQnVSa2xFV2RaNHFfUmpPaE5NY3dRWEVOZw?oc=5)
+  * 💡 싱가포르 슈퍼마켓 체인 Sheng Siong이 일부 매장에서 무료 Häagen-Dazs 아이스크림 용기를 제공하고 있다.
+* **[정치/외교]** [Melania Trump to chair UN Security Council meeting - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmVzdkdWpDWE1tTVlVZ1Y1OHBLazNsRDBkckpWdTdiczd2b09WNjFLdVY1dy1udmZjODJBVTNfa3NzNUpISk83VW9EVFdXUl9mRzhBTmpFVnp1RV9HQkZjMzZhMXdrTVhzSjhTYm5YTnByTmhBTFRqZw?oc=5)
+  * 💡 멜라니아 트럼프 전 미국 퍼스트레이디가 유엔 안전보장이사회 회의를 주재할 예정이다.
+* **[방송/영화/OTT, 게임/융복합, 애니/캐릭터, 만화/웹툰, 음악/공연, 패션/라이프스타일]** [Singapore to invest S$800 million in decarbonisation over next five years - CNA](https://news.google.com/rss/articles/CBMingFBVV95cUxQRl9MckhIYVpmS0VqWkVYakIxOF9GX2sxc3lpWExOLXFhQkFPX2p2dmNwZUx5N3B5ZWYtN20xOGpsSlFIZEpVN1NTT2ZoY3NEQ2w2WlB4Y2Z6Y2lKLVhHMW5YTnJfa3pJcnZlQm1MM09vbGRZaU1Eck8zN2FaSFFjeVFCanlxVG9JUVFLcDJxSkdEcXRaSlBEVlRqWHNldw?oc=5)
+  * 💡 싱가포르 정부가 향후 5년간 탈탄소화에 800억 싱가포르달러(약 6조 5천억 원)를 투자할 계획이라고 보도했습니다.
+* **[방송/영화/OTT]** [Sarawak-Petronas lawsuits threaten to shake up balance of authority between Putrajaya and resource-rich states - CNA](https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1ZiZDNmZk1kbVFCd0NiRUtvUzB6eVB5MXU0akRHM3ZEbnFTNFFuR3NzRkpSajZoTnZXbmN6Zm9INXQ4ajJ0Zk5BS1Jjcngwam1KbGZBWFRlZ2xRWkJJOE9ucG9QUjN4Sm1BS3NjREpmYTd2VjgwelVPaFhXUy1tOUhtaHFET0hPelRvNFBRdnY1MlY5UElBUjJhblRQOHhNa1UzcmllNA?oc=5)
+  * 💡 말레이시아 사라왁 주와 국영 석유 기업 Petronas 간의 법적 분쟁이 중앙정부와 자원 부유 주 간의 권력 균형에 변화를 가져올 것으로 보임.
+* **[게임/융복합]** [5 arrested in CNB operation; over 1,200 Kpods seized - CNA](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2VqTU5KcnNJejYyTGJneVZ6aGgta2F5MVRzUEtOeTBlVmtjVE43c0pLT0hXb2V1c1kwTlZlcEk0ZHR1cTRXZFZVaDI4M3gyQnd5MzZZUVAxeW9lZ0NoSUZOV2ZDaGJOUW1WWWRrSUhoSlRmNFU4U3FxbllxTmQwanFoVjg5WEctVFNKM1RVeW1SWUdaMmt3WHhCTXhQNVdyWF9XR1c2SjRnazl6WDY1UUhNdE4?oc=5)
+  * 💡 싱가포르 당국, K-pods 제품 1,200개 이상 압수하며 5명 체포
+* **[패션/라이프스타일]** [More in Singapore opting for live food stations on top of traditional buffets, despite higher costs - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSThFOEFRMG9Nc0taR3BramFjSWF6YUVYWHVONEpJb2x0OWdtVENfREVZQ2E0bXZPSkg3U3B6TEpjdFVSRXk5RDdjY2tZZ0Mzdkx0bjJhR1l4SzdnYTlhM09TYjI1SzdwdjFXYUh0VS1XTFFSLXRveG5aT2M1THZTSkt2ekpOcVNuZlJvS2RnMWhTcHpaOHZZTk5YbUlMZ0taUUJB?oc=5)
+  * 💡 싱가포르인들이 전통적인 뷔페에 더해 라이브 음식 스테이션을 선호하는 경향이 있다.
+* **[게임/융복합]** [Singapore launches Champions of AI programme to drive company-wide transformation - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmVIbWY0RzJQVUdGdV8wNnZqR3hGX2ZOVmJ0Zks1U0JUYnpMNnlaWi16LWNSSUZqa21sNmNBdWNKNEw1cGN0bGRNeTEzLVpNRHc3VE1fX3pYX0VyN0x0UDFLVldaNUVzNFFxUF9JRTE1TnpjRDgyc1ZYZGdwVDRia1RMV3BCX21kS3ZjSXZuNy1YSll3Um5jTg?oc=5)
+  * 💡 싱가포르 정부가 AI 기술 보급을 위한 'Champions of AI' 프로그램을 출범했다.
+* **[방송/영화/OTT]** [US aircraft leave Spain after government says bases cannot be used for Iran attacks - The Straits Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHc0c0xtbWdJX1UzdUc4MWFLdmxVY1lYOTJ2YkVaTVNpal9jd0toSXl5ZHJWMmNrLWh6THQ0NDhzdVU2aHhMa3lBaXZWdE5DR3ZzcjdhNzI0ajBkcTlyZEl0ODJCc1c3blJ2eFNVU2dwN1Q1SlF4YWlrdHZib3U2bnV3dVhPLVczVTJtOFB6dExxWlNpVjJJSGxJT2k3SG5DNlh2cWJzaXE2UTNseExMYkxJZ2E1cVVvNnRxdGs0YmpsZW8?oc=5)
+  * 💡 스페인 정부가 이란 공격에 자국 군사기지 사용을 허용하지 않자 미군 항공기가 스페인을 떠났다.
+* **[방송/영화/OTT]** [Qatar halts LNG production after fresh Iran strikes on Gulf - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenF6OHdHakdFb2M0cXk5SFNOOHRtcllkNEdmOWZXZGtEVjZ4bjJPdkdObmFfdFFGMWFJQ1Z6eThaUXBFSnZFTUw1WTFuX3Y5TzdoQnFEaHRJWkJGZ1kyakJmaWxvVExSY3JEMV9QR0FXaTZGLW1DTzFxSjhsb3o4Um5KTEJRM2NacmRreV9JVEd2QjFaZEhPbWk2T2V2NjRzaFk4cDBILTJoUQ?oc=5)
+  * 💡 카타르가 이란의 최근 걸프만 공격에 따라 LNG 생산을 중단했다.
+* **[방송/영화/OTT]** [Britain says it is for US to set out legal basis for Iran strikes - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHM2eXB5eHhyVHB4RGkwRk1mS3V5X0dzd1ZaRXdHU0pnRlFScTVsZzdLLWtDNDJkMENXcVk3OG1SVHpWUWgxNkVUcm80UnEzYUU5QjIyejhDSUVna0tNY0ZYYU80bjdlcWJHTzk2cUs0SHJnR3FycG9OYWlPNXRaclo0bGdIaXl0YzBjamd2bHRTM0lSVzhYREtrQmpYRGQ5bUh3WDNxNEpoTFU?oc=5)
+  * 💡 영국 정부가 이란에 대한 미국의 군사 행동에 대한 법적 근거 제시를 요구
+* **[방송/영화/OTT]** [China urges Gulf states to unite against external interference amid widening conflict - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBBNmc5T1BQSk9tanRxN2twY0JHUUZUNDV0eFl6OUZDbkp5WVYtakFwTWJjeG1NYkFRWkxENkZkdExLTkFYQ3pscEJkdXYyOEFtc3pxY09TTFhucGU3YnIxSmxRME1YZUN3UkYyYkl1WlZTRExza3ZCMWt2YzQ4eGJfcHZMbElDVUZVWnhLWE01Zkd4a0FFSHJMVEx0OEQ3R3NfQ29zcGdpd2RpUVN5SUNrcw?oc=5)
+  * 💡 중국이 걸프 국가들에게 외부 간섭에 맞서 단결할 것을 촉구했다.
+* **[게임/융복합]** [National AI Impact Programme: Empowering Enterprises and Workers to Transform with AI - IMDA](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlFGSmtzVFY0VUpabXZMcUVOQVpmc3NIclNxLWtqNTI5WFIyZXNtWGdfLWtLUkxLSWFxSG82cUt0ZGlHRmZSNnRrcDhjTmlSMWE1ak9WN2dxQnFqOFJpcTRYdU5MVm9JTkpodTkxVE5wZ0ZpdTFBSi1ub2FFZlptMHRlNzl1dE1rWHBTdWxDWkxLUUNMZ3g0WmVRcHZ0N1BrbUZJSHlqN2Q1dTVOMkFrRmlIQmV5eUhf?oc=5)
+  * 💡 싱가포르 정부, AI 기술의 기업 및 근로자 활용을 지원하는 국가 프로그램 발표
+* **[방송/영화/OTT]** [Government to Raise Cybersecurity Labelling Requirements for Residential Routers - IMDA](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORTVDYVBQM3M1T2pzQUVhZVdkRlpGWElTLXptcDUyREpUODlDRTl6RDFzcUtWMFMyYkNwVnZjV0ZfQnZRR0xjQXBxc2dfX1RFWExNZzlEWXlCSVVyOG5INFJwcU9pSEdNSEFzVVVSYUhQVl9MRzBVUUJLTFpUOUlHelI1MXN0TUZHZkkzNV9UQWNHbFd0eDVYUmlyRGZiZ09wcWhJdkJEazJyalFtYW8wUkZ4SzB4cmtWbWlJTG9yQ05xZl9MQUExS2UzZktOX21jMjRfT3RNTTZzbklVU1E?oc=5)
+  * 💡 싱가포르 정부, 가정용 인터넷 라우터의 사이버보안 인증 기준을 강화할 예정
+
+---
 ## 📅 2026년 03월 02일 업데이트
 
 * **[패션/라이프스타일]** [Thai woman, 37, marries 2 Austrian men at the same wedding ceremony - Mothership](https://news.google.com/rss/articles/CBMib0FVX3lxTE1UbDhsMjg4VzZVZkYtV3hsZXROOGdxX0NLNU9CLWFjVEtVcFBPbU5YV1B3ejh2RlhZcU53a0tGMlJhd0tLdjZubjZxaUk4cnVJcFIxYm1XQXhfWEZGYWcwVjFPaVZJdUo0SXlEZzg5VQ?oc=5)
