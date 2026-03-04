@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 04일 업데이트
+
+* **[패션/라이프스타일]** [3 S'poreans arrested for money laundering, over S$500 million in assets seized including cars & luxury watches - Mothership](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1M5SlFpM0EwYmlxMlowOUhkSURobV9FTENjSUtxOGt3S0R4Y2xxZWIzQmJ1QU0ySzhhRHB4enotUTROSm5tUU9MV2NybjhKQUhLclZ2M0NIaS1Ocl80VjFVY1BNeVRfdm04NjVRM3ZNOHp0bXItMTlPeFludC1iQ0ZCUmJSZw?oc=5)
+  * 💡 싱가포르에서 5억 달러 이상의 불법 자금 세탁 사건이 적발되었으며, 고급 차량과 명품 시계 등 자산이 압수되었습니다.
+* **[패션/라이프스타일]** [S$45 million House+ Bubble in Jurong East temporarily closes bathing pools & lowers entry prices - Mothership](https://news.google.com/rss/articles/CBMidkFVX3lxTE94a0RhLUY4MVlleExQRVJlaVBaUjUwbzk3dW9rc0RpbHRUbGVEQkdIRVNady1IdGhJWDBCUmZJa25jMnlEWHJsWEFqODZVNTl1SEZmMzVoRWkzRlhYNlpFSjN1VlhlYzFwZWR0eDlSMzRRRW9ieHc?oc=5)
+  * 💡 싱가포르 Jurong East의 45백만 달러짜리 주택 단지의 입장료가 인하되고 수영장이 일시적으로 폐쇄되었다.
+* **[방송/영화/OTT]** [Attack by two drones on US embassy in Saudi capital sparks 'limited' fire - CNA](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWRUbW51eTBqdDBEYmhhSDgzTkoyaVRPbWFpLTlfbkNDaFRMYjYwTE93TTFzbXZlS2NRZm9kN1hLM3lSOXhqZi0zSW1IRHYwM1JQRzdxQzVtaDZCMTJNdGNxYkpEREFTTWgxb1RDcUhjS3pyaVhPV3ZQTnZXQzVEa1UwUXUtQktIdWN0bkJnb1B3Zw?oc=5)
+  * 💡 사우디 수도 리야드의 미국 대사관이 드론 공격을 받아 제한적 화재가 발생했다.
+* **[방송/영화/OTT]** [Veon expects customers using Starlink in Ukraine to more than double this year - CNA](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXQteVlFNlVTbXFXSWtoaUxtRkU1amlTNFV0TnFJcXRMNmJyX0F2Q295cXNUZ0hQR0h1U044eUE0UFhGcEhwWFJGQXJfZHJKV1RmbXcydEIwQUp3V1JhaUgxY2NXWV9jQU1vcUY5YmpSay13TUoyMXZNczJsbUcxbGppcFg1X2lhaEJ4TndkbUJiOTBYdUhjRkplTzdGUjY2TnJRMVEySkg2Sm1TdVRvTGJlWXY?oc=5)
+  * 💡 Veon은 우크라이나에서 Starlink 서비스 사용자가 올해 두 배 이상 늘어날 것으로 예상합니다.
+* **[방송/영화/OTT]** [Japan quarterly capex rises 6.5% as government seeks to spur investment - CNA](https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjlpd0RWeFBEdXJ5QUlxNV9qY3l3Umd6WUtxYUVUWnpYRDBNOUQwT09Jazh2bjRXaTRCOXF2YUtRdWRqOGxPM1VneUFRVUMyd2tLNGpLUDJCanhZbzV3RmV1Y2p0NzVCOHJuTDlFb3JCdVFZZkxpWHdPbll6NUFQdkRVMVVRR1A0M3NhZTlidmVvSkhTNkdNd1JBb3pxTDZvUW1GZm5BZkl4MFlVN185NlJ3?oc=5)
+  * 💡 일본 정부가 기업 투자 확대를 위해 노력하면서 일본 기업의 분기 설비 투자가 6.5% 증가했다는 내용입니다.
+* **[교육/기술]** [15 schools to host advanced modules as Singapore discontinues Gifted Education Programme - CNA](https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3o1Q0MxR3pEWWgwanVsTXhBSnhKd21Qb1FBbnRtWXdVamlNNnVMOUJHdjRmRzY2S201amQxWW9QLXlzcXJGY1ZzOHpUbUNTUHU1VkdTOUM2WDRkWmdmUlJuREx3dXhab3pzNmp1RjNPVEFjcmtiNVpCUmJndTVFWDB4dDF5UEJ1V1pwVHA5NERHcHlWOFlvSmZkTHFfX1BYOFMzdVlCdVA2WkpsMWdKckpwR0xxSjVVMnVERG5FUQ?oc=5)
+  * 💡 싱가포르가 재능교육프로그램을 폐지하고 15개 학교에서 고급 모듈을 운영할 예정.
+* **[방송/영화/OTT]** [2 horses seen galloping on Pasir Ris roads - CNA](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbERBZ2Z4Y3QwNVRkbXdGQUJoQXlqQ2t2bzB1RXo0amRBSU1ZWWRlQmQySlp1VnlXX1BFZUh5OUJxbzlsTHZpY3NXNVlwQlZ6VFdJd2NPVGR5MGlFNGlNblhuUTRyYUlmQkNuN1ZLRjJ3cXJ2SDhWTG1ZVk5UbUJGMTBHd1ZsQkFmOHZqQUdmcw?oc=5)
+  * 💡 싱가포르 파시르 리스 지역에서 말 두 마리가 도로를 누비는 모습이 목격되었다.
+* **[방송/영화/OTT]** [Gas prices surge as Qatar shuts world’s largest LNG export plant - The Straits Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0xER1RvdVRPbDBtWXBacDJvZmtMVm96YTV3amgxVWUtV3Q4aW9xVUVZdnZUVTZuZnpSYWVHQzJzNlB6M1ctTmZUS29GOVRuUWFUXzcwcXptVHluSmRJOUszekVnNXRHeDRlNjZBUUIyRjJNUl8xMnRBWTZ3RXNtbmhOcWd5ZGN0YXdNNG53TjNxSjFwMVp0dGc1REZtcUZjRmZvTnEzN2FINWJQdGIzNC1hWnpyUjd4MzQ4?oc=5)
+  * 💡 카타르의 대규모 LNG 수출 공장 폐쇄로 인해 세계 가스 가격이 급등하고 있습니다.
+* **[방송/영화/OTT]** [All in on AI: PM Wong’s promise of ‘no jobless growth’ sets stage for more labour interventions - The Straits Times](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTJxYjBjTURTMjh5T3YzYUdHR2IzRi1XdDVqM3RLUTJ3YVBLRUR3Ylc2V1dRMTRzSEZBSmJTMEk0X3hJYkQ5Qno3U3FaVzQ1eVJPZmFtUFVTTDNud3Q0VF9sZFBCWnhHWjJ1bDVEQWlVNWl1aG9kdkxFRkNCVXV2aldjYVlsdWJOSGlfbzc5N20wT0d5R2plZDUxTHcyY3ZJZDFHX1p4NWNkOUVVQ1hFV3hxZmFFck8zQzFhd0NuTWtELWxNTmJFcmgxWUhCSTkyWlJHUnd0V2lXN0U?oc=5)
+  * 💡 싱가포르 총리가 AI 도입을 통한 '무직 성장'을 약속하며 향후 더 강력한 노동 개입이 예상되는 상황
+
+---
 ## 📅 2026년 03월 03일 업데이트
 
 * **[게임/융복합]** [S’porean man, 35, scams Grab of over S$13,565 by using multiple delivery accounts, abusing loophole - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNXZxVVdnU1NoV3NFdk1UUktYY1FKZy04aXlsNGdHRmFvbU5kZ3lGdkJ3OGVMMFF6bWtFVjZNbmpBODRsLWt0c3pQTXN6ek0wYmtmbFdKSUZORmVra0dCWE9VdTZiTFVZUGVEMjJVSUtDeklnVEYyMTZyLWpPdw?oc=5)
