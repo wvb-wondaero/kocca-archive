@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 05일 업데이트
+
+* **[패션/라이프스타일]** [S'pore influencer Novita Lam's ‘Iran this, Israel that’ pun sparks backlash, she apologises - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnNhdHNsam5JZTc3TDRuRnZjQWtRNGtaSGxXUmhDQWdQc2JPRWZnN2VWVDhTVnBjS1NQUzBjLXlVakh4Z0pMbEtyRktfV1RSX2dOcFRfM3ljQU4wejA1cDNubk5felVGc05udWVoZUdQYmUtT0x5VTVNZVQ0NmVrRXdPSQ?oc=5)
+  * 💡 싱가포르 인플루언서 Novita Lam의 'Iran this, Israel that' 말장난이 논란을 일으켰고 그녀는 사과했습니다.
+* **[방송/영화/OTT]** ['Missiles flying above': S'porean in Bahrain appeals for authorities to evacuate him back to S'pore - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTFA4NGp1aU1KSkhOWEZXM1hBN2tzRGJpSXpHSjZ3SjhlQ0Fjb0tjb2V6bzEtMngzNDYwWVZ5a183VktONFBGQm13UEVCVnQ3NjQtMFo1cVhzOFFKaThEQkhWTW53aUNySy1hLU5ZY3c1NzZnYV8wQjE4?oc=5)
+  * 💡 바레인에 있는 싱가포르 국민이 미사일 공격 위협으로 인해 싱가포르 정부에 긴급 귀국을 요청했습니다.
+* **[방송/영화/OTT]** [Over 60-storey block of flats to be built in Chinatown next to Outram Park MRT station - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE5XTHNBcW8tenM3RmhmTXJ0YnZpNGVHT0Y0eXg3WG5sMjZ3aGtHSU1EaGJqVHFyQjBUeUQwUkhDN1NBNTUzeEJ3LVJOOFRHUUlESC05cEJGanJGT05ydkRDNkUydE9nNU5PZ0lNMEE5UnZWbVlfamViMkUwR0lzdw?oc=5)
+  * 💡 싱가포르 차이나타운에 60층 이상의 새로운 주거 블록이 건설될 예정
+* **[방송/영화/OTT]** [60-storey flats in first BTO project at Pearl's Hill in over 40 years, as government intensifies land use - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1cxcmxRRUVGc0dQalNjbEhRa25Vcm1oOFlXRFZqNG4xUU55SnQ0QXdfalVZUDY3Q3NQb2U2RE5GSlJlQ0Rma1l3WlE5WXhCTG5aY0JMaDg2QjlneEdQRTRfZ3lzUl93V28wdHFWdFBvNG90X3BpQjVUX3dYbEIzb241SmdwdlpfSHFNN082eXk4Y0VrWjFwLWFtLURrblBmQ1E3RlhnYUNiaFZiX1Bzeg?oc=5)
+  * 💡 싱가포르 정부가 45년 만에 Pearl's Hill에서 60층 아파트 건설을 계획하면서 토지 활용도를 높이고 있다.
+* **[방송/영화/OTT]** [Gardens by the Bay to develop wetlands attraction with teamLab flagship museum - CNA](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkpBY2VJdF90RTFYdG1fRTRwTExobnNIeC1YVVJuaThSbWxBT2tVYTdkV24tMUdMUU5yaXRxTUtpRzBHRUhCVVJjSmNCOUlESjFibUd6UXVTVGVFcWl3Wm1xYnFVUzR3cjV2OVpzVWZUNnFkbDBBNXlPbVJKaDlGRVdZRzRjS2dTQ3lsSmloZV9LY3RlbkZ6RGhn?oc=5)
+  * 💡 싱가포르 가든스 바이 더 베이가 일본 아티스트 집단 teamLab과 협력하여 습지 어트랙션 및 플래그십 박물관을 개발할 예정
+* **[방송/영화/OTT]** [Terry Xu and publisher of The Online Citizen ordered to pay S$125,000 for defaming UOB - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUhNdWJEaGpsS3ZRVTAzZ1cyLWV4Ull2dS1VX0ZaX3BpbEJ2MW1kQWdkWDg0dnZ3OC1kWTdkTzBIcjZDczJvVVpvOEpudlpBM2J5bWFtQkVmbFJuMVdPT3lpa3FJa25jMmtrZFNraHF6NTFEYkgyR2lvRDBCbG4zc01ZMldJdDlLWjBzeFh5VFJKemY2NE8zWQ?oc=5)
+  * 💡 싱가포르의 온라인 매체 'The Online Citizen'의 편집장 Terry Xu와 발행인이 싱가포르 은행 UOB에 대한 명예훼손으로 125,000 싱가포르 달러의 손해배상을 명령받음.
+* **[방송/영화/OTT]** [US submarine sinks Iranian warship off Sri Lanka, at least 87 dead - CNA](https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3V1RnVOckQyLXNId2F1dWVjbTk0RzN1ZjlZam1LVldwVUNfWWRvU3N2Njdla3JlYmdkemtqdXJidmhqc3g2Y2ZrQzNBQmRUTGRNU1hJb0stN2F6WGlJcmZiNC1NcjdwbXJKdXIxQUxhZFVGYnA2V25wcy1VT3luSi1wR0NKeUcwd3RCREQ2Z2NJaGJSV0ZYMy13?oc=5)
+  * 💡 미국 잠수함이 스리랑카 인근에서 이란 호위함을 격침시켜 최소 87명의 사상자가 발생했다고 보도함.
+* **[방송/영화/OTT]** [Malta-flagged container ship hit by projectile in Hormuz, vessel abandoned, sources say - The Straits Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGhLVUpEV1dUeDFfeDRzMGtRQ19sMmhVb2phV0pXcHVudFRtQ19PNEkyTUZMLWVlSVhYTm9YY05ZTUhuX1VLclltTDMzV1JSbF8xRjNXU01aODNLVk1lS0lfSmtjZzRhYk5KSWZKNi1qT2w0alBISWRqQU1JakJuc1FrSWl6azlyLWdkN0pOX1B4eGtPNjZrVGQxRno2Z0twX3ZWMDJ3cl9PSDVwV3JUTmpJVHhjY2wwNFV5SWNINWk1MWIxUUE?oc=5)
+  * 💡 말타 국기를 단 컨테이너선이 호르무즈 해협에서 투사체에 맞아 인원이 탈출했다는 소식
+* **[패션/라이프스타일]** [Rising oil prices: Impact on prices of goods and services in Singapore - The Straits Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOThBR3RWNXBjMUtBaVQ2OTQ0enFnUkxLMHZjOXFjQjRDbXJhUnVRNVBnbUV0a1JTNEFHY2FSc3dxRzBrWW9FZ1ZpaTU3U1htb0xfLUNXbFVIZWRuTlI2WHlMVHR3bXJRTl93MVpJTkRtd1IwenFOYnpjOVUwNkxLWHEyRGtxRU4wRC1lOHN4VGpBWEY5VkFJTjdhS3N6V2JpeDhBU0MyMU5CMG1QbXpZYmFGel9YNHl5SE90SHRZSlAyQkp4eWVYN1FKVzVBSDVoOXphZzNiVjI?oc=5)
+  * 💡 유가 상승이 싱가포르 물가 인상에 미치는 영향에 대한 기사입니다.
+* **[방송/영화/OTT]** [China’s top political advisory body votes out three generals - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXBYaEVsTFhlUHJhR1FyMTFFM0dhdVBXb1hNV2tKVTJSNzkzVU5CQlR0R0FXMlBiSFV1Y1ZUd1RiZG9JQ1J1X2tJbGJBMUVNdTJxdDBydWtrQU84bnAyN1czOFdYemJ2UkhlSHpmX3QwTjJUOVlHS0VlUDFYeUc3dFZ0aFJoWHdJcmJ3cXp1Mi1zalR4TkYzYnFhMGxqQ1pyRGtDOXI4U3VndVU?oc=5)
+  * 💡 중국 최고 정치자문기구가 3명의 군 장성을 축출했다는 보도.
+* **[음악/공연]** [HK star G.E.M. returns to National Stadium for concert on May 23 - The Straits Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNblR4dklJMWRCRWdTSlBXbVlYQ0s0SS1NR29HUVI3S1gybGJjYXlTYnQyR2dYODVBU0c4NXRFZVJjamxqdWdvaXZ5dGwtcXZTVm5kb05WTG9vRmROZ3hhWXR6Y0daNWRLams1N0ZYVV8yTVRMWnFEdzBTVVdIZ3FmWlh5b1FKTko0UWJxOTBaRTd2M193TXZFYXlOcDE4NzVDLVd0NVFGZVg2Mzg5dmhFMg?oc=5)
+  * 💡 홍콩 가수 G.E.M.이 5월 23일 싱가포르 내셔널 스타디움에서 콘서트를 개최한다.
+
+---
 ## 📅 2026년 03월 04일 업데이트
 
 * **[패션/라이프스타일]** [3 S'poreans arrested for money laundering, over S$500 million in assets seized including cars & luxury watches - Mothership](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1M5SlFpM0EwYmlxMlowOUhkSURobV9FTENjSUtxOGt3S0R4Y2xxZWIzQmJ1QU0ySzhhRHB4enotUTROSm5tUU9MV2NybjhKQUhLclZ2M0NIaS1Ocl80VjFVY1BNeVRfdm04NjVRM3ZNOHp0bXItMTlPeFludC1iQ0ZCUmJSZw?oc=5)
