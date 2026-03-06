@@ -1,5 +1,35 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 06일 업데이트
+
+* **[방송/영화/OTT]** [S'poreans in the north, like Woodlands town, are less physically active than average, have higher diabetes & hypertension rates - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVHM5aEo1TkhNZjVGUXF3VzRxTzFtU0Yzc1YzRlQwYTZ6dG8tU0R0bjZSb3JzWUh4TU5fX3pMdV9jNE1lYTR0cFRVdE53QnQzMFRfLUZ5WEY5Y0RTanVRUzdfLVppODlpdUFVck5lMC0?oc=5)
+  * 💡 싱가포르 북부 지역 거주민의 낮은 신체 활동 수준과 높은 당뇨병 및 고혈압 비율
+* **[방송/영화/OTT]** [Vietnamese woman, 28, jailed for entering sham marriage with S'porean sugar daddy, 32, to get S'pore PR - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVmVObWpFekdDZ2ZuMlo0WnpsUmRsb3k5eHgyb01pSnNSck5XNUZDdDhSSnhUYVNIYjBjOXp2RVNkZC1EUGg0S0pQNDUxVm93aWpRVnljbDBQQUliN21ZdWFYZnZtUzUxRzFEdTUxRHp0TXRjTzk3RWlJZHBvQQ?oc=5)
+  * 💡 싱가포르 PR을 위해 32세 싱가포르 '슈가 대디'와 가장결혼한 28세 베트남 여성이 징역형을 선고받음.
+* **[만화/웹툰]** [1 in 10 S'poreans have no close friends, David Neo says 'we need to change this' & govt will step up efforts in arts, culture & sport - Mothership](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80QS12MEhvaTYzTnNCdzRNWjVpZGV0X2NWWDVpWTVhRGtCaUF0aTdEd0EzdUJSRnRZeGxmWjRzQngwekFoYkVmMzlUaS0tWTd4cWprQkxpOEttWkpWaEdocmFVMkw4bHc?oc=5)
+  * 💡 싱가포르 정부가 예술, 문화, 스포츠 분야에서 노력을 강화하여 시민들의 소셜 커넥션을 높이겠다는 계획을 발표했다.
+* **[방송/영화/OTT]** [Tearful reunions at Changi Airport as S'poreans return on 1st Dubai flight since Middle East conflict - Mothership](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV29RVldIaDZNdk9uSXVXOXlsdUJiMzJFMTZhLWlCUTh5UVlWSE1qN2tVVXFRci1ZX0I0c25RNy1QTF9oV29MaHo5Njl4bGJ5b3V4REswNGNqRjFRaFcwWWZwN3dYUlhtd1lKd2xjVU9pR2V0YXUwTG1WRVZEMW10NXN4MzJ3enZlSG9LVjFabUdmbVBqS3pBM3hR?oc=5)
+  * 💡 싱가포르와 두바이 간 중동 분쟁 이후 처음 재개된 항공편으로 여행객들의 감동적인 재회가 있었음.
+* **[방송/영화/OTT]** [Azerbaijan president vows retaliation after Iran 'terrorist' drone strikes - CNA](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGVpd1QzeklsQy1WSjE2czJpMzI5dkhYMGpBQUUzc2t4d1gtV0lVUFpJUEVHR2t2WFFnNm9VOXJfZHd6eG4yLXBneG5WR3BvbXhfUFhoTkQxcVRiZWtTMWt1QUFCejB1QzlzdDZsVmtJMmFUOTlaeVlUUk9OTW9KdkV6bE1GbzhXajA4eWE1RXMzUldqVV9oTkR3d1ZtWHJ0OHNMa21Icm43bUpO?oc=5)
+  * 💡 아제르바이잔 대통령, 이란의 테러 드론 공격에 대한 보복 위협
+* **[방송/영화/OTT]** [Genetic testing for hereditary breast and ovarian cancer to be subsidised - CNA](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzVhY1F1U2tHNXo1OUtJekFEb2k4cnE3VTQwSTg2MzdjbmRhRTFSUlBJQVJvS2xKSlV2T283dWpVZ19NZXNLbWhlTmd4bV8ybXlLV2dsNkoySWJTQ3BqbnBIbVBOS0lyaTRMR1pkNkxuNmM0dmdZUnpkemhsX3dUdDdGOXVGcWstdVl3TmZ1WjVnZ3F0YllJV21wVkFGVjZ1T0pZVFYyMkc3Z05y?oc=5)
+  * 💡 유방암과 난소암 유전 검사에 대한 정부 보조금 지원이 발표되었습니다.
+* **[음악/공연]** [Committee of Supply 2026 debate, Day 6: Baey Yam Keng on developing multicultural arts to strengthen social cohesion - CNA](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVm1xX1gxeXB6Wk5KcldmRmRjTm9BUm9PX0Vsd1pKY0lMMEVwSnFtR2d0Y2lreVRfdFJYX3FvRmNucUloREdvek0xUWJ5Sk5pdHVsbzBTWVUtSk9QTFVZU2lOZE0teUFpU0lhdjR0aEVkcURqOHRkN3MtZHBpby1SZTFMWENmemFacDA5T3REb2tGVTNndVBHS08wWjd2ck9KTEpZUEg2U2kwcWN1QkhEU3JaUG1qVnFucV9hcG96VGxCMndxSU1sdjB2QmxCeDNSazkzS1hSMGdlRDk2a1RwclVXVFd0Zw?oc=5)
+  * 💡 싱가포르 정부 장관이 다문화 예술 육성을 통해 사회 통합 강화의 필요성을 강조했습니다.
+* **[게임/융복합]** [Iran crisis could disrupt supply of key chipmaking materials, South Korea warns - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFVIODRUTDEwQkVPQ29XZmR6Zi14M19JNjlxOGxyYWU0RTkzSUhnMjNicHo4NDl0MHZKNERYZWxOTXQ4aHFZSzhyMUVRUVZuRTdKY3Bnd09vX2RGQUdabTF0RkJnWXYzX0lvWERCczk3cVZPc1dJWVdvdWxveGQ4ZGU1d1ZnZFoxVEhKTWpWQXlxUDA?oc=5)
+  * 💡 한국은 이란 위기로 인한 주요 반도체 소재 공급 차질을 경고했습니다.
+* **[게임/융복합]** [China's new five-year plan calls for AI throughout its economy, tech breakthroughs - CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTB2VmVyOEVFVGlNcHNYTVd5NndrcGpLWVl0eHo5Q3JOS3BuR3lHZlBLU2FycWYwbFVHbWlGRUFjRkY4b0hqdG53QmtjLWpPb01HMlYzTlRDblpSX2lRakE1QkhLRE1ROWJITm9hZlA3WkRiOVVRZzk0TlV4aktTaWlsTnZoTU0wck5OVXhOcE9OdzM0YWdGNDI5LU5pbjVWeUE?oc=5)
+  * 💡 중국 정부가 5개년 계획에서 인공지능 전 산업 적용을 추진한다고 밝힘.
+* **[방송/영화/OTT]** [Finland to lift full ban on hosting nuclear arms, government says - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDI0am9TOXkwTzgxSjI5b2w4ZjVBNjIxVFJDeTY1M3Z2SHN0NG5YbkRXVFpKN3hFZGVhUE1UMWxkOGxfTHdCMC1wZHFzakhiQkJmZTduU1VvUk1QWGhVS01YNmpuUFRicGZhcXQ4bE5CUjk1Nm84ZlJnb3puMm13UGRXaGEyZWI1V2lQZURpQ2lIWUFjVXp6cmlrclBDY0JscE1PTnFpS1F3QQ?oc=5)
+  * 💡 핀란드 정부가 핵무기 보유에 대한 전면 금지를 해제할 것이라고 발표했습니다.
+* **[방송/영화/OTT]** [Singapore to raise retirement age to 64 and re-employment age to 69 on July 1: Tan See Leng - The Straits Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbkE5VG5pZ3c3VHVRYTJhd2ZrWkRpMWEtSm1IbWEyYk1fZWdNRmZYOVI1SVRPWGt4ekNBTUhJQ1VqZTVKT2JYX0l5dkxfLWlxaE5OejlBa2hpdnBxcDUxZGVSWW9IVHo4MzNFOXVsWHpFWURnd0lHbWcwT1NZYXVvaFl5S0piYnBjQ1VyZE5UQVBydHdpaW5oVThSUC0yUWV3SEhzbUNlVFdqY0JrZ1NDTDNHcEZrbmwxRUprSXlPWWxGOHctRk9sWTh2OHQ5Tk9BZ0ozWQ?oc=5)
+  * 💡 싱가포르 정부가 7월 1일부터 정년을 64세로, 재고용 연령을 69세로 상향 조정할 계획이다.
+* **[방송/영화/OTT]** [Washington Post’s retreat from Asia is a reminder of American insularity | The Straits Times - The Straits Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3lVQ2MzSE92ZzB1bW9RQmpyU0lONzFwbFRneUlscVdjSjJaMWt5QzZMR091Y0YtdElmSFpwQm4yVFJWaGk2LWVPVmpqZjNFMkIxbzFlam5OTjV4T1BPQi1UQXI4Q2YyWnRaLVNrX3JtSi1MOGFGTFFjQ0M0dlVMQzUtTlQ5cUg5SU1wcmVKeWZDMk93cmg5Y1p2UnZDbl9yclFVbWpfcGN1MGhaS3V3dU80MlFHV1ozckRYTw?oc=5)
+  * 💡 워싱턴 포스트가 아시아 지역 보도를 축소하는 것은 미국의 고립주의적 경향을 보여줌.
+* **[패션/라이프스타일]** [Xiao Hei Tze Char opens in Bedok with new signature dishes of Mala Crab and Pork Knuckle - The Straits Times](https://news.google.com/rss/articles/CBMixgFBVV95cUxQekJrQzRScHBHMHk1TlE1SXhmVEhsQXRUdzh6bk1mc28zbnNRZUl6a254clA3SlJqWEtuUnkzTjJDYnY4OWplYTNjRzNhYW5kYnkxbV9JbHZaZDhBWjhibTNSX1lYci1PZ3Zmc2g1ZVVRS0xfUFF1NVFzUTV2dzNZbjE3QklJa0kwdlpib3pwdUZ0TU4tWlFhQV9OSkd3M3BBVE9yM0dsWWhFdTl0Q3NhcXZkY1FuVktPSnVlTW9XUzljdUhDaUE?oc=5)
+  * 💡 싱가포르 Bedok에 새로운 시그너처 메뉴(마라 게 및 돼지 족발)을 선보인 Xiao Hei Tze Char 레스토랑이 문을 열었다.
+
+---
 ## 📅 2026년 03월 05일 업데이트
 
 * **[패션/라이프스타일]** [S'pore influencer Novita Lam's ‘Iran this, Israel that’ pun sparks backlash, she apologises - Mothership](https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnNhdHNsam5JZTc3TDRuRnZjQWtRNGtaSGxXUmhDQWdQc2JPRWZnN2VWVDhTVnBjS1NQUzBjLXlVakh4Z0pMbEtyRktfV1RSX2dOcFRfM3ljQU4wejA1cDNubk5felVGc05udWVoZUdQYmUtT0x5VTVNZVQ0NmVrRXdPSQ?oc=5)
