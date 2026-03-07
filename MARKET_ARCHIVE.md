@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 07일 업데이트
+
+* **[정치/법률]** [M'sian opposition MPs vote against term limit for PM, thought it would give Anwar 10 years in power - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMVNLQ2o4cmhYVm9vVmwtT3JuMEpUWmp1bU5IbU9Kd1F1enI5cTJzQ2ExV1dsUnByTzlqUkpRMkdMa0dKSFB6NTV5Y1g2MnBCQ3REeG5rWWdJdlpkbGtMQU5SNnR1dVI0YmVoNTVKWGI?oc=5)
+  * 💡 말레이시아 야당 의원들이 총리 연임 제한에 반대표를 던진 것은 이를 통해 아니와르(앙와르)가 10년 간 권력을 유지할 수 있을 것이라 생각했기 때문이다.
+* **[방송/영화/OTT]** [Israel pounds Beirut in expansion of war; Iran says 'some countries' have begun mediation efforts - CNA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY3p6MExOR0xvWGtPTEs1Q0dRWm1FVWE1ZEdzTmMtd05sUXBBaVVubnRFcFZBeVE0WlpSOV9RYl92aVRXQ1pqMkRETGhyQXhxX0tFNVY3TGJXc3h0TGh2OHJROVZlX1k1VV90OHA3WXRZZG9hUFBEMm1EeWdSRjZWbVRUcWhkempLellqRWpzY2RXMFJ4NmVOZTBwa3R0UW04VlZfN0s5bkYxcDQyaG92UVh0MXBCb1JBVnRtVnJIb3NXMTNLekFnTTNXeXM2UlNxell3?oc=5)
+  * 💡 이스라엘이 레바논 베이루트를 폭격하면서 전쟁이 확대되고 있으며, 이란은 몇몇 국가들이 중재 노력을 시작했다고 말했습니다.
+* **[방송/영화/OTT]** [Canada seeks stronger ties with Japan as Carney pushes ‘middle-power’ strategy - CNA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDY3ZjhJajBxVk5vcXhVSzlHdHNHalFpNEotTGxrSzF0dnU3T05ZbTl2bF9pUEdBRzRxR0kzcmxuZ3FVekM5T2l1bDN1ZXM4TFhHVk01YXNhdENHV052d3VJU0pIMWVfMS0zSGRiYTd2R09QS1NLclNiZml1Y0puVGVQanpsN1FYTlE3S3Vjc2pqNEtpXzlzNXZqcG9rbG8?oc=5)
+  * 💡 캐나다와 일본이 중진국 전략 하에 양국 간 긴밀한 관계 구축을 모색하고 있다.
+* **[방송/영화/OTT]** [South Korea says in talks with US on possible relocation of weapons - CNA](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGRLV0M0ekIwVVhyOEZQblJoeEtPdzVHWTBpd2lZaWR2YzNsX25TTm1aLTVCdi1PbDhxNy0tXzl3aVZBbFV5WjZpQWNtaEE5MlkzTkxwTGpLV2x0REdOWmJFNWtnSV9ma3pRTVV6S0xmYm5zNU5Za0Y4QnJua1M5MkUxNTE4ckx1bkQxTFZ4dG5xT3ZNV21yaG1jdjh3bjg?oc=5)
+  * 💡 한국 정부가 미국과 무기 재배치 문제 논의 중이라고 보도됨.
+* **[방송/영화/OTT]** [UN rights chief urges Middle East warring parties to 'give peace a chance' - CNA](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjRrcllKdW5pMTNOQ1dNNmI5WlBoWHpTbVdnNkpTeENsN2g0em9KZkI3U0QwYlNXU3NhY1FkNm1rOHIycVY0VmsxcVVobnRqSGktTmczVkloMS1URUNFeTVNWGRYX0MxcS1FZGk2eGhCNzdRdkp5bFdkUG5mSUNDYk82NndMSFMzX3JQTzRqcS12UGhDd0dsbEt2YTBrSXI5UV9PTFJB?oc=5)
+  * 💡 UN 인권최고대표가 중동 당사국들에게 평화를 위한 기회를 달라고 촉구했습니다.
+* **[패션/라이프스타일]** [‘Anyone who hates me or the brand can call me’: Hublot CEO on critics, BTS’ Jungkook and new directions - The Straits Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0MzM3c3MDJHTTREc2I4RDBZX3JWM2paXy1ZWWtCZ2t4M0VmNmRVSEwtYUZLSVNaRkE2SkNlZUVibkF0aUZXQ3FLYVBOZzhDV2ZHcS12T19HMFEyLUhQYUFvbUlIRWZldzFxVm5ZVFlQRHFfSnNkZUxXeEpvdm12UFVtMXptOEwyT3RxYV9HdVJWb3NVanZmRHFtYVlmSDYyQkZBb3lBb0NSb0d6TnU4QW11cEtOaTB6UXU3XzRTNTJaazJQUzlHOFRDWTJKeG9YTHU3aQ?oc=5)
+  * 💡 Hublot CEO가 브랜드 비판에 대한 견해와 BTS 정국과의 콜라보레이션을 언급하며 브랜드의 새로운 방향성을 시사했다.
+* **[방송/영화/OTT]** [Trump on rising gas prices during Iran operation: 'If they rise, they rise' - The Straits Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxORTBKMmhSU19RT3BUNFpzdTV6d0ZTMUYzbmJ3NEVhalJ3V2wxTW8wMTNiZjROdVl1VXBHdnNtUExvNENOOERjNEdRZVhSdjRtVlBybDJjRWstbTJSaWhGdEZVYkc3eUR1OW9Ya0IxdjBCZVN5MTdhWDBORHlBdkhaSW5RR2Y3V3E4ME5mRE5ORHk2WEdKUzE4RXNZeDZob2pkbzFfSVB3QXJwRmFRSHU4VW5nSjNOVUpEMGc?oc=5)
+  * 💡 이란 문제로 인한 국제유가 상승 시 트럼프 전 대통령의 반응
+* **[방송/영화/OTT]** [Iran calling US about a deal, claims Trump - The Straits Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFdLbHJlLWkyVjJNSVgwZzFVM3NqY0xJdWw0X2xnUzFFUWFNUF9zOENrenN5dkN3Um9Cb0hORk83YjBuQWFiV0NOLW5McFNnNXY4eWxHa09vaHdybE1Ua3hoVjNnd1hoaENFQkJ2Q2k4bEh4TjNOZXhweXAyTHpmRGt3d3pfX0poV19VWEZBTQ?oc=5)
+  * 💡 이란이 미국과의 핵 협상 재개를 요구하고 있다는 내용의 기사입니다.
+
+---
 ## 📅 2026년 03월 06일 업데이트
 
 * **[방송/영화/OTT]** [S'poreans in the north, like Woodlands town, are less physically active than average, have higher diabetes & hypertension rates - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVHM5aEo1TkhNZjVGUXF3VzRxTzFtU0Yzc1YzRlQwYTZ6dG8tU0R0bjZSb3JzWUh4TU5fX3pMdV9jNE1lYTR0cFRVdE53QnQzMFRfLUZ5WEY5Y0RTanVRUzdfLVppODlpdUFVck5lMC0?oc=5)
