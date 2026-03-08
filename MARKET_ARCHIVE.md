@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 08일 업데이트
+
+* **[방송/영화/OTT]** [S'pore woman thanks MFA for arranging 'seamless' return home from Middle East, explains why tickets were S$600 - Mothership](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQkhSUnRIYW4zNTZvc2tmb2lHcVl0QklSMnFMMHJncmlRRGZmTzlmaDdFWkN2QlNXazhDRld1N09XWU14ZUNzV2pPLXNCY3RwdEJsREI4NlZFeVYzRi0ySkozV2xDQ1FlU2tuZ0dIN0UzYU1SSEZhZmZzNnlLUUQ2VGVieUt0SGRuSVE4TVAtNGNGcl9v?oc=5)
+  * 💡 싱가포르 여성이 외교부의 도움으로 중동에서 원활하게 귀국할 수 있었다고 밝힘.
+* **[패션/라이프스타일]** [Wealthy Asians looking to move assets out of Dubai due to conflict, S'pore a destination: Reuters - Mothership](https://news.google.com/rss/articles/CBMid0FVX3lxTFBScUhKTUNaSzlNdXJ6M0Rza1pOM2lub2l4YUYwdDktZUJIdlhUaEk5RkZuY0poc2tWVnl2dzdmdElzU0x6TDJOeUgzUmJ3ellBN3hKNElhSEx4UTdCZl85WVJFZXpPMFlzSFk1WkNWbUNzMDdISm1z?oc=5)
+  * 💡 두바이 갈등으로 인해 부유한 아시아인들이 자산을 싱가포르로 옮기고 있다는 보도
+* **[패션/라이프스타일]** [Orchard beauty spa closes suddenly, customers report over S$153,000 losses in unused packages - Mothership](https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUpkcDlSWDgzR09yRWVBTG9wMGhhNFVtcTRnRDJFMzdZOHJSdXI5NjVjLUFlcFJ3cWxPOFRhMVJiWWNkYmk4V1JhT1VZV2RCZmtFY1F4QWRBbHlCTWxvemNZckJmS0dFcGR0VUw0eWlNWndBS0FsOWVJWG1xRU9FRkVnVVVBQ2NUUHhZb2pYYmZNalBPX2dkRFRSRQ?oc=5)
+  * 💡 싱가포르의 미용 스파 업체가 갑자기 문을 닫으면서 고객들이 약 15만 3천 달러의 손실을 보았다는 내용입니다.
+* **[방송/영화/OTT]** [Dubai airport partially resumes operations after temporary suspension - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHF5QjVnQ0JhX0dQdVJIY0RHSnMxSHhqSGdYQlhnNlA3MmNxVjZxUlhxcUdwWUZWT0dSejVXc2tPWmFTUnAtc1RUdmVsZTZ0OTlLQms4UFlCQ1dsUFgteHU3R3ExMHJBcVRZWVNZeTlNaUVDRS1fbDJ0OThwMTNGLVNBU3FqWWE3VHZIRjlvS2xJdmo2QzIwald3Y3pxVExGR2tB?oc=5)
+  * 💡 두바이 공항이 일시적인 운영 중단 후 부분적으로 재개했다.
+* **[방송/영화/OTT]** [US starts using UK bases for 'defensive' Iran operations - CNA](https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3lCWG4tajJsM3YzRlIwNEJKUVR3THkydFlWc2FRaVlLX2VUOC02Wk1mY0ZlWHVEWXFyenFVSVFlc3hZNTBoTTRMSS1rbW92a3l5OF81T1JWT3ZtVFhpM1R5U0lsaHFhNVF3Q29Sb1JDc0h4NGM2dEcxbklBeEhtcVFaVC1hekRzdFNwb0hZUmdmM1BVRUxSQ2lzdHpvbDhXNUxXbHlOVnBOM0RkMUJwdUZKeWs?oc=5)
+  * 💡 미국이 이란에 대한 '방어적' 작전을 위해 영국 군사기지를 사용하기 시작했다.
+* **[방송/영화/OTT]** [Malaysia PM Anwar, police chief sued over calling out alleged plot to topple government - CNA](https://news.google.com/rss/articles/CBMimwFBVV95cUxObmNnVGNPdHR6NlB5cUhscEhNc1UzOUhCREF2NFU5eHlrbW9KSFZ6U05GMGZoNVR3OTI5WjhOdVFBdkM0SlZ4Q0V2c1JUV0hQMEhBMGw2UmhUN1luaHNYZlU1eGRIdzl0MWluM1lzRi1GYUNUUWdtUVRKRTY0a1JkaWhuVHQ4NHJZbGZCQkhuY3JubzgteVJWV2ZPaw?oc=5)
+  * 💡 말레이시아 총리와 경찰청장이 정부 전복 음모 폭로를 이유로 소송당했다.
+* **[방송/영화/OTT]** [Tehran residents keep up semblance of normality amid destruction - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWxZNXlHU2NDcTJjWmR2LTdnRXB4bUZOVnhFLTJ1QThXTFM3NTZZRFRDd0t2anZSSkxvRXdsaTZYYWRHNWw5V0Y5OGh4eU51NU9YejM4QmpYWGdqLWZtOGxEdnltdlR4NnhpV0tPYnluZVVCcWtpLTR4VWtyYkZMbUZEWEhUQTlROG5JaDN5WVFNRmlBTmh1QlBfRExCbGFsSzNqMlJOU1NQV0k?oc=5)
+  * 💡 이란 테헤란 주민들이 도시 파괴에도 불구하고 일상을 유지하고 있다.
+* **[방송/영화/OTT]** [US judge allows time for new tariff refund system to be set up - CNA](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeno0bzRTZnZjd3NUQVNHYnUzVm1mTU1GbkhxZnliRHRUcUx1QmtZakF1LWdSNkpOZUhrdXBkYVlwYmFNdUhDamlyQ0FETVlrU3RkdjByWkNfaVJndF9XMzI5SkdkT0NFV1Q5MTdVRWhrM1dkTDl2Q25zNm5JS2tDTVdZcDRXYWk2ZkU0ZHV3WkNtU2h0dnZ4WmdfVF9uVEFMRXVn?oc=5)
+  * 💡 미국 법원이 새로운 관세 환급 시스템을 마련할 수 있도록 시간을 허용했다.
+* **[방송/영화/OTT]** [Dubai airport suspends flights amid missile threats - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGd2Sk5sUndHaXRzaDY0ZnJTbDc1Ujk1NGtJeFRaYXBvRG1pU1Nnak4wcWZYNDhFZmJDVERoR3BULXN0Q1pVTXZmMXIzWGhQbjYtZXJUczh2TnZmTW1remFVT2UyNm1adFVLZF9VLW1qamFuZjluRGNCbUFKVEVDVmRydjBWSlVLWkdjZTNONUlzNFdwaG5qUzgzZ3Y3NmFDZEsxQVpteTNnQQ?oc=5)
+  * 💡 두바이 공항이 미사일 위협으로 인해 일시적으로 비행기 운항을 중단했다.
+* **[방송/영화/OTT]** [Trump escalates threat as Iran vows no surrender - The Straits Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXkxVERaVWRhOFZ1enRfTmwzMHJIUUpPV2ZBV3BhZ2w0RFp5N1o3SDBBYmZCdV92Y3RUTi15bDZBaU9sZVZfOUltR2RFWGV0QklNeXp2Sk1pZzFsXy14a3NNNnVCVUdJSF9iaktZV0pBSUdxaU1JanhTZHJxTnAwWEs3SXZQU1JlVGxSREhaRFZnUndQbldLSnJhcFVzVG55NUZnQTVfak9DMm9UdjVXWVduTUU?oc=5)
+  * 💡 미국과 이란 간의 군사적 긴장이 고조되고 있으며, 이란은 항복할 의사가 없다고 밝혔다.
+* **[방송/영화/OTT]** [Lebanon says four killed in Israeli strike on hotel in Beirut - The Straits Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNczFZQ1F0dkl3YTZPb1l0R2xyOElsd3ZIenBCMmNVaHlSMWFwSnd0YU1laXotbXY0TjR3el9wc2c5T0d5WHNGODg0U0NKbzhPcFljX0llME15UXFnamtKdWJpMVM0OUhySmo3aktmRjlfbjIwZGhCbGpuMVpHQWFtS2xyQ2ZSSHlYZTBKUXZyTEtBTDdKSzRjeGU1WnhZY29oSzhmcXVhSlk4QU40?oc=5)
+  * 💡 레바논에서 발생한 이스라엘의 호텔 폭격으로 4명이 사망했다.
+
+---
 ## 📅 2026년 03월 07일 업데이트
 
 * **[정치/법률]** [M'sian opposition MPs vote against term limit for PM, thought it would give Anwar 10 years in power - Mothership](https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMVNLQ2o4cmhYVm9vVmwtT3JuMEpUWmp1bU5IbU9Kd1F1enI5cTJzQ2ExV1dsUnByTzlqUkpRMkdMa0dKSFB6NTV5Y1g2MnBCQ3REeG5rWWdJdlpkbGtMQU5SNnR1dVI0YmVoNTVKWGI?oc=5)
