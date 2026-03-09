@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 09일 업데이트
+
+* **[패션/라이프스타일]** ['I’m still working on loving the new me': Raybe Oh, 32, on her physical recovery, healing & dealing with insecurities - Mothership](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGRFWm8xRnlIY1RkVkNIY1JiT09oenR0ejBPWmlscU5uQ09HWjRaY19xSmFoNTlTNzFfdW4xZkN6NHQ4cDFtWFlvNFJzUWtZZGxuZ05rYy01akpTYVV2RjRpSi1GMnFNU3J1REpMWEtHYVBCbGdsNWdCeUZSbGN2RmVUZWZ2YTJh?oc=5)
+  * 💡 싱가포르 방송인 레이베 오가 자신의 신체 회복과 치유, 그리고 자신감 회복에 대해 이야기하다.
+* **[방송/영화/OTT]** [Activist Han Hui Hui's 3 children taken to hospital for safety following violence at home allegations: MSF & police - Mothership](https://news.google.com/rss/articles/CBMickFVX3lxTFBaN2JTZjBHNUhzRnExOUUyUXlLWFlDV2o0WXVONHVGU0VIQmN0cm1HcDlGeXZqeEtDbHRUUkxkMHpPMlVPSjd1TXhoRDhaVVNlRTJfRnZfTGdzNkdTU1l6RXlCWmx0U0w1bE1aQlBWaHFUQQ?oc=5)
+  * 💡 싱가포르 싱글 엄마 Han Hui Hui의 3명 자녀가 가정폭력 의혹으로 인해 병원으로 옮겨졌다.
+* **[음악/공연]** [Seventeen concert in Singapore: K-pop boy band delivers high-energy spectacle at National Stadium - CNA Lifestyle](https://news.google.com/rss/articles/CBMikwFBVV95cUxNV29RTUtkbEUxazRNcFF6eW53cUd0YzhXWDJ5UXJVZXVzOERfWlFwTjBmeHZqNVBjdkZ6Z09BdW5Ed2tnMlpfd0hGbllnT1ZUYzlUUWVJVmFYclFqNTN5WG11VzFZZkVjVkQxcmhZRC13V24wX2Z2bW9zYXFiMzlqOTMxZWwxWFAwcDd5VHVhM0JLUGs?oc=5)
+  * 💡 K-pop 그룹 세븐틴의 싱가포르 콘서트가 열렸으며, 높은 에너지의 공연을 선보였다.
+* **[방송/영화/OTT]** [Israel expands Iran strikes as Tehran moves to name new supreme leader - CNA](https://news.google.com/rss/articles/CBMifkFVX3lxTE1mWi05aXFQeWt3c2dZTmRMdVhscDZaTE9SZnZpcUxKOFRlX0VFZks2NXd4WXRFR25LM2JaeFNVMjFDRjJyZkNSMEVBcjJHQzRZZEtFODB3TGFkOExheWFmV0RuZE4yVHdydmd2T3Y1MUV5b0d3SzE0dTFxLWdoQQ?oc=5)
+  * 💡 이스라엘이 이란의 공격에 대응하여 이란 내부를 타깃으로 공습을 확대하고 있는 가운데, 이란은 새로운 최고지도자 선출을 준비하고 있다.
+* **[방송/영화/OTT]** [Explosion at US embassy in Oslo may have been deliberate attack, police say - The Straits Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXluY2MyU05oYlprZzdKZHlGdjNqelI4OFVoN0tjQjJtb2Y3bVBBdUd6YmQ2c3BjRTZ4NlBITndnUDBmUFM4dE9KMi1ma3RlM2RkVE9qU1N4T3JDYzR4NVY2OTJ4MDBqWWhkZmpnZHY3NDF3azZfTlA0dVJMdVlwcE1XOHJOYjd4UDUwYUZnWXBTX3MzMEJJclRnYVJZTEozWEE?oc=5)
+  * 💡 노르웨이 오슬로 주재 미국 대사관에서 발생한 폭발 사고가 의도적인 공격일 수 있다고 경찰이 밝혔습니다.
+* **[음악/공연]** [First time each Seventeen member performed a solo number at latest concert - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXVzaHNhc3I1U3NSVEpuRFBKV0toc2Fna1RQRnZVQWo5VnQwdU1qWHRCOUljSWpIMzYtSXE0UkxudV9HMzI2Q3RySFRiLV9iZ2ZwdUs3Y1Q0dFdRUjVKUVNXMGtIMXpnSkZWTFRRVTQxMXRDcHNwVVhyNzY2dFFoeG9sNlFTUjBXT1lFYlpJQ2o2ek82UTFYbGJXd2xGdE1DQ043M1A0bTZwV3BwOTdrcEVBTXREMGxUUmhmT0ZLcw?oc=5)
+  * 💡 세븐틴 멤버들이 자신의 첫 독무 공연을 가진 것에 대한 기사
+* **[방송/영화/OTT]** [Ukrainian drone experts set to be in Mid-East next week: Zelensky - The Straits Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVklDakYzZERJVDdhQncyZXdOdEhqRkgwYmVmd0xZZnZ5aTNrZWo3NHNIVlkzWDREZUkyTVhyNzA3NnJJRlJUUHl2bTdKd2NwLWtzcUJpRVBGQ3UtcDFQb2lpWDh3Q3pkQWJSd1lTcjVYVy1Zak1pcU1hRHpGYW1nRXJtNU03TDdHa2txWHNtUl9jSHNlUURFVWFleW8?oc=5)
+  * 💡 우크라이나 드론 전문가들이 다음 주 중동 지역으로 파견될 예정이라고 보도됨.
+* **[패션/라이프스타일]** [askST Jobs: I’m doing more work for the same pay. What should I do? - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2NFYlFwSFplZXNpcFRxTGVTLTJWOTZOWTB1T1RvSlpiWjljZTRsYVQ5NzNMOVZNcmJPTWlxc2RVdUFmOHF5ek93Q0p6NnBtN3RVMlltZFNEZkcwRzJweGZsbldxZkVuQXFKMUt4bzlCcFdmaHBtemxCbzhUcUxSN1FOVVdJV2lzbFBPczBCb29XRTRqUy1fWFZHeWJOMktVQkVxVnNUelA2LUk?oc=5)
+  * 💡 직장 내 업무 증가에도 임금이 올라가지 않는 문제에 대한 직원의 대응책 제시
+
+---
 ## 📅 2026년 03월 08일 업데이트
 
 * **[방송/영화/OTT]** [S'pore woman thanks MFA for arranging 'seamless' return home from Middle East, explains why tickets were S$600 - Mothership](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQkhSUnRIYW4zNTZvc2tmb2lHcVl0QklSMnFMMHJncmlRRGZmTzlmaDdFWkN2QlNXazhDRld1N09XWU14ZUNzV2pPLXNCY3RwdEJsREI4NlZFeVYzRi0ySkozV2xDQ1FlU2tuZ0dIN0UzYU1SSEZhZmZzNnlLUUQ2VGVieUt0SGRuSVE4TVAtNGNGcl9v?oc=5)
