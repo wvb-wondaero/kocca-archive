@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 10일 업데이트
+
+* **[패션/라이프스타일]** [The Providore closes all outlets in S'pore, staff apparently only informed on day of closure - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lMVhoWlRHcU85NFA2aktHRUlSY0JIWUJhSXJHR2ZsWnRVTGdzOTRFMDM4ck5vMDVhT0tZM1J5SGZtZ2pMTXRjeUNqdzVrbzgzVWpySmN6X3FvNnpEUXZpWTR6VVZQZFh1akk2NkpMRW5rTHAtbThZdWtiQTE5QQ?oc=5)
+  * 💡 싱가포르의 식료품 소매점 The Providore가 전 매장을 갑자기 폐쇄하면서 직원들에게 마지막 날 공지한 것으로 알려졌습니다.
+* **[만화/웹툰]** [3 teens, 15-17, allegedly assaulted man, 34, at MacPherson, & stole his One Piece trading cards worth about S$8,000 - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTE05dFZHakJtR2ZiUUZ3TUNwQi1TbkxnNEdHVW9XUGVTcl91R0JjWFZiRjFrTVNLR3RXaXN0WnJCQWEyRmFsSEw4eFFaMVFXZmtTd204eFJYT1h3c2x1R1kzSmFjaEwtbS1oU18yYTNEbndvVGVOdDVxaXp3?oc=5)
+  * 💡 3명의 10대가 34세 남성을 폭행하고 약 8,000달러 가치의 원피스 트레이딩 카드를 훼손했습니다.
+* **[방송/영화/OTT]** [7-month-old baby & 77-year-old among 4 injured in AMK accident involving 2 buses & car - Mothership](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiQmVLeGNDaTFwTS1JX3ZscjNDNS1WYjY3dXdxdzRwLTJpRjFXcjlPOGV2b3RWQ3JfaURoQnBydEpMU1FBemlnUkowTGg5SmlqLXkzblFWT1hCNG5sNHc2YlBVRQ?oc=5)
+  * 💡 싱가포르에서 버스와 승용차 충돌사고로 7개월 된 아기와 77세 노인을 포함한 4명이 부상을 입었다.
+* **[음악/공연]** [Blackpink’s Lisa meets Punch, the viral lonely monkey in Japan - CNA Lifestyle](https://news.google.com/rss/articles/CBMipAFBVV95cUxQanpyaUt0emhTOHV1UUNzTllySE9ZMFJUb1VSOG9DeTRXNldyclk0dzY2eE92ekRwd3FBdndNWTJEX2cxRVVqVjd0dU5idjgtUGxmeDBQWlJrRUM4cnJITDdWZ1dYZmZQeml4emdrMUJFeE1FR3p6TXFDYXVXdzB1UkVJX1BfLWpLQUlPSklDNF9OVkt1ODhhdnpxTzdRaXljT3MwVg?oc=5)
+  * 💡 블랙핑크 리사가 일본의 바이럴 히트 동영상 속 고독한 원숭이 '펀치'를 만났다.
+* **[게임/융복합]** [Nvidia-backed Nscale valued at $14.6 billion in fresh funding round - CNA](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVpYbnMtc0dQOUt6bnIxX0RUajMyX09UOThzRFl5RmdXUkpSVkNQSUxCa1gtYjlPUU56NlFIZUpwOUZxRlNVNnE0emRfMGxZRWdENHNxZ1BTS1YyaW9meUc0WkFQTnNwdjhWSzlJNHgxeW1TRjJXSGZEcFdBYlhsanl3SHVGZFpWY1JkaDJVWlY0d2VNcFl0ZXY5SURYZUJtNjVwQjRZWVB1c2lfLUctNw?oc=5)
+  * 💡 Nvidia가 투자한 게임 개발 스타트업 Nscale이 146억 달러의 기업가치로 새로운 투자 라운드를 마감했습니다.
+* **[방송/영화/OTT]** [Singapore stocks, gold extend slide as Middle East crisis deepens - The Straits Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUNCZGNmMGNiS3NydVZlMGV0N0pmTzFrYlRUZTFqdmtnSHpWQkpBSEd4cV9LQ2ZpMVpYOHVld2lTZlNDZ0lCc1lkODFDUXlGX09IR3BfS05FWnFWWDdBODRla1IxbzdrcXlzeC1qbjZKeTA2aFFLT1UxRXVfTUYwdDYwVVNFcVYxLXZ0cy01dDJHczh0Y19Ednc5Z3dCWGEtc09ZSXlzVGtRWkpET0Q3WldVeVFNZw?oc=5)
+  * 💡 싱가포르 주식과 금 가격이 중동 갈등 악화로 인해 하락 중.
+* **[방송/영화/OTT]** [Singapore consumers in for higher petrol, electricity prices as oil spikes past US$100 - The Straits Times](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZGtheU81WlJkY1lzRFZUYm1HVmZsU01YWG81NUo1amFLWUQtY1BJd01iME5QWEhsbmt5YU1BLXBQOC10ME5kOXVsSVJfVjFkaGJGdjFJUEdYYU1yTG5CSWdVU0ZILXcxbG5IXzV0ZEVCbDNLSWc2LWlET0hYeE5SMng1dWp0WXZiNnljTWlycGFDdnM1dVN4MWJCdkVZYUIzMWFZZlROMXhPUnQ3RlR0c1V3OVVrVE8zS2V6ZGJVdzBTdy1UbjhiRWRB?oc=5)
+  * 💡 싱가포르에서 유가 상승에 따라 휘발유와 전기 요금이 오를 전망
+* **[방송/영화/OTT]** [Sembcorp rebuts reports of damage to UAE power and water plant from Iranian strikes - The Straits Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTJCMFNsemZTZ01MU0FJZ2toV1lpZm5zQ0lVbzdJQU9kYlp3eThVMWM3aUx2cjc1VnFXWkZZeE94TkVTZWduVFRSM21rOW50ZXJLX3ptektCWkk0ZEd5S01fY0FMMEdMVkRDQkI0ZEt1ZXg3NVk2LUVQcnJ0a1JKZUhQZkU5NE5JYTdNaGV5UlVUc05IZjVPT3VHR01qTU14Z1lBblRtY1JOc012dlBYdjJ5OGtZMndKV0hUV1pMQWkxMzdmWVk5RFg3Z1N0bFZIVnc?oc=5)
+  * 💡 싱가포르 회사 Sembcorp이 아랍에미리트(UAE)의 발전소와 담수화 플랜트에 대한 이란의 미사일 공격 보도를 반박했다.
+* **[방송/영화/OTT]** [IMF warns of 'unthinkable' risks from Mid-East conflict - The Straits Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjdwQ1ZDeGxrdnBCWmVfT3BHRWtkT0tabE5BWWVBR1JJUzFkRVdqNV9Db0F5cjNCcmMwZ3dVR2FYUWZpbGt2YlF1Vl90QndNN0h3Q3NQWjRwb1Rxc3I2cDlEUWZ5dVlQN3NyRUtGU0hidFd6VUFzZzBiaHRIMTN6bmdLY050Ym1TWHpjOHBTOVEzSFZzbEh2d1oxZmZkMXkwY0J5YjNXdjdHQTA?oc=5)
+  * 💡 IMF, 중동 갈등으로 인한 경제적 위험 경고
+* **[방송/영화/OTT]** [Asian airlines raise fares, mull groundings as fuel crunch looms - The Straits Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjdYRTl4cHFHX3NzQnRBejFPamRTWnBMbmdIRkpYaHJEbnQ3SkxYZjRPS01hWllJNVNQcDRONnJ0SW11eWlSNTlwNkNOenp1anNyb0U5QUZmNGw0bE1IRnhXeUFhSTk5Q1RsNkdhUkdSQXdtQWo1STNGTWZVQlA5eGdTT1FpUVkzMGUtUUs5MTloT25SR1pjVzBJSGV0NWpJYW9XUFcxOW5GWktQcy1jRGxiMnZyZGRkSVpN?oc=5)
+  * 💡 아시아 항공사들이 연료비 상승으로 항공권 가격 인상과 운항 축소를 고려하고 있다.
+* **[게임/융복합]** [- IMDA](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWVowSXltZnZKc0ttNXRFZEN4Sm9EcUhXUGFVbGhQMWZqMkR6bFNUOE9ybDdJSXVsSll3dFZENjRoeV90OTljRTlCUnpCS1htNEtYZ2RB?oc=5)
+  * 💡 싱가포르 정부 산하 미디어개발청(IMDA)이 게임 및 융복합 콘텐츠 개발 지원 정책을 발표했다.
+
+---
 ## 📅 2026년 03월 09일 업데이트
 
 * **[패션/라이프스타일]** ['I’m still working on loving the new me': Raybe Oh, 32, on her physical recovery, healing & dealing with insecurities - Mothership](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGRFWm8xRnlIY1RkVkNIY1JiT09oenR0ejBPWmlscU5uQ09HWjRaY19xSmFoNTlTNzFfdW4xZkN6NHQ4cDFtWFlvNFJzUWtZZGxuZ05rYy01akpTYVV2RjRpSi1GMnFNU3J1REpMWEtHYVBCbGdsNWdCeUZSbGN2RmVUZWZ2YTJh?oc=5)
