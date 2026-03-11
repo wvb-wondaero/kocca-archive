@@ -1,5 +1,27 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 11일 업데이트
+
+* **[방송/영화/OTT]** [RSAF plane to evacuate S'poreans departs Changi Air Base for Riyadh, passengers won't be charged - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE5fR0VCaGV5TkdqNTlvc1o5RnRvcnlrek1OaVdHX0lOUkE5RTlwWG9oRTRLaUt2YjVtVjE1V245aUMzaGpCamctYzFsb2ppcGNvOHpWdXVDc0JLU0wzWVViMnhvMWFVbUpMRlI2cHBwbHNCR0wzM2xxbVd4MmI?oc=5)
+  * 💡 싱가포르 공군이 사우디아라비아 리야드로 싱가포르 국민을 대피시키기 위해 출발했다.
+* **[방송/영화/OTT]** [How exposed is Southeast Asia’s energy supply to the Iran war - who is most vulnerable and what’s next? - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRm8tMkZMb25qdEJraUhhVlhFSzF1dnlRemtmVVBNSHZZM1U5TmRqOUlfLWdrRmE0OTZmTzg4WnBGVVhkb0hZZGRvVUppNFZwWnNCdmRONXA4QVJjUjVvX1RQSWEwbWVaaHh0RDc3TExwdU15WUlCbS1FTVdJRHB3Y3VrWXZ6MzdqV3A2TGxXTkNObFU?oc=5)
+  * 💡 이란-미국 갈등으로 인한 중동 지역 에너지 공급망 위험에 따른 동남아시아 국가들의 에너지 안보 우려
+* **[방송/영화/OTT]** [Airlines hike ticket prices as Iran war propels fuel costs - CNA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlR2TlFmTDM2VDAyb2YtUXM2anQxTXB4UUFWTTh4cGxCSWtZbmdoZ3M3RFpscXhmZ1NoN1c1dXJxcy1GOW1zZ09oalA2ekpWeGdvQjhhbnpldW9RMG5GQU1WVU5TTFUtRGVZc2cyaURKTTZDRXRZTWxQcndudGRjWXdrbWZSaThCcjhMVW5QNTBJTWZCaXFOYjVESExtNTQ?oc=5)
+  * 💡 이란 전쟁 위험으로 인한 항공유 가격 상승으로 항공사들이 항공 요금을 인상하고 있다.
+* **[방송/영화/OTT]** [Airlines start broader fare hikes on fuel price surge, shares stabilise - CNA](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1ZhVVlINFVLNGJXdUNXY3VvaWZWUF9mWkwyOGpnVklneGhXcmdPQkRnWGwwa2JyVWNQMmM4R2pYMlpJNDBURm1JREktelVka0RSaEpIcVZGSG1oU0p1OUpCQWxOS2lmNm9KSy1VYU9OcjBYVmJCTFpUazh3bWRiMFhaQTV3LUN3Q041ZDZvLUtfZjRST3Zteml6UVRLbUZwQ2k5QXI2SUJac2xoLS1LanQ4cVdNVkk?oc=5)
+  * 💡 항공사들이 연료 가격 상승으로 인해 더 광범위한 요금 인상을 시작했지만, 주가는 안정화되고 있다.
+* **[방송/영화/OTT]** [Airlines start broader fare hikes on fuel price surge, shares stabilise - CNA](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbW5Jc3ZsNS1OSlBRWVMtQnRtN2N5R0RXMEcyZ1JDYy1TSG51Y1lvQ1dNMXZmX3NVMDRPZkpYWUIxSW52UGwtT1daOEJrMDRqZ05xREROMk5XdEdrUDlYMGxnV0hDaDk1cnBRaXZORS1QZzBhV0pGOGtMWXlrUDU0MFBOSFFac0Nx?oc=5)
+  * 💡 항공사들이 연료 가격 상승으로 인한 운영비 증가로 더 광범위한 운임 인상에 나섰지만, 주식은 안정화되고 있다.
+* **[패션/라이프스타일]** [Airlines begin to hike fares due to higher fuel prices, shares stabilise - CNA](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHJKdmoxX0ZEYWF0WFlKMUlWUTZNY3VWb1V4bHIxNEhUaHduMFdWb2VJbkFmYTJLNk9aNWV0LWE0TGtPSlpfZmxaSzJackxIelZscGhMMnR0dVc0d0VZNkNTY0JnS1BTeGk2TDgwZHNoTXJuUXZOYm0zUkc4RkNLYkpOWFFldm91aElOa1oxdHNXNzg5LXRxSF94UXpseExmMXdGcEp0QXNjd1Rkd3MzVXhKRDE?oc=5)
+  * 💡 항공사들이 연료 가격 상승으로 인해 항공료를 인상하고 있으며, 이에 따라 주가도 안정화되고 있다.
+* **[게임/융복합]** [AI ‘godfather’ raises $1.3 billion for start-up with Singapore as key base - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU53WHNVTTllSG1OMHZRUDRHaG90UWtGT1JBS2xCVENObTlYZGdYcTBnbVU3d1dFTmpQazdlRGMwbzZTLXpFSW5IeGRrUzdxTGJLemd4dGIybTVld1ZTZDFHZ2Ruc3FrM3ZTa0dzTjV1VEtaUkhERTQweEVTMHc3dUk5MDZ4YXBtLWM1M1BQU1U5LVpkbGNJSE9Rem5wTXQ4ZE54OU1VX2ZUZmM2S0E?oc=5)
+  * 💡 AI 선구자인 Kai-Fu Lee가 1.3억 달러 규모의 투자 펀드를 설립하였으며, 싱가포르를 핵심 거점으로 하고 있다.
+* **[패션/라이프스타일]** [After women players defect, Iran hints men will skip World Cup - The Straits Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXNQRWNlak5JTkpGZE0tbUNXNWRaRks0d3JWd25wU2xUMWx5RUZiN285THA4RnFLLUx3c2pvVHJDZUdWNFdKTjc3UXNpblVlYXlkZERLNDZTTUFIQ09sQmk0TWg5NUEzTnB1NXF6b1c1OEo4SDNhS1NMOVFLTHRSQUQzV1BYNHktbXFGYTlOQTdCM2NNSWpXYklDQzBveWd3dW5ublNrYWE?oc=5)
+  * 💡 이란 여자 축구팀 선수들의 탈주 사태에 대한 이란 정부의 대응으로 남자 축구팀의 월드컵 불참 가능성이 제기되었습니다.
+* **[게임/융복합]** [Meta acquires AI agent social network Moltbook - The Straits Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVN6clYxZFV4Y2htSmVZYzg4THlmWFQwZ0VNXzRwamNYX2tWT1JNOVRkeVFjOW42Z0pwTXlQWUxjLWVXSzk5OFNPSDdEZmY5UW9lQTRGeFdzZ09ZUjM0S3hQVE5GOFllZnM0SlYyTE5qWFlZLXZKcms2UGhvd0dHamZtZFN2NEpIMklhOA?oc=5)
+  * 💡 Meta, the parent company of Facebook, has acquired Moltbook, an AI-powered social network that allows users to create and interact with AI agents.
+
+---
 ## 📅 2026년 03월 10일 업데이트
 
 * **[패션/라이프스타일]** [The Providore closes all outlets in S'pore, staff apparently only informed on day of closure - Mothership](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lMVhoWlRHcU85NFA2aktHRUlSY0JIWUJhSXJHR2ZsWnRVTGdzOTRFMDM4ck5vMDVhT0tZM1J5SGZtZ2pMTXRjeUNqdzVrbzgzVWpySmN6X3FvNnpEUXZpWTR6VVZQZFh1akk2NkpMRW5rTHAtbThZdWtiQTE5QQ?oc=5)
