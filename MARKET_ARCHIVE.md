@@ -1,5 +1,25 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 12일 업데이트
+
+* **[방송/영화/OTT]** [Foreign domestic worker allegedly forces child she’s caring for to kiss elderly man who purportedly offered S$5, police looking into the matter - Mothership](https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0NIMlNFM0ZpXzNKOTRWN0hiYS1OTGFadEJ3bzJtU2JzV3lUeVlXZU5hVVRvdXh3VGJhTHFRMG5HRUVpZmplOGRpOVZNVlp1YTJmR2dKa1EwWUNhekJmeV92YnBVMnlwMlE1V3JLQkk2Q3lBUjJXdVBrZy1TTXpGTks4ZmsyT19MMEUzSG9WTkRfRV9NaWdTWTVn?oc=5)
+  * 💡 외국인 가사 근로자가 돌보는 어린이를 강제로 노인에게 키스하게 한 사건이 발생했으며, 경찰이 조사 중입니다.
+* **[방송/영화/OTT]** [Why a strike on Iran’s Kharg Island would shake oil markets - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUFuc1QtMlU5ZWRZd2FSaGI5ck5YeUlMQ3BVdUExRmdTLVpBYTRjT2VzN25lRzg3Z0hodm4zWDBrZlh6VVFiNllxV1EyT2JWNldLSnBGVW1CRGpVcHdUOU85T2NwYmpvYlJmeGJXdlYxbDl4Y3Vkbllqc3ZVcUVwRndhTHBOaUxRNWRlQUNEV1pmRDA?oc=5)
+  * 💡 이란 Kharg 섬에 대한 공격이 일어날 경우 세계 원유 시장에 큰 영향을 줄 것으로 예상됨.
+* **[방송/영화/OTT]** [Singapore government warns of scam messages related to Budget 2026 - CNA](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzlMdGxMNE5jaHZ4YzZyXzgwd1pfbWoteEZXZ2QySld1Zm1ZSmpLVGRManpSZjRRR1BfMzFPMVJNX2ZMZWREY3dVd003REFIS3h6c00zNHMwZjlYUk5YSndpV2xhTHdTZE5vN1pSSVMtTWVGQTR0ZFctbXFmamRLd3FBbmQtMzhWVFB2TEoyV3ZyV1Z2OUhQZ1Q1QlJSVlpmOXAydldVWUlUdDg?oc=5)
+  * 💡 싱가포르 정부가 2026년 예산안 관련 사기성 메시지에 대한 주의를 당부했다.
+* **[방송/영화/OTT]** [North Korea says it respects Iran's choice of new supreme leader: Report - CNA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaUFDNVRSOW9ESHZqak9wbS1Mb1NfX0ZSazhuR3hQNXBRa1p1UTBsVzc0UW5pV2NPNFo4NzMwRkxXSTk2SDJ0YVZKMHNEd2ZEUnI5Y1VYQlVYNVVydWhQa2dMdjlrdDdLNkRZdVRaWVljdTJSYkUzVlAxeldrS0tsN0FLRHIybmpvc01F?oc=5)
+  * 💡 북한이 이란의 새로운 최고지도자 선택을 존중한다고 밝힘.
+* **[방송/영화/OTT]** [US targets Iran mine-laying ships as war causes oil market havoc - CNA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2VrSTNzemZoMVpwaXVKazgyalBwcC1GWjZ6WURDdDhBYTEydGRQbkVNYXJTTk10YUhmcTZYdFg0NkVPdVZxYUNfZ0U1UTFLcVhSZTN2dzZQMjQxZ3N4bndNWFMyMnVyWW1qLVpXWEJTUXdRaEhHMU04THBNM2FYb3AzU2lDWjduV0xz?oc=5)
+  * 💡 이란 선박의 기뢰 매설 행위에 대한 미국의 대응으로 인해 유가 가격이 급등하는 시장 혼란이 발생했습니다.
+* **[게임/융복합]** [Hong Kong family offices plan more crypto, private markets exposure - The Straits Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZlFoWldOQVEwTWJPSHBjeGhPcWEzT1VGX0ZtaWpXamx5Z2ZqeUpPNzk0ZzZVOTZXZjAwVFBrQzEzSUlpY3VNZDhMdnhRSmJCX0R0VS1jQlEtQ2xxNTY3Tm5nUHhMMHpsYkoyUnJObEh4bmJvVmpuNGlxRGZYNnJ5S2JZb0FFV2xnbWZKR0JONGZpY3IwUkZidVpydjh3RlBJb1E5TTJRNA?oc=5)
+  * 💡 홍콩 가족 사무소들이 암호화폐와 사모펀드 등 대체투자 비중을 높일 계획
+* **[방송/영화/OTT]** [Global LNG hunt intensifies as Middle East conflict cuts supply - The Straits Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWElmVzV2RENIdmtUbGlDdlFlVkpsc1lxcW81emZFcnJlakZHdHN6ZFdBTktCRVcxNm5CRHVfNDBMNHRLNUlCZzFIZmhwcWE1dk5vc2k1SXFqakF2dHJFNGZreGlxbmNhTU5kYS0xdHVlcVZNaVdjSG1WMGZGRm9YeE9kQmoycEh0SnhLblFJOGpMUXZhM2RyWm9qTER3eWt1LXBn?oc=5)
+  * 💡 러시아-우크라이나 전쟁으로 인한 중동 지역의 LNG 공급 부족으로 전 세계 LNG 수요가 증가하고 있다.
+* **[게임/융복합]** [Resaro - IMDA](https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTBuVTdMd2VfS1ZiY2ZVZHhobGl0Y054cGpjTURTU0lIaXRQZVdLMVkyaGdMRUNzS2l0eTR4SUNJM2ItVUEtZUxtZFZVeENGMERRSl9Ic3VCNXRUYjRYcDVLQzlHRnh5Qkw2bEZPNldlc0RFZXlIQURJbS1FRmoxS3JB?oc=5)
+  * 💡 싱가포르 정부의 IMDA(Infocomm Media Development Authority)가 게임 스타트업 Resaro에 투자를 결정했다는 내용의 기사입니다.
+
+---
 ## 📅 2026년 03월 11일 업데이트
 
 * **[방송/영화/OTT]** [RSAF plane to evacuate S'poreans departs Changi Air Base for Riyadh, passengers won't be charged - Mothership](https://news.google.com/rss/articles/CBMifEFVX3lxTE5fR0VCaGV5TkdqNTlvc1o5RnRvcnlrek1OaVdHX0lOUkE5RTlwWG9oRTRLaUt2YjVtVjE1V245aUMzaGpCamctYzFsb2ppcGNvOHpWdXVDc0JLU0wzWVViMnhvMWFVbUpMRlI2cHBwbHNCR0wzM2xxbVd4MmI?oc=5)
