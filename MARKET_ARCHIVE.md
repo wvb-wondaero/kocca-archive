@@ -1,5 +1,31 @@
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
+## 📅 2026년 03월 13일 업데이트
+
+* **[방송/영화/OTT]** [Chinese influencer, 39, gets headache during livestream, dies 10 minutes later - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTE9XRTNzVGpNMTB0QXZqM2ZCaTB3SkZNZTM0YWtnQ3d4Y1R5cjFlbXVWa3cxdkhhenQ0YWdSSWQzZ2JvWFlrejhKU1NwdFlXS2Z5VkNTSi1vRy1mZlg2QlJMRV9lR2d4dXpmeDE2WnhyZXZNdTVFZF9WcQ?oc=5)
+  * 💡 중국 여성 인플루언서가 라이브스트리밍 중 두통으로 사망하는 일이 발생했다.
+* **[패션/라이프스타일]** [Petrol prices go up in S'pore, Case urges fuel companies to 'exercise restraint' - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTFBwbF90a3A5em9vY1Y2dFBmSHdHeWdFek1adVAwaFhuTEJwSUMyVmZUR0NZLURTQXlQU1hGUnBJd0lUNkFlcnE5UnBXY0xfTzA3cjFKQkdrRThyQW5KeVl5akxmcTl1bnVKZk90TmxjMXplSlJKWVRSZHpR?oc=5)
+  * 💡 싱가포르의 휘발유 가격 인상에 대한 소비자 보호 기관의 연료 기업에 대한 자제 요청
+* **[패션/라이프스타일]** [Woman, 30, & 2 children sent to hospital after car & PMD collide in Hougang - Mothership](https://news.google.com/rss/articles/CBMiZkFVX3lxTE81NEdWX3o0ZlU0VWlrTkV4MTY1R1oxeUNUZ3QxN0pEQ082bVkwaXlTN00yVTFyd05obUNINGQzUkJnSFRDSDlIZ2ZYOW5wc0h1bkxDanlLdHdBX1EyenVPYUplaXZ1dw?oc=5)
+  * 💡 싱가포르 후앙에서 개인용 이동수단(PMD)과 자동차가 충돌해 30세 여성과 2명의 자녀가 병원으로 이송된 사고.
+* **[방송/영화/OTT]** [US refuelling aircraft crashed in western Iraq: US military - CNA](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHZ2U0xLcDM0bEJJbWFldDNEQjRfdnFwUVlIRk1QR2dvZEVfXzFqT0ZjQTVRWGlUbWtLaHdxeWhoUGE5ZXo1OU5xVEZ3djBRTmdkdjNlNF92UEJTTE9TLWNINHpvdUM1TnIzd3lDbXk4cTJQcVpSMkwwbmZtUkNnaUEzMHJPV0s3anJrbE1WTzA2Z3M3?oc=5)
+  * 💡 미 공군의 공중급유기가 서부 이라크에서 추락했다고 미 군 당국이 밝혔다.
+* **[게임/융복합]** [PM Anwar steps in to end bitter tussle at Malaysia government tech provider NexG, say insiders - CNA](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkpCT0Z4U1Z5V1hBTHA2eXJ6Y0lnRXYyQ1A3NlpQbW1vWkxWLVo0ZFFfbGs5d3huaWt1Wl90OGlKdlNYZ1FlQURZSHNqNko5SXRxVnJidGViVjBRQ1BueW1YVDRURmNmLUJyNW9Oc29FWXBUc3g2NGxQZ1BSbV9SVlFja2Njb2dmRFg0?oc=5)
+  * 💡 말레이시아 정부 기술 업체 NexG의 내부 갈등이 고조되어 총리가 개입하였음.
+* **[방송/영화/OTT]** [Son who was bequeathed S$1 by mother contests her will, fails - CNA](https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1FQLXJlUVRvd29ITkdWTEpnX2dqeDFuRnF0SG5JeUZiSTZvY201aVlxUUtTVnBuQkZKUmJTMy12S203NXZXaXRWWi0xVk42MzhIVXYzQVhwU255MjdrX0hHanZmMGswLXVKZF82a2JBTUZCTUg3bGJOZW9yNS1tQl9TekFzZTBzMVdtNmVrQQ?oc=5)
+  * 💡 싱가포르 유명 사업가의 아들이 어머니의 유언장에 명시된 1싱가폴달러 유산을 두고 유언장 효력을 다투었으나 법원에서 패소했다.
+* **[방송/영화/OTT]** [Cathay Pacific to roughly double fuel surcharges for most routes amid war on Iran - CNA](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnlvaHV5dWNJdHl5cURKeFUtUVpKdEtmRUpKeG0xMV9KS0FfdUM4R21VdFl5RHFNQkY5cXIzNXBlbERSNnIyRUJ2M19kQ0l1cWNRLUJnQXpDZDFsN0Exa3plQ09tcklOUG1HV2RtMFd3dzJpUDF0SGEyZ2FhaU5qT1Z3NjdjdXVvejBpUDBBdDZBN0Q3bEg5NlZZdmthYmlPMlZzenRpaENZYVQtRHRmWTJQOA?oc=5)
+  * 💡 캐세이퍼시픽 항공이 이란과의 전쟁 여파로 대부분 노선의 유류 할증료를 약 2배 인상할 계획이라고 밝혔습니다.
+* **[방송/영화/OTT]** [Singapore will maintain tough stance against drug abuse despite criticism: Shanmugam - The Straits Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPa1dUS1VwemMzYjFWV2htRXRFUUJfZ1RJcWl6blFJSDYtRTNpWGpMMHB1dkg4SjNIX2ltMy1RVm9abHlFQzJFNHBIRUN4bE11Y3JEZnJPS0NpMm5Wa29kWFlvV3ZYVUVkZTRabnV1bVo5T1RkOHlEMU9tdmgya05sOXdsX3BOSkVlVGRqNjVZWU9vcTgzRllSdzVpLVBjc1JEZ0RRUS14MWZ4cnN6Y0tGeU1GTFRsSG5aLVBYMlQtSjlvNlY0b25EaVNtZkV6dGM?oc=5)
+  * 💡 싱가포르 내무부 장관은 마약 남용에 대한 강력한 조치를 유지할 것이라고 밝혔다.
+* **[방송/영화/OTT]** [US Navy could escort vessels in Strait of Hormuz with international coalition, Bessent says - The Straits Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkdfcktYbjdxM1Z3WG00ODlmZXdHLXF2TUk3ZHlBa1NDb01LMVU1VFgzOG9iM2RjZWw5d0tTZG5aeEtBWDV3a3diOFBvOHRpN2JYdlNZNUJFZzBvbnJIYk1maVFWQmJtNW9DRHhHUXZGRm1BcWMzRlhaOGJ3bUFoR3lzMmVibHUteWxyZDJUYzUzNzdNUmZQZXBjUGVPQVJibFNBYVhvSS1BaE5qWmlULXJLT0U5d0lUQ1lzUVUzd3lkUQ?oc=5)
+  * 💡 미국 해군이 국제 연합군과 함께 호르무즈 해협을 통과하는 선박을 호위할 수 있다고 보도되었습니다.
+* **[방송/영화/OTT]** [https://www.straitstimes.com/sitemap/2026/03/feeds.xml - The Straits Times](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96Wi0yX0hUSkFJOEprQ1dFV2pmalJvbXlVZmtCeGV3Q2ZIRGtGVER5bDNxcldvNktJZUpHQVQ5Vnc0R2xyZ0FZZnRGSVRNUU14ajM5SmNuZzljbzFRSkRRVlZLdVA?oc=5)
+  * 💡 동남아시아 및 남아시아 지역의 OTT 플랫폼 시장 동향 및 성장세 분석
+* **[방송/영화/OTT]** [Video of Japanese woman pushing South Korean child sparks outrage - The Straits Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2lCZjhJdDZ0b0lSUlNVZ0ZIajlmMDk4c1ppS0U5WFZNeE81Y2RENVRCeWtJaTRjRlQ1VlFNbUN4VFNUVnQ4OUpnWU1SdVBrS1ZwVnVCUG1IaHNTTVJmZU14NFAtWGM3SVRJeEFWRmdkelp3eF96a29IaFlONjZLZzhwam55NnNpa0t0eDNHbW9ZZElYeVBsMzlsWk1YbGVNZzlPa05ZTVNRS0ozU2c?oc=5)
+  * 💡 일본 여성이 한국 아이를 밀치는 영상이 온라인에서 논란을 일으킴.
+
+---
 ## 📅 2026년 03월 12일 업데이트
 
 * **[방송/영화/OTT]** [Foreign domestic worker allegedly forces child she’s caring for to kiss elderly man who purportedly offered S$5, police looking into the matter - Mothership](https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0NIMlNFM0ZpXzNKOTRWN0hiYS1OTGFadEJ3bzJtU2JzV3lUeVlXZU5hVVRvdXh3VGJhTHFRMG5HRUVpZmplOGRpOVZNVlp1YTJmR2dKa1EwWUNhekJmeV92YnBVMnlwMlE1V3JLQkk2Q3lBUjJXdVBrZy1TTXpGTks4ZmsyT19MMEUzSG9WTkRfRV9NaWdTWTVn?oc=5)
