@@ -2,6 +2,12 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[정책/규제]** [Govt To Strengthen Women’s Role In Digital Economy – Teo - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FYV9JazBLS3lGMWloVFI0a2dXNndIMFNqNUdSYWU3QUlQYV9QYUlZcURhRVNGT1FiQmFUeUJRajd2WXRhSjFzQjJKeWNvanc4UVVQZUw3OThIRklmY09pRzBBbmo1QkpJaTlPT0ZOc2Y?oc=5)
   * 💡 말레이시아 정부, 여성의 디지털 경제 참여 강화 계획 발표
 * **[정책/규제]** [TikTok Contributes RM20 Bln To Malaysia’s Digital Economy, Supports 147,000 Jobs - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TTDJJWWMxNS1oMVZzcU5Vd04xbjVhbS12NmFHQzg3cU9VODlydHphYlFqWmgya1FRRXNPQ0dMQld0dlNxbmpmOHBZeHJmeGZTSkRudw?oc=5)
