@@ -2,6 +2,20 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[애니/캐릭터]** [【OSHI NO KO】 Behind the Scenes Ep13: Season 3 Voice Recording Now Available - Anime News Network](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTZSQTRWTmJmbGsxQi1mRFpNQmFmWnZnQjlVWnY2WjIzUHo3UURBTFZqT0huRlVWYWZiYkFpaWdCaUR1b3Y0Yk1kOGY3UzdPcC1QMEU4NFVGX29ocjNvU1dkWEdpRTZnYlMyU3JBcnVrUFlnb0s5eG5Wa0RSSVc3SFFtdDN5VkFvYmpwNmVULXNvOG9kdGw3YV9wQW9ZckZYdk1WMGREUGh5cW82UkZaSFJIZG92M2wyTDdPVTExWEhWbTlpN3A3T29mUmZUcGxQREtPVQ?oc=5)
+  * 💡 애니메이션 【OSHI NO KO】의 시즌 3 목소리 더빙 녹음이 공개되었다.
+* **[애니/캐릭터]** [Communications Ministry, FINAS Continue Supporting Development Of Animation Sector - Fahmi - bernama](https://news.google.com/rss/articles/CBMicEFVX3lxTE9EOXRhaGl1TVJENUZsMlc2anlsNndrODhhSnVzdzc4T2Q5ZEpOclBSaHhDYl9KdVRzckl4TzcybDNuZzR1TEJLcmdCVXY0Y0s5S3oxRW04eWdIV3pMMk5ZbzB2UElwc1lGRXQ3dmw0NGU?oc=5)
+  * 💡 말레이시아 통신부와 영화진흥위원회(FINAS)가 애니메이션 산업 육성을 지속 지원하고 있다.
+* **[음악/공연]** [Enhypen fans rally behind Heeseung as Singapore supporters send protest truck - CNA Lifestyle](https://news.google.com/rss/articles/CBMisgFBVV95cUxOckRKckUzS1RJM0lKd0lObXB5QWxnWndqVDFSY0cxdGxBWFQyamx2UVlIZ3ZaYU9KMlpuWUNvVUJ4Q0pIbXM5VFhDTkxuUFNxNDJXM19PWTBWc3hFZFZpbTdVZ0dPNUM4SEE1MUNzeDBLZUJ1QzZlZm5iS0lEZ0haemdkbEFHUFNpVUtUS0l0WkRCcmxYYmxMeDZkQmhsSk8xYWlERHJEYTIwTkpxVFdBTTZR?oc=5)
+  * 💡 Enhypen 팬들이 싱가포르에서 멤버 Heeseung을 지지하는 시위를 벌였다.
+* **[패션/라이프스타일]** [Blackpink official pop-up store now open at Wisma Atria in Singapore - CNA Lifestyle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDNqN1JGNHhJYmpvVmZBWTdzZDNObThYRDFFek5pMTdGQ0x4Nmw4dVlJWGVONlYxQm90dHZDYzRMNDltMkpEbEVXemFfaWEwcWhnQUJmblVEdFNGcTRzeUtEeWQtaE5XR3pGWFZrN2VzZ0ZQaTJjOTVSVWJ2WW9kYi13M1lYNlJaVmhLNVdXVjlGRnJfUlhDTExBSm1wZ2Q2Q2hmUC1YZG1Gdw?oc=5)
+  * 💡 싱가포르의 Wisma Atria 쇼핑몰에 K팝 걸그룹 Blackpink의 공식 팝업 스토어가 오픈했다.
+* **[정책/규제]** [MOTAC To Intensify Visit Malaysia Year Promotions - Tiong - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE12Ti1pWk9wX2t0WDJLSjRyUHVOMFlmU3p3OWRVUlJfYlZxTGZDdHBHNFFqYkhlUFMzME5LdGlYMkRrUUZJaGQ0VW5MUUhBeWJORHdpeDdTNktJb2NLeDVoejh3?oc=5)
+  * 💡 말레이시아 관광예술문화부(MOTAC)는 2023년 방문 말레이시아 캠페인을 더욱 강화할 계획이다.
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[방송/영화/OTT]** [One surprise after another? Oscars night set to be unpredictable - Malay Mail](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGs2bmdNTm5EeGx2Umd1UFF6NmlpVThwMzVjNjdXaEhMVDdCRk1RRmxHX000U3U2WGNxRFdpM0w3TDdxb0xGMWI1ZTFQUjBmX2NHNFpsN2l3QnpLdXZ1RE5pb0RnYS01ZDZMTHM5T1ZMbkViaW1PMmx3YjlCb0VLUGJiUXJla21kRW1YVER4dVBteEdiSkdOekZlZm1ZbzVXODNNR1VkRktvdnNCdkRzTTY3azh6Tkh1Z1Zfc9IBwgFBVV95cUxPaDA0TzJ3bElfX2g0VE1UMmoteHZiQm44TWpLVnk4d2kyd3MxWDNKMEt5Q2pvQUtqT2FDaFl5WC12bDFYd252Yl8xVUUxQ1pKVXZhS3p4SFhGeFBXTG1RTUZDNmowUVVEY0RUaFlWeGdGNEtaY0pWT3dsblU4eFRNanlWTFhoM3dFRVJ3aFpiRTFERjZhMnM0aWVFdlhYOGNSX1hOQjJJQjdfZlJHSlgxMXl6bW1rZEdUc0hwZWlsb3lPZw?oc=5)
   * 💡 올해 아카데미 시상식은 예측하기 어려운 결과가 될 것으로 보인다. 유명 배우들의 논란과 전문가들의 의견 차이로 인해 수상 결과가 불확실한 상황이다.
 * **[방송/영화/OTT]** [From Russian school videographer to Oscar nominee: Pavel Talankin’s extraordinary journey - Malay Mail](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQREVfZEJzVFdUN01aWDNBbWZhellNWTFsQTlLenMzY3A1dklXTERiY3VPQ0llTlVpblZ1OE5oMGhQSWZUNzV1azUtd0hJVDcwY25VVEo1OE85bVl4QnRDcXNTOEFMNlctVFg0WHI4dl9XZ1NDaUYzZmFBa00wNmVYcERaXzlNSnV4WUxEamVNeE43blpTdlBFMWE5WjJiZmhZbERmRnlsQ0tWY1N3UTlTcHl4cFFMRm9ud2w0UEd0TlhscXBrbm40YmlJODFVMXN3WFRpZ2tJVk1qRHMw0gHiAUFVX3lxTE94eEpPZUpCUVhnaG5BUGdXamhYNUJWU2ZMUXBMbTZiS09La2VvSWdycHlhT1g5WU92UF8tTTFQLUlhQ042VFFMcF91TjFWOFpJR3pYUGs5THpNcEtmbEJCQ1RzZjhLZlZDUTl0VDZ4VzYzWkwwZC05aDVSeTBtLW85WVRCUVd4UVJWUU5GREticGpEbzJFNTZnaGN2YXU1QmFYMVNVQlNPWUJ1ZnUyWFFCVTNrbU02T2RCSzBQeHN0ZkN5UmFIaTZsckVEWlI0SFNubHZ2VkI3Y3pKMDBEUTMtdnc?oc=5)
