@@ -2,6 +2,22 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[정책/규제]** [Govt To Strengthen Women’s Role In Digital Economy – Teo - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMicEFVX3lxTE5FYV9JazBLS3lGMWloVFI0a2dXNndIMFNqNUdSYWU3QUlQYV9QYUlZcURhRVNGT1FiQmFUeUJRajd2WXRhSjFzQjJKeWNvanc4UVVQZUw3OThIRklmY09pRzBBbmo1QkpJaTlPT0ZOc2Y?oc=5)
+  * 💡 말레이시아 정부, 여성의 디지털 경제 참여 강화 계획 발표
+* **[정책/규제]** [TikTok Contributes RM20 Bln To Malaysia’s Digital Economy, Supports 147,000 Jobs - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TTDJJWWMxNS1oMVZzcU5Vd04xbjVhbS12NmFHQzg3cU9VODlydHphYlFqWmgya1FRRXNPQ0dMQld0dlNxbmpmOHBZeHJmeGZTSkRudw?oc=5)
+  * 💡 TikTok, 말레이시아 디지털 경제에 200억 링깃 기여, 14만 7천개 일자리 지원
+* **[방송/영화/OTT]** ['Detective Lim' Reveals Harsh Reality Of Low Pay For Veteran Artistes - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRDBOUDZacDFUaWVGOTFyQUpycmVrYlRhdDFoZzhXUFhUQWRvSnpLS2hsekxORkRxTVRtMVdrLW9oenhPSExDa0NpYlhVbHh5aUlXczlwbUFpTXItSWpLWkJR?oc=5)
+  * 💡 말레이시아 TV 드라마 '탐정 림'이 베테랑 연예인들의 열악한 처우를 고발했다.
+* **[방송/영화/OTT]** [The long road to ‘Bridgerton’: Malaysian-born actor Zheng Xi Yong on perseverance and performance - Malay Mail](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDJiekhQNGt1WGF6VGtUMEVPQWhCajhsZjhSQUlwM2dWZXJLU051bXlvcUxLRmlEc2pOU2prTGE2TjZfZ01JdEw4OXFoQW9pZmhqdTI0WHdHVkoyb3ZBTFB4dEgtaERmNEc0dEh6U3QzSkVDdGdKeHNFdlpoN1NxanF4ZjQzV2FjSFhibnlfMmctSUVzRDY4MDQzaFBQdWF6ekVmYkhNYWJSUGN3a1lEZEtIbjBvM1VwaHh3YU5XNGt1VGRHaFNzcnU2T3ZNMG9tZ1NrbDFNOXcwQ0JLRnNpMnpGaEhYQdIB6wFBVV95cUxPWWZpbmM3V19fNHRGWFFkMTVFT3V1cXQyUEVMb2ttQkE1VlpyRXlMWVdVYUxfcFo4U2F1bDNnSlJERW5mOFJzaFhQZ3ZYRG5UclNCU01ZcUFZMTRNckItSHc0S19TSVQ5MTZhRkNmTHY0cW44QkNJb2dNWEY1QW13MTlOVWI0dXhxWXdLTHZJMzctU1lERTl0TVJkb1Nlak80TVlMbmhpOFRSUG1sSWFkLUszcXJBQi12OEFkbHpHUUJKalNydGItQmlOdmhmdVExTWxDeWZCT2FsSi0xcXZUY1J2OUVoa0NTMnJz?oc=5)
+  * 💡 말레이시아 출신 배우 정석용, 'Bridgerton'으로 국제무대 진출 과정 소개
+* **[음악/공연]** [‘Instant’ Raya songs struggle to resonate, with timeless classics remaining Malaysians’ favourites (VIDEO) - Malay Mail](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVWdDbFZxQTM0dG1ZVTR1YUtjWUcwb2k4ZnIzeTZhRk1aUkdETFk3eG85Sk9uNXRIbFpyWFh5aEIza2FmZVBxcjVPcnhpSGhYUWlCNS1pXzM5SzViUVdtMU1xWjU2aXJmemhaWEViSTJsRlBRbmVlQmdQVDU4N2x0V3FRVlBPYlh4c1lTQWtucXZoTGpWZWNUMGZEY3pJd3ZDd1pDVV9VNy1Rdmp3SEtJQjcyN09EcjY4VENtOHI3b00yWVZGMzYyQXp0Z050X0tZWFozZWFiQUNpTjBSZjlVcHNKb3kxUzFoRWZjU2FB0gHzAUFVX3lxTE1wdFVZWUNqeFhXSHZ0Mm5HVEdxallTczNlZ3BtYlppRm92ZXd5VklsMTE4VE16RkZHVmdRa3RDbDN2aFZCYU9IcXRTdk9IaFY5VURrOHQtVlBSU3VLZG1iMjdxTkcyaW9BdjAzWVBuWTdrdmlmQXc0c29OeHhkd0prOWhjWUNjUWtkejdZc29lV1owdnhkcjhRNjZ0RDRac2R6cW5OSi1mMklVYWdSdk9TSWNGYUVqdjlWQUpBazJVZ0Z4VTBrU1FPS0htZkRUNXhkYS11MS1VTGxSTTQ2WXg4S3RzWDlzTVpQUDh5ZkE1Sjh3TQ?oc=5)
+  * 💡 말레이시아 라야(Raya) 축제 기념 신곡들이 대중의 공감을 얻지 못하고 있으며, 고전적인 노래들이 여전히 인기
+* **[애니/캐릭터]** [Joy Ngiaw makes history as Malaysian composer wins Emmy for Apple TV+ series ‘WondLa’ - Malay Mail](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzJxcC1seWRrZlI4c09NSklTNHlOWXRRamlSajViVDUyZlJsVXltQ1d4cmlYUHplbzB6RWd1eXB2cy05VURPV2dGT2ItZy1BRlNsRlFWbkg4N00zTTJBUzYzMV9JU05kbTB3LXRRSUZYcnFTY3FXR0hlVWJrS3l2TFJETkFmRFVTZmtMNGx5Vm12cFVaLTVaREUtOEZtRFpaT3dGdU1MbTRwYmg2VFFLSEs0OWR1MlVNZlNxcVFrTjB5MXBvbG4yN1FWUjZLemh1R19DNUZR0gHbAUFVX3lxTE02Nm9qZ25MNEFlcHNsM2VKbDFPSUZ1d19JUFZ6cDNlSi1BOWJsVnRoVkNUV0wySGxmb3dKREw4aHpnZ1FBVFR5eXc3V0FZUEdQaUdlbFFEckJQUHV1b0lwVEF3d05xOEtpeWZlTl92Zk9xdFBCTHZETmFueVBpdFg0VmlBS3RhRGFNSExscGdCcUhYR1ctUlpaRG56b3RPVzJGa2NfWUtKXzNxR1ZVYmF2QnZoTVhIU19KTkVObHUwTTdMNHdraF9paHFqM1RCUDBHMjhmZThFZmtQUQ?oc=5)
+  * 💡 말레이시아 작곡가 조이 엔지가 애플TV+ 드라마 '원더랜드'로 에미상을 수상, 역사적인 성과 달성
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[정책/규제]** [Singapore has months' worth of energy stockpiles, says Tan See Leng - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWVjRkZIQ1RCUEJUZEJNWWNYV3B0RnNid0Q2SHBoNFF5SWhnejJQaHZsbi1QcmpsMXFVWi0xakF4VWNveDdrY1E4aHhpZnYtWHM3THFCUDZ2bXZ1RGYyRFRUaDJCd0U0Y251NjNxTEVvVXJKZmhKR0FNYTg2clk4di1QS0JIU005SmZDVVc3ajZISVVyWFB6MA?oc=5)
   * 💡 싱가포르 에너지부 장관 Tan See Leng은 싱가폴이 몇 달 치 에너지 비축분을 보유하고 있다고 발표했습니다.
 * **[패션/라이프스타일]** [30 Pct Of Perak Consumers Begin Bringing Reusable Bags While Shopping - bernama](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DTWt1ZV9OeTNWclhPSDE5dTZ6TzZ1a2ZPRk5lM0JrWXVIWlVLMkxXMnR0R3YySWFtZW9wVWdIVmZZMlhBalIxRHNRaEFFSGlERWIzeFNhWklXel9ZbzZBZlNOMUk?oc=5)
