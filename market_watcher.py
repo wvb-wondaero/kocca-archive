@@ -26,34 +26,39 @@ CATEGORIES = [
 ]
 
 # ── 소스 정의 ──
-# 이미지 8번에 명시된 소스 + 공신력 있는 동남아 매체 우선
-# Google News RSS로 각 사이트 최신 기사 수집
+# 콘텐츠 전문 매체 + 동남아 특화 매체만. 종합지(CNA 메인, ST 메인)는 제외.
+# query에 콘텐츠 관련 키워드를 명시해 수집 단계부터 범위 제한.
 SOURCES = [
-    # 방송/영화 전문
-    {"name": "CNA Lifestyle",      "query": "site:cnalifestyle.channelnewsasia.com"},
-    {"name": "CNA",                "query": "site:channelnewsasia.com"},
-    {"name": "Variety",            "query": "site:variety.com"},
-    {"name": "Malay Mail",         "query": "site:malaymail.com"},
+    # ── 방송/OTT 전문 ──
+    # CNA Lifestyle은 엔터/라이프스타일 섹션만 — 종합 뉴스 아님
+    {"name": "CNA Lifestyle",     "query": "site:cnalifestyle.channelnewsasia.com entertainment OR streaming OR OTT OR film"},
+    # Variety는 글로벌 엔터 전문지
+    {"name": "Variety",           "query": "site:variety.com southeast asia OR singapore OR malaysia OR thailand OR indonesia OR vietnam"},
+    # Deadline: 글로벌 엔터 전문
+    {"name": "Deadline",          "query": "site:deadline.com southeast asia OR asia content OR streaming asia"},
 
-    # 게임/테크
-    {"name": "Digital News Asia",  "query": "site:digitalnewsasia.com"},
-    {"name": "The Magic Rain",     "query": "site:themagicrain.com"},
+    # ── 게임/융복합 전문 ──
+    {"name": "Digital News Asia", "query": "site:digitalnewsasia.com game OR gaming OR esports OR entertainment"},
+    {"name": "The Magic Rain",    "query": "site:themagicrain.com"},  # 말레이 게임/엔터 전문
+    {"name": "Niko Partners",     "query": "site:nikopartners.com southeast asia OR SEA game"},  # 아시아 게임 리서치
 
-    # 애니/만화/웹툰
-    {"name": "The Star ASEAN",     "query": "site:thestar.com.my"},
+    # ── 애니/캐릭터/웹툰 전문 ──
+    {"name": "Anime News Network","query": "site:animenewsnetwork.com southeast asia OR singapore OR malaysia OR korea"},
+    {"name": "WebProNews",        "query": "site:webpronews.com anime OR webtoon OR animation OR character"},
 
-    # 음악
-    {"name": "New Straits Times",  "query": "site:nst.com.my"},
-    {"name": "Straits Times",      "query": "site:straitstimes.com"},
-    {"name": "Digital Music News", "query": "site:digitalmusicnews.com"},
+    # ── 음악 전문 ──
+    {"name": "Digital Music News","query": "site:digitalmusicnews.com asia OR southeast asia OR k-pop"},
+    {"name": "Billboard Asia",    "query": "site:billboard.com asia OR southeast asia OR k-pop streaming"},
 
-    # 패션
-    {"name": "Nabalune News",      "query": "site:nabalunews.com"},
+    # ── 패션/라이프스타일 전문 ──
+    {"name": "Nabalune News",     "query": "site:nabalunews.com"},  # 동남아 패션 전문
+    {"name": "Vogue SEA",         "query": "site:vogue.com.sg OR site:vogue.com.my"},
 
-    # 정책/통합
-    {"name": "Bernama",            "query": "site:bernama.com"},
-    {"name": "IMDA",               "query": "site:imda.gov.sg"},
-    {"name": "AP News SEA",        "query": "site:apnews.com"},
+    # ── 정책/규제 (공공기관·전문 매체) ──
+    {"name": "IMDA",              "query": "site:imda.gov.sg"},       # 싱가포르 미디어개발청
+    {"name": "Bernama Policy",    "query": "site:bernama.com content OR media OR entertainment OR digital OR creative industry"},
+    {"name": "KrASIA",            "query": "site:kr.asia media OR content OR entertainment OR streaming OR OTT"},  # 동남아 테크/미디어 전문
+    {"name": "The Malay Mail Ent","query": "site:malaymail.com entertainment OR film OR music OR gaming OR anime"},
 ]
 
 # ── 동남아 키워드 (제목에 하나라도 있어야 1차 통과) ──
@@ -76,14 +81,23 @@ def is_sea_related(title: str) -> bool:
 
 # 명백히 부적합한 제목 사전 차단
 BLOCK_KEYWORDS = [
+    # 사건·사고·범죄
     "military", "aircraft", "crashed", "crash", "war", "army", "missile", "bomb",
     "murder", "killed", "stabbed", "assault", "rape", "sex crime", "sexually assault",
-    "kidnap", "abduct", "suicide", "overdose",
-    "earthquake", "flood", "typhoon", "hurricane", "wildfire",
-    "interest rate", "mortgage", "housing price", "oil price",
-    "petrol price", "fuel price", "electricity price",
+    "kidnap", "abduct", "suicide", "overdose", "e-waste", "theft", "stolen", "robbery",
     "dies during", "found dead", "dies 10 minutes", "death of woman",
-    "charged with causing death", "gets jail",
+    "charged with causing death", "gets jail", "arrested", "detained", "sentenced",
+    # 스포츠 (콘텐츠 무관)
+    "world cup", "olympics", "premier league", "football match", "soccer", "rugby",
+    "tennis", "badminton", "formula 1", "f1 race", "cycling race", "marathon",
+    "friendly match", "cancelled due to conflict", "sports", "athlete defect",
+    # 비관련 경제·인프라
+    "interest rate", "mortgage", "housing price", "oil price",
+    "petrol price", "fuel price", "electricity price", "airline", "flight",
+    "airport", "suspension of service", "doha", "aviation",
+    # 일반 지리·시사
+    "google maps", "maps data", "map sharing", "middle east conflict",
+    "earthquake", "flood", "typhoon", "hurricane", "wildfire",
 ]
 
 def is_valid_title(title: str) -> bool:
@@ -116,7 +130,7 @@ def fetch_articles():
             url = (f"https://news.google.com/rss/search"
                    f"?q={encoded_q}&hl=en-SG&gl=SG&ceid=SG:en")
             feed = feedparser.parse(url)
-            for entry in feed.entries[:8]:
+            for entry in feed.entries[:3]:  # 소스당 최대 3건
                 if entry.link in processed: continue
                 if entry.title in seen_titles: continue
                 seen_titles.add(entry.title)
@@ -140,12 +154,22 @@ def fetch_articles():
             print(f"  소스 오류 [{source['name']}]: {e}")
             continue
 
+    # 총량 캡: 최대 30건 (Claude 필터 후 10-15건 목표)
+    import random
+    if len(all_articles) > 30:
+        all_articles = random.sample(all_articles, 30)
     return all_articles
 
 
 # ── Claude 분류 프롬프트 ──
 SYSTEM_PROMPT = f"""당신은 KOCCA(한국콘텐츠진흥원) 해외사무소의 시장 분석 전문가입니다.
 KOCCA가 매주 발행하는 '위클리글로벌' 보고서에 수록할 기사를 엄격하게 선별합니다.
+
+[핵심 원칙]
+- 이 보고서는 한국 콘텐츠 기업·공공기관의 동남아 시장 전략 수립용 정보지입니다.
+- 콘텐츠 산업(OTT·게임·애니·웹툰·음악·패션·정책)과 직접 연관된 동남아 기사만 수록합니다.
+- 동남아 지역에서 발생한 일이라도 콘텐츠 산업과 무관하면 NO입니다.
+- 스포츠, 항공, 범죄, 사고, 지리 정보, 외교, 군사는 콘텐츠 산업이 아닙니다.
 
 [위클리글로벌 수록 기준 — 다음 조건을 모두 충족해야 YES]
 1. 동남아시아(싱가포르·말레이시아·태국·인도네시아·베트남·필리핀 등) 또는 아세안 지역 관련 기사
