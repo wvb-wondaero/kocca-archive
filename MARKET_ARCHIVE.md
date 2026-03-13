@@ -2,6 +2,12 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[애니/캐릭터]** [Communications Ministry, FINAS Continue Supporting Development Of Animation Sector - Fahmi - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycXR6NmVKQ0gydkRoX2Y4V01xZFE1TXpyMDB1aG83dmlXSHlPaDVzYWM0WU5qTHhCR2JCcjE5N0RTczc5NmkzSktaaEpNenBXUUFzLUJCb2FJVHM?oc=5)
+  * 💡 말레이시아 정부, 애니메이션 산업 발전을 위한 지원 지속
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[애니/캐릭터]** [【OSHI NO KO】 Behind the Scenes Ep13: Season 3 Voice Recording Now Available - Anime News Network](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTZSQTRWTmJmbGsxQi1mRFpNQmFmWnZnQjlVWnY2WjIzUHo3UURBTFZqT0huRlVWYWZiYkFpaWdCaUR1b3Y0Yk1kOGY3UzdPcC1QMEU4NFVGX29ocjNvU1dkWEdpRTZnYlMyU3JBcnVrUFlnb0s5eG5Wa0RSSVc3SFFtdDN5VkFvYmpwNmVULXNvOG9kdGw3YV9wQW9ZckZYdk1WMGREUGh5cW82UkZaSFJIZG92M2wyTDdPVTExWEhWbTlpN3A3T29mUmZUcGxQREtPVQ?oc=5)
   * 💡 애니메이션 【OSHI NO KO】의 시즌 3 목소리 더빙 녹음이 공개되었다.
 * **[애니/캐릭터]** [Communications Ministry, FINAS Continue Supporting Development Of Animation Sector - Fahmi - bernama](https://news.google.com/rss/articles/CBMicEFVX3lxTE9EOXRhaGl1TVJENUZsMlc2anlsNndrODhhSnVzdzc4T2Q5ZEpOclBSaHhDYl9KdVRzckl4TzcybDNuZzR1TEJLcmdCVXY0Y0s5S3oxRW04eWdIV3pMMk5ZbzB2UElwc1lGRXQ3dmw0NGU?oc=5)
