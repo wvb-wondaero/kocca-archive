@@ -1,3 +1,17 @@
+# 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
+
+## 📅 2026년 03월 13일 업데이트
+
+* **[방송/영화/OTT]** [One surprise after another? Oscars night set to be unpredictable - Malay Mail](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGs2bmdNTm5EeGx2Umd1UFF6NmlpVThwMzVjNjdXaEhMVDdCRk1RRmxHX000U3U2WGNxRFdpM0w3TDdxb0xGMWI1ZTFQUjBmX2NHNFpsN2l3QnpLdXZ1RE5pb0RnYS01ZDZMTHM5T1ZMbkViaW1PMmx3YjlCb0VLUGJiUXJla21kRW1YVER4dVBteEdiSkdOekZlZm1ZbzVXODNNR1VkRktvdnNCdkRzTTY3azh6Tkh1Z1Zfc9IBwgFBVV95cUxPaDA0TzJ3bElfX2g0VE1UMmoteHZiQm44TWpLVnk4d2kyd3MxWDNKMEt5Q2pvQUtqT2FDaFl5WC12bDFYd252Yl8xVUUxQ1pKVXZhS3p4SFhGeFBXTG1RTUZDNmowUVVEY0RUaFlWeGdGNEtaY0pWT3dsblU4eFRNanlWTFhoM3dFRVJ3aFpiRTFERjZhMnM0aWVFdlhYOGNSX1hOQjJJQjdfZlJHSlgxMXl6bW1rZEdUc0hwZWlsb3lPZw?oc=5)
+  * 💡 올해 아카데미 시상식은 예측하기 어려운 결과가 될 것으로 보인다. 유명 배우들의 논란과 전문가들의 의견 차이로 인해 수상 결과가 불확실한 상황이다.
+* **[방송/영화/OTT]** [From Russian school videographer to Oscar nominee: Pavel Talankin’s extraordinary journey - Malay Mail](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQREVfZEJzVFdUN01aWDNBbWZhellNWTFsQTlLenMzY3A1dklXTERiY3VPQ0llTlVpblZ1OE5oMGhQSWZUNzV1azUtd0hJVDcwY25VVEo1OE85bVl4QnRDcXNTOEFMNlctVFg0WHI4dl9XZ1NDaUYzZmFBa00wNmVYcERaXzlNSnV4WUxEamVNeE43blpTdlBFMWE5WjJiZmhZbERmRnlsQ0tWY1N3UTlTcHl4cFFMRm9ud2w0UEd0TlhscXBrbm40YmlJODFVMXN3WFRpZ2tJVk1qRHMw0gHiAUFVX3lxTE94eEpPZUpCUVhnaG5BUGdXamhYNUJWU2ZMUXBMbTZiS09La2VvSWdycHlhT1g5WU92UF8tTTFQLUlhQ042VFFMcF91TjFWOFpJR3pYUGs5THpNcEtmbEJCQ1RzZjhLZlZDUTl0VDZ4VzYzWkwwZC05aDVSeTBtLW85WVRCUVd4UVJWUU5GREticGpEbzJFNTZnaGN2YXU1QmFYMVNVQlNPWUJ1ZnUyWFFCVTNrbU02T2RCSzBQeHN0ZkN5UmFIaTZsckVEWlI0SFNubHZ2VkI3Y3pKMDBEUTMtdnc?oc=5)
+  * 💡 러시아 출신 영화감독 파벨 탈란킨의 예기치 못한 오스카 후보 지명 여정을 다룬 기사입니다.
+* **[음악/공연]** [FGV'S SAJI UNVEILS FESTIVE MUSIC VIDEO TO ENLIVEN AIDILFITRI CELEBRATIONS - web11.bernama.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ST0ZDUHFvVXRJSEtCSlFqV1JWVTlzSFZrdE9mWDlRM2lkZmlUQTh3VGJuLXRnb1BMLXF4WjVFeHNZUWpBUTNhZm5DblctRTdDSGhhRV9Ba0NxZk1sMi1zcFpicFVSdw?oc=5)
+  * 💡 말레이시아의 음악 스타 SAJI가 이드 알 피트르(Aidilfitri) 축제를 맞아 축제 분위기를 살리는 뮤직비디오를 공개했다.
+* **[정책/규제]** [Penang to go ahead with modest Aidilfitri open house despite Anwar’s call to refrain - Malay Mail](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUlVGQW9UQlhickZDaWs2ZWtrZHR0c2tnTDZwNGdqWWZXczJlcmVCT3hGM2RNYWxMektodnlnaHVTWEF1R2tubTE3R01PMmxGbUppRm0xVDNCTFZudWVRMDRHY2J0c2lLWE95eDUxSUpEOFQ4Umh1c0JJeVBBZkVuNVRYbEd0bmdFVTBpM1p3TnQzeFRFd1NZXy04YnpCM0M5UzhXLVB5YUVIOXR5WTdDWm14NTByZm9EZVl3TVVSeVZXLUtUNkFOM0J1ZzVfUzloUkNlRFYweHfSAd4BQVVfeXFMTUQ0ZFppYW1TUENvb0R0bWhZWlk4NXpDdjdyZWZ2S19ueXUzUTlpU2JrVllLcF9lM1c0RmVJbnlTT0JFaTZmSjF1S0RORHZXZ0FWbzZZMzBmeUNmMlpmcEhSNWp1T1B4eWJlbGRtVlNXc3JFUmUyMDdKQWxBM2xyblJnYmNacmJ1azdIUDZyRlpEYzE1ZjR2bG80UFpROEtpTlhzNXJyb2s3NUVVcE1PLXo1a1dJdFZhSmZXbmczSi1WQkRaeFYycVUzR3BNaktWSTVjaUlfclg4RVhuQVZ3?oc=5)
+  * 💡 말레이시아 북부 주인 페낭 주정부가 코로나19 이후 처음으로 제한적인 아이둘 피뜨리 공개 행사를 개최할 계획이라고 발표했다.
+
+---
 # 📰 KOCCA 글로벌 콘텐츠 산업 동향 아카이브 (엄선본)
 
 ## 📅 2026년 03월 13일 업데이트
