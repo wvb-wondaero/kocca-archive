@@ -2,6 +2,18 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[방송/영화/OTT]** [Iranian man, 45, gets jail & 3 strokes of cane for sexually assaulting boy, 15, in S'pore condo toilet - Mothership](https://news.google.com/rss/articles/CBMie0FVX3lxTE4xZ0lZa3FvQjdkcXc1Q3dnQk12QnNCTzhHYUpKdmUtelBpZVFfN1VIOHFjMG9Sa0J6NUpuaUw2dlRuVkR2U1FGMmFTbHNybWtNQmZ0cGpUZXhyR3dwb3VDWE51MDR3bUtXWmlpdV9OUEc1WHowZUVOYzkzZw?oc=5)
+  * 💡 싱가포르에서 15세 소년을 성폭행한 45세 이란인 남성이 징역형과 태형 처벌을 받음.
+* **[방송/영화/OTT]** [Hong Kong authorities raid two brokers and a hedge fund in crackdown on insider trading - CNA](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGE1SjRYNnVBa2FvblptUWRQbXgxb3BwN1dvZ1ZSdS1QbnNrenRpMDhpeUk5Rk94eWxMWVZLNEpYWHJudDVfY2N3VW1fZmFPbjVVVzJaeXVuQlNIWjNzcUJOcXA2ZDJnb2liSFF6ajd5aF85bzNucGZDUEZPdE5PeVhOZXZCYXNSSXoxTXNzSU1Za1dqeTgwbkhzS0pnQURUdWRWc01HVzVnVTJIcTdxYW43cmJXRVR4Q1VoX0pIdGJUcFN3REFhNEVxOA?oc=5)
+  * 💡 홍콩 당국이 내부자 거래 단속 과정에서 두 개의 중개회사와 헤지펀드를 급습했다.
+* **[방송/영화/OTT]** [Businesses, households can help offset impact of higher electricity prices: Tan See Leng - The Straits Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUERnQzk0NHJkYnlhTTRLMFQ0OVJoUk1pU3p1dzY5STU1VGp1Q0dVUS1NcVc5S3dxc2gtOFM4VTVqbHhrTnJUWkZlRjNVOXZIcUlBTUpvRHFZM1Q5dGtFLTBHbFF5eTRDWkNiTl8xZnh1aUl5eXdmU1ljRkV3TURMUmRUeDBKaFFCcmN1cnJNMXJWdy1kTERDZmctd3NzSUIxRjZyem9haHpmOXhuS1NKZnJjQQ?oc=5)
+  * 💡 싱가포르 부총리 Tan See Leng은 가계와 기업이 전기요금 인상의 영향을 완화할 수 있다고 제안했습니다.
+* **[방송/영화/OTT]** [Ukraine trainers will help Germany’s army get ready to defend against Russia by 2029, chief says - The Straits Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRzVrUi1nWUlKc3BvLXJEc2Q5VUQwckJhTDUzUXBVMS1ReFR4R015TkxsX20wbFhlcmtqTzA3R1RhbEI3RV8zbDlOdU9MbTV4Vmk0eDc5TWp4VDdTZ0NjeGk2ODFJMnc1YkJyVTNFQ1BwWjdmMk1ySnlaSGR5UUR0dlRvUmFVc3BJNkRUcmdFUzZJSVJDdnNiWjUzeEZLenBXXzlGSUhEMGlGa3R6ejRVbjVyY3hhTTlYN3dGR1hSVWFYdGhmZWdQeGprVjFKd19qVkE?oc=5)
+  * 💡 우크라이나 군대가 독일군에게 러시아 방어 훈련을 실시할 계획이라고 합니다.
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[방송/영화/OTT]** [Chinese influencer, 39, gets headache during livestream, dies 10 minutes later - Mothership](https://news.google.com/rss/articles/CBMieEFVX3lxTE9XRTNzVGpNMTB0QXZqM2ZCaTB3SkZNZTM0YWtnQ3d4Y1R5cjFlbXVWa3cxdkhhenQ0YWdSSWQzZ2JvWFlrejhKU1NwdFlXS2Z5VkNTSi1vRy1mZlg2QlJMRV9lR2d4dXpmeDE2WnhyZXZNdTVFZF9WcQ?oc=5)
   * 💡 중국 여성 인플루언서가 라이브스트리밍 중 두통으로 사망하는 일이 발생했다.
 * **[패션/라이프스타일]** [Petrol prices go up in S'pore, Case urges fuel companies to 'exercise restraint' - Mothership](https://news.google.com/rss/articles/CBMiekFVX3lxTFBwbF90a3A5em9vY1Y2dFBmSHdHeWdFek1adVAwaFhuTEJwSUMyVmZUR0NZLURTQXlQU1hGUnBJd0lUNkFlcnE5UnBXY0xfTzA3cjFKQkdrRThyQW5KeVl5akxmcTl1bnVKZk90TmxjMXplSlJKWVRSZHpR?oc=5)
