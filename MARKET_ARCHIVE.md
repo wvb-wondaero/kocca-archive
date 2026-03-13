@@ -2,6 +2,14 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[방송/영화/OTT]** [S'porean doctor, 54, charged with causing death of woman by cutting wrong arteries during kidney surgery - Mothership](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjRKblZvSE9BTHJCOXFPcjRJemNsbXRBcG9PdmU3eTNJYXd0V01MU0h0N18wMGJOcm51NU5FOENpNGZQZ0I2R3dJdW54STdRa3Y3RkhHMTNKNWxpSlFZZDNtSXQwOXY2TUFvaG1HS2VDLWJaWnVibUVNV3RjVkVBU1M2bEU1b1U5OHhyVk03M0dVYWdpTU5zRkc0b2xHcEdDbjJZcUlGNXpPX3ExUjB5RENpR0ZUS0UxS1hHVkVVbXQyaHJTR2VCWkQ2b2I?oc=5)
+  * 💡 싱가포르 의사, 여성 환자 사망 사고 기소. 수술 중 실수로 잘못된 동맥을 절단한 것으로 조사.
+* **[게임/융복합]** [Bridge Data Centres plans up to $5 billion AI investment in Singapore - The Straits Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYjhhajVrOFZmdGNIcENiemZPQndJUGxUYnBSWFRrc0xDMW13N3NzcmdZbWRPVUlwdVZvUGdFa2tKSGR2MzliQkNTcGktOE8tT2x1Q1ZrMFRRdTE3UV9QQTRTaE5pXy1xUXhoYmphcFl6cXlKUWhrLURrZXozcGxydUtkX3gxRkhFbnVTVm12RTNPLWNGVHcyZjdtczIxRlRtMVVycVN1UWFya2lzYWxkdXJwdDVXZG9DRU00cW1qZXpJUQ?oc=5)
+  * 💡 싱가포르에 최대 50억 달러 규모의 AI 인프라 투자를 계획하는 Bridge Data Centres
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[방송/영화/OTT]** [Iranian man, 45, gets jail & 3 strokes of cane for sexually assaulting boy, 15, in S'pore condo toilet - Mothership](https://news.google.com/rss/articles/CBMie0FVX3lxTE4xZ0lZa3FvQjdkcXc1Q3dnQk12QnNCTzhHYUpKdmUtelBpZVFfN1VIOHFjMG9Sa0J6NUpuaUw2dlRuVkR2U1FGMmFTbHNybWtNQmZ0cGpUZXhyR3dwb3VDWE51MDR3bUtXWmlpdV9OUEc1WHowZUVOYzkzZw?oc=5)
   * 💡 싱가포르에서 15세 소년을 성폭행한 45세 이란인 남성이 징역형과 태형 처벌을 받음.
 * **[방송/영화/OTT]** [Hong Kong authorities raid two brokers and a hedge fund in crackdown on insider trading - CNA](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTGE1SjRYNnVBa2FvblptUWRQbXgxb3BwN1dvZ1ZSdS1QbnNrenRpMDhpeUk5Rk94eWxMWVZLNEpYWHJudDVfY2N3VW1fZmFPbjVVVzJaeXVuQlNIWjNzcUJOcXA2ZDJnb2liSFF6ajd5aF85bzNucGZDUEZPdE5PeVhOZXZCYXNSSXoxTXNzSU1Za1dqeTgwbkhzS0pnQURUdWRWc01HVzVnVTJIcTdxYW43cmJXRVR4Q1VoX0pIdGJUcFN3REFhNEVxOA?oc=5)
