@@ -2,6 +2,12 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 * **[패션/라이프스타일]** [Pizza Hut Singapore launches Hut’s Sliders and revamps My Box meals for solo dining - CNA Lifestyle](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUw3aHZsN053TWNDd1ZuSGN4R1pBVmN5MkFvYzVDVUJqMFFBQzc5X2ljNVdrSUZZZVljd01SbVpTMGtfM0ZQVkpxSDdMd1hGeU5Hek5tb3M1ekwtRWtqakFkcndzV2VvMDRqVlVYV2hOWTl6TFBZWkhhWWwtZTI4bFNLV05BV28zNm9pdjhXVmJnN1B0?oc=5)
   * 💡 싱가포르 피자헛, 1인 고객을 위한 새로운 메뉴 'Hut's Sliders'와 'My Box' 리뉴얼
 * **[음악/공연]** [Rapper Hanumankind to perform in Singapore for first time on May 13 - CNA Lifestyle](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmxGZnQyQm80UGpuNVJ6SU9qN25BNzN6cW93dTJ6ZlAzQWtuYnFxTC1tU0VrVW9VdUNSbEFaUGM0SWM3TVZERER1Y3hWMGxrVy1XTTRRenhQaDFkT3JQV01vclRwMjRhbFhOLXVMeWpPQTAwd3VyUWFNbEszWlREVGhIMGJabDVCbTg1aW1mQ1FMSzdVd0RJSmFxdVh6bkxJU2c?oc=5)
