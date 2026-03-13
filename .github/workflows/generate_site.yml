@@ -1,0 +1,52 @@
+name: Generate & Deploy Site
+
+on:
+  # MARKET_ARCHIVE.md 가 push 될 때마다 자동 실행
+  push:
+    branches: [main]
+    paths:
+      - "MARKET_ARCHIVE.md"
+
+  # 수동 실행도 가능 (Actions 탭 → Run workflow)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 동시 배포 방지
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate HTML
+        run: python generate.py --input MARKET_ARCHIVE.md --output ./output
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
