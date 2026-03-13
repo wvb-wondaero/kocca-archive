@@ -342,8 +342,12 @@ document.querySelectorAll('.ctab').forEach(b => b.addEventListener('click', () =
   b.classList.add('active');
   document.querySelectorAll('.card,.list-item').forEach(el =>
     el.classList.toggle('hidden', cc !== 'all' && el.dataset.cat !== cc));
-  document.querySelectorAll('.date-section').forEach(sec =>
-    sec.style.display = [...sec.querySelectorAll('.card')].some(c => !c.classList.contains('hidden')) ? 'block' : 'none');
+  document.querySelectorAll('.date-section').forEach(sec => {{
+    const vis = [...sec.querySelectorAll('.card')].filter(c => !c.classList.contains('hidden'));
+    sec.style.display = vis.length ? 'block' : 'none';
+    const cnt = sec.querySelector('.art-count');
+    if (cnt) cnt.textContent = vis.length + '건';
+  }});
 }}));
 
 // ── 초기화 ──
