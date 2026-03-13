@@ -116,8 +116,8 @@ def build_html(articles):
         cnt = sum(1 for a in articles if a["category"]==cat)
         tabs += f'<button class="ctab" data-cat="{esc(cat)}">{CATEGORY_EMOJI.get(cat,"📌")} {esc(cat)} <span class="tc">{cnt}</span></button>'
 
-SGT = timezone(timedelta(hours=8))
-now = datetime.now(SGT).strftime("%Y-%m-%d %H:%M (SGT)")
+    SGT = timezone(timedelta(hours=8))
+    now = datetime.now(SGT).strftime("%Y-%m-%d %H:%M (SGT)")
 
     return f"""<!DOCTYPE html>
 <html lang="ko" data-theme="dark">
