@@ -1,13 +1,9 @@
 name: Generate & Deploy Site
 
 on:
-  # MARKET_ARCHIVE.md 가 push 될 때마다 자동 실행
   push:
     branches: [main]
-    paths:
-      - "MARKET_ARCHIVE.md"
-
-  # 수동 실행도 가능 (Actions 탭 → Run workflow)
+    paths: ["MARKET_ARCHIVE.md"]
   workflow_dispatch:
 
 permissions:
@@ -15,7 +11,6 @@ permissions:
   pages: write
   id-token: write
 
-# 동시 배포 방지
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -29,23 +24,26 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # Node.js 24 지원
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Generate HTML
-        run: python generate.py --input MARKET_ARCHIVE.md --output ./output
+      - name: Install dependencies
+        run: pip install feedparser anthropic requests
 
-      - name: Setup Pages
+      - name: Generate site
+        run: python generate.py --input MARKET_ARCHIVE.md --output output
+
+      - name: Configure Pages
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3  # v4 → v3로 변경 (Node.js 24 지원)
         with:
-          path: ./output
+          path: output
 
       - name: Deploy to GitHub Pages
         id: deployment
