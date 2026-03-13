@@ -2,6 +2,14 @@
 
 ## 📅 2026년 03월 13일 업데이트
 
+* **[정책/규제]** [Singapore has months' worth of energy stockpiles, says Tan See Leng - CNA](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWVjRkZIQ1RCUEJUZEJNWWNYV3B0RnNid0Q2SHBoNFF5SWhnejJQaHZsbi1QcmpsMXFVWi0xakF4VWNveDdrY1E4aHhpZnYtWHM3THFCUDZ2bXZ1RGYyRFRUaDJCd0U0Y251NjNxTEVvVXJKZmhKR0FNYTg2clk4di1QS0JIU005SmZDVVc3ajZISVVyWFB6MA?oc=5)
+  * 💡 싱가포르 에너지부 장관 Tan See Leng은 싱가폴이 몇 달 치 에너지 비축분을 보유하고 있다고 발표했습니다.
+* **[패션/라이프스타일]** [30 Pct Of Perak Consumers Begin Bringing Reusable Bags While Shopping - bernama](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DTWt1ZV9OeTNWclhPSDE5dTZ6TzZ1a2ZPRk5lM0JrWXVIWlVLMkxXMnR0R3YySWFtZW9wVWdIVmZZMlhBalIxRHNRaEFFSGlERWIzeFNhWklXel9ZbzZBZlNOMUk?oc=5)
+  * 💡 말레이시아 페락 주 소비자의 30% 이상이 장을 볼 때 재사용 가방을 사용하기 시작
+
+---
+## 📅 2026년 03월 13일 업데이트
+
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
 
 
