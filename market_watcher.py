@@ -189,6 +189,17 @@ _BLOCK_RAW = [
     r"\bmalpractice\b", r"\bvaccine\b", r"\bpandemic\b",
     r"\bepidemic\b", r"\bkidney\b", r"\barteries\b",
 
+    # 정치 / 선거 / 안보 사건 (콘텐츠 무관)
+    r"\belection\b", r"\bgeneral election\b", r"\bvoting\b",
+    r"\bparliament (debate|vote|passes)\b",
+    r"\bprime minister resign\b", r"\bcabinet reshuffle\b",
+    r"\bdrone (attack|strike)\b", r"\bembassy attack\b",
+    r"\bdiplomatic (incident|row|crisis)\b",
+
+    # 게임 플랫폼 악용 범죄 (게임 산업 기사 아님)
+    r"\bvirtual kidnap\b", r"\bsecuestro virtual\b",
+    r"\bonline predator\b", r"\bchild (grooming|abuse) online\b",
+
     # 기타 완전 무관
     r"\bgoogle maps?\b", r"\belephant\b", r"\bwill (contest|dispute)\b",
     r"\bwork.from.home\b", r"\bcost saving\b", r"\boverproduction\b",
@@ -209,8 +220,21 @@ def is_valid_title(title: str) -> bool:
 
 
 def is_sea_related(title: str) -> bool:
+    """동남아 직접 관련 OR K-콘텐츠 글로벌 위상 신호 — 둘 중 하나면 통과."""
     t = title.lower()
-    return any(kw in t for kw in SEA_WHITELIST)
+    # 1) 동남아 직접 언급
+    if any(kw in t for kw in SEA_WHITELIST):
+        return True
+    # 2) K-콘텐츠 글로벌 위상 신호
+    #    지역이 서구여도 K-팝/K-드라마의 국제적 영향력을 담은 기사는 유효
+    #    예: "[뉴욕] K팝 데몬헌터스 그래미", "[프랑스] 박찬욱 칸 심사위원장"
+    K_GLOBAL = [
+        "k-pop", "k-drama", "k-content", "k-beauty", "k-fashion",
+        "korean film", "korean series", "korean content", "korean wave",
+        "hallyu", "bts", "blackpink", "stray kids", "kocca",
+        "park chan-wook", "bong joon-ho",
+    ]
+    return any(kw in t for kw in K_GLOBAL)
 
 
 # ─────────────────────────────────────────────
@@ -232,6 +256,7 @@ def fetch_articles():
     TOTAL_CAP = 30
     processed = load_processed_links()
     all_articles = []
+    stats = {"dup": 0, "title": 0, "sea": 0, "pass": 0}
 
     for source in SOURCES:
         if len(all_articles) >= TOTAL_CAP:
@@ -252,13 +277,16 @@ def fetch_articles():
                 link  = entry.get("link", "")
 
                 if link in processed:
+                    stats["dup"] += 1
                     continue
 
                 if not is_valid_title(title):
+                    stats["title"] += 1
                     print(f"  [BLOCK-TITLE] {title[:70]}")
                     continue
 
                 if source["name"] not in SEA_NATIVE and not is_sea_related(title):
+                    stats["sea"] += 1
                     print(f"  [BLOCK-SEA]   {title[:70]}")
                     continue
 
@@ -272,12 +300,17 @@ def fetch_articles():
                     "image":  img,
                     "source": source["name"],
                 })
+                stats["pass"] += 1
                 count += 1
 
         except Exception as e:
             print(f"  [ERROR] {source['name']}: {e}")
 
-    print(f"\n📥 사전 필터 통과: {len(all_articles)}건 → Claude 분석 시작\n")
+    print(
+        f"\n📥 수집 결과 — 중복제외:{stats['dup']} / "
+        f"제목차단:{stats['title']} / SEA차단:{stats['sea']} / "
+        f"통과:{stats['pass']}건 → Claude 분석 시작\n"
+    )
     return all_articles
 
 
@@ -291,32 +324,39 @@ def analyze_and_classify(article):
 
     system_prompt = f"""당신은 KOCCA(한국콘텐츠진흥원) 동남아시아 콘텐츠 산업 동향 분석가입니다.
 
-[수록 조건 — 두 가지 모두 충족해야 YES]
+[수록 조건 — 반드시 두 조건 모두 충족해야 YES]
 A. 동남아시아(싱가포르·말레이시아·태국·인도네시아·베트남·필리핀·미얀마·캄보디아 등) 관련 기사
+   OR 한국 콘텐츠·아티스트의 글로벌 위상을 다룬 기사 (지역 무관)
 B. 아래 7개 카테고리 중 하나에 명확히 해당하는 콘텐츠 산업 기사
    방송/영화/OTT  |  게임/융복합  |  애니/캐릭터  |  만화/웹툰  |  음악/공연  |  패션/라이프스타일  |  정책/규제
 
-[즉시 NO — 하나라도 해당되면 무조건 NO]
-- 전쟁·군사·외교 (러시아, 이란, 중동, 이스라엘, 우크라이나 등)
-- 스포츠 경기 (배드민턴, 축구, 농구, 골프, 테니스 등)
-- 사건·사고·범죄·재해
+[즉시 NO — 하나라도 해당되면 A·B 조건 무관하게 NO]
+- 전쟁·군사·외교 사건 (러시아, 이란, 중동, 이스라엘, 우크라이나 등)
+- 스포츠 경기 결과 (배드민턴, 축구, 농구, 골프, 테니스 등)
+- 사건·사고·범죄·재해 (드론 공격, 사기, 납치, 살인 등)
 - 항공·교통·에너지·인프라
 - 비관련 경제 (금리·환율·유가·주가·부동산)
 - 의료·보건
+- 선거·총선·의회 정치 사건 (콘텐츠 정책 기사는 제외)
 - 동남아 기사라도 콘텐츠 산업과 무관한 일반 사회 뉴스
 
 [판단 예시]
-YES → "Netflix increases content investment in Southeast Asia"
-YES → "Singapore IMDA launches animation co-production fund"
-YES → "K-drama popularity drives tourism surge in Thailand"
-YES → "Malaysia introduces new content rating regulation for streaming"
-NO  → "Russia military news"
-NO  → "Singapore Airlines suspends Doha route"
-NO  → "Iran war causes oil price spike"
-NO  → "Malaysia badminton player wins tournament"
-NO  → "Singapore doctor charged over surgery"
+YES → "Netflix increases content investment in Southeast Asia"          ← SEA + OTT
+YES → "Singapore IMDA launches animation co-production fund"           ← SEA + 정책
+YES → "K-drama popularity drives tourism surge in Thailand"            ← SEA + K-콘텐츠
+YES → "Malaysia introduces new content rating regulation for streaming" ← SEA + 정책
+YES → "Stray Kids film tops global box office"                         ← K-콘텐츠 글로벌 위상
+YES → "Park Chan-wook appointed Cannes jury president"                 ← K-크리에이터 위상
+NO  → "Thailand general election results"                              ← 선거 (콘텐츠 무관)
+NO  → "Singapore Airlines suspends Doha route"                         ← 항공
+NO  → "Iran war causes oil price spike"                                ← 전쟁·에너지
+NO  → "Malaysia badminton player wins tournament"                      ← 스포츠
+NO  → "Singapore doctor charged over surgery"                          ← 의료·범죄
+NO  → "Sweden local drama series premiere"                             ← 서구 내수, SEA·K-콘텐츠 무관
+NO  → "Russia OTT platform viewer statistics"                          ← 러시아 내수
+NO  → "Virtual kidnapping via game platform"                           ← 게임 악용 범죄 (산업 기사 아님)
 
-[응답 형식 — 반드시 이 순서로]
+[응답 형식 — 첫 줄 반드시 SUITABLE, 순서 고정]
 SUITABLE: YES 또는 NO
 CATEGORY: {" / ".join(CATEGORIES)} 중 하나 (NO이면 해당없음)
 AI_SUMMARY: 한 문장 요약 (NO이면 해당없음)
