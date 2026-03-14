@@ -2,6 +2,16 @@
 
 ## 📅 2026년 03월 14일 업데이트
 
+* **[방송/영화/OTT]** [More demons, more K-pop: Netflix announces KPop Demon Hunters sequel - CNA Lifestyle](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9BbTBzc3BuWkJvOTI2dXFHNXZaaHF1N2tPQTNTdUcyZGQ2ZEhrVFVkdFdwWld3aVlnTjhiNjBjeU9EaXFVS0xwajJQbHdDNEwyR0Y2ZjZsWWRJbU43aV9aSlE3clB3NkcybjFyc3lCSHRLOTJqcWdyeGI1Z3hFYTRBVXdDM09OalE5OTZTOTZfX2wxVkhNYVI2X2l4TXFfYkZkSnpHTHd1T0xz?oc=5)
+  * 💡 Netflix는 인기 K-pop 그룹을 모티브로 한 새로운 K-드라마 'K-Pop Demon Hunters' 시즌 2 제작을 발표했습니다.
+* **[게임/융복합]** [Honkai: Star Rail Version 4.1, ‘Unraveled For Daybreak’ Arrives This March 15 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObExkVW9kY0NaRmVTUnhfSF8yeHQwamk0UkJFcFZjLV9aWWkxTXRnMjNuUG5hY2Y3NzJoUl90TVVxLW9aNjc0NUpWN0RXclJYNEJZeERmYnV1aEJvRE96SDJJeHpSWnJSMDRRSW12alBZWHlIRkVlUUNFdVEwOXZyVE5CYjVWYWZPOXdiQVoxYUIyWjJ2N1BUMjdMMXcyV0piTTY1ejFFVVY1WDA?oc=5)
+  * 💡 모바일 게임 '홍카이: 스타 레일'의 버전 4.1 업데이트 '어니브드 포 데이브레이크'가 3월 15일 출시된다.
+* **[게임/융복합]** [This Week in Games - Talking Mega Man with Koji Oda - Anime News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFhnLUxHS05ORUh1VlphaGwyZ2NpTlRySWFmMjRMeWpZUGhiWk9tQ1pGZEM1NEI1RVFkV2dDNnNkWGlHZkc3SGFBTWs5X3Q1dXQySlBQaHJQZ2JDaHBxelJZTEhVNk9vZU5uOHdESnFDYW1pWDVpU0lyc2RSTHdzbXB0YllFWE0tWExPMjZCd0dKdEV6OHNaYjJ0QjBVNWhRZlpr?oc=5)
+  * 💡 애니메이션 뉴스 네트워크에서 Mega Man의 제작자 Koji Oda와 게임 산업 트렌드에 대한 인터뷰를 진행했습니다.
+
+---
+## 📅 2026년 03월 14일 업데이트
+
 * **[게임/융복합]** [Honor of Kings Releases New “Flow Update,” Announces India Launch - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGdlOG1OUVhFS3BzcUd5eUhWU0F2Rng4M2JXcEtIWkFnaUZ2SHFhX3YxRGpmUVpKSGZ2MEZjQ0Vudlk3WlJuS2xMODZmaF9NQmppazdxMTlWSjVRZzhMNXVBdzJBTXBDSHdZUWRQenhSazdiWENJbWdUd2lJeTM5LTIzNUI5N3U4aHFNaHhwcXpteWgxUHkwUVlaOWw?oc=5)
   * 💡 중국 게임 회사 텐센트의 모바일 게임 Honor of Kings가 새로운 "Flow Update"를 출시하고 인도 진출을 발표했다.
 * **[애니/캐릭터]** [Anime 【Oshi no Ko 】 Season 3 Special Giveaway Campaign Started: Win Exclusive Shikishi Signed by Yurie Igoma (VA of Ruby) - Anime News Network](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1YzLUlXYWFzUkJqbnFrcVpiclMwaDFrNGNybkM4T2ZVcEFTNnJ1Q3d5Z21WX2Y1ZW1PVGdiLWRMU3RCRks1UHQ0cWNBaE13YmVUYW05bmE4M2JvYjNBOFBOeTJGb0l0WG1MSXE5eWVlcFZXQVNfS2RuUGJuNGdfTGxkbVBpODltSFhxUTRTSjB3SmNaQjJyb3BjUFZ1TGp5MmtqdzRYWkFwSUVSNlgzQUsxeV9OTm9NUTd2OERWU1VYeG5ZdjhtVm4zVTNNWWpNOFNhMWJGOEhNZGZxMlMtM2x4Q3AwMzRUajdpWGtOcVVmT0FwZm5Tdw?oc=5)
