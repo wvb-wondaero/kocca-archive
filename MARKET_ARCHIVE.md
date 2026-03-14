@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 14일 업데이트
+
+* **[게임/융복합]** [Honor of Kings Releases New “Flow Update,” Announces India Launch - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGdlOG1OUVhFS3BzcUd5eUhWU0F2Rng4M2JXcEtIWkFnaUZ2SHFhX3YxRGpmUVpKSGZ2MEZjQ0Vudlk3WlJuS2xMODZmaF9NQmppazdxMTlWSjVRZzhMNXVBdzJBTXBDSHdZUWRQenhSazdiWENJbWdUd2lJeTM5LTIzNUI5N3U4aHFNaHhwcXpteWgxUHkwUVlaOWw?oc=5)
+  * 💡 중국 게임 회사 텐센트의 모바일 게임 Honor of Kings가 새로운 "Flow Update"를 출시하고 인도 진출을 발표했다.
+* **[애니/캐릭터]** [Anime 【Oshi no Ko 】 Season 3 Special Giveaway Campaign Started: Win Exclusive Shikishi Signed by Yurie Igoma (VA of Ruby) - Anime News Network](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1YzLUlXYWFzUkJqbnFrcVpiclMwaDFrNGNybkM4T2ZVcEFTNnJ1Q3d5Z21WX2Y1ZW1PVGdiLWRMU3RCRks1UHQ0cWNBaE13YmVUYW05bmE4M2JvYjNBOFBOeTJGb0l0WG1MSXE5eWVlcFZXQVNfS2RuUGJuNGdfTGxkbVBpODltSFhxUTRTSjB3SmNaQjJyb3BjUFZ1TGp5MmtqdzRYWkFwSUVSNlgzQUsxeV9OTm9NUTd2OERWU1VYeG5ZdjhtVm4zVTNNWWpNOFNhMWJGOEhNZGZxMlMtM2x4Q3AwMzRUajdpWGtOcVVmT0FwZm5Tdw?oc=5)
+  * 💡 일본 애니메이션 "오시노코" 시즌3 특별 이벤트 캠페인이 시작되어, 유리에 이고마 성우가 직접 사인한 시키시 그림을 증정한다.
+* **[애니/캐릭터]** [Communications Ministry, FINAS Continue Supporting Development Of Animation Sector - Fahmi - bernama.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LbGpTOFJhdHpoUlhhTnJqM2ZKTEl3R1U2ZjI0T243bE5fSmtXdV9Sa0lWWXdzdi1WRVRweXktZVlld0RZbmpTWmpLaVZfaEtJb1V6Y0lCWHdwclVqS2dyUWpR?oc=5)
+  * 💡 말레이시아 정보통신부와 FINAS(말레이시아 영화개발공사)가 애니메이션 산업 발전을 위한 지원을 계속하고 있다.
+
+---
 ## 📅 2026년 03월 13일 업데이트
 
 * **[애니/캐릭터]** [Communications Ministry, FINAS Continue Supporting Development Of Animation Sector - Fahmi - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycXR6NmVKQ0gydkRoX2Y4V01xZFE1TXpyMDB1aG83dmlXSHlPaDVzYWM0WU5qTHhCR2JCcjE5N0RTczc5NmkzSktaaEpNenBXUUFzLUJCb2FJVHM?oc=5)
