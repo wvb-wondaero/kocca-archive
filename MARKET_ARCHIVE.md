@@ -1,5 +1,11 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 15일 업데이트
+
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
 ## 📅 2026년 03월 14일 업데이트
 
 * **[방송/영화/OTT]** [More demons, more K-pop: Netflix announces KPop Demon Hunters sequel - CNA Lifestyle](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9BbTBzc3BuWkJvOTI2dXFHNXZaaHF1N2tPQTNTdUcyZGQ2ZEhrVFVkdFdwWld3aVlnTjhiNjBjeU9EaXFVS0xwajJQbHdDNEwyR0Y2ZjZsWWRJbU43aV9aSlE3clB3NkcybjFyc3lCSHRLOTJqcWdyeGI1Z3hFYTRBVXdDM09OalE5OTZTOTZfX2wxVkhNYVI2X2l4TXFfYkZkSnpHTHd1T0xz?oc=5)
