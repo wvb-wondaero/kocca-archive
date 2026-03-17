@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 17일 업데이트
+
+* **[방송/영화/OTT]** [Vietnamese Horror ‘Phi Phong: The Blood Demon’ Sells To Multiple Territories Through Mockingbird - Deadline](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm91VENpYjVhbjBXYjg5d0l4RGdaYjRLX0VsR3lqTXJWN2xLNEFtRDVxVlBVQ3NpdUExVlVZUHlpNE01QUZWNlFyc1NwRVZVQ0NlY29XVFhOVGRmSzlCSk9wejNiZ1k4NnQ2S0FuUjFKam5tb1JFeXFrQVlSdElYWndKNm1xRmF0Rlh2Mnc1UXB4cDlJMV85d1pLVmt4eXVhRmc?oc=5)
+  * 💡 베트남 호러영화 '피 풍: 더 블러드 데몬'이 다수 해외 지역에 판매되었다.
+* **[방송/영화/OTT]** [Vietnam’s Skyline Media Adds Comedy Drama ‘Father Of The Groom’ To Filmart Slate - Deadline](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDk5eFNvSGJhMGhmbG9JYXBacnRfcDRRdDNlY29Gd211cDN4YWN4LWdKUkppeWpFejN4MVVEUi1OTTRnYlBlMGhjOS1qM0gzcV9LTktaRmhtY01lUVdmWjhQT281ZTlJMlJqQmZ4VU9pTE0temRiMlFNVUZMNk1VMUQwamxNSmhXUlVpY1JkaHY1R1FsanhB?oc=5)
+  * 💡 베트남의 Skyline Media가 Filmart에서 새로운 코미디 드라마 '신랑아버지'를 소개할 예정입니다. 이는 동남아시아 콘텐츠 제작사의 지속적인 성장을 보여주는 사례입니다.
+* **[게임/융복합]** [VALORANT Announces New Sound-Based Agent, Miks - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFA2elhqV3pmV0VWNVhQaURReXY3LXhuZE1FVGR5NTJuck9UN2hQeE1zbDlMZGREd0owQVY1UmRYbU5XbjBKbHE2bFJ3VGJSZWFxV0hJRXFEYU81ZVNyNGhTc1dLblBLd1pjSkt5QVlJN3VTa1pNMEZTdFltdDhOSmdMZ1A0dw?oc=5)
+  * 💡 VALORANT, 수인 폭력 지향 게임, 새로운 사운드 기반 에이전트 'Miks' 출시 소식.
+* **[음악/공연]** [BTS announces light-ups and fan experiences in Seoul ahead of album release - CNA Lifestyle](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT25DSU5nbzVxY0hqWGFTMjRzTWpBS2M2bS13d3c4ZzFNZE1BUnl6WmlvVXRDc2JtdmJjYklnN1ZfelZuTC00VWJHT01yUkN1QkRHdHBIMllGOXZvTEtCUUl6XzdON29wbUZMNkx0UmhvcUtOTlNrejFlbTNzTWtBNGtuckFYTkVXQ0c5OElaTzFGRU03VF85UTZOTG10OFF4RlZiLQ?oc=5)
+  * 💡 BTS는 신곡 발표를 앞두고 서울에서 팬들을 위한 다양한 체험 행사를 진행한다고 발표했습니다.
+* **[음악/공연]** [South Korean singer 10cm to fully refund Singapore concert attendees despite performing entire show - CNA Lifestyle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkRBeFo2MmNuRmpyUF90RFRlMjFtYlpacUxibXh5dzZMMWx3X2s1alhSbkJxMGFhempqdFFTRnFmQXBWbWJQcHY2RlJUU2NLUHdEUHFHOHJoWnNrTXhxSHdYdjNQZzJvVU1CQXpjUnFDY19rVjNJMWJ3dDR4ZENtTm84aGlra0RHb3pHQmRHRjdVdHFLc2t5eGFjclVtcDdsbThuaU1QNVRIdw?oc=5)
+  * 💡 싱가포르에서 공연한 한국 가수 10cm가 공연을 완수했음에도 불구하고, 자발적으로 전액 환불을 제공하겠다고 발표했다.
+* **[음악/공연]** [Celebrate Japanese Music and Pop Culture at Anime Garden 2026 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWl9zc0pIalQ0ci1lX3BHcjdmd1A0bERqRmg4Nkw4Vmd5dXFWNk52NkxtclFMUk9qYkxkbi1ZZUVZYmt2c21yUzZWbkU5ZWQ1X0VveUlXci0yY0hmbDB0V3ptUVBBVzQxRXMtVXdUTDZwNmdyeWFrVjNrSk5BSnY3aTFwb3hlQWk4TVk1a2tTVzNJV3A4d1pTempXZw?oc=5)
+  * 💡 2026년 일본 음악과 팝 문화 축제 'Anime Garden 2026'이 개최될 예정이며, 일본의 다양한 음악 장르와 애니메이션 문화를 선보일 계획이다.
+* **[정책/규제]** [‘One Moon, Many Worlds’ Campaign Ushers New Era Of US-Malaysia Space Cooperation - BERNAMA - Malaysian National News Agency](https://news.google.com/rss/articles/CBMibkFVX3lxTE1yXzExVGsxVHZPWEZVc3JETnhKU1VhSlRmUV9oZkowS0FmMEs2ZElkMkpxems5MlUtVmpySnBQenh5ZXJCdWNUUDRXRVk4Wmp0QVNNYVEtR1JtUmxBOURCTkt0YV9GQ1JhNWJQa0NB?oc=5)
+  * 💡 말레이시아와 미국의 우주 협력이 새로운 시대를 열었다. 'One Moon, Many Worlds' 캠페인을 통해 양국은 우주 프로젝트와 우주 탐사 기회를 공유하기로 했다.
+
+---
 ## 📅 2026년 03월 16일 업데이트
 
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
