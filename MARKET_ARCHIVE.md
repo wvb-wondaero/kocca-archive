@@ -2,6 +2,14 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Southeast Asian Horror Leads Mockingbird Pictures’ Diverse Slate at Hong Kong FilMart (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVBzQW5wc29oMnI0OFlkSmItSGxjTGwwMk9iZjRaRFoyc2V5TDJ4VUJYUmdMam9oUDFDTjhSdWpmVVpqcEhiYlBOajFTVE9QWFVSTXRCelZDUnU4S0VOWm9kVWhodXF4b0hZbHE2RVJFME81ZEFHcjZXSi12cGdPZDZjRjl5N3ZKTFlqMGlkcW4ybmY2T2pIQXJldXpWS2p4aWVPSkpVQ3ZSdWdUX295SEcwLS1lbDRtRGc?oc=5)
+  * 💡 동남아시아 공포 장르 영화가 홍콩 필름아트에서 모킹버드 픽처스의 다양한 슬레이트를 이끌고 있다.
+* **[영화/OTT]** [Jericho Rosales, Jasmine Curtis-Smith Head Gushcloud Philippines’ Creator-Driven Slate at FilMart (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEpnLW9ZUzNCZWpVbGhWdDM4ckxleVZ5UHdFaUtPR3lWWmMwSWlVb0l0OVJOWVFDM09vMS1JR2ZDU2ZicjhGOVFoWU93LTl4MFI2THV2OHlzYUEzcW1seWFEd1lFVms3c2JLdFJ5eVNKNExldHFYdWxHX0FVR0hLQ0pqSF81M1BuUTUwQTZPUEgxZ2VaMWpOUDdJNmt3T09Gd0hCVml5LWIwMU9QaEpfN1ZLWTI5VXhGLTYzVQ?oc=5)
+  * 💡 필리핀 크리에이터 중심 콘텐츠 제작사 Gushcloud Philippines가 홍콩 FilMart에서 제리코 로살레스와 자스민 커티스-스미스 주연의 프로젝트를 선보임.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [Vietnam Box Office Sensation ‘Bunny!!’ Lands International Theatrical Release Via 3388 Films (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0l2T1lHSko5YkhmN0NJalBHMzhnZ0ptTUl0Vnp1QlpLb25ZTEJKeUtnYlA4TmlpcmRZbm9kVC1sbDhkYnpzbFdqem1DYnZ1QVNBOEdvM1RiRVFIQ3BRQ1JIcGt5T0kxMW9ib21kZ1RibkpfdzA1bXVRZzRycl83WVhWXzZXdjZ0SEc5WUoxc1E5Ny1xSTVIS2N2NTAwamYwR29zX1BrTQ?oc=5)
   * 💡 베트남 영화 '버니!!'가 국제적 극장 배급을 통해 전 세계 관객을 만나게 됩니다.
 * **[방송/영화/OTT]** [Thai-Vietnamese Horror Comedy 'Roll & LOL' Set With ProductionQ Deal - Variety](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFhyVVdkcXlybFpCMW1YZU0teXc3R3JMLU1GXzZtckExMjNzSFVqZ1M0UVhYTEJVb3ZLenhXWW9QaUVUMk9lUTVOX3JWUUF3OEV0Q2lwSTl4dGZHTlY2NVo0clB4eU5mRU1heVJmaGxpNHEzcUl2MzB0TFFtTUctbGloZVB3eHhuYk5iOXJn?oc=5)
