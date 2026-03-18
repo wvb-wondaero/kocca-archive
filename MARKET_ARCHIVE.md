@@ -2,6 +2,18 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Vietnam Box Office Sensation ‘Bunny!!’ Lands International Theatrical Release Via 3388 Films (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0l2T1lHSko5YkhmN0NJalBHMzhnZ0ptTUl0Vnp1QlpLb25ZTEJKeUtnYlA4TmlpcmRZbm9kVC1sbDhkYnpzbFdqem1DYnZ1QVNBOEdvM1RiRVFIQ3BRQ1JIcGt5T0kxMW9ib21kZ1RibkpfdzA1bXVRZzRycl83WVhWXzZXdjZ0SEc5WUoxc1E5Ny1xSTVIS2N2NTAwamYwR29zX1BrTQ?oc=5)
+  * 💡 베트남 영화 '버니!!'가 국제 극장 개봉을 위해 3388 Films와 계약을 체결했다.
+* **[방송/영화/OTT]** ['God Skin' Tops Thailand M Studios Slate of Films - Variety](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlFDZS1yQ2V0dzZEbmtod3VFRS1IWkZBN2l6ZUV5U3IwaEdySnVLVmdDNVc2bm1ySU5tZEY2dzJMT3dJZ2tRZkFNNmtCZ1gtZFVDNmVGTnliMzhsN3IwMkJVVzUwdE93THVnblV2Wkl6Q0hvVUpoazNqNHdHQW0xVUJMQ2dXbWtiUU5vU0V5RWo?oc=5)
+  * 💡 Thailand's M Studios announces new film slate, including a movie titled "God Skin", reflecting the growing film industry in Southeast Asia.
+* **[음악/공연]** ['Undertale: The Determination Symphony' Orchestra Concert Comes To Singapore, Bangkok - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmVHSVhuRGYwcG53RWlkUlRjejVmX3hGS1NodWZuOWc3bGFXZk0zQzNPa2txYXZ0aUR5bl82TDVPQlR3RkxHTkc0LXEwSEFjVHpyaHJpTnBUd01FckMybnpJSUI5bS10aHVYWEc0ZXZROXh1Q0Zqa3h3TjlJcjFPTHNlc281aS1WM0swVnE4cmt0R0M0N093ekpxM1pLLU1FRW5XcTk1X2EyM2lURHF0d21MUndQZw?oc=5)
+  * 💡 오케스트라 콘서트 'Undertale: The Determination Symphony'가 싱가포르와 방콕에서 개최된다.
+* **[정책/규제]** [Malaysian National News Agency - bernama](https://news.google.com/rss/articles/CBMie0FVX3lxTE5rd2xUOTB5cHFhQ0ktQ1NHLWRpQUItYXpFY0NfaklVeDB5cHdUTk9vWXc3NzYwZ1BQVy1fbEdITDFFSGJ6endWYlJTcENVMF9CaUdYN1YtQVRtd1JMMVJlQjhGbVZaMjVVTlRXMjJMOUYybWxsbnhSRExpWQ?oc=5)
+  * 💡 말레이시아 정부가 OTT 서비스에 대한 새로운 콘텐츠 등급 제도를 도입했다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [Sohaimi Mior Reflects On ‘Epilog Cinta Dari Bromley’ - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NlpDdnpROFU5UGtPNEJoS3dqMXpLZ3FReFZmb2s5a2h0ZFJfTmRNd3RmT2w1NWRlVWhRWlNHQ3dWc2JBaEhUeEpyTGlZa1JoZTJxalpRX3VrWWk3WmJRWjB3?oc=5)
   * 💡 말레이시아 영화감독 Sohaimi Mior는 자신의 최근작 '사랑의 에필로그 브롬리'에 대해 반영한다.
 * **[게임/융복합]** [The Full List of Nominees for The 2026 BAFTA Games Awards - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0QzeS1MYU1jNWExelB2Sm1uSjRFbm0wMFBjQ2JpSE14ZGM2SG10aUxVbU5waU5NV1QwQmlRTlFXVEdmdmg1NHRsTXItaEdYcHdTYkJjdmNSY1NzMXI3amlYQldqTTlScW1zLVh0UmZ0SUlXRHVjV2x2cnFvSUdCLXJkZkExcy1xMHFZU2pHZ2RRQ0dUcVE?oc=5)
