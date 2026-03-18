@@ -11,7 +11,7 @@ import re
 # 설정
 # ─────────────────────────────────────────────
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-NOTION_TOKEN      = "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"
+NOTION_TOKEN      = "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"
 DATABASE_ID       = "2e5653bb339a8069a3dcc3a6748a2ce3"
 ARCHIVE_FILE      = "MARKET_ARCHIVE.md"
 DB_FILE           = "processed_links.txt"
