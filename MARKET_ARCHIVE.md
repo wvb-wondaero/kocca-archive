@@ -2,6 +2,14 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [K-Pop Martial Arts Thriller 'Belladonna' Sets Taekwondo Star Taemi - Variety](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXRLRWpvWkZXVnRhdHpmVUNJX0NmbmlEZ3RVMXcxMEVrYkFxbF9YOW0zT2FLUk1SSm9ZRXgwX0p5d0Iyam9jYUtrX0pzRERQU1V0a0ZabEVGcmpQV1ZiaTI3U2ZZN0NralhQcFhLLWRpTHhRclJyTlRLdENuWHdhSDBSUWh4dndndmtISWQzSzRPUy1Oc2p2Q0xTMVQ1Tm50WEFrWVl0Ymg?oc=5)
+  * 💡 K-Pop 스타 태미가 주연을 맡은 액션 스릴러 영화 '벨라돈나'가 개봉 준비 중이다.
+* **[게임/융복합]** [Business - bernama](https://news.google.com/rss/articles/CBMic0FVX3lxTE14T0VRSVNGUlF3cTlyZjZqRHNZLU5RampHM3pxczFYbDJXeHN1VHNNcnpBNjl0NjFjckJWRlROQXZxa2ZqOFRwd1hlQUpibVEwbVVudmZlTUw4ZWQ3QkxndFp5MTYxczlycW8xanQ3ZzlfbkE?oc=5)
+  * 💡 말레이시아 게임 개발 및 퍼블리싱 기업 Gameplex가 아랍에미리트에 진출하여 중동 시장 진출을 모색하고 있다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [Southeast Asian Horror Leads Mockingbird Pictures’ Diverse Slate at Hong Kong FilMart (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVBzQW5wc29oMnI0OFlkSmItSGxjTGwwMk9iZjRaRFoyc2V5TDJ4VUJYUmdMam9oUDFDTjhSdWpmVVpqcEhiYlBOajFTVE9QWFVSTXRCelZDUnU4S0VOWm9kVWhodXF4b0hZbHE2RVJFME81ZEFHcjZXSi12cGdPZDZjRjl5N3ZKTFlqMGlkcW4ybmY2T2pIQXJldXpWS2p4aWVPSkpVQ3ZSdWdUX295SEcwLS1lbDRtRGc?oc=5)
   * 💡 동남아시아 공포 장르 영화가 홍콩 필름아트에서 모킹버드 픽처스의 다양한 슬레이트를 이끌고 있다.
 * **[영화/OTT]** [Jericho Rosales, Jasmine Curtis-Smith Head Gushcloud Philippines’ Creator-Driven Slate at FilMart (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEpnLW9ZUzNCZWpVbGhWdDM4ckxleVZ5UHdFaUtPR3lWWmMwSWlVb0l0OVJOWVFDM09vMS1JR2ZDU2ZicjhGOVFoWU93LTl4MFI2THV2OHlzYUEzcW1seWFEd1lFVms3c2JLdFJ5eVNKNExldHFYdWxHX0FVR0hLQ0pqSF81M1BuUTUwQTZPUEgxZ2VaMWpOUDdJNmt3T09Gd0hCVml5LWIwMU9QaEpfN1ZLWTI5VXhGLTYzVQ?oc=5)
