@@ -2,6 +2,18 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Malaysia's Abnormal Studios Launches Sales Arm at FilMart - Variety](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBfNy05bUVBXzRGQ01qVW1JdzlDbEFpaUtRdlpVZmRPYkRhbDBHUjUxb25pMUVrLS1OZDJZWXdoY0NETDFySXZtMmpYRVdhTWVpR0hMYWc1Y0o4UFV3dHB0RXI4R29ObTNlNWhsYVdVS0hfZjdZWVNkZUJKVjF1OXhtTXZjMjJmcElWeXFyemNIOG8wY01iTGVrNW5oMTl2cWNZNU51aFRuM3BmWWdlclNiWmtWMmdfRUlLT0N4aTMtUQ?oc=5)
+  * 💡 말레이시아 애니메이션 스튜디오 Abnormal Studios가 홍콩 영화 마켓 FilMart에서 새로운 세일즈 부문을 론칭했다.
+* **[애니/캐릭터]** [Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ and Malaysia’s “Animy” Boom - Deadline](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZG0tbGs3bFkwNV9kZy13RDN3REV6NEsyZkktQm5CdGFWUENPVk5WWnhzZkQ3U2FUX3B3b1FDU2JoMHY4aV9CLVl5bTRGUDI5LTRTTThUcEJBY3E1VXR5ZTFJTVlPZTNGNjNhREh0SkZ5ZTNDcUkxQlBRenFuQkJZczZvZTVjdUlzSzdDQncwbGRJUUFFNWRCaFZnUlU?oc=5)
+  * 💡 말레이시아의 애니메이션 스튜디오 Monsta Studios의 Nizam Abd Razak이 자사의 히트작 '파파 졸라'에 대해 이야기했으며, 말레이시아 애니메이션 산업의 성장을 확인할 수 있다.
+* **[음악/공연]** ['Undertale: The Determination Symphony' Orchestra Concert Comes To Singapore, Bangkok - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmVHSVhuRGYwcG53RWlkUlRjejVmX3hGS1NodWZuOWc3bGFXZk0zQzNPa2txYXZ0aUR5bl82TDVPQlR3RkxHTkc0LXEwSEFjVHpyaHJpTnBUd01FckMybnpJSUI5bS10aHVYWEc0ZXZROXh1Q0Zqa3h3TjlJcjFPTHNlc281aS1WM0swVnE4cmt0R0M0N093ekpxM1pLLU1FRW5XcTk1X2EyM2lURHF0d21MUndQZw?oc=5)
+  * 💡 싱가포르와 방콕에서 'Undertale: The Determination Symphony' 오케스트라 콘서트가 개최됩니다.
+* **[영화/OTT]** ['God Skin' Tops Thailand M Studios Slate of Films - Variety](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlFDZS1yQ2V0dzZEbmtod3VFRS1IWkZBN2l6ZUV5U3IwaEdySnVLVmdDNVc2bm1ySU5tZEY2dzJMT3dJZ2tRZkFNNmtCZ1gtZFVDNmVGTnliMzhsN3IwMkJVVzUwdE93THVnblV2Wkl6Q0hvVUpoazNqNHdHQW0xVUJMQ2dXbWtiUU5vU0V5RWo?oc=5)
+  * 💡 Variety 기사는 태국 M Studios가 제작한 영화 'God Skin'이 태국에서 흥행을 거두고 있다고 보도했습니다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [BTS announces New York Spotify fan event, Netflix drops trailer for BTS: The Return documentary - CNA Lifestyle](https://news.google.com/rss/articles/CBMiugFBVV95cUxOckkzbWJuOVd1NE9fS0dab01zRWx2MGNZRFFscUVsVUxGdXR1WktDVmtBaFgwX1QzSS1mWUpCcGNNSVFZRWtkTE5hMFgyb2pDM2txSFBRYm85Z2RoZFd5bXhTaEJpUUhKdnJQZUtlMUthOXlOdzM2RkVWeFhNRnN0cTZzZVRWdjNwYzAyUDNfcGVVYlRDdlBFVTNTZE9VYUl4QkFGSUdkMWZDc1JrTXdwNGhYcmFzUzI4UXc?oc=5)
   * 💡 BTS가 스포티파이 팬 행사를 뉴욕에서 개최하고, Netflix가 BTS: The Return 다큐멘터리 예고편을 공개했습니다.
 * **[방송/영화/OTT]** [Indonesian Horror Franchise Finale ‘Danur: The Last Chapter’ Lands at EST N8 for Worldwide Sales (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTNyMm40NWxUakZaTm4wc3NpMEVTTzZFNXVITnduakFrN1NJZ2lvUkIzSFViRm12cnc5NVR3QUo4dE1IX3daYU53VnY4Z3NSUW9UNmJPTzc4Y0xYOEQ5R1ZOUlFuNHFCMkxhcnNNdnd1ZXc1UmZjbC1PQ2k1bnMtNzU4NnM5SC1LM29pZGFLWjk2cE1w?oc=5)
