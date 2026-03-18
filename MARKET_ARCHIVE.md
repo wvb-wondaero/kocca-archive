@@ -2,6 +2,28 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Sohaimi Mior Reflects On ‘Epilog Cinta Dari Bromley’ - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NlpDdnpROFU5UGtPNEJoS3dqMXpLZ3FReFZmb2s5a2h0ZFJfTmRNd3RmT2w1NWRlVWhRWlNHQ3dWc2JBaEhUeEpyTGlZa1JoZTJxalpRX3VrWWk3WmJRWjB3?oc=5)
+  * 💡 말레이시아 영화감독 Sohaimi Mior는 자신의 최근작 '사랑의 에필로그 브롬리'에 대해 반영한다.
+* **[게임/융복합]** [The Full List of Nominees for The 2026 BAFTA Games Awards - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0QzeS1MYU1jNWExelB2Sm1uSjRFbm0wMFBjQ2JpSE14ZGM2SG10aUxVbU5waU5NV1QwQmlRTlFXVEdmdmg1NHRsTXItaEdYcHdTYkJjdmNSY1NzMXI3amlYQldqTTlScW1zLVh0UmZ0SUlXRHVjV2x2cnFvSUdCLXJkZkExcy1xMHFZU2pHZ2RRQ0dUcVE?oc=5)
+  * 💡 2026년 BAFTA 게임상 후보 목록이 발표되었습니다. 다양한 장르와 플랫폼의 게임들이 후보에 올랐으며, 이는 게임 산업의 성장과 다양성을 보여줍니다.
+* **[게임/융복합]** [Cyberpunk Trading Card Game Launches Kickstarter Campaign, Releasing 2026 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS25YRll6U3EyQkg3OWFhYkNXc2k5MGtiV2FKMnhCcHZiNTdsdGJNemY4Z2JWZGN5ZUpxdVdrTmtCMHRsZExBZl9IUW9XcVQzV0I4TXZNaG1yQXVmOVVVeFNHeFo5Z0ZuWFB6VzBneWRXZmM0MUJONkxGMjlJcjlNZUFmTjlTNEFubU5NcGx4YWFHSXVpYWpGUEowWF8yY1g5RlNfQ0YtM2hiUQ?oc=5)
+  * 💡 사이버펑크 소재의 트레이딩 카드 게임이 2026년 발매될 예정이며 Kickstarter 캠페인을 진행 중입니다.
+* **[애니/캐릭터]** [Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ and Malaysia’s “Animy” Boom - Deadline](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZG0tbGs3bFkwNV9kZy13RDN3REV6NEsyZkktQm5CdGFWUENPVk5WWnhzZkQ3U2FUX3B3b1FDU2JoMHY4aV9CLVl5bTRGUDI5LTRTTThUcEJBY3E1VXR5ZTFJTVlPZTNGNjNhREh0SkZ5ZTNDcUkxQlBRenFuQkJZczZvZTVjdUlzSzdDQncwbGRJUUFFNWRCaFZnUlU?oc=5)
+  * 💡 말레이시아의 애니메이션 스튜디오 Monsta Studios의 창립자 Nizam Abd Razak이 자사의 히트작 '파파 졸라'와 말레이시아 애니메이션 산업의 성장에 대해 언급했습니다.
+* **[애니/캐릭터]** [8 Lions, TV Asahi, Ink Global Licensing Agreement for Anime Franchise Ninja Hattori - Anime News Network](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUpaUkNSemNmZEhZTHBGSWtMU0FHLWh2Z3JnejNYY084ZWVpWkQydnRFTVRMckR0MEZrenFxY0JzYXBHc1lnc1NFSG1HaGFlaklVNTNqcF9HVER4V3RWckNsRndkc25oRlFVNEpjcHJnVTN6N3M2MzVVX3E1bGs1aTg4OFV2MUtUbUg5dmxyRm9sVlpZU01hd3hYUF9IODNhUWdXQVMxMFN2MkJ6UTlmVlEzTEg0YUNseThwcjNmMzdLaWpYOUQwWFBxd1djN0ZmVDY1THc0ZWM2R1FnMmxXNw?oc=5)
+  * 💡 일본 TV 애니메이션 프랜차이즈 '닌자 핫토리'의 글로벌 라이선싱 계약이 체결되었다. 8 Lions와 TV Asahi가 협력하여 이 프로젝트를 확장할 계획이다.
+* **[음악/공연]** [BTS unveils first music video teaser for lead single Swim ahead of Arirang album release - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxOTGtOSC0tcmxBamxwZmFXVnpoTzhWZ1hodkRxZk5URFBmSE5yejJmWWFKQjZHLTVzX29NSVNTbG1Fc01oaVRUUUQ3dFJaLS1MYWFaRHRDRnJXRGs2TVliRVBtdThkczQ3U1BDdjBvQTYtYi00MG1fNWxEUGJFZGNKYVlhbnF5bkZqWGpvUmhVQnZrd0lKODUtdDFfczMxdw?oc=5)
+  * 💡 BTS가 곧 발매할 앨범 'Arirang'의 타이틀곡 'Swim'의 첫번째 뮤직비디오 티저를 공개했다.
+* **[정책/규제]** [South Korea ramps up security for BTS Seoul show as President Lee stresses safety readiness - CNA Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGg5UjBaZGFCMFpkbnJydGxTMmVJbld5Z0J5WExtOUdaaEozY2g1S01SOVVQVTZyLXRjVmdjOC1NeGhDdlNnQ2NVVWwtOE9YQVcyYXhLRDh5ZTg3SjA1M3hxeW5nQjd0TlNDRVhzN3AwU2RZRjh2Y1NXcXVMUlJodjktc0V4by1MOEZubFVmMHFYTGp6aElOZ2tfTDFITl96SUlnZEpDNGEtUkRlWHg5QkVOMGQ4OUtSZXpxRzhZTUQ?oc=5)
+  * 💡 한국 정부가 방탄소년단(BTS)의 서울 공연을 위해 대규모 보안 강화 조치를 취했다. 이는 최근 BTS의 글로벌 위상 상승에 따른 것으로, 재현 가능한 폭력 사태 예방을 위해 치안 태세를 점검했다.
+* **[정책/규제]** [Malaysia’s FINAS Unveils $76 Million Rebate Renewal at FilMart, Targets Role as Southeast Asia Production Hub - Variety](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUd0RkVXeEVGclpqa25kVzVIQ19EcUI2bFgtUENyNlh5MmVOdjFQTUI2d2tFZURwelpFZXpkYlAzZlJxa1A2N1pYZUwwNUQydEp4ODZyNkhiaDZtZ2d4c1JOcjctS2ItX09JMWc0WkNhdUFZTVFtNVlIQ3NjQ3pLMmNSV1hLdzV1OGNzUzJSS2tIS2RGZF8wUnZZYw?oc=5)
+  * 💡 말레이시아 국립영화개발공사(FINAS)가 FilMart에서 총 7,600만 달러 규모의 제작 리베이트 프로그램을 발표했다. 이는 말레이시아를 동남아시아 영화 제작 허브로 육성하려는 정책의 일환이다.
+* **[정책/규제]** [Malaysia's Abnormal Studios Launches Sales Arm at FilMart - Variety](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBfNy05bUVBXzRGQ01qVW1JdzlDbEFpaUtRdlpVZmRPYkRhbDBHUjUxb25pMUVrLS1OZDJZWXdoY0NETDFySXZtMmpYRVdhTWVpR0hMYWc1Y0o4UFV3dHB0RXI4R29ObTNlNWhsYVdVS0hfZjdZWVNkZUJKVjF1OXhtTXZjMjJmcElWeXFyemNIOG8wY01iTGVrNW5oMTl2cWNZNU51aFRuM3BmWWdlclNiWmtWMmdfRUlLT0N4aTMtUQ?oc=5)
+  * 💡 말레이시아의 애니메이션 스튜디오 Abnormal Studios가 홍콩 필름마트에서 세일즈 부서를 출범했다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
 
 
