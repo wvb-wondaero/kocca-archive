@@ -2,6 +2,12 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [K-Pop Martial Arts Thriller 'Belladonna' Sets Taekwondo Star Taemi - Variety](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXRLRWpvWkZXVnRhdHpmVUNJX0NmbmlEZ3RVMXcxMEVrYkFxbF9YOW0zT2FLUk1SSm9ZRXgwX0p5d0Iyam9jYUtrX0pzRERQU1V0a0ZabEVGcmpQV1ZiaTI3U2ZZN0NralhQcFhLLWRpTHhRclJyTlRLdENuWHdhSDBSUWh4dndndmtISWQzSzRPUy1Oc2p2Q0xTMVQ1Tm50WEFrWVl0Ymg?oc=5)
   * 💡 K-Pop 스타 태미가 주연을 맡은 액션 스릴러 영화 '벨라돈나'가 개봉 준비 중이다.
 * **[게임/융복합]** [Business - bernama](https://news.google.com/rss/articles/CBMic0FVX3lxTE14T0VRSVNGUlF3cTlyZjZqRHNZLU5RampHM3pxczFYbDJXeHN1VHNNcnpBNjl0NjFjckJWRlROQXZxa2ZqOFRwd1hlQUpibVEwbVVudmZlTUw4ZWQ3QkxndFp5MTYxczlycW8xanQ3ZzlfbkE?oc=5)
