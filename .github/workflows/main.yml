@@ -36,6 +36,7 @@ jobs:
       - name: Run market_watcher
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
         run: python market_watcher.py
 
       - name: Commit and push (MD + processed_links)
