@@ -1,5 +1,25 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 18일 업데이트
+
+* **[방송/영화/OTT]** [BTS announces New York Spotify fan event, Netflix drops trailer for BTS: The Return documentary - CNA Lifestyle](https://news.google.com/rss/articles/CBMiugFBVV95cUxOckkzbWJuOVd1NE9fS0dab01zRWx2MGNZRFFscUVsVUxGdXR1WktDVmtBaFgwX1QzSS1mWUpCcGNNSVFZRWtkTE5hMFgyb2pDM2txSFBRYm85Z2RoZFd5bXhTaEJpUUhKdnJQZUtlMUthOXlOdzM2RkVWeFhNRnN0cTZzZVRWdjNwYzAyUDNfcGVVYlRDdlBFVTNTZE9VYUl4QkFGSUdkMWZDc1JrTXdwNGhYcmFzUzI4UXc?oc=5)
+  * 💡 BTS가 스포티파이 팬 행사를 뉴욕에서 개최하고, Netflix가 BTS: The Return 다큐멘터리 예고편을 공개했습니다.
+* **[방송/영화/OTT]** [Indonesian Horror Franchise Finale ‘Danur: The Last Chapter’ Lands at EST N8 for Worldwide Sales (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTNyMm40NWxUakZaTm4wc3NpMEVTTzZFNXVITnduakFrN1NJZ2lvUkIzSFViRm12cnc5NVR3QUo4dE1IX3daYU53VnY4Z3NSUW9UNmJPTzc4Y0xYOEQ5R1ZOUlFuNHFCMkxhcnNNdnd1ZXc1UmZjbC1PQ2k1bnMtNzU4NnM5SC1LM29pZGFLWjk2cE1w?oc=5)
+  * 💡 인도네시아 공포 프랜차이즈 시리즈 '다누르: 더 래스트 챕터'가 전 세계 판매를 위해 EST N8에 진출했다.
+* **[방송/영화/OTT]** [Sohaimi Mior Reflects On ‘Epilog Cinta Dari Bromley’ - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NlpDdnpROFU5UGtPNEJoS3dqMXpLZ3FReFZmb2s5a2h0ZFJfTmRNd3RmT2w1NWRlVWhRWlNHQ3dWc2JBaEhUeEpyTGlZa1JoZTJxalpRX3VrWWk3WmJRWjB3?oc=5)
+  * 💡 말레이시아 영화 감독 Sohaimi Mior가 자신의 최신 영화 "Epilog Cinta Dari Bromley"를 반성적으로 돌아보는 내용의 인터뷰 기사입니다.
+* **[게임/융복합]** [The Full List of Nominees for The 2026 BAFTA Games Awards - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0QzeS1MYU1jNWExelB2Sm1uSjRFbm0wMFBjQ2JpSE14ZGM2SG10aUxVbU5waU5NV1QwQmlRTlFXVEdmdmg1NHRsTXItaEdYcHdTYkJjdmNSY1NzMXI3amlYQldqTTlScW1zLVh0UmZ0SUlXRHVjV2x2cnFvSUdCLXJkZkExcy1xMHFZU2pHZ2RRQ0dUcVE?oc=5)
+  * 💡 2026년 BAFTA 게임 어워드 후보자 목록 발표
+* **[애니/캐릭터]** [8 Lions, TV Asahi, Ink Global Licensing Agreement for Anime Franchise Ninja Hattori - Anime News Network](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUpaUkNSemNmZEhZTHBGSWtMU0FHLWh2Z3JnejNYY084ZWVpWkQydnRFTVRMckR0MEZrenFxY0JzYXBHc1lnc1NFSG1HaGFlaklVNTNqcF9HVER4V3RWckNsRndkc25oRlFVNEpjcHJnVTN6N3M2MzVVX3E1bGs1aTg4OFV2MUtUbUg5dmxyRm9sVlpZU01hd3hYUF9IODNhUWdXQVMxMFN2MkJ6UTlmVlEzTEg0YUNseThwcjNmMzdLaWpYOUQwWFBxd1djN0ZmVDY1THc0ZWM2R1FnMmxXNw?oc=5)
+  * 💡 TV Asahi와 Ninja Hattori 애니메이션 프랜차이즈의 글로벌 라이선싱 계약 체결
+* **[정책/규제]** [South Korea ramps up security for BTS Seoul show as President Lee stresses safety readiness - CNA Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGg5UjBaZGFCMFpkbnJydGxTMmVJbld5Z0J5WExtOUdaaEozY2g1S01SOVVQVTZyLXRjVmdjOC1NeGhDdlNnQ2NVVWwtOE9YQVcyYXhLRDh5ZTg3SjA1M3hxeW5nQjd0TlNDRVhzN3AwU2RZRjh2Y1NXcXVMUlJodjktc0V4by1MOEZubFVmMHFYTGp6aElOZ2tfTDFITl96SUlnZEpDNGEtUkRlWHg5QkVOMGQ4OUtSZXpxRzhZTUQ?oc=5)
+  * 💡 한국 정부가 BTS 서울 공연에 대한 치안 강화 조치를 취하고 있다. 이는 최근 전 세계적으로 대규모 콘서트 행사에서의 안전사고 우려에 따른 조치이며, 이재명 대통령이 공연 안전 준비태세를 강조했다.
+* **[정책/규제]** [Malaysia’s FINAS Unveils $76 Million Rebate Renewal at FilMart, Targets Role as Southeast Asia Production Hub - Variety](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUd0RkVXeEVGclpqa25kVzVIQ19EcUI2bFgtUENyNlh5MmVOdjFQTUI2d2tFZURwelpFZXpkYlAzZlJxa1A2N1pYZUwwNUQydEp4ODZyNkhiaDZtZ2d4c1JOcjctS2ItX09JMWc0WkNhdUFZTVFtNVlIQ3NjQ3pLMmNSV1hLdzV1OGNzUzJSS2tIS2RGZF8wUnZZYw?oc=5)
+  * 💡 말레이시아 정부 영화진흥청 FINAS가 FilMart에서 약 7600만 달러 규모의 리베이트 갱신을 발표하며, 동남아시아 제작 허브로 도약하고자 하는 목표를 밝혔다.
+* **[영화/OTT]** [Indonesia’s Paragon Launches Trio Of Pics With Talent Including Reza Rahadian, Vino G. Bastian & Tissa Biani - Deadline](https://news.google.com/rss/articles/CBMingFBVV95cUxQN0JERE5pMjdRQm5kRWhHOG5mNWszMEJaYkZRajh0b0ZpMHNuSTZ0Y0F1SHVWUUs1SWdTR1ZiXzE4aUtJZW9VSFY5elNWNnFvbThJMUhkLXNvNDVReFhHMmhieFZfeDJoSkVUcld1a3lFVWJRSnZLZFFhX2NYZEJVU1ZKNHlzWUNyZFlYRmZhVEN3eGkyQ1pybmtjX0ozQQ?oc=5)
+  * 💡 인도네시아 최대 규모 미디어 기업 파라곤이 레자 라하디안, 비노 G. 바스티안, 티사 비아니 등 유명 배우들이 출연하는 3편의 영화 제작을 발표했다.
+
+---
 ## 📅 2026년 03월 17일 업데이트
 
 * **[방송/영화/OTT]** [Vietnamese Horror ‘Phi Phong: The Blood Demon’ Sells To Multiple Territories Through Mockingbird - Deadline](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm91VENpYjVhbjBXYjg5d0l4RGdaYjRLX0VsR3lqTXJWN2xLNEFtRDVxVlBVQ3NpdUExVlVZUHlpNE01QUZWNlFyc1NwRVZVQ0NlY29XVFhOVGRmSzlCSk9wejNiZ1k4NnQ2S0FuUjFKam5tb1JFeXFrQVlSdElYWndKNm1xRmF0Rlh2Mnc1UXB4cDlJMV85d1pLVmt4eXVhRmc?oc=5)
