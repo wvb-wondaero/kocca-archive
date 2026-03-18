@@ -2,6 +2,18 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Vietnam Box Office Sensation ‘Bunny!!’ Lands International Theatrical Release Via 3388 Films (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0l2T1lHSko5YkhmN0NJalBHMzhnZ0ptTUl0Vnp1QlpLb25ZTEJKeUtnYlA4TmlpcmRZbm9kVC1sbDhkYnpzbFdqem1DYnZ1QVNBOEdvM1RiRVFIQ3BRQ1JIcGt5T0kxMW9ib21kZ1RibkpfdzA1bXVRZzRycl83WVhWXzZXdjZ0SEc5WUoxc1E5Ny1xSTVIS2N2NTAwamYwR29zX1BrTQ?oc=5)
+  * 💡 베트남 영화 '버니!!'가 국제적 극장 배급을 통해 전 세계 관객을 만나게 됩니다.
+* **[방송/영화/OTT]** [Thai-Vietnamese Horror Comedy 'Roll & LOL' Set With ProductionQ Deal - Variety](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFhyVVdkcXlybFpCMW1YZU0teXc3R3JMLU1GXzZtckExMjNzSFVqZ1M0UVhYTEJVb3ZLenhXWW9QaUVUMk9lUTVOX3JWUUF3OEV0Q2lwSTl4dGZHTlY2NVo0clB4eU5mRU1heVJmaGxpNHEzcUl2MzB0TFFtTUctbGloZVB3eHhuYk5iOXJn?oc=5)
+  * 💡 태국-베트남 공동 제작의 공포 코미디 영화 'Roll & LOL'이 제작사 ProductionQ와 거래를 체결했다.
+* **[게임/융복합]** [Cyberpunk Trading Card Game Launches Kickstarter Campaign, Releasing 2026 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS25YRll6U3EyQkg3OWFhYkNXc2k5MGtiV2FKMnhCcHZiNTdsdGJNemY4Z2JWZGN5ZUpxdVdrTmtCMHRsZExBZl9IUW9XcVQzV0I4TXZNaG1yQXVmOVVVeFNHeFo5Z0ZuWFB6VzBneWRXZmM0MUJONkxGMjlJcjlNZUFmTjlTNEFubU5NcGx4YWFHSXVpYWpGUEowWF8yY1g5RlNfQ0YtM2hiUQ?oc=5)
+  * 💡 사이버펑크 테마의 트레이딩 카드게임이 2026년 출시를 목표로 킥스타터 캠페인을 진행 중입니다.
+* **[음악/공연]** [BTS unveils first music video teaser for lead single Swim ahead of Arirang album release - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxOTGtOSC0tcmxBamxwZmFXVnpoTzhWZ1hodkRxZk5URFBmSE5yejJmWWFKQjZHLTVzX29NSVNTbG1Fc01oaVRUUUQ3dFJaLS1MYWFaRHRDRnJXRGs2TVliRVBtdThkczQ3U1BDdjBvQTYtYi00MG1fNWxEUGJFZGNKYVlhbnF5bkZqWGpvUmhVQnZrd0lKODUtdDFfczMxdw?oc=5)
+  * 💡 BTS는 신곡 'Swim' 리드 싱글의 음악 비디오 티저를 공개했다. 이는 6월 16일 발매 예정인 신보 'Arirang' 앨범의 선공개 콘텐츠이다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [Malaysia's Abnormal Studios Launches Sales Arm at FilMart - Variety](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBfNy05bUVBXzRGQ01qVW1JdzlDbEFpaUtRdlpVZmRPYkRhbDBHUjUxb25pMUVrLS1OZDJZWXdoY0NETDFySXZtMmpYRVdhTWVpR0hMYWc1Y0o4UFV3dHB0RXI4R29ObTNlNWhsYVdVS0hfZjdZWVNkZUJKVjF1OXhtTXZjMjJmcElWeXFyemNIOG8wY01iTGVrNW5oMTl2cWNZNU51aFRuM3BmWWdlclNiWmtWMmdfRUlLT0N4aTMtUQ?oc=5)
   * 💡 말레이시아 애니메이션 스튜디오 Abnormal Studios가 홍콩 영화 마켓 FilMart에서 새로운 세일즈 부문을 론칭했다.
 * **[애니/캐릭터]** [Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ and Malaysia’s “Animy” Boom - Deadline](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZG0tbGs3bFkwNV9kZy13RDN3REV6NEsyZkktQm5CdGFWUENPVk5WWnhzZkQ3U2FUX3B3b1FDU2JoMHY4aV9CLVl5bTRGUDI5LTRTTThUcEJBY3E1VXR5ZTFJTVlPZTNGNjNhREh0SkZ5ZTNDcUkxQlBRenFuQkJZczZvZTVjdUlzSzdDQncwbGRJUUFFNWRCaFZnUlU?oc=5)
