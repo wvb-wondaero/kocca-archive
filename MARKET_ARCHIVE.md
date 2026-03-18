@@ -1,5 +1,27 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 18일 업데이트
+
+* **[방송/영화/OTT]** [Sohaimi Mior Reflects On ‘Epilog Cinta Dari Bromley’ - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NlpDdnpROFU5UGtPNEJoS3dqMXpLZ3FReFZmb2s5a2h0ZFJfTmRNd3RmT2w1NWRlVWhRWlNHQ3dWc2JBaEhUeEpyTGlZa1JoZTJxalpRX3VrWWk3WmJRWjB3?oc=5)
+  * 💡 말레이시아 영화감독 Sohaimi Mior가 자신의 작품 "Epilog Cinta Dari Bromley"에 대해 반영하고 있습니다.
+* **[게임/융복합]** [The Full List of Nominees for The 2026 BAFTA Games Awards - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0QzeS1MYU1jNWExelB2Sm1uSjRFbm0wMFBjQ2JpSE14ZGM2SG10aUxVbU5waU5NV1QwQmlRTlFXVEdmdmg1NHRsTXItaEdYcHdTYkJjdmNSY1NzMXI3amlYQldqTTlScW1zLVh0UmZ0SUlXRHVjV2x2cnFvSUdCLXJkZkExcy1xMHFZU2pHZ2RRQ0dUcVE?oc=5)
+  * 💡 2026년 BAFTA 게임 어워즈의 후보 목록이 공개되었습니다.
+* **[애니/캐릭터]** [Malaysia's Abnormal Studios Launches Sales Arm at FilMart - Variety](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBfNy05bUVBXzRGQ01qVW1JdzlDbEFpaUtRdlpVZmRPYkRhbDBHUjUxb25pMUVrLS1OZDJZWXdoY0NETDFySXZtMmpYRVdhTWVpR0hMYWc1Y0o4UFV3dHB0RXI4R29ObTNlNWhsYVdVS0hfZjdZWVNkZUJKVjF1OXhtTXZjMjJmcElWeXFyemNIOG8wY01iTGVrNW5oMTl2cWNZNU51aFRuM3BmWWdlclNiWmtWMmdfRUlLT0N4aTMtUQ?oc=5)
+  * 💡 말레이시아의 애니메이션 스튜디오 Abnormal Studios가 홍콩 FilMart에서 새로운 세일즈 부문을 런칭했다.
+* **[애니/캐릭터]** [Monsta Studios’ Nizam Abd Razak Talks Record-Breaking Hit ‘Papa Zola’ and Malaysia’s “Animy” Boom - Deadline](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZG0tbGs3bFkwNV9kZy13RDN3REV6NEsyZkktQm5CdGFWUENPVk5WWnhzZkQ3U2FUX3B3b1FDU2JoMHY4aV9CLVl5bTRGUDI5LTRTTThUcEJBY3E1VXR5ZTFJTVlPZTNGNjNhREh0SkZ5ZTNDcUkxQlBRenFuQkJZczZvZTVjdUlzSzdDQncwbGRJUUFFNWRCaFZnUlU?oc=5)
+  * 💡 말레이시아의 애니메이션 스튜디오 Monsta Studios의 Nizam Abd Razak 대표가 자국 최초의 애니메이션 영화 'Papa Zola'의 대성공 요인과 말레이시아 애니메이션 산업의 발전 전망에 대해 설명했습니다.
+* **[애니/캐릭터]** [8 Lions, TV Asahi, Ink Global Licensing Agreement for Anime Franchise Ninja Hattori - Anime News Network](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUpaUkNSemNmZEhZTHBGSWtMU0FHLWh2Z3JnejNYY084ZWVpWkQydnRFTVRMckR0MEZrenFxY0JzYXBHc1lnc1NFSG1HaGFlaklVNTNqcF9HVER4V3RWckNsRndkc25oRlFVNEpjcHJnVTN6N3M2MzVVX3E1bGs1aTg4OFV2MUtUbUg5dmxyRm9sVlpZU01hd3hYUF9IODNhUWdXQVMxMFN2MkJ6UTlmVlEzTEg0YUNseThwcjNmMzdLaWpYOUQwWFBxd1djN0ZmVDY1THc0ZWM2R1FnMmxXNw?oc=5)
+  * 💡 일본 애니메이션 프랜차이즈 '닌자 하토리'의 글로벌 라이선싱 계약이 체결되었습니다.
+* **[음악/공연]** [BTS unveils first music video teaser for lead single Swim ahead of Arirang album release - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxOTGtOSC0tcmxBamxwZmFXVnpoTzhWZ1hodkRxZk5URFBmSE5yejJmWWFKQjZHLTVzX29NSVNTbG1Fc01oaVRUUUQ3dFJaLS1MYWFaRHRDRnJXRGs2TVliRVBtdThkczQ3U1BDdjBvQTYtYi00MG1fNWxEUGJFZGNKYVlhbnF5bkZqWGpvUmhVQnZrd0lKODUtdDFfczMxdw?oc=5)
+  * 💡 BTS가 새 앨범 "Arirang"의 리드 싱글 "Swim"의 첫 번째 뮤직비디오 티저를 공개했다.
+* **[음악/공연]** ['Undertale: The Determination Symphony' Orchestra Concert Comes To Singapore, Bangkok - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmVHSVhuRGYwcG53RWlkUlRjejVmX3hGS1NodWZuOWc3bGFXZk0zQzNPa2txYXZ0aUR5bl82TDVPQlR3RkxHTkc0LXEwSEFjVHpyaHJpTnBUd01FckMybnpJSUI5bS10aHVYWEc0ZXZROXh1Q0Zqa3h3TjlJcjFPTHNlc281aS1WM0swVnE4cmt0R0M0N093ekpxM1pLLU1FRW5XcTk1X2EyM2lURHF0d21MUndQZw?oc=5)
+  * 💡 인기 게임 '스웨터테일'의 오케스트라 콘서트가 싱가포르와 방콕에서 열린다.
+* **[정책/규제]** [South Korea ramps up security for BTS Seoul show as President Lee stresses safety readiness - CNA Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGg5UjBaZGFCMFpkbnJydGxTMmVJbld5Z0J5WExtOUdaaEozY2g1S01SOVVQVTZyLXRjVmdjOC1NeGhDdlNnQ2NVVWwtOE9YQVcyYXhLRDh5ZTg3SjA1M3hxeW5nQjd0TlNDRVhzN3AwU2RZRjh2Y1NXcXVMUlJodjktc0V4by1MOEZubFVmMHFYTGp6aElOZ2tfTDFITl96SUlnZEpDNGEtUkRlWHg5QkVOMGQ4OUtSZXpxRzhZTUQ?oc=5)
+  * 💡 한국 정부는 BTS의 서울 공연 보안 강화를 준비하고 있으며, 이재명 대통령이 안전 준비에 대해 강조했다.
+* **[정책/규제]** [Malaysia’s FINAS Unveils $76 Million Rebate Renewal at FilMart, Targets Role as Southeast Asia Production Hub - Variety](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUd0RkVXeEVGclpqa25kVzVIQ19EcUI2bFgtUENyNlh5MmVOdjFQTUI2d2tFZURwelpFZXpkYlAzZlJxa1A2N1pYZUwwNUQydEp4ODZyNkhiaDZtZ2d4c1JOcjctS2ItX09JMWc0WkNhdUFZTVFtNVlIQ3NjQ3pLMmNSV1hLdzV1OGNzUzJSS2tIS2RGZF8wUnZZYw?oc=5)
+  * 💡 말레이시아 국립영화개발공사(FINAS)가 FilMart에서 약 7600만 달러 규모의 리베이트 프로그램 갱신을 발표했으며, 동남아시아 제작 허브로서의 역할을 모색하고 있다.
+
+---
 ## 📅 2026년 03월 17일 업데이트
 
 * **[방송/영화/OTT]** [Vietnamese Horror ‘Phi Phong: The Blood Demon’ Sells To Multiple Territories Through Mockingbird - Deadline](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm91VENpYjVhbjBXYjg5d0l4RGdaYjRLX0VsR3lqTXJWN2xLNEFtRDVxVlBVQ3NpdUExVlVZUHlpNE01QUZWNlFyc1NwRVZVQ0NlY29XVFhOVGRmSzlCSk9wejNiZ1k4NnQ2S0FuUjFKam5tb1JFeXFrQVlSdElYWndKNm1xRmF0Rlh2Mnc1UXB4cDlJMV85d1pLVmt4eXVhRmc?oc=5)
