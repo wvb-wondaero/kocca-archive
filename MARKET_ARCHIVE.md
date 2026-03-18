@@ -2,6 +2,16 @@
 
 ## 📅 2026년 03월 18일 업데이트
 
+* **[방송/영화/OTT]** [Thai-Vietnamese Horror Comedy 'Roll & LOL' Set With ProductionQ Deal - Variety](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFhyVVdkcXlybFpCMW1YZU0teXc3R3JMLU1GXzZtckExMjNzSFVqZ1M0UVhYTEJVb3ZLenhXWW9QaUVUMk9lUTVOX3JWUUF3OEV0Q2lwSTl4dGZHTlY2NVo0clB4eU5mRU1heVJmaGxpNHEzcUl2MzB0TFFtTUctbGloZVB3eHhuYk5iOXJn?oc=5)
+  * 💡 Thai-Vietnamese horror comedy "Roll & LOL" set for production through a deal with ProductionQ, a Thai production company.
+* **[정책/규제]** [Business - bernama](https://news.google.com/rss/articles/CBMic0FVX3lxTE14T0VRSVNGUlF3cTlyZjZqRHNZLU5RampHM3pxczFYbDJXeHN1VHNNcnpBNjl0NjFjckJWRlROQXZxa2ZqOFRwd1hlQUpibVEwbVVudmZlTUw4ZWQ3QkxndFp5MTYxczlycW8xanQ3ZzlfbkE?oc=5)
+  * 💡 말레이시아 정부가 온라인 콘텐츠 제공업체에 대한 신규 규제를 발표했다.
+* **[영화/OTT]** [Indonesian Horror Franchise Finale ‘Danur: The Last Chapter’ Lands at EST N8 for Worldwide Sales (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTNyMm40NWxUakZaTm4wc3NpMEVTTzZFNXVITnduakFrN1NJZ2lvUkIzSFViRm12cnc5NVR3QUo4dE1IX3daYU53VnY4Z3NSUW9UNmJPTzc4Y0xYOEQ5R1ZOUlFuNHFCMkxhcnNNdnd1ZXc1UmZjbC1PQ2k1bnMtNzU4NnM5SC1LM29pZGFLWjk2cE1w?oc=5)
+  * 💡 인도네시아 공포 프랜차이즈 '다누르' 시리즈의 마지막 작품 '다누르: 더 라스트 챕터'가 전 세계 판권 판매를 위해 온라인 스트리밍 서비스 N8에 공개되었습니다.
+
+---
+## 📅 2026년 03월 18일 업데이트
+
 * **[방송/영화/OTT]** [Vietnam Box Office Sensation ‘Bunny!!’ Lands International Theatrical Release Via 3388 Films (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ0l2T1lHSko5YkhmN0NJalBHMzhnZ0ptTUl0Vnp1QlpLb25ZTEJKeUtnYlA4TmlpcmRZbm9kVC1sbDhkYnpzbFdqem1DYnZ1QVNBOEdvM1RiRVFIQ3BRQ1JIcGt5T0kxMW9ib21kZ1RibkpfdzA1bXVRZzRycl83WVhWXzZXdjZ0SEc5WUoxc1E5Ny1xSTVIS2N2NTAwamYwR29zX1BrTQ?oc=5)
   * 💡 베트남 영화 '버니!!'가 국제 극장 개봉을 위해 3388 Films와 계약을 체결했다.
 * **[방송/영화/OTT]** ['God Skin' Tops Thailand M Studios Slate of Films - Variety](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlFDZS1yQ2V0dzZEbmtod3VFRS1IWkZBN2l6ZUV5U3IwaEdySnVLVmdDNVc2bm1ySU5tZEY2dzJMT3dJZ2tRZkFNNmtCZ1gtZFVDNmVGTnliMzhsN3IwMkJVVzUwdE93THVnblV2Wkl6Q0hvVUpoazNqNHdHQW0xVUJMQ2dXbWtiUU5vU0V5RWo?oc=5)
