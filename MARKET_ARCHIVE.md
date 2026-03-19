@@ -1,5 +1,21 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 19일 업데이트
+
+* **[방송/영화/OTT]** [AI-Realized, Human-Written Microdrama Series ‘Spore Fall’ Unveiled by Singapore Studio Edenstone (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMioAFBVV95cUxORVpFT3BxQ1pXLUowSWlCdVpRME42LUFOVE1sR1A5cUttRWZYeWtTRVhkUGlOZjZnNGkwdkhVdzdpZWhYZHUyVU9OcXZ3WlZQYXBnU2FLZ3RNVmpIRF9TQ0VWdzNqZDRwLUtoOE9HVXh0Mm9OeklwQVBsWUFQeWZXd3JZZFV4VlJYVUkxWHFkRUpUTnd4YjhBdFdEVnl6TmRp?oc=5)
+  * 💡 싱가포르 스튜디오 Edenstone이 AI로 실현되고 인간이 집필한 마이크로드라마 시리즈 'Spore Fall'을 공개했다.
+* **[게임/융복합]** [Cyberpunk Trading Card Game Launches Kickstarter Campaign, Releasing 2026 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS25YRll6U3EyQkg3OWFhYkNXc2k5MGtiV2FKMnhCcHZiNTdsdGJNemY4Z2JWZGN5ZUpxdVdrTmtCMHRsZExBZl9IUW9XcVQzV0I4TXZNaG1yQXVmOVVVeFNHeFo5Z0ZuWFB6VzBneWRXZmM0MUJONkxGMjlJcjlNZUFmTjlTNEFubU5NcGx4YWFHSXVpYWpGUEowWF8yY1g5RlNfQ0YtM2hiUQ?oc=5)
+  * 💡 사이버펑크 테마의 새로운 트레이딩 카드게임이 2026년 출시를 목표로 Kickstarter 크라우드 펀딩을 진행한다.
+* **[애니/캐릭터]** [Ani-One Asia Streams Dr. Stone: Science Future Finale, 'Go For It, Nakamura!', More Anime - Anime News Network](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTWpnU1N1T0tYTkNYMDFIOW5FMlpvaHE2OEZIdlVsRFE0UXVhWnhPd21CT0lxWXhCU3Z6aGwwM2FqM2ZYTTI4T3RTVU9FdUE5UlUydjBYSnE3cE5ySlVMZTFNckNneG9keEFKeXY0VkRVeHJOMi1zQ0Q2dFVKaUtqelctcWZTLUJQdW5WMjdjdUd4bWU3ZWNTY0FLbHBNTkVDN0kyWDlNbng5dXJjZGtLZ0o5dzJjVkEzUXBFTGUtNUhlbHBRS2VQaDYyUEEwbDV4dUJPbw?oc=5)
+  * 💡 Ani-One Asia, a streaming service, announced that it will stream the finale of the "Dr. Stone: Science Future" anime and other new anime titles.
+* **[음악/공연]** [BTS' Suga co-authors music-based therapy manual for children with autism - CNA](https://news.google.com/rss/articles/CBMingFBVV95cUxPdkhDbFh3MF96YnNtMTI3VUU2Q2UyZkFvbWltenhkai1XUEtleVVJVlc3MGpOTHVNYkZBaXpXZkFMSDZ2RzA3WTdwbEhlVDJDTWdpUUJ6ZzNTWl9GaHBFV0x0cXI3cEFNbTExbU1Ea3pfeTdDM2p0ZEd4eFRKVVNhb1d1RUhCRWdyUEpLLVQ0Rmt2SW9FbkQya1cyMllydw?oc=5)
+  * 💡 BTS 멤버 Suga가 자폐 아동을 위한 음악 치료 매뉴얼을 공동 저술했다.
+* **[음악/공연]** [BTS light stick prices surge ahead of comeback concert - CNA Lifestyle](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTJKdEhET0xybFl6UVh2NkF3TXQxXzFoUjItY240RnpsU25SVkxPSWc4RXFrU0MtbElBblRSQS1PS2lqOHJCWF9DeFFoYm9uTVdhMmplbVFRNzNpMU1UUlgtWnBrSlRVYnk1SjlORWRua3RncEZaU0Q2TEJmZ3hURTNEWWhENUNwOVplT1dkMVNlUUFuVEU1X1FDV2xydnRWYXVHbQ?oc=5)
+  * 💡 BTS의 새 앨범 발매를 앞두고 팬들이 BTS의 공식 응원봉 구매에 열광하면서 가격이 급등했다.
+* **[정책/규제]** [Thailand Touts Revamped Film Incentives at Hong Kong FilMart as Retina Film Production and the Monk Studios Woo International Producers - Variety](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGlwMXprTkJqbGxiclJxUjZNV2FNTTRoX3c1eDFrUV82MU5adDV6RlRMcXlpbmlDS3d4WmQ5d0RHOUtYUEczMlZoRHR0WVgtdHlPWDNqSTd6TmtEdzNvZmI2SkZtaDJsVmMtMUdDSGc0cXBZVmhObC1DdEMyTjEzU2Y4aXRIbmctVkVWUE9KcEVadzRGUnROcU9ndUd6MXZ5b3owUDlYUjhPNVFfbjNMLQ?oc=5)
+  * 💡 태국 정부가 영화 생산 인센티브 제도를 개선하면서 홍콩 필마트에서 국제 제작사들을 유치하고 있다.
+
+---
 ## 📅 2026년 03월 18일 업데이트
 
 * **[방송/영화/OTT]** [Sohaimi Mior Reflects On ‘Epilog Cinta Dari Bromley’ - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NlpDdnpROFU5UGtPNEJoS3dqMXpLZ3FReFZmb2s5a2h0ZFJfTmRNd3RmT2w1NWRlVWhRWlNHQ3dWc2JBaEhUeEpyTGlZa1JoZTJxalpRX3VrWWk3WmJRWjB3?oc=5)
