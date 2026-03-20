@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 20일 업데이트
+
+* **[방송/영화/OTT]** [NEWS: Live-Action One Piece Season 2 Ranks #1 on Netflix Globally - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE5wLWZoSWQzZG5fTXVpZTBsUndhcDE5ZUNFeVM0NVF3bzJaWVc1VHgyZ0tfVG9YVHBIZEM3SlREYzQ5d25RcHdhbk9wcVZicUViX1R0cEYyNERwN2JSamlaV3dwSlg2WGxDZV9ob1A1MGc2QzUxZnc?oc=5)
+  * 💡 넷플릭스에서 공개된 실사판 '원피스' 시즌 2가 글로벌 1위를 차지했다.
+* **[게임/융복합]** [Staffer Retro: A Supernatural Mystery Quest Confirms Nintendo Switch Release - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0lIOWpha3FyZ2FHTHkwbVk4cXVaemNqVDhSdGd3SmhtNXBFcnloV2QwUFl1X3VselQzd2VxUTItckQxa2ZaWVZLWUpZdkNyYU1JZ25jeldFYlBXWlpzTjhpVmF2SkppbkVlbk1iTmJQM19LeWNWLVVtbE4wa212WTA2elNKRnJhNnpOeDcxSFd2TzJpQTE5SUZFYTdvNDdVNm1KQTU4MG0wUHoydVE?oc=5)
+  * 💡 인디 개발사 Staffer Retro가 개발한 어드벤처 게임 "A Supernatural Mystery Quest"가 Nintendo Switch에 출시될 예정이라고 발표했습니다.
+* **[게임/융복합]** [‘Gigabash’ Final Ascension DLC Adds New Characters, New Maps, And New Story - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXVVOVM3NENJX1VNTDVVdmpEZVYxR2FrY1N1VDZiY2pWWnpXcHRiMnVDSEhSY2wwXzRHcDhvRFRqbnUzQVFYQURfZ2hySXVBdGJPTW9SMGM3U0FqR2UzSHB0cG9ibi1PNnRCdWpycjZnLTE1QWtTUHQxeklFNlk0X0IzZW93Ri1HRUFNcGdzZWVXa292SlE2TmVjRkxNOGpxOUtoRG5NU3Q?oc=5)
+  * 💡 Gigabash의 신규 확장팩 'Final Ascension DLC'가 출시되었다. 새로운 캐릭터, 맵, 스토리 콘텐츠가 추가되어 게임의 규모와 깊이가 확장되었다.
+* **[음악/공연]** [Kings of K-pop are back: What to know about BTS' comeback - CNA Lifestyle](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNDlHYzdjcWt6dVc3U19NT2VaVWt5YmFvWUNoVFVleXJvWkV1eWtwMmJ4MjhEMUlWN1NKQmtXMlViWnM5dGEzcEhyaUxSbXA0S1ByYWtZODU2b3E2UzA4WTloajB6eUJTaVZGdWhQY2JqSEFVbGU2RU1oZUNieC1tbGNVbXRLdVB3Yl9saDA4ZzdaaGhWUGQzOUdCU1NhSnhTZTJDUGlHQjFMUjNE?oc=5)
+  * 💡 BTS의 2023년 컴백 앨범 및 활동에 대한 개요.
+* **[음악/공연]** [Buzz builds for BTS’ return with Arirang: new teaser, late-night talk show appearance and more - CNA Lifestyle](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUlCSGhDRGVmaGx2NlBnYjBaYzcwNHpHWTdkNGpndUN2VGVIQnB3N1RKSDctTmRYTFJqQk1nZlZ2S19NcXdvbmpMSG40VzJQWEp3a3p0eHY5T29ybVdmU1ZKenhGdl84V2p3VHVCV3gtaGdfbi1DblIwZkRyTU5ERUw4MEQwNEJ3Z2VwejZFQURTUHREZzlvSjNlOW4wUEthekJxbUxiWQ?oc=5)
+  * 💡 BTS가 새 앨범 프로모션을 준비하며, 아리랑TV 출연 등 다양한 활동을 예고하고 있다.
+* **[정책/규제]** [Malaysia Allocates RM300 Million To Attract International Productions - bernama](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfSlIzMlBxTTlpTTAtWDlkcElRc2FRTzNmY2JjRmxfaEFRY0NZdkhkNTZiVS1wSTJoQUE3SVB6VVg4MnZxWGF4QnQwU1lsbWtyT3N4anVLZTBlNGds?oc=5)
+  * 💡 말레이시아 정부, 국제 영화 및 TV 제작을 유치하기 위해 3억 링깃 (약 7천만 달러) 규모의 펀드 조성
+* **[정책/규제]** [RM30 Bln Intel Investment Set To Drive New Phase In Malaysia’s Chip Industry - Tengku Zafrul - bernama](https://news.google.com/rss/articles/CBMibkFVX3lxTE1iNENkeUl3c0E4RGFFRkFhNGtZSkd4UmsyZzZ4Zl9PcGY3X0QzUDJqQ0lPT1E0a2V2ZEN1SEdiUlRpRFQ4X1NoVWc0d2pBU1RtTzEwSEdFaVNNWXN6RXFMejl4Q1RSb0Z5OEQxeEZR?oc=5)
+  * 💡 말레이시아 정부가 인텔에 300억 링깃(약 71억 달러) 투자를 유치하며, 이는 말레이시아 반도체 산업의 새로운 발전 단계를 이끌 것으로 기대된다.
+
+---
 ## 📅 2026년 03월 19일 업데이트
 
 * **[방송/영화/OTT]** [AI-Realized, Human-Written Microdrama Series ‘Spore Fall’ Unveiled by Singapore Studio Edenstone (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMioAFBVV95cUxORVpFT3BxQ1pXLUowSWlCdVpRME42LUFOVE1sR1A5cUttRWZYeWtTRVhkUGlOZjZnNGkwdkhVdzdpZWhYZHUyVU9OcXZ3WlZQYXBnU2FLZ3RNVmpIRF9TQ0VWdzNqZDRwLUtoOE9HVXh0Mm9OeklwQVBsWUFQeWZXd3JZZFV4VlJYVUkxWHFkRUpUTnd4YjhBdFdEVnl6TmRp?oc=5)
