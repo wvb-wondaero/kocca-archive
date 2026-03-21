@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 21일 업데이트
+
+* **[애니/캐릭터]** [Anime 【Oshi No Ko】 Season 3 Special Giveaway Campaign Started! Win Exclusive Shikishi Signed by Takeo Otsuka (VA of Aqua) - Anime News Network](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU2tEcHl0cllaWkdaTUFDR3ZHUHpnOE90Vmx1a09ZN243Wm14OG5vOERqc29sVXVJNXRqTlJOM0s5QkJBY3hIVUlpY2dDaHgwQ0VhUFJmbU81b2Q0ZjYwVkswS0E3MXhlenNpUFpzUklmWE96Mk8zTXJOQmU1dmRSc2UzQ3ZndTNXVG9IM1pWOTEtMUlDdDNzWFdKb1Q2a3pWZUZjNlhmTzhzclAtRFl1R0xiNkRZQmJSZjN1MGlYanBUOEs1OU91Z2VnZFc1Rk5tazZRMkNkNE5CYnhDcUlIUXJIOVBZQkRmMjRib3FSaUhwY2ZfZ0FXZA?oc=5)
+  * 💡 애니메이션 【Oshi No Ko】 시즌 3 특별 증정 이벤트가 시작되었습니다. 주인공 'Aqua'역의 성우 Takeo Otsuka의 직접 서명이 담긴 전용 시키시(액자)를 증정합니다.
+* **[음악/공연]** [Have you tried playing the BTS scavenger hunt quiz on Google? - CNA Lifestyle](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVdaY1dCLUdZU3ZNRk1PSlBYMG0wbFNXak9aV2dfWjF2T0RNWXpEMGxncWM5OHlOMjJHZDYteFBWNnlJMzBsV3BITl9jMGo3bl83UGU3REQ1UFFSR0FMM2FQOHliRy00WXZJaVFmX3dzbC1pbEF1N1hpN0RyQTVTSWdNQVBkQnRyMHVzNmltdjM?oc=5)
+  * 💡 BTS 팬들을 위한 스캐버너 헌트 퀴즈가 구글에서 제공되고 있다. 이는 K-팝 아티스트들의 글로벌 영향력을 보여주는 사례이다.
+* **[음악/공연]** [BTS are back – 5 things that stood out from their long-awaited comeback album, Arirang - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVRuZEtyZGF3OXBHU3piUVdIaTJOcWt1TGo3Y0ZzN3ZFLUpYZHYxSWlTV3lpR1FNWlFRTy01TGwwcVI4YzlQMkF1Sk11Nk5BRHVlcEJGb0oxTkYyS3NUdEppNEFRM0J3UGFpUEVpU2xhSlZXZnFSU3VJZE9qQ3lySFJib2tKdk04b21DVWNaV0dVOHc?oc=5)
+  * 💡 BTS의 5번째 정규 앨범 '애널리지 오브 셀프: 에피파니'의 주요 특징들을 소개합니다. 새로운 음악 색깔의 실험, 팬들과의 소통, 그리고 사회적 메시지 전달 등이 눈에 띄는 부분들입니다.
+
+---
 ## 📅 2026년 03월 20일 업데이트
 
 * **[방송/영화/OTT]** [NEWS: Live-Action One Piece Season 2 Ranks #1 on Netflix Globally - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE5wLWZoSWQzZG5fTXVpZTBsUndhcDE5ZUNFeVM0NVF3bzJaWVc1VHgyZ0tfVG9YVHBIZEM3SlREYzQ5d25RcHdhbk9wcVZicUViX1R0cEYyNERwN2JSamlaV3dwSlg2WGxDZV9ob1A1MGc2QzUxZnc?oc=5)
