@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 22일 업데이트
+
+* **[방송/영화/OTT]** [BTS comeback concert: central Seoul locks down for K-pop supergroup's first show in years - CNA Lifestyle](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmc4RHhZdE1ZZVBhOG9vSmprQkpnckE1ZjVJUzNvTE5DOHM3RDFfMFExLWpOV0pjdWlQYXp6YzdlZUVOR2dVTk12Z1diaEtHdHUwTVZRcGFZQ3lKU0JqaVFQWnQ0ZVpDeWYyZmVEOFRyY3gwS29ZY3JmTUJOdjF4azhaUGtqTURudko5VVZyQXNoQUxxNzd3NlVXVUhvOVVfTVE?oc=5)
+  * 💡 BTS의 첫 오프라인 콘서트가 열리면서 서울 시내가 통제되었다. 수많은 팬들이 몰려들어 도심이 북적였다.
+* **[음악/공연]** [K-pop kings BTS rock Seoul in comeback concert - CNA Lifestyle](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd18yVXRKOE5LcjFSSXdjSWNGOHQxYnk2VnI3WDlyMkxLQ2JWWEstMzc3R2VGS0Q2WWN6emVFYURVUXg5Mllab0VhQzA0TGx3VGFrd1NuZFVicHJEczdKZElWVWptRFI2QmRHN1R6RlFVeUZsZmNzY2JDbi1IUU9LVGJqRzl5c0FLZy1VV1pERWFRa210aVJyRnYzd0s1RTRK?oc=5)
+  * 💡 방탄소년단(BTS)이 서울에서 대규모 공연을 개최하며 K-팝 팬들을 열광시켰다.
+* **[정책/규제]** [National Artistes Day A Platform To Honour Creative Industry Talent - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NMHpVbXozakNJSFVScENvWDJHU2djSGtYUlA2Z1lCRFRpdE5hRWp3YkEtSVRUTDh5eVIyQnF2ZFVIT3ZDd1dpNWI5djJQRFRxbUNmWDNvV2RkS2paMGNvMEtR?oc=5)
+  * 💡 말레이시아 정부가 창의산업 인재를 기리기 위해 국가예술인의 날을 제정했다.
+
+---
 ## 📅 2026년 03월 21일 업데이트
 
 * **[애니/캐릭터]** [Anime 【Oshi No Ko】 Season 3 Special Giveaway Campaign Started! Win Exclusive Shikishi Signed by Takeo Otsuka (VA of Aqua) - Anime News Network](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU2tEcHl0cllaWkdaTUFDR3ZHUHpnOE90Vmx1a09ZN243Wm14OG5vOERqc29sVXVJNXRqTlJOM0s5QkJBY3hIVUlpY2dDaHgwQ0VhUFJmbU81b2Q0ZjYwVkswS0E3MXhlenNpUFpzUklmWE96Mk8zTXJOQmU1dmRSc2UzQ3ZndTNXVG9IM1pWOTEtMUlDdDNzWFdKb1Q2a3pWZUZjNlhmTzhzclAtRFl1R0xiNkRZQmJSZjN1MGlYanBUOEs1OU91Z2VnZFc1Rk5tazZRMkNkNE5CYnhDcUlIUXJIOVBZQkRmMjRib3FSaUhwY2ZfZ0FXZA?oc=5)
