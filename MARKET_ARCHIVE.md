@@ -1,5 +1,21 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 23일 업데이트
+
+* **[게임/융복합]** [‘Coffee Talk Episode 1’ Officially Releases On Mobile - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXg0SFFpeENOUVRmRmJkcmE5UlRZM0ZTZUNaSzdTeDVOX1c4MEctZTZfYWw4OWJ3bVRwdTBEdXB2aDlHNDd0UmFwOVJIbFl2QlkzTU1ZdkJaUEEybl92cDR3M1Jjdk9ZVU9YRUhzMEx0VWdPa2xlRm81NzFVZWk4QktmSUN4RGZrSEdZajRn?oc=5)
+  * 💡 인디 개발사 'The Magic Rain'이 모바일 버전 'Coffee Talk Episode 1'을 출시했다. 이 게임은 이야기 중심의 카페 시뮬레이션 게임으로, 다양한 캐릭터들과의 대화를 통해 그들의 삶을 엿볼 수 있다.
+* **[게임/융복합]** [Dice ‘N Dine: Buka Puasa — Delicious Meals, Games, and Fun! - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTd6U0FEd2d3QmluLWtVLTg2eFpRZ2Q3S1pPMUpETDc2TWM5aDdtMWM4QUhOd1NyWml1Q2Q2czl3OHRvbUpGV1lDSGRLMDVwbGVha193YU9XVElXUFhld0FFbUtKLVlydUs2X3lzUXVqOXo3YW1JSzZlNGNac2NYWjZoME9BQ2xRb29fX1otbw?oc=5)
+  * 💡 말레이시아에 기반을 둔 The Magic Rain은 Dice 'N Dine이라는 복합문화 행사를 개최했다. 이 행사에서는 전통 이슬람 금식 축제 '라마단'과 보드게임을 결합한 이색 프로그램을 선보였다.
+* **[애니/캐릭터]** [Mie NONAGASE - Anime News Network](https://news.google.com/rss/articles/CBMidEFVX3lxTFByODBMMmhXTVRIR3h2bTJZOG5Lc0V1cjZGUm9aVEZzd2RYb0l0bmI2ZEVObFZtWmdsTkQ0UmtLMkZORGl2QW5RLW15dks1NzJBdXQ0Sld4NXVwODlTd1RCblBUNkM3M0ltUDRqRnhkd3Y4TVBn?oc=5)
+  * 💡 Mie Nona가세 일본 성우가 사망했다는 기사로, 애니메이션 산업에 영향을 미치는 중요한 뉴스다.
+* **[음악/공연]** [Lea Salonga joins Les Miserables The Arena Spectacular in Singapore as Madame Thenardier - CNA Lifestyle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTJ2UFYtWlFnQ3UyYnBpQXozMnFIQnF4S0VTdFhKZnZDWngwRFBoa01La1BiZ0xhRExEdEpoajl1WTdVX19VVlp4clpSeFoxWXM4U1BmN3B3NFpjUERhbUVoWEVqS0liNjdBc2Z1UDRuX1ZoeEE2bmNGOUFrR0pyTkJoWDkyVG52Rzk5bzduN2Rmd29sRVJ5ZlRoamVOblprS1dJRHNjaFVaZw?oc=5)
+  * 💡 필리핀 출신 배우 Lea Salonga가 싱가포르에서 열리는 뮤지컬 'Les Misérables The Arena Spectacular'에 Madame Thenardier 역할로 출연한다.
+* **[음악/공연]** [Yazmin Aziz Makes A Name For Herself On International Stage - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE43Mnh5eGpaQnVBYUdidEFxWHBmUHRraVZLdGZaS2cycnN3UFdiRk4zVlpvaHNVRE5xb0U3MEZZR0h3b3ZWTThWSmRYOWh0REJ2anZIUlNMbHhCYTdFV29SQUdR?oc=5)
+  * 💡 말레이시아 가수 Yazmin Aziz가 국제무대에서 두각을 나타내며 주목받고 있다.
+* **[정책/규제]** [Fahmi Extends National Artistes Day Wishes - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE96VE9vOHQ4ZVBRZVpnTFRwcU9sSmJtUjBMYXdTa0FJS2pnRjdyOHE2WWJGUUpEbDdNamN3TDNELXFoaEpDUHpBYzVvbmM1QXZyZHc1Q29kZ1NKOFN0MGlvcW5n?oc=5)
+  * 💡 말레이시아 문화관광예술부 장관인 Fahmi Fadzil이 국가예술인의 날을 맞아 축하 메시지를 발표했습니다.
+
+---
 ## 📅 2026년 03월 22일 업데이트
 
 * **[방송/영화/OTT]** [BTS comeback concert: central Seoul locks down for K-pop supergroup's first show in years - CNA Lifestyle](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmc4RHhZdE1ZZVBhOG9vSmprQkpnckE1ZjVJUzNvTE5DOHM3RDFfMFExLWpOV0pjdWlQYXp6YzdlZUVOR2dVTk12Z1diaEtHdHUwTVZRcGFZQ3lKU0JqaVFQWnQ0ZVpDeWYyZmVEOFRyY3gwS29ZY3JmTUJOdjF4azhaUGtqTURudko5VVZyQXNoQUxxNzd3NlVXVUhvOVVfTVE?oc=5)
