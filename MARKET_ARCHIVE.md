@@ -1,5 +1,19 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 24일 업데이트
+
+* **[방송/영화/OTT]** [Everything you need to know about BTS: The Return, the new Netflix documentary - CNA Lifestyle](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEpWV3ZrdEFsMkI0WTRWcmEwNGEyUjJ1V0Z3RUNTOEFpYjBUNHR1bkVpQ3htWUVzN1JwNDJNSUN6MXpMNGFOb3gtcnozMm9iZGROeFlrMGVPbzc0N3lKWUVaSTFRN2RSU21Nb2NsQldPc1hEeXV3aklFM0hJVFJHQ3l5NkdVUVVrR21BTzEza3lRdnBBU0Jv?oc=5)
+  * 💡 Netflix가 K팝 그룹 BTS의 신규 다큐멘터리 'BTS: The Return'을 공개한다. 이 다큐멘터리는 BTS의 역사와 성공 스토리를 조명한다.
+* **[방송/영화/OTT]** [Illustrated Audio Drama ‘Mirror Shibuya’ Begins Streaming March 21 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUtJMzM1STZQN1N4djJWMmxaOTVsUzV1ckhHN1pMd05IS0hTQmx2MExlU1hBMTVxM3ZkcmY3eS1LV2ZfQ3Z0VDBPZHZndF9DT1FMclVVRGFVR2RGUUM5UnRCS0EzT1pBLWI4Q2J1eDA3bzNFNlJoUDRfb2hId2x0VXFUcVpwOEpIU3hxTUFfVTR0dk1rdVBZaEJHWThuQlk?oc=5)
+  * 💡 일본 오디오 드라마 '미러 시부야'가 3월 21일부터 스트리밍 서비스에서 공개된다.
+* **[애니/캐릭터]** [‘Iyanu’ Creator Roye Okupe’s ‘Malika: Warrior Queen’ Feature Film Boarded by Singapore’s August Media Group (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEZITWZSM05OVWh2dmhXSWppSWl0MlZzdzB5a28xVmpONTdHRUt6c3VTRUdpQUpGY1ozYnBucnJFQU5pRWhXV3hVNE5CbV9NeDMzcVNPS2pLcmstWWFSX0JMX3ZiY0c0UV93WVU5REViakk1Q01MamQyNVlGT1pZcWRtRWZUUGwzUUtibFBGeTJzWUdTbUMxTWI3ZEFCUklzamh1RQ?oc=5)
+  * 💡 나이지리아계 미국인 창작자 Roye Okupe의 애니메이션 영화 'Malika: Warrior Queen'이 싱가포르 August Media Group에 의해 제작 투자 받았다.
+* **[음악/공연]** [Karaoke Manekineko Malaysia Launches Collab With NIJISANJI, Happening 27 March - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlJka0F3MXVORTdpY2U0SC0tTWl0UzJTMTJwY3BTR08wVUp3bGVRWGo5QVBOZnA3TVNCME9YMHBHak1UbUhoZ2luVUxtU295WWRjaUkzdVlIWnIydHZVLUJFcVZ3cVo2dEcxUVFyTkhLZ0x0YzZDUjZWeWxrUXA3TW8yV2lJTGx1Q3VwVHJuQ1R0a0c0emtKaUM3MDRJcGFjTjBkbS1WYV9RT25iSldGQg?oc=5)
+  * 💡 말레이시아 카라오케 브랜드 Manekineko가 가상 유튜브 아티스트 그룹 NIJISANJI와 콜라보레이션 행사를 3월 27일 개최한다.
+* **[음악/공연]** [AFA Thailand Hosts ReoNa, HoneyWorks, SPYAIR, KAF, HIMEHINA, Shōta Aoi, Teddyloid, kz as Musical Guests - Anime News Network](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ0Yxc2cxSU5URUNmaExDM2FyOE9YeHBhMlYtYTlfV1dzUTBqR3Rjdm11TEp1bWdPR3JKNG90VlY0RFhYR1dGQllBLV9tQ3JKdERUUHRiVDduVVAxdVJLQ19IM0lib0FsdnRrMmZYR2g2M0RjVUlBQnpwLWx0QUg1NzUwcklYa3hWSU9UU3NlUERjVTc3R0Vha0RwOF9OeDFOZkRjaUlubkxFd1lWd3F4bTZ3Z2x1WUNFUnJEU3B0S0dYNDk4VVhmVVR6Um5MVFdJQWNhRUVzb3BKdUpHV0NKTGFQa1VDamFC?oc=5)
+  * 💡 AFA Thailand 콘서트에 일본 애니메이션 아티스트 ReoNa, HoneyWorks, SPYAIR, KAF, HIMEHINA, Shōta Aoi, Teddyloid, kz가 출연할 예정이다.
+
+---
 ## 📅 2026년 03월 23일 업데이트
 
 * **[게임/융복합]** [‘Coffee Talk Episode 1’ Officially Releases On Mobile - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXg0SFFpeENOUVRmRmJkcmE5UlRZM0ZTZUNaSzdTeDVOX1c4MEctZTZfYWw4OWJ3bVRwdTBEdXB2aDlHNDd0UmFwOVJIbFl2QlkzTU1ZdkJaUEEybl92cDR3M1Jjdk9ZVU9YRUhzMEx0VWdPa2xlRm81NzFVZWk4QktmSUN4RGZrSEdZajRn?oc=5)
