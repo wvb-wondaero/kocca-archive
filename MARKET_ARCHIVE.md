@@ -1,5 +1,19 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 25일 업데이트
+
+* **[방송/영화/OTT]** [Singaporean actor Richie Koh receives Bright Star Award at film festival in Chicago - CNA Lifestyle](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzU5U3NaZ3hfTVJacWxRc2RsX1NDVE9Wc1NrZldHQjBaQ0ZkVVk0SWo0Rjh1SEc4S3RMTUxEU0FDX29TaVM5TmFwX01FdG4zTE0zc1VpSzFxMTNOWlJhQ1dTS1Y2VUFqTm9kWXk3Zl94UW9yLVBwOWc1cUhkNGNBcV90aVpPc3l5TmdpYmgzYjk2WXIxd1lYUnFCeDlXMTQtT2MwY0VGNXdPWU8xOTVraVU0QmVfZ0tCSEE?oc=5)
+  * 💡 싱가포르 배우 Richie Koh가 시카고 영화제에서 Bright Star Award를 수상했다.
+* **[애니/캐릭터]** [Tune In to the Midnight Heart Anime Gets 2nd Season - Anime News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHViUlh5cmtOMmFlTTRuNzZaTDNDdEtDTUVYRFZWM0JBUXNQQ01sQmdCbVBjR0REUmVOMGJ0NmJrTUhubFI2eFZPcktTMzdLMFJFcHFfVDBDY3h6VzJISUdWd21jTm5CRllpdkpXUFpJMkp5RElGaVJSWDBGaENrQTVUa19vWnJvS3ZQRHZuTU01dEhPQUZpdXlTRnd2bXVpajRRTnlPV1dmT2dZ?oc=5)
+  * 💡 '미드나잇 하트' 애니메이션 시리즈가 2기 제작 소식을 공개했습니다.
+* **[정책/규제]** [Indie Jam 2026 Connects Students with Studios Through Job & Internship Matching - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZm12bkw4eTAwd3gzNnhkT2g5REpvUGlDYlpZNTlTMExYcHBERWU2UnVqTkI0NEFsc1dTZ1dWSmd2cXJ1bExoQkRWVzhuMms5WjJYeVJpR3JWeTJ2MHJtRGVCZVpjbmJFNlZCS3JuQ0hidXVpUW8xa201NDNTb052Y2VxeUF1WjVGdHB4d19vR0xJREstTTlPWEplR1RZU3NDa0pWX3ZITEEyOEdCLXFmWA?oc=5)
+  * 💡 'Indie Jam 2026' 행사가 학생들과 스튜디오 간 일자리 및 인턴십 매칭을 통해 독립 게임 개발자 양성에 기여할 것으로 보인다.
+* **[정책/규제]** [Build Industry-Ready Art Portfolios with Digital Blacksmith School at Indie Jam 2026 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWNkRGZETGR3cFd0WnBBMHZaRmFsUzlfcEF5eVJGdWZrLS1QVEpSbzQxUGUzb05RSUZCT0ZlM1BULVNLRU1FbEo4MjNsT0JvUjhGR1ZFd3JyUThLQ2xidDhtUTVtT2xQZzgxVWkzRnJPaGl5b2YwQzdBcmxNUUM2Y1NLRkVkY1FvM01SR1lzUVhPay1nblNmdG1BeFA1eWlJemM2U3gyaTJFTU93V2lXNEdERGxsT3JDZGc?oc=5)
+  * 💡 인디 잼 2026에서 디지털 블랙스미스 스쿨이 차세대 크리에이터들을 위한 포트폴리오 제작 교육을 실시할 예정이다.
+* **[정책/규제]** [UNIMAS Innovators Transform Water Lettuce Into Fish Feed - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uX01hRW44WTFWNXBpZ0d1bXJBNXZ5dHZmZU9FWDU3LWdldXNZaUE4QU5YNEdiRzVfbDFNS3NCZ1FiNXNwMnhKR08zZmZDamtKNGV0X1Jna1JLeERVUVpHQUNB?oc=5)
+  * 💡 말레이시아의 UNIMAS 대학 연구진이 수초를 이용해 어류 사료를 개발했다.
+
+---
 ## 📅 2026년 03월 24일 업데이트
 
 * **[방송/영화/OTT]** [Everything you need to know about BTS: The Return, the new Netflix documentary - CNA Lifestyle](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEpWV3ZrdEFsMkI0WTRWcmEwNGEyUjJ1V0Z3RUNTOEFpYjBUNHR1bkVpQ3htWUVzN1JwNDJNSUN6MXpMNGFOb3gtcnozMm9iZGROeFlrMGVPbzc0N3lKWUVaSTFRN2RSU21Nb2NsQldPc1hEeXV3aklFM0hJVFJHQ3l5NkdVUVVrR21BTzEza3lRdnBBU0Jv?oc=5)
