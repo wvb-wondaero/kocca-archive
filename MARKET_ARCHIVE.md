@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 26일 업데이트
+
+* **[게임/융복합]** [Monster Hunter Stories 3 & Japan Rail Cafe Collaboration Opens In Singapore - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEpuV2ZoWlVyUWNabmh1MGdTeFBCVDJLZlBlVUxtRnFoaDI3VGdnR09ESzZnQ0M2QzJUSGZTTjNjNk1wRHM2T0hOSFFaMjFsWU0ySWloRDJ3aFB2am9DdWhnLWJON1o4Z2hwa1h3RkNfVHZLcHU0eUw3R2psUTlPWmo0emtCcEs5bHA4aW1OX25zMkotajhVeVN4UXR6N1pLU1p6dTFzWVJmcWc?oc=5)
+  * 💡 싱가포르에서 Monster Hunter Stories 3와 일본 철도 카페 콜라보레이션이 개최된다.
+* **[게임/융복합]** [NieR Game Franchise Announces New Orchestral Concert World Tour for 2026-2027 - Anime News Network](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZUdIU2Z1bkpMN1ZvNXgxWEJ3MWY1aDk3YWl3Mmc3WUxOMEJpWmlqajI2cXpQelZhUDJUMU5vZ2J6UVRvNGt2WkpKajVYVGlfTEJ0VG01R3hfb2kwVHgtMmlwLVBOZHF2RVdUeUhvTW9yeURULTFhREtvaFF6NThDOHFfOEkyWUp1QUtlVHFGb3pBbFN4S2RTX3RpRXl4cTlqMjJaQ0FTODUyMkt2aVp0dlZsN0EtSnJLUExQVHliQ0d6N2FNUVR3Y2hjUUxPVkk?oc=5)
+  * 💡 NieR 게임 시리즈가 2026-2027년 새로운 오케스트라 콘서트 월드 투어를 발표했습니다.
+* **[음악/공연]** [Irish rock band Kodaline performing in Singapore in August as part of Farewell Tour - CNA Lifestyle](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUlwRFJZd0dJRHl2MDI3VXFPSzZPQWtHTXRuTnhxdXhHTk9wMTkxbXZwZ0lmVFZQSVJNaThZaThnc2U1YnZOajF4LUxrUnFkWlJVdXhYZXRQMC1iQzNPNWxXS3loSFFJVDl1cnhmcmZJM0ZiREdpS3JsT1ZaQUtPdGYtZC1VZkNMM2F5d1VpOWxFYzNIdDhBcm14bEltZkdvanEzQU9LT3BfUHRmWDJpUnU3anI?oc=5)
+  * 💡 아일랜드 락밴드 Kodaline이 8월 싱가포르에서 열리는 공연을 마지막으로 하는 Farewell Tour에 참여합니다.
+
+---
 ## 📅 2026년 03월 25일 업데이트
 
 * **[방송/영화/OTT]** [Singaporean actor Richie Koh receives Bright Star Award at film festival in Chicago - CNA Lifestyle](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzU5U3NaZ3hfTVJacWxRc2RsX1NDVE9Wc1NrZldHQjBaQ0ZkVVk0SWo0Rjh1SEc4S3RMTUxEU0FDX29TaVM5TmFwX01FdG4zTE0zc1VpSzFxMTNOWlJhQ1dTS1Y2VUFqTm9kWXk3Zl94UW9yLVBwOWc1cUhkNGNBcV90aVpPc3l5TmdpYmgzYjk2WXIxd1lYUnFCeDlXMTQtT2MwY0VGNXdPWU8xOTVraVU0QmVfZ0tCSEE?oc=5)
