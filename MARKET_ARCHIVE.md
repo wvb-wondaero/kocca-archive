@@ -1,5 +1,25 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 27일 업데이트
+
+* **[방송/영화/OTT]** [Global Constellation Boards Haunting Indonesia-Set Drama ‘Heaven’s Gate’ (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMihwFBVV95cUxONlJEYm9HS3hSTWwtTXhrNHRyYmpQSHdXYjVKaUFEdVF1cnV1QWliNzRGcUVmYmpIbFZkRlpVZDR5anllV3V5TXRJU3QwQmM3R3l4SjdZenUtTWd2RmZESjBYV0lGWXF4WU1PNzlZNi01cHVaQVBWY3BkZjNqTW03LURrWFkxUG8?oc=5)
+  * 💡 글로벌 콘스텔레이션 스튜디오가 인도네시아 드라마 '헤븐스 게이트'의 제작에 참여했다. 이는 한국 콘텐츠의 해외 진출 확대를 보여주는 사례이다.
+* **[방송/영화/OTT]** [Asian Board Games Festival Comes To The Philippines This May - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMingFBVV95cUxQNGw4bDQ3TEJfT1RqWElwTzZ3Mlp4SVhPWTctMXNiN2tjUnNyRnlrYWRRNWpRMzRCb2J2OF9RODd2N1JsTDRrSXJZWXhBZk9DdnpmdUZsWms4NHBHdDlJVnh6bjFiOXhSa2ZfN2RzZldiRVZCeUE3UjlfcDBsRV96THFTcHozYzBWb3EzdjY3ZnBINzlZQkhMTkhCRGxMQQ?oc=5)
+  * 💡 필리핀에서 5월에 아시아 보드게임 페스티벌이 개최될 예정이다.
+* **[방송/영화/OTT]** [Malaysia, Thailand Horror Anthology To Boost Creative Ties - bernama](https://news.google.com/rss/articles/CBMibkFVX3lxTE9zWFozdl93Mm9sQkZPc3pUVURReWtiYjhGUHhVd2lBT2pPNV9mUmQ0LWUyU0xLMnFEMGswT2JUWi1DMWtKVnZvbW93M055cFphbHhFeHFJd2RPOTlqUFpxNEpPeGFtZGRCSHF6ZUx3?oc=5)
+  * 💡 말레이시아와 태국이 공동으로 호러 앤솔로지 드라마를 제작하여 양국 간 크리에이티브 협력을 증진시키고 있다.
+* **[애니/캐릭터]** [News - Anime News Network](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Qd0p6QmYxOF92bXR5SVNrZm5wSmdBYUx1a2dCVkxGbHA2T2ppR1ZRZkFBVWsyQXJRN2l1YVVoSmVIeVJqazJvcXVDN0dKbG5wNGphT1lFNzF4dw?oc=5)
+  * 💡 Anime News Network의 동남아시아 관련 기사로, 애니메이션 및 캐릭터 산업에 대한 정보를 제공합니다.
+* **[음악/공연]** [BTS comeback concert on Netflix draws 18.4 million viewers around the world - CNA Lifestyle](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFpsakdmbnliTnd5dU5RTi1xYTB1TXU2Umt6UU1IaUdocHROZ2VpbjZGU2tEbU5XVnZpcHlPVWdqUXBSeEd3SHdEM0k0STlGY3lZTW1YU0RGR3liY0ItNmdLUjB3OHFXNXRfUXByZVV3b1Y4bmdLNEE0U3p3Qll5TnUtRDNUbnMtT2Q1eWdtMkRjVUczX2l3U0huMUJSRDNsQjZuSTJCUC15NHc?oc=5)
+  * 💡 BTS 콘서트 실황이 넷플릭스에서 전 세계적으로 1천 840만 명의 시청자를 기록했다.
+* **[음악/공연]** [Japanese Singer Natori Will Perform In Singapore This July - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1FTZ0JHMEQtYzVfbWpPZXFjMG5KNWtBYTdDWFNKcFU0X1V0ZW5yajVYQ1M2Q1ViTzNHdE1hZC1XQVp5YWljYVVKYmxPMjVuQ0VCUXlHQ3AzbkNPNkpJNzNVQk5mbHNwclJHSmI1djNaQ1RzTU1MTUJOLUlqbm1MeV9mUGU0cG9qYV9TUEtYSHRGV1FkWkgw?oc=5)
+  * 💡 싱가포르에서 7월 일본 가수 나토리의 공연이 개최됩니다.
+* **[음악/공연]** [Rock Band muque Goes on Asian Tour in June-July - Anime News Network](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdThBa21lUWJFTWgxeVo4eFdzS1EwWmhsZ29ESDFRN21YYU04Z01Cb2pneE96LU5vOHZPWVgzLWRFd3czRFVoejdpNmVjMVhQeFJCWmFzU3MzNW9nVGpLQm5ya21ORlZHUi1ZMmhweE8zTzB3YkhSaFVJSEwwQkV0UFZabm1TOU1NczU2bXc1X1BkdmxmQ0lUZDZaY0R5aV9ibGtmMmVYWQ?oc=5)
+  * 💡 일본 밴드 muque가 6월-7월 아시아 투어를 진행할 예정이다. 이번 투어에는 싱가포르, 말레이시아, 필리핀, 태국 등의 도시가 포함되어 있다.
+* **[음악/공연]** [Siti Nurhaliza Once Again Appointed Spotify Equal Singapore & Malaysia Campaign Representative - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SYmwxcGVkZl9XZVI1NFFLd3lMU1VBSTh4MGpDLUREWmlWTVpqdzdvYXlrUzRtejU2TVFvUUJXVmw2QW5mNUUtVno3a2psMG5EZE1KcnFwOVF2bkZ4VlB6bkRR?oc=5)
+  * 💡 말레이시아 유명 가수 Siti Nurhaliza가 Spotify의 싱가포르 및 말레이시아 캠페인 대표로 임명되었다.
+
+---
 ## 📅 2026년 03월 26일 업데이트
 
 * **[게임/융복합]** [Monster Hunter Stories 3 & Japan Rail Cafe Collaboration Opens In Singapore - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEpuV2ZoWlVyUWNabmh1MGdTeFBCVDJLZlBlVUxtRnFoaDI3VGdnR09ESzZnQ0M2QzJUSGZTTjNjNk1wRHM2T0hOSFFaMjFsWU0ySWloRDJ3aFB2am9DdWhnLWJON1o4Z2hwa1h3RkNfVHZLcHU0eUw3R2psUTlPWmo0emtCcEs5bHA4aW1OX25zMkotajhVeVN4UXR6N1pLU1p6dTFzWVJmcWc?oc=5)
