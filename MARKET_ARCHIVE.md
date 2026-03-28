@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 28일 업데이트
+
+* **[방송/영화/OTT]** [BTS' label BigHit Music takes legal action to protect group from online malicious attacks - CNA Lifestyle](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGhZQkZ1WW1oVHRhcGhkNWt0Z0hhUC1zRHlZV2hfcGU4YllISlIxMXZSVW1hbWpEcmE1Y3pRYkJBaVd5ZllxbHBUallHOHRyblZTRkpkQXFWcGRXSkNTZldmZ3FQMUZwbjB3c25VMk5DS3pxRG4tb1BEQ2doYWJhUUQxUjhYN2h0NGhMcnkxOE1wSVRLWkNMaEQwU25SNENCY3NOb2JYeXM0NDUzTkxKOUpzR3U4c2VtUWpjeWxVNk9qWGx5LUFr?oc=5)
+  * 💡 케이팝 그룹 BTS의 소속사 빅히트 뮤직이 온라인상의 악의적인 공격으로부터 그룹을 보호하기 위해 법적 조치를 취했다.
+* **[게임/융복합]** [Love and Deepspace Gives Caleb A Ghostly New Makeover, Launching 28 March - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkU1N1dKZWVKWVpaTUQwc0QxbWlncVdIZ1Q4TU9iNTRPV0ZsdzlfQjh5Mng4dWRwaVZEc3owSWNEWmxPLTl4X0RCNXJLVWJsQ3prMm9fNUNWbE83TzFtNFlzS1c2WUFJeVlOQnZwMFlob2F0cFdQN1ZYY0UxVVM1YkNqUHdfTWdTNjA4dkF5S2RrR0RkUVNIa01kNVZPVW9adWhianVaV2VsQQ?oc=5)
+  * 💡 모바일 게임 '러브 앤 딥스페이스'가 3월 28일 주인공 캘리브의 새로운 외모를 선보였다.
+* **[애니/캐릭터]** [Akane-banashi Anime to Stream Worldwide on Netflix, on 18 Other Regional Streaming Services - Anime News Network](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk52NzlRX2FqQ1dkOXJlVVFpbVl6V0NlbXRHM1haN1dMUDQwMWxCZUFIaVdfdm0xX182TlMtQjQta0g0dl9UdVRIaUFGc0pQNTZqSHhTVjlMZ3BNaUJ1VzNCbHp2dVZjTzVPWFlyNlk5V014eDJsUWc2RHRjaTZhUF9nVi1JcTNRd1kwb05vdk1YSVl1ZF9BNWNXWWtWdjd5MXFiYUZxTGlzWVZuZ0VqdTM0Q2pDWnAyRVVaZjdCdW1IbERHT3VJdDJacnlmRXFsLTk5NmpuZ19acWhqa2dLRA?oc=5)
+  * 💡 일본 애니메이션 'Akane-banashi'가 전세계 Netflix와 18개 지역 스트리밍 서비스에서 방영될 예정입니다.
+* **[음악/공연]** [When two Eponines meet: Lea Salonga and Nathania Ong on legacy, representation and BTS - CNA Lifestyle](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHFGcjdqUUtORjVuV1Z5ZUtNR1pCaVJDTVVjNEtsOVBvOUdEbnVTSWVKN0U2MXFRc0FXUWdydXhrZUN6MnRYZmFIVFNKd0tHRlplM2h3aFdfZjVyS29tT0RFcWhCNloxYWp6THBMYTB5YUZybVFpUEpMMDU5aXRyT2RZUGdmakFOMTI2ZVlhMmlxNmZlTFBMMlh4cVNFUklYdmJ2VEhVNVQwd3pTQU9RZjh1VWFKdHhCQ0ZUaWJsRDlGTGxoaTl0M0stZlUxNHhWTDhuQURqLXdxZw?oc=5)
+  * 💡 레아 살롱가와 나타니아 옹이 K팝 그룹 BTS의 대중성과 자신들의 연극 '미스 사이공'에서의 역할 '에포닌'을 통해 나타나는 대표성과 유산에 대해 이야기한다.
+* **[음악/공연]** [Shiro Sagisu Announces Two New Albums, Launches Official YouTube Channel - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHhrdXhHQ1FGd0hVd3RydllQbmFna1NxNFhjV0l1MFZoSGkzbk5mVkxrSWFPc1gyS01DVS1XdG8tWFc1UUNWMUVERkR6M2h6eDQtYkZ0OWpPTDluNXhqQi1hNHdUUVhXUmZHQlhvZmllV01xb0poR0F3MlhORXpYbUZGczAtY1licTBPSEU4Mno5dE9tMllCem1pNUJNNXJtRlRkb3hNSHg?oc=5)
+  * 💡 일본 작곡가 시로 사기수가 공식 유튜브 채널을 개설하고 2개의 새 앨범을 출시할 것이라고 발표했습니다.
+* **[음악/공연]** [BTS Talk Their New Album and the Foods They Crave on Tour—All While Cooking “Party Noodles” - Vogue](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QVW5aTkh2VWtvdVdrRnYxdDlsVUtxX21LWlBEbzRLMVlRblFZZlloemQ4aUNzd0VvN0lXOWZQY3BsUVloR2VJQVE0cXhLLWNjNnlhQU9VTHI?oc=5)
+  * 💡 BTS 멤버들이 신곡 및 투어 중 즐기는 음식들에 대해 이야기하며, Vogue와 함께 '파티 누들' 요리를 선보였다.
+* **[정책/규제]** [Young And Defiant: The Rise Of Orang Asli Women's Voices - bernama](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4a1hxb0RmMEYtT19aOTl5VnFNMnIyYmd1OWU5empsX0FRTHZ6aVh6MGQ0UTlSSUpOUmd2MURMTXNTa0lsRkprRUlobGdZbEZIVjM4STI2SncwV2ZFR29pX2JPdGVSWlRQZ1JrRklETQ?oc=5)
+  * 💡 말레이시아 토속민족 오랑아슬리 여성들의 목소리가 부상하면서 토지권과 원주민 권리 보장 정책이 주목받고 있습니다.
+
+---
 ## 📅 2026년 03월 27일 업데이트
 
 * **[방송/영화/OTT]** [Global Constellation Boards Haunting Indonesia-Set Drama ‘Heaven’s Gate’ (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMihwFBVV95cUxONlJEYm9HS3hSTWwtTXhrNHRyYmpQSHdXYjVKaUFEdVF1cnV1QWliNzRGcUVmYmpIbFZkRlpVZDR5anllV3V5TXRJU3QwQmM3R3l4SjdZenUtTWd2RmZESjBYV0lGWXF4WU1PNzlZNi01cHVaQVBWY3BkZjNqTW03LURrWFkxUG8?oc=5)
