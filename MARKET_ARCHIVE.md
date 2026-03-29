@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 29일 업데이트
+
+* **[방송/영화/OTT]** [Shinya Tsukamoto Vietnam Veteran Drama ‘Mr. Nelson, Did You Kill People?’ Sets Japan Release - Variety](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1YtNEVFZDE5ZUxoTTdlX1daS2s2Vk13aUxZLTZIQ1huRWloU2FfcmdNQ2JNNlF0MnRidml3bUZ6d1dTVTVpTTAxdmhkTjVmWVZZRm1DaHlnYmFiOTVOUmNZeS1hZ0xkQTZwcGVNNFEwNndIbTVEcEFrVVF4eHdjb2tKNmJhVVp4S21lTVBYNWJ3Ql9TbVhIdUZ4TmZuMFkxRGdnOE1VTHA0R0lKZHlMY1VQMk84ZFJocEp1RlNQbVkxbEtRRDVLcQ?oc=5)
+  * 💡 일본 감독 츠카모토 신야의 베트남전 관련 드라마 'Mr. Nelson, Did You Kill People?'가 일본에서 개봉됩니다.
+* **[게임/융복합]** [HoYoverse Announces April 8 Release of Genshin Impact Version Luna VI - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmExMFVIcTJ4ZGNsN2lZY0lwSXZHc21aQlJQMnNuYkRjRTFGSHNHT3pQamMtbVFBZmZoR3VDeUdZbmlFQ29lRGhvcEhQWjVpRmlJdkxNbE53c19LbnZ1MVZJWG5lcWFEb28wMGVYMUtzYjlXT21SaHhHaFhIQW5JN2lHdnc3V194NHlPYnRxd1Q0V0MxUlJvM2pDWmxVUEw3dC1adlJn?oc=5)
+  * 💡 HoYoverse가 4월 8일 Genshin Impact의 새로운 버전 'Luna VI - THE MAGIC RAIN'을 출시한다고 발표했습니다.
+* **[게임/융복합]** [Exploring A Peranakan Platformer In ‘After School Afterlife’ – Game Review - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTZYV1BMMi0xRFV0cmF1cWw2M3F4dm5CbTBDc0FkMkk1WTY4c1pNZ3owT3czZmhiNnp4amRFdEhHcjRjNTRNTlRZUkFzbmlyeEJ3VlJPTU43T3ExaEhIWjV4ektXekJrazdqQW50N0ZYVTVqNlo4bGlsVURYb2lNQkFmZG8zbVpDLUZlM0lPS1VjLWktcnQ0eHM0T0sxeHRpb21mQ3dNWQ?oc=5)
+  * 💡 동남아시아 정서가 반영된 일본 스타일의 2D 플랫포머 게임 'After School Afterlife'를 리뷰하고 있습니다.
+
+---
 ## 📅 2026년 03월 28일 업데이트
 
 * **[방송/영화/OTT]** [BTS' label BigHit Music takes legal action to protect group from online malicious attacks - CNA Lifestyle](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGhZQkZ1WW1oVHRhcGhkNWt0Z0hhUC1zRHlZV2hfcGU4YllISlIxMXZSVW1hbWpEcmE1Y3pRYkJBaVd5ZllxbHBUallHOHRyblZTRkpkQXFWcGRXSkNTZldmZ3FQMUZwbjB3c25VMk5DS3pxRG4tb1BEQ2doYWJhUUQxUjhYN2h0NGhMcnkxOE1wSVRLWkNMaEQwU25SNENCY3NOb2JYeXM0NDUzTkxKOUpzR3U4c2VtUWpjeWxVNk9qWGx5LUFr?oc=5)
