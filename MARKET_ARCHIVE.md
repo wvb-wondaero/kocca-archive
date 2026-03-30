@@ -1,5 +1,25 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 30일 업데이트
+
+* **[방송/영화/OTT]** [Leon Le on 'Ky Nam Inn' and Reclaiming Vietnam's Story - Variety](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTdKdEpvcFRveDlzcTJyVmdpelVHOXgwVHlmcVVyRUxGQUI0S0hNYUpJbGdCM3Q0RllUakl0bFRuRkNrcTZLSnNRd3JhT2FYenBuemlXX1ZHNnZ6ZGluZUU2OElud3prekpudDN5Q0lYNm9KRzNlTWRodFdoTElOUUlGSG82VXlMekk2alF3a0pnbTIyQ0NNS0I1bUtfNHM?oc=5)
+  * 💡 베트남 출신 영화감독 Leon Le가 자국의 역사와 문화를 다루는 영화 'Ky Nam Inn'을 제작했다. 그는 이를 통해 전쟁 이후 베트남 사회의 변화와 정체성 찾기를 다룬다.
+* **[게임/융복합]** [Why YAPYAP Is the Most Chaotic “Friendslop” I’ve Played This Year – Game Review - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMicEFVX3lxTE0yNkZlZ3IzcTdSeXFWamI3bzNvYi1qNWVMaHFLZkw2cXpLX1RxTjUzLUFxdG9ueEQ2MXFyVERSQjFWT3lhZUpTVWd1ZHVQamFiVUNZUThjdDk2ZV9iVFc0c1Q5TzA1QlBuejAxX293SUc?oc=5)
+  * 💡 동명 게임 'YAPYAP'에 대한 리뷰. 극단적으로 혼란스러운 게임성과 오류로 인해 실험적이지만 재미있는 플레이 경험을 제공한다고 평가했다.
+* **[애니/캐릭터]** [Sparks of Tomorrow TV Anime's Promo Video Reveals Theme Songs, July 5 Debut, More Cast - Anime News Network](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkk4Q0dqdElaUEJ2RXZnd3N1Q0xhNEotNUdiNnB0TDRjZm1pczNfMU5nUl9yVzV1cng2YWpmVG9FR1BXSk5GR21Kd1FlSWhIbmdyTnhIMHBWQ2wyZ3hmSU8zZTlKLWF6X09fbGV4Qzhfb1VzcDB2S054SzBFckRrendoTTBuNmlNcjhVeWNCb180RDBDMEtJZ0s5OWJFc0lYbm5mLTdMU3JpZEE3OW5aVU05QnVRdWVaMVpqQUlsWEhIc0luRkJWNURwNzh4ZjZmeE4zYXp3?oc=5)
+  * 💡 애니메이션 "Sparks of Tomorrow"의 홍보 영상이 공개되었으며, 주제가와 7월 5일 데뷔, 추가 성우 정보 등이 공개되었다.
+* **[음악/공연]** [Malaysian rock singer Ella to stage Singapore concert in May - CNA Lifestyle](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUJCN0laLUJlUzF4MnAtdVNzMWhqNkdpLXlMQ0ptZUNhTUhLT0xyR2ZwTnZBMm42dEhENDZfdHFRUjBXbjEwbEFPRmZOd0I1SWpGVFZCenZiaGJMSzJDUDZfMlZtbXdIQW5PMVk1VmREdFdSeEFWME5FeE54Q184VnNJTDVQakZxcS1JZTQtaE9lVzlQbU5Xc1Fqc19wc1N6TGRWWjBrZXdmTlhiZ2NQa0xrWmNaa1k?oc=5)
+  * 💡 말레이시아 록 가수 엘라가 5월 싱가포르에서 콘서트를 개최할 예정입니다.
+* **[음악/공연]** [NIJISANJI EN’s BY THE BEAT Announces New Song, Upcoming Major Label Debut - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3VxaDR0NnEtNkVuWDR6bXhNbG9PSXNCU3ZXdFFvNFhwSHVsN1BEMGhMV2s0d0s1UWwzNjNKVXRCa3pwYUFUbmI3Nk96VVh3aW96ZVRiWTNMd0RrQnVDM2h5RnpqOEFSS216TTZBRUhZOVFYa2ZqVVI0dTdpb2tsUFdEZGNvODRNVWVmM0c1U2g4Yzg3Q2FBQ0o0QzRuZmV1RGJUQkR0TjM?oc=5)
+  * 💡 가상 유튜브 채널 NIJISANJI EN의 가상 아티스트 BY THE BEAT가 신곡 발표와 메이저 레이블 데뷔를 예고했다.
+* **[음악/공연]** [Filmmaker Bao Nguyen on Going Behind-the-Scenes With BTS - Vogue](https://news.google.com/rss/articles/CBMic0FVX3lxTFBOX3NGemdTd3ZKSlJqWV9ZUVFMNVl6U0FkcHNZZzFaMmlQdjU4ZENMb3h1Y0pNRnBPaDlYaG1EMFlLQS1aN3dNMmR3bWFIbXBRWHlldVJzV2I1NGQ1VHVkLXp2VVBtc2lPbDhoc0ZYWllhQ28?oc=5)
+  * 💡 베트남계 미국인 다큐멘터리 감독 바오 응우옌이 BTS의 독특한 사회적 영향력과 스타덤을 다룬 다큐멘터리 작품 제작 과정을 공유했습니다.
+* **[정책/규제]** [Truth seeker, telco provocateur? Gurtaj Singh Padda is happy to be both at Tune Talk - Digital News Asia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek51RXlHTHhvU1d5dkVDNTJkUXk3WXdLWE1Qc2lYcnA2LWZrSkZqRmVsZjZyeTVhNFg2YWdBVDJrSWZjU0dJeGVjTzg1b0E0SXAzWnRtd213SnVZZy0zWXZPSXgtUzNSZDhDQzhlMmZhS2RYd3lSQlFQTHpFZy1xODBOOURHOV94Y2dwY2lxY056MTlvcm1MR3MzcmpjRzBUdDhzay1YVm5NTVVVNldCZHBRYXI?oc=5)
+  * 💡 말레이시아의 모바일 서비스 업체 Tune Talk의 CEO Gurtaj Singh Padda는 규제당국과 정부와의 긍정적인 관계 유지를 통해 통신 시장 내 경쟁을 독려하고 있다.
+* **[정책/규제]** [FINAS Moves To Strengthen Malaysia's Position As ASEAN's Animation Hub - bernama](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XM2FUUTUySlNseXpHVTRFWDZGUGU3Z21ldnUyMnVBV192aHlBMFgyRnVwV0JnQ2E0aGttLVJnY2duNDNILXdKaTNtNVpEcDB5NE5RVA?oc=5)
+  * 💡 말레이시아 영화진흥청(FINAS)이 말레이시아를 동남아시아 애니메이션 허브로 강화하기 위한 조치를 취하고 있다.
+
+---
 ## 📅 2026년 03월 29일 업데이트
 
 * **[방송/영화/OTT]** [Shinya Tsukamoto Vietnam Veteran Drama ‘Mr. Nelson, Did You Kill People?’ Sets Japan Release - Variety](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1YtNEVFZDE5ZUxoTTdlX1daS2s2Vk13aUxZLTZIQ1huRWloU2FfcmdNQ2JNNlF0MnRidml3bUZ6d1dTVTVpTTAxdmhkTjVmWVZZRm1DaHlnYmFiOTVOUmNZeS1hZ0xkQTZwcGVNNFEwNndIbTVEcEFrVVF4eHdjb2tKNmJhVVp4S21lTVBYNWJ3Ql9TbVhIdUZ4TmZuMFkxRGdnOE1VTHA0R0lKZHlMY1VQMk84ZFJocEp1RlNQbVkxbEtRRDVLcQ?oc=5)
