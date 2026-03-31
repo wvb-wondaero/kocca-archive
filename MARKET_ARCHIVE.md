@@ -1,5 +1,11 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 03월 31일 업데이트
+
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
 ## 📅 2026년 03월 30일 업데이트
 
 * **[방송/영화/OTT]** [Leon Le on 'Ky Nam Inn' and Reclaiming Vietnam's Story - Variety](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTdKdEpvcFRveDlzcTJyVmdpelVHOXgwVHlmcVVyRUxGQUI0S0hNYUpJbGdCM3Q0RllUakl0bFRuRkNrcTZLSnNRd3JhT2FYenBuemlXX1ZHNnZ6ZGluZUU2OElud3prekpudDN5Q0lYNm9KRzNlTWRodFdoTElOUUlGSG82VXlMekk2alF3a0pnbTIyQ0NNS0I1bUtfNHM?oc=5)
