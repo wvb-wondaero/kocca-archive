@@ -1,5 +1,27 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 01일 업데이트
+
+* **[게임/융복합]** [Nightify raises US$500,000 seed round led by A2D Ventures - digitalnewsasia.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVnVzVPWmZIQzJMNHNJeEdxRnBuX1Z6ZzBmeGt2cWl6M3lxT0NVd1dSUFBqMWUxSTBsaGl4WXMtWjlYOFpNRnJvOHgwZ2RPSk5fZVdRZWhjejE0ekhfNEtSNTRwZlVuS0lvY01nakxOOUZWNjZCZ0pWdFZBdk9TMTR4el9iX2lPTzFyaVNKVEVzbkZXR3BjdA?oc=5)
+  * 💡 말레이시아 스타트업 Nightify가 A2D Ventures의 주도로 50만 달러의 시드 라운드 투자를 유치했다.
+* **[게임/융복합]** [‘East Asia Indie Games Celebration’ Applications Open For Developers & Streamers - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjUzM0ZveU50ZWc0UWU0dm1pcmZ3M2xoWk5rWlJMSGRZSVpzcExvXzFUOG82XzlrTDFVWlotQWhsZzJ2SW0tQmpWb1RPWk9BbG5EeFoxS19hWHB2Q0pjUVJqY2JjenNFWXgzd0tMNkhiRXhCMDJ1ZlpQM1hwSWY0VU9KY2pTZ0hQOEgwMjFnYlVKdGlhcl9QQVBnSmZqanV3aF9KdE85MzR0LUstakM4?oc=5)
+  * 💡 'East Asia Indie Games Celebration' 행사가 개최되며, 개발자와 스트리머 참여 신청을 받고 있다.
+* **[애니/캐릭터]** [Voltes V (TV) - Anime News Network](https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZzlyYTRscFFmX2wyQURGQzA0WFJNbm5zVWR4NTlfZl9qUnlrUEkxUGFjSm1wb1JyWHVoVU9xcnR1RDZHdFlHRUtXeTFQVzBRbnQ1WDgwRE05ZGhoSTNCdld3X2ZITnV4VGp5U2Fra0Y?oc=5)
+  * 💡 일본 애니메이션 '볼트론 V'가 필리핀에서 TV 방송을 시작했다.
+* **[만화/웹툰]** [MyAnimeList Unveils 78 Fan-Selected Titles in “You Should Read This Manga 2026” - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3RXdlFGM3BJQzlsTEE0NGFid01abERyTFA1SnJOZklnRVphWEtPYXBCdGFoeFJWcHFiNHFUR1NjUjlzSXRiSUJ6UHc4a1dPSVAzOUV4YmpiVmNtQzNxdVJKd09jSnpzUlZmOFVoSWppdmRWanBpLVFCNlpXR1VXNFh2S2Jzd1JlU3c1dXNoczlUNzB1THVScVJJc25PQmNyMHdrWEFPdG1lVmpXcjBvSA?oc=5)
+  * 💡 MyAnimeList, 일본 만화 팬들이 선정한 "보아야 할 만화 2026" 목록 공개
+* **[음악/공연]** [American heavy metal band Avenged Sevenfold to stage Singapore concert in October - CNA Lifestyle](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmhyRmRmVjk0bVhnV2ttVHZRM2ItUGR2QjV5VVlpdlJWek1KX0t0NWMtRUNyUTB3TU4ya3BJa0tPX1hiUDJlZkVmcjVZMFA0MXNTV2ZvU1dqMEV2RThZSVFWWWVtTFNkSkRHYU1mUEdyX1dmZjRpQ0xFdGRTM0tZTkNjcUd6N3hXZTRQNlp6MnB1UlBBYWV5X3JDMWY4UmhlTVduVg?oc=5)
+  * 💡 미국 헤비메탈 밴드 어벤지드 세븐폴드가 10월 싱가포르에서 콘서트를 개최할 예정이다.
+* **[음악/공연]** [BTS drops teaser for 2.0 music video inspired by Oldboy - CNA Lifestyle](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGVSRllScTdFU0wyMk1GT0pyNmhKVVJ2cWFPMXdic2duYjlrSDJtVjMwWlJ5QS1CNm9LaE5CdF9mM21TS25KRVlheGJMQkdqTHI1Mk9LbmVhWjNRcG9jTFAxSWYwUzkzckxyaEZpWWIweTNnWlBPNmNHSWpSZjNoaF84Nl9EbHRfd1hBcGdkcXZaMGRlVHc?oc=5)
+  * 💡 BTS가 전작 '올드보이'에서 영감을 받은 신곡 뮤직비디오 티저를 공개했다.
+* **[음악/공연]** [Eurovision Song Contest Set to Launch in Asia With Bangkok as Host City - Variety](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjZCTTBPMmp6WFNtbkZWUU9ROWtUN2hFNmREQ1JBT05iR0M4ZlpheHVEcmFVcWRpX2tNQ3lQdEJpaUtSUnhnQTR3RkRpbmVvbWt0cFZXMEduWUE4VGFabVZCQ3cyZEQ3R3B4VDRXM1dYbjQ0VE1ISGR0YkxRaUVTTGh0dHQwN2JOVy0w?oc=5)
+  * 💡 유럽 최대 음악 축제인 Eurovision Song Contest가 아시아에서 최초로 개최될 예정이다. 방콕이 주최 도시로 선정되었으며, 이는 Eurovision의 글로벌 확장 전략의 일환이다.
+* **[음악/공연]** [BTS Earns 7th No. 1 Song On The Billboard Singles Chart With 'Swim' - Bernama](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pRzktT1lMMDAwVTY1N3JoaXRxUkw4cURkQ1kxZGY0UVJrelBuV0VvWkRjU183QzdMQW1KanVYdFQ4eTdSNVdnTWN3dE10TU5yM3NzT0tZcjZ5UXlLa1M5eXlSMA?oc=5)
+  * 💡 K-pop 그룹 BTS가 신곡 'Swim'으로 빌보드 싱글 차트 1위를 차지했다.
+* **[정책/규제]** [DFP, MPO Sign MoU With Tourism Malaysia, Supporting VM2026 - Bernama](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lbWR3ZWFqdkFCV281cVhCUVF1MEJncnEwX3RCM0dBbFYzeHZ2aktHVlRYUHowZzB3LWxMNDg3bEdvYTJDR0RPOHA3bDFxZmUwUTRKa19tenVudw?oc=5)
+  * 💡 DFP와 MPO가 Tourism Malaysia와 협약을 체결하여 2026년 방문의 해(VM2026) 행사를 지원하기로 했다.
+
+---
 ## 📅 2026년 03월 31일 업데이트
 
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
