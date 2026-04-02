@@ -1,5 +1,25 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 02일 업데이트
+
+* **[게임/융복합]** [A Complete List Of Every Game Featured In The 2026 Indie Jam Showcase - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTBZUnRNd01SclpZaFUzX3k2S1FMRWtGSEE2ZEtTUWRvVzdqUWYtSzlxdEN1ME0wSzQzLVFGa29XOFlvN3YxX0RUUDlXRjBUb3pOZjc5UXpHSlhLR1huV0dEcnNfUXFoSF9wWWdSbTk1N1VsUWVGaFFSU3MybjZScWlERk5PQWEtVnVVOUNVb0Z5aHNmeV9fM3RLTFpQa2ZNc1RBc0t3?oc=5)
+  * 💡 2026년 인디 게임 제작 행사인 '인디 잼 쇼케이스'에 출품된 게임들의 목록이 공개되었습니다.
+* **[게임/융복합]** [Overwatch’s 51st Hero Has Been Revealed! - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMifEFVX3lxTE5FWWFwTnd4bzF0VkJDSkZFeU80dGZ4TGlXcW9TYnZEd0FUWkYxandGWkpvVGFNcDBwQ1MxZFgta1FYVnVMRnl6SDJON25VTGF5RGVkSnR3all2NXpQNUZfZElhLTNkUllaS0pRanZ5a0gyY0Q2cG5TdW1uSUY?oc=5)
+  * 💡 Overwatch의 51번째 새로운 영웅 캐릭터가 공개되었다.
+* **[애니/캐릭터]** [Gundam's 1st Global Ranking Poll Winners Are … - Anime News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3lndEw5bjRUX3JXMDNhdk1OZ1lCenNMLUdONUo5eXo5QWJKdDJsZzZUZldUX2dqaVlKRlZsQkVta0hoMUgzejZfMzNpMnNrWHRQOWl5RkxBanR2aVM0ZTRGbjdoTjc2VTllekpMTGhLZHFnd1M1VDlXeUg5RFBYNUtoRXd4X1hzM0x6b0M3RlhlTEI3OHhGS0VrREx5Mk5Vb2tnNHJ3?oc=5)
+  * 💡 가나담 프랜차이즈의 첫 번째 글로벌 순위 투표 결과가 공개되었습니다. 이번 투표에서는 건담 시리즈의 인기 캐릭터들이 순위에 올랐습니다.
+* **[애니/캐릭터]** [REVIEW: McDonald's x Evangelion Transforming Toys Review - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE53NzJRYTdDYktWdjRoYl9YVV9TdjJSSXc0dWFucmFZWFQ1ZUtmSENMaHRYV0dWZXBoTTBEbXp6Y1NyRzlTY2xjTnplbld6aWN5R0Z3cHNDRWY4Y2VpcHhfRHN0bFVIcHhQY3lqRGNnZkotMDQwS3c?oc=5)
+  * 💡 맥도날드와 애니메이션 '신세기 에반게리온'의 콜라보레이션 변형 장난감이 출시되었다. 이 제품은 에반게리온 캐릭터를 모티브로 하여 맥도날드 햄버거와 프라이드로 변형되는 기능을 갖추고 있다.
+* **[음악/공연]** [Canadian R&B singer Daniel Caesar to bring new Son Of Spergy tour to Singapore in May - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxPWG1vY3dfNmpFUjdDdGx3OHVPV2FoNmt4dWdvOWNEX0psZ2NHTXFCaXd5Q05qNTNvZEhOZHQxMk5nTVpRcEE0ZzVibzRUTnFQNzBhdVh0ZnI5WTJvb3FBb3JoMjQ3b1Fzd1lrV3R3S2RadGdITmdvLTk2WmZTMXROOFYxQkhvN1NLTUdCdGl2ZGtEU1NnTUE1Smd5QVNlQQ?oc=5)
+  * 💡 캐나디언 R&B 가수 Daniel Caesar가 5월 싱가포르에서 "Son Of Spergy" 투어를 개최한다.
+* **[음악/공연]** [American singer Post Malone to perform in Singapore in September, ticket sales start Apr 6 - CNA Lifestyle](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHFsajhjb1FuTmo0MW45a0E0U201cFdGSl9iM1RlMUpCWHVQLUcwTXNBNlZ6UFVCczJHRDY0a2RmNGlHbk9UN2VGSFRWZzlEMEZMdVB5VXliYTBxa2pNdnhHanhUQXpBSHlhRmpyRTloTnBWaGl3S2Q3VlpCVm93a2FkeGFsdm9BVmN4S3ZCenJiWEE1WGd6dlV4SEVGZHdUUXNn?oc=5)
+  * 💡 싱가포르에서 9월에 열리는 포스트 말론 콘서트의 티켓 판매가 4월 6일부터 시작될 예정입니다.
+* **[정책/규제]** [FINAS-Tourism Malaysia Partnership Eyes RM1 Billion In Investments - bernama.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aamxPT0psQll1OUdhR1BwU2RBandhOGlqc3BPSkZzYU4yWWhQZFYyNmZJQjVKT2tqeXZYWTAyMUs3VGgxQnI1LWdHcFNFanduTGFQa2syeTE5UQ?oc=5)
+  * 💡 말레이시아 정부 기관 FINAS와 Tourism Malaysia가 협력하여 영화와 콘텐츠 산업에 RM1 10억(약 2,500억 원) 규모의 투자 유치를 목표로 하고 있다.
+* **[정책/규제]** [Peninsula College Malaysia Sets Two National Records For Industry-driven Education - bernama.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Tm5IS3FWbHFPNjFDODNGZ292SVNoSDl1dmZHVjVWRms0cTZMUmtIb0pFWTR1WG1hc0NTeklJLTg5R1ZROVk0VFV6cmx6blM5ZzdoclhDRlV4UQ?oc=5)
+  * 💡 말레이시아 Peninsula College가 국가 기준 교육 기록 2개를 세웠다.
+
+---
 ## 📅 2026년 04월 01일 업데이트
 
 * **[게임/융복합]** [Nightify raises US$500,000 seed round led by A2D Ventures - digitalnewsasia.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVnVzVPWmZIQzJMNHNJeEdxRnBuX1Z6ZzBmeGt2cWl6M3lxT0NVd1dSUFBqMWUxSTBsaGl4WXMtWjlYOFpNRnJvOHgwZ2RPSk5fZVdRZWhjejE0ekhfNEtSNTRwZlVuS0lvY01nakxOOUZWNjZCZ0pWdFZBdk9TMTR4el9iX2lPTzFyaVNKVEVzbkZXR3BjdA?oc=5)
