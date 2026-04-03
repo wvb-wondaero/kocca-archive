@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 03일 업데이트
+
+* **[방송/영화/OTT]** [Misua, Who Was Set to Appear on ‘Drag Race: Philippines’ Season 4, Dies at 27 - Variety](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnV6Wmh3TGgwUVlkcXZEbU9tQXFaZTdjQzhtWDNfNHNhNEJiWnltQkJqaFk2TXhYMklMT2F5TFNfRWQ5a1o1NjhxWE5CYzdodjRjUnFxOXl0TkRPLXM3X19fZ1dEck5Ha2hzcTZPc2taSzdsM0NfcmU4V25XTnFNd1Yzcw?oc=5)
+  * 💡 필리핀 드래그 퀸 Misua가 27세의 나이로 사망했다. Misua는 Drag Race: Philippines 시즌 4에 출연할 예정이었다.
+* **[방송/영화/OTT]** ['Gayong 2' To Hit Cinemas On April 9 - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1td3NqZlNGZUlaNGlkckc4ZEJEYks0MmlFYURuNUtPVXc1X1Zwb1cwVTdwWlZxTDJWMkRScWhabE9tVUJYMlJWWEEyai1TRHdVNV9aQ0JQaVRqV3F1czBvOVVB?oc=5)
+  * 💡 말레이시아 영화 'Gayong 2'가 4월 9일 개봉 예정이다.
+* **[정책/규제]** [Jack Tan, Zizan Razak Join 2026 Ambassador Lineup as Malaysia Film Fest Unveils ‘Resonance’ Theme - Variety](https://news.google.com/rss/articles/CBMingFBVV95cUxNTTRqMzRfN0NqdGxjTHRvS0t5aHJ3NEJmUm5IOVA5NjBERzVxVGlOWjQ2eU9EUUFHZlBXVHR5ZE1NSVR3T3NrQW5CX1BPNFlhR3RPb2I1QW1FQ2IzRjJSUzY5RzNhbU5tQ2VJTUdmZ09DMHE0dWRQSThUbXJxSXhhRWwtNUdoUDJJQmJpdXhNNUphcDM2Y1ZmSDhiWWk1Zw?oc=5)
+  * 💡 말레이시아 영화제가 2026년 대사로 Jack Tan과 Zizan Razak를 선정하고 'Resonance' 주제를 발표했습니다.
+
+---
 ## 📅 2026년 04월 02일 업데이트
 
 * **[게임/융복합]** [A Complete List Of Every Game Featured In The 2026 Indie Jam Showcase - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTBZUnRNd01SclpZaFUzX3k2S1FMRWtGSEE2ZEtTUWRvVzdqUWYtSzlxdEN1ME0wSzQzLVFGa29XOFlvN3YxX0RUUDlXRjBUb3pOZjc5UXpHSlhLR1huV0dEcnNfUXFoSF9wWWdSbTk1N1VsUWVGaFFSU3MybjZScWlERk5PQWEtVnVVOUNVb0Z5aHNmeV9fM3RLTFpQa2ZNc1RBc0t3?oc=5)
