@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 04일 업데이트
+
+* **[방송/영화/OTT]** [Indonesian Horror Series ‘Zona Merah’ Gets Film Adaptation With Luna Maya as Star, Exec Producer - Variety](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzF6X3JiRUZ4bE9XLWxsRHd1UW1TRk1xNTk0ZnBOZHdLOWp3bVFkcWd5VWRXZEx4WGdYRHAtQkhxanV3cGhBWVlmUG5UZlBic3lYUEU1NHJ5ZkdVd3luUkhwRmlIM2xtblFrUjduWnNaV3Y4c3c1cTJhZllaeDJZdDFfeG9ZUTlRRF9JcWhIQWp1UGZFcmNndmNEN0djR3M?oc=5)
+  * 💡 인도네시아 공포 드라마 '조나 메라'가 영화 제작으로 리메이크되며, 루나 마야가 주연과 프로듀서로 참여한다.
+* **[애니/캐릭터]** [REVIEW: McDonald's x Evangelion Transforming Toys Review - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE1rakRvOHFBWG0yMUdKZXplYVJFbkpud0VDOFVuUDdDZDdKWWE3R1pORWVZVV8wNVJyeTdoUElKR0VPV1NpaXNxZHp4THVPR0owZThSU1czU05jQVlmOTlrNzZDMm53LVZxSExYMnJlRHRlQ3hEdHc?oc=5)
+  * 💡 마크도날드와 애니메이션 '신세기 에반게리온'의 콜라보레이션 변형 장난감에 대한 리뷰.
+* **[애니/캐릭터]** [Parasite Director Joon-Ho Bong Reveals 1st Animated Feature Ally for Global Release - Anime News Network](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb2s1RTN3amxHdGNtWDVBZy1NV1hzQ3dtU1FkRWY1WjU1dUFxQzV5b29FNHZ3QkFMR0REWmR5WXZnWjNJVWMtRktxdXgtQWdjaDZLN0xqTXBkaHdVQUtQWDlSdFZPTGJTeGd6V2RRUWZSclRyWkU4VThYaWZNS05YNDVsendaTFg5NldFS0tEeGVMVENLR2dRaEUyZU5KakZqVTNxdllQMUMxTFdhTUtwWl9BQ2dET193TGVveGxFUTBoSFNNMTFwQUp3eE1DQVpqRjlWWjVsZw?oc=5)
+  * 💡 봉준호 감독이 자신의 첫 번째 애니메이션 장편영화 제작을 발표했습니다. 이 작품은 전 세계적으로 개봉될 예정이며, 봉준호 감독의 다국적 콜라보레이션을 통해 만들어질 것으로 보입니다.
+* **[음악/공연]** [NCT’s Mark to leave K-pop group, SM Entertainment after 10 years - CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRE12RE4xMUQzZHl0cmJ2UDh6M0NPUUhuUXBja3I2QjlIcnY0WlJ4RENfZldKLUsyanRlUW16U2xJWWc3Q0xjdEVjNnV1ZjRPR3FXSG1oTUJjUG5Gck9CaE9XMHcwLWtxOU9wOTcyYWRHOXhpU2pLRFJKVTZDT0x5WEFzSURmNjNpWTF5QmtzZmxkdnJUWWRDUk5RZHV0V2FzZlE?oc=5)
+  * 💡 NCT 멤버 Mark가 SM엔터테인먼트와 10년 만에 계약 종료를 결정했다. 이는 K-pop 그룹 내에서 드문 사례이며 해당 기사는 이에 대한 배경과 영향을 분석하고 있다.
+* **[음악/공연]** [LiSA To Perform First-Ever Solo Show In Kuala Lumpur, Malaysia - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzVJUV9LMXRSVVFBVjdhUjZVMnVVVnRJX2owWXFHb1BMQWo1aGdWRzRkQ1ktZm96V2x0VnZPcHhsVkJmaFBxNzEwLW5tOS02SmRsRFUtTnVqTnE0Wm9pNmc5NlU4R3dWSXc1ekdCRnB6R1FuUXk0VG1LN25xSVlxYXZNcnJUcXpBaDh4Z2hHd1pHQm85RzlzRjRUbw?oc=5)
+  * 💡 일본 가수 LiSA가 말레이시아 쿠알라룸푸르에서 첫 단독 콘서트를 개최한다.
+* **[음악/공연]** [Get Your Korean-101 On With a Little Help From BTS - Vogue](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DVnVFVEZtalhmUXdFalphUjlQN2lmTjZOSjBfdXNreE5WSUx4eEQ2Wi1zRmJPUVA5TVN1RlJ5a3N1WXFsZm85bWdNeFdPZGREQ0t4OEhGYw?oc=5)
+  * 💡 보그 Vogue 지가 BTS의 인기를 활용해 한국어 학습 프로그램을 소개하고 있다.
+* **[정책/규제]** [Community Film Workshops Draw 225 Applications, Says Teo - Bernama](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zV3N5U1plc0lwem10NXo2ZE5SQjBoS0VjRTZJc1l1eXdRVmNOS0drdEZaUVpZaURyeWtRNjc1TmpWZXFIeTR0WTRqeTRQUk00Z09xakpaMFB0UDJ2QnR5TVRIRQ?oc=5)
+  * 💡 말레이시아 통신멀티미디어부가 진행하는 지역사회 영화 워크숍에 225건의 신청이 접수되었다.
+
+---
 ## 📅 2026년 04월 03일 업데이트
 
 * **[방송/영화/OTT]** [Misua, Who Was Set to Appear on ‘Drag Race: Philippines’ Season 4, Dies at 27 - Variety](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnV6Wmh3TGgwUVlkcXZEbU9tQXFaZTdjQzhtWDNfNHNhNEJiWnltQkJqaFk2TXhYMklMT2F5TFNfRWQ5a1o1NjhxWE5CYzdodjRjUnFxOXl0TkRPLXM3X19fZ1dEck5Ha2hzcTZPc2taSzdsM0NfcmU4V25XTnFNd1Yzcw?oc=5)
