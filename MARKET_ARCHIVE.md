@@ -1,5 +1,13 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 05일 업데이트
+
+* **[애니/캐릭터]** [Akane-banashi Anime Announces 5 More Cast Members - Anime News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeG5jLXFCRUo1Q0MwZmkyemRlcHh0UkVMQkV6Y2t1UUo5N1RBTHNBa2VaTUpELXRJdkdsNVVXVG5qLXUyT1d0UVhFSDJIX3k4Q3NNbDV1SnpnSzU0d2FmMkg2SUtOUGJOOFVaWkRhWGd0eDBNNzk5VzVOdWNqRi1NYWliWWZteW1MRG4xWkdkektHS1lsMERQWEstNDlLV3FDWGtUYmxHYVRrQQ?oc=5)
+  * 💡 일본 애니메이션 '아카네바나시'가 5명의 추가 성우진을 발표했습니다.
+* **[정책/규제]** [Community Film Workshops Draw 225 Applications, Says Teo - Bernama](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EMjNKU3ZaUGN3TkFtbGgtRkY0QVhmTkdPSzdOUzFDa2lmVF82eDdaak55eFJOZEVQeFJyRFFCZFpMU1UyMjY0NUdVV2VFaXA2bkc2S1BsSkw2MWJSZ3c?oc=5)
+  * 💡 말레이시아 정부는 225명의 지원자를 받으며 지역 영화 워크숍을 개최했다고 발표했습니다.
+
+---
 ## 📅 2026년 04월 04일 업데이트
 
 * **[방송/영화/OTT]** [Indonesian Horror Series ‘Zona Merah’ Gets Film Adaptation With Luna Maya as Star, Exec Producer - Variety](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzF6X3JiRUZ4bE9XLWxsRHd1UW1TRk1xNTk0ZnBOZHdLOWp3bVFkcWd5VWRXZEx4WGdYRHAtQkhxanV3cGhBWVlmUG5UZlBic3lYUEU1NHJ5ZkdVd3luUkhwRmlIM2xtblFrUjduWnNaV3Y4c3c1cTJhZllaeDJZdDFfeG9ZUTlRRF9JcWhIQWp1UGZFcmNndmNEN0djR3M?oc=5)
