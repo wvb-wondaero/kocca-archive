@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 06일 업데이트
+
+* **[음악/공연]** [K-pop girl group Mamamoo bringing 12th anniversary world tour to Singapore in July - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxPbzhvYmM3QVlSUkgxWnlTd0JkTUo1M0NXUXlFeFlFSXg0czJnaUFpaUZnMXZMZlFuSUJZNXZPRzc0V24tY3lRSHRVRXVUeGVnMVJfbnl1dWlTX2JtRVlPMWhjeFlBLTVkS296ekRXR0xJaVQwUmN1NnJFVHFUU3dsbU1zRGNSZW40SDdJa3FDYUJrWEN0LVNwV0pKemZBZw?oc=5)
+  * 💡 K-pop 걸그룹 마마무가 7월 싱가포르에서 12주년 기념 월드투어를 개최합니다.
+* **[정책/규제]** [Orange Economy Council To Be Formed Immediately - Fahmi - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WTGpJLXd1WVFycWdmUV9wbXlyWnVlckliY2dRb0lwZmhEUHZ2d3A2bXgzM0daRElCUldEMHRNQmxEdUtTdGhPa2RxUDRuNHpXX0ZWWl9hNC1sTWMwRG9lN3ZB?oc=5)
+  * 💡 말레이시아 정부가 "오렌지 경제 위원회"를 즉시 구성할 계획이라고 밝혔습니다. 이를 통해 창의산업 부문의 성장을 지원하고 관련 규제를 정비할 예정입니다.
+* **[정책/규제]** [Malaysian National News Agency - Bernama](https://news.google.com/rss/articles/CBMifEFVX3lxTE15WlNvckVGbnp1bk1XRk9icGVlaU5mVHF6Rm5tYzdYMlhRa09pNUVvYWNyRHkyc0RoNGwxemRldWdkNXlweVdWWjh0MVZVSDZ6YzZ6ekdiNzVySUtrZks1TFFqUW9KM2lrMHBzMHA2N3o5X19JMHRlcC1TNWs?oc=5)
+  * 💡 말레이시아 정부가 콘텐츠 제작자들의 의견을 수렴하여 새로운 미디어 규제 정책을 마련하고 있다.
+
+---
 ## 📅 2026년 04월 05일 업데이트
 
 * **[애니/캐릭터]** [Akane-banashi Anime Announces 5 More Cast Members - Anime News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeG5jLXFCRUo1Q0MwZmkyemRlcHh0UkVMQkV6Y2t1UUo5N1RBTHNBa2VaTUpELXRJdkdsNVVXVG5qLXUyT1d0UVhFSDJIX3k4Q3NNbDV1SnpnSzU0d2FmMkg2SUtOUGJOOFVaWkRhWGd0eDBNNzk5VzVOdWNqRi1NYWliWWZteW1MRG4xWkdkektHS1lsMERQWEstNDlLV3FDWGtUYmxHYVRrQQ?oc=5)
