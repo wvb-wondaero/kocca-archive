@@ -1,5 +1,25 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 07일 업데이트
+
+* **[게임/융복합]** ["The Super Mario Galaxy Movie" Rules North American Box Office On Opening Weekend - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcTloTkdyVzNMenZHbjF2Tzd4dFkzOEU5Y214c2tzZzRWRVlCOTQ5dGhSaVNIZS13ZE1lVy1uQnVaWFdneVcwaXpxMDdYN3pyUTlNYXJEMVk4MU54SU0xWEZn?oc=5)
+  * 💡 "The Super Mario Galaxy Movie" topped the North American box office on its opening weekend, demonstrating the strong global appeal of the iconic Nintendo video game franchise.
+* **[애니/캐릭터]** [My Dress-Up Darling X ANIPLUS Collaboration Café Opens This April 10 - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3JRdG1aRnBZbndDVm9rRUxSLWl4ZmZBaDh3cDVfdFJoNmVhN0lMRkJjVk9RQ0YwQ1AwRUcwb2xOX21abmduRFZsa3dqdENsQlpHalVVM2p0T1FVNndvN09lTU1kdnFwckltb1pyYlRQT1p5MkRKNUItQkRkMFE1T0V2WkcyNXZYY3d0Y1lwLXNQUlMtQ0lkR1pWYkZpQTc3dFNQNA?oc=5)
+  * 💡 일본 애니메이션 'My Dress-Up Darling'과 ANIPLUS 애니메이션 채널의 콜라보 카페가 4월 10일 개장한다.
+* **[애니/캐릭터]** [Viva One Adds Dan da Dan Anime This Month - Anime News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWtiMVdMZU1lR0xwYVc5Y1pvNEw4ZWNrWHF6VTg5RlgzMUpBV0NXSHpVYnN0SGFUTUhrTVFGdFpzT0IxMjZPVDNOVUx4bTYtTDJTN3UzR012NG92Qm56MTRXMDQ1ZGpHWGp4MmdmdlZIMEt3UlhUemt3YUpuX3doVm9ZQzMtY01aYm5kQll2RVJUVHA4aDYyZW9tRDA2SGc?oc=5)
+  * 💡 동남아시아 OTT 플랫폼 Viva One이 이번 달에 애니메이션 "Dan da Dan"을 추가한다고 보도됨.
+* **[음악/공연]** [American singer-rapper Jay Park on his Hyrox Singapore debut and why Shinee’s Minho would be his dream race partner - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxPM29YODN1TkJfSFhERExBZHdWLVFkRXNXMVNuQ19CMEVUVEFfVmNjNHdxSW1xa0xLRkVXdERTcUJzclBQTk5ESDhRVF9XWGEtaUU2Z2QwQUlZRzdLT1poNHFtcVlySG53M3pGTmFOY2lpQjNFTTMtaGhLUS04VFR2Um9vNFNqQktmSXppWGFZVmUzN3doRmtoWnpPV2xKZw?oc=5)
+  * 💡 래퍼 제이 파크가 싱가포르에서 열린 하이록스 대회 첫 출전 소식과 자신의 꿈의 협력자로 샤이니 멤버 민호를 언급했다.
+* **[정책/규제]** [Shinee’s Minho and Physical: 100’s Hong Beom-seok win their division at Hyrox Singapore 2026 - CNA Lifestyle](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEpNS0Y0Z1NRUDd3dEJHYjFhNU55U3h2R3VQYlZKczR3dkJFaWNYMU04ejZNSW4weHVybjJDTEN0RE1JX0hVR1BqZlozcmQyS21vbC1paWVOcDczcDdRMUxVSmVONGVROHdZdmd3WU5MS19sRzBYZnVkRzNvNUlfcVZqWWdYNHRkbE9GYnFsbVlVUmZmX2Q0ZXh6ZW5adTJxRHZ4ZkE5VmpNajlmOFJXTXhfaE42dTRXREZhS2E3elo?oc=5)
+  * 💡 SHINee 멤버 민호와 Physical: 100의 홍범석이 2026년 싱가포르 하이록스 대회에서 자신들의 부문에서 우승했습니다.
+* **[정책/규제]** [Indonesia Game Rating System Heavily Criticized on its Rollout - Niko Partners](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUpKdXA1T1VFb04wLV9KMXhITHNRX0VuUjYzaG0wb3NkM2Rpakl3YWgzaGZOUURWdWliTElKSlFRS2toV3ltbTVuTVhnQjhwSDlFN3Awc0RGNXlYeXVlSGFuUXFPVW9YRjhSRFJiZ29QUjVSRnE3WXpOekFHaWd4QUF5UVIxVnpBTWFCY3FIT0NyUQ?oc=5)
+  * 💡 인도네시아의 새로운 게임 등급 시스템이 공개 과정에서 비판을 받고 있다. 게임 개발사들이 등급 기준이 모호하고 등급 승인 프로세스가 복잡하다며 우려를 제기하고 있다.
+* **[정책/규제]** [FINAS To Improve Fund Disbursement, Content Quality To Strengthen Creative Industry - Bernama](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ac041Y29wSTJDMVNhWUxpOVhKVndJU2RvWWJ6ckhIdTB0WDFWRXF0QTdxWGMyYmsyYnBVS1UwNHZ4Xzc4bEVlT05jZHUzRUJtSk5JNkJOQkVaV3hCd3lRYU5RbkNfVnhWUkZJSw?oc=5)
+  * 💡 말레이시아의 국가영화개발위원회(FINAS)가 콘텐츠 산업 강화를 위해 기금 지원 개선과 콘텐츠 품질 향상을 추진한다고 발표했습니다.
+* **[영화/OTT]** [Vietnam Box Office Sensation 'Bunny!!' Crosses $1 Million Globally - Variety](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0lQanZrd3JISUZBazd5QmpVME1vOWctcW56Vk9xZHBHVnU2ZTdWZnZiMTBmWTB1TS1WY2NHanVzTlprejRacTVLTEVTTDBkcUJFMTZweFI4aTVZNWJSenhpTFdJaFJhcHRNdVFxUFlEYUtENG5YWkR3SWR6LTdJbHBHRWt0bDVjVG5iVTE2MXhBLWJYN2d5bGt2akRKbTY5d3pqbkRmOA?oc=5)
+  * 💡 베트남 영화 '토끼야!!'가 전 세계적으로 1백만 달러 이상의 수익을 거두며 큰 성과를 거두었다.
+
+---
 ## 📅 2026년 04월 06일 업데이트
 
 * **[음악/공연]** [K-pop girl group Mamamoo bringing 12th anniversary world tour to Singapore in July - CNA Lifestyle](https://news.google.com/rss/articles/CBMingFBVV95cUxPbzhvYmM3QVlSUkgxWnlTd0JkTUo1M0NXUXlFeFlFSXg0czJnaUFpaUZnMXZMZlFuSUJZNXZPRzc0V24tY3lRSHRVRXVUeGVnMVJfbnl1dWlTX2JtRVlPMWhjeFlBLTVkS296ekRXR0xJaVQwUmN1NnJFVHFUU3dsbU1zRGNSZW40SDdJa3FDYUJrWEN0LVNwV0pKemZBZw?oc=5)
