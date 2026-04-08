@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 08일 업데이트
+
+* **[방송/영화/OTT]** [‘Beef’ Actor Hong Dao Leads Vietnamese Folklore Dark Comedy ‘A “Good” Best Luck’ (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXpndVdkc1M4MUZIVTJhMElaeEY3d3AzR2FhZWVnZnRYc0U1Mi0wLVJJUEVrZ2RnRFRBTU1SWHdqQ1pZU1ZaMUFPVkxzblZ6VTBMZzczTWxGSmc3SHlKVHpoZzQtbW16RnNFaXNXWUtORHcxSXItR05DRXYxLXBxTjlFaw?oc=5)
+  * 💡 베트남 배우 홍다오가 주연을 맡은 어두운 코미디 영화 '황운좋다'가 베트남 민속설화를 바탕으로 제작되었다.
+* **[방송/영화/OTT]** [Cannes’ Frontières Platform Unveils Lineup, Featuring an Indonesian Hot Property Action Thriller and a Monster Penis Creature Feature (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEtfaVlIeGF5OUh0bHEwb21uNktpemtuNDNvYmJSWWl0dm5nRm9jOExoNVotME5TQl9RMEtUd056Vl9XcDdjd2ZuMUtZQXZ3RWF6bjQxQ1hFYXJlaFUwVVNlYTZvN2JoZnBBeHJ2VWpHVzBiMERwX3JFNjN1YmxhWnEtaVZidlZKTHNfTGRGTTZMd1BSQXh3d1g5WlpNMUFwLTRB?oc=5)
+  * 💡 2023년 칸 국제영화제 프론티에르 플랫폼에서 인도네시아 액션 스릴러 영화와 괴물 펜스 생물 영화가 포함된 라인업이 공개되었습니다.
+* **[애니/캐릭터]** [Uma Musume Pretty Derby: Beginning of a New Era Anime Film Opens in Singapore, Indonesia, Malaysia, Philippines - Anime News Network](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSmo1YV9CT2xMWXNWaUc1RFhZRGdMWkQ5S21lZVllMlpRb0hwT3NZQjZIQTlkQWxiQWt0anJmejM2Q3B4MENYWTlvVUZESFktZ1lhT2ZmOGVwRnNYdUhMbHl2NzYzamdEYWszN2tOZnBfVmM3QjczYVktNU5uMk5GSnFwSEM2YS1QUmJNa0o2NkxpUFpvdkdmNTdMYkJyaTE2ckFDck5LanltYm5weFBmd0twREdZZ0ZGQ3lmbVlyRE54NjdlM2g2aXJ3UXBWd3NRODQydW9ETkZpRVVPYjNrVHpFd0RhZkYt?oc=5)
+  * 💡 애니메이션 영화 'Uma Musume Pretty Derby: Beginning of a New Era'가 싱가포르, 인도네시아, 말레이시아, 필리핀에서 개봉되었다.
+* **[애니/캐릭터]** [Animation Offers Fresh, Relevant Medium For Dakwah - Zulkifli - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWllyVmFTN0drWVFFOWE1bTJVay0tcU8wNlZJbUVSNjJySl8yckNxYUluN2VlUXh3SGR0ZTc1QlNFVzg2cDJ0bEVjSER3T2dqRTNQZ2JmaEhvNkxmWW05U1dR?oc=5)
+  * 💡 말레이시아 애니메이션 산업, 이슬람 다와 전달 수단으로 주목받고 있다.
+* **[음악/공연]** [Taiwanese group F4 lists Singapore as future stop on reunion tour - CNA Lifestyle](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWNmR3c4RVhvcWVsaVV0ZDdTRk51SkZwQU5QbnJoM0Iwc3FwV3ljN1pfaWh4OHh0dW9Ua3FSY095YzBWUzFLdENqSkpRMHZOX0VINFN4Yl82eWZRVTdaTF9pM2hrZWdoSE9STG9uUzJsQnJ1em9QSmdwWWVQWVBTNmNPRkdhY2I3NHl4QUZPa3lESVFtODhrUGdqUQ?oc=5)
+  * 💡 대만 그룹 F4가 향후 싱가포르에서 리유니언 콘서트 개최할 계획을 발표했다.
+* **[정책/규제]** [NEWS: Steam Implementation of Government Rating System in Indonesia Draws Criticism, Confusion - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE5DcHZvaER2TVE4V3ZUczBMYzBXem1KYzRMMXpEXzJJbURObFZaNVRZREFGTS04V2tjT2VUdDRTWll3eEhOenFHWURfVHFncVM1WDJHNllTYzlTTy1mWWZ0UXpBellxQmQ0SVRleUlvWnlVdGdUYnc?oc=5)
+  * 💡 인도네시아 정부의 게임 규제 정책에 대한 비판과 혼란이 대두되고 있다.
+* **[정책/규제]** [Sunway University Fosters Creativity, Lifelong Learning Through Industry Partnerships - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JR2UxaEl2cmlNZElYTGFfYzhGc2dGTlprOGh5bmlfNFJTQ3Z4Mm9BOUM1dHVyNmNEM1J0VWlJVS1xeEg3eDVjRDdJMDluY2xPekdBSnlxMGVwQzlhWnM3bUxB?oc=5)
+  * 💡 말레이시아 Sunway University가 산업 파트너십을 통해 창의성과 평생 학습을 증진하고 있다.
+
+---
 ## 📅 2026년 04월 07일 업데이트
 
 * **[게임/융복합]** ["The Super Mario Galaxy Movie" Rules North American Box Office On Opening Weekend - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcTloTkdyVzNMenZHbjF2Tzd4dFkzOEU5Y214c2tzZzRWRVlCOTQ5dGhSaVNIZS13ZE1lVy1uQnVaWFdneVcwaXpxMDdYN3pyUTlNYXJEMVk4MU54SU0xWEZn?oc=5)
