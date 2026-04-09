@@ -1,5 +1,19 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 09일 업데이트
+
+* **[게임/융복합]** [Turn Up The Heat In ‘KuloNiku: Bowl Up!’, Out Now On Steam - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnNiRWJ4YU1YOUdVZHFWeFZHbko3cXB6c0VVOXNuWlZGOEtBTDR6ZGI4SFFxSGdCa3FocS0zcWprVV8yRmx5NFdFM1BRZnRwMGNsVVJDc0lnRlJWeGpGenlxbFJNTUppM0hzVDluNjBwNGdISU05SWlXMHR0NXNJeHFPRjdFM3RVNU82eTl0NUE?oc=5)
+  * 💡 인디 개발사 The Magic Rain이 새로운 액션 농구 게임 'KuloNiku: Bowl Up!'을 Steam에 출시했다. 농구공을 차고 도전과제를 수행하는 독특한 게임 플레이로 주목받고 있다.
+* **[정책/규제]** [Esquire Singapore responds to criticism over use of AI for Mackenyu story, calls it a ‘deliberate creative decision’ - CNA Lifestyle](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVJLWWNIcG11S084MWxmTGcwVG4ycVdYbzdGbk1pck10NDZRTkJZUkpjSThZdzhyTlNaTkRldXNnOGpndTBXVmxjU0pHdjBFSGl1c2E1YkVJZVYtc1VnUmItQWdGaTBfR2ZaOHd4S0RMVG5fTno5SmpkeDZoQXN5X20zbW83LTc4LWZMUlM2d2VoM0Jwb0RJWnBzRHRianBscTAtazU5aVBSRkZkSWFZ?oc=5)
+  * 💡 싱가포르 라이프스타일 매거진 Esquire Singapore가 AI 기술 활용에 대한 비판을 받은 후 이를 '의도적인 창의적 결정'이라고 밝힘.
+* **[정책/규제]** [Microdrama Platform ReelShort Teams With Thailand’s AIS in First Southeast Asia Telco Deal - Variety](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEJVQXU0NE5DZFRGejJKbDN1ZFAtbWJoalpOM3ByczNmVGpOWEd1TE5SeHRtaGxiUHdPSlc0Nnd2U0hKWnMzbGtOZFpMR1dBU3pRZ0ZWTUdFMERBM3k0Z2hFOXQxV2VKUldjQlhxb1hRRGpHc0NfbW12YmctMlZPLUl2M2QtTEU3MHphZEVSX1p2Zms?oc=5)
+  * 💡 마이크로드라마 플랫폼 ReelShort가 태국 이동통신 업체 AIS와 첫 동남아 통신사 거래를 체결했다.
+* **[정책/규제]** [Perak Channels RM393,000 To Boost Creative Industry Through DKP - bernama](https://news.google.com/rss/articles/CBMibkFVX3lxTE1JYU83WFBmWlVETmNiYk5KdDEzNGdSemxVRXVfUzRzWVlkUHQ2VlhhVEs4WlJCM1ZpUkdHemxGY0pCeTFKbFpmS0FSNHRraWNlOHRteGlOMGtHekhKYnVIZ0swOUVFUnEzbDNOY2N3?oc=5)
+  * 💡 말레이시아 Perak 주정부가 창의 산업 육성을 위해 393,000 링깃을 지원한다.
+* **[정책/규제]** [Sunway University Fosters Creativity, Lifelong Learning Through Industry Partnerships - bernama](https://news.google.com/rss/articles/CBMibkFVX3lxTE5EdkYtcTF4b1Z2cHhpWEF1UHRaZGN2UEgxaC1ocFBNQXZIVGJMLUlEX0pJclBTNkVVVUR0SjlOV1RqUE16NXlyZHJRdGh2TnNWZVNjNFVfaFBlVkVPLVdTQk1KV3RTUnI5eks1eVZR?oc=5)
+  * 💡 말레이시아 Sunway University가 업계 파트너십을 통해 창의성과 평생학습을 육성하고 있다.
+
+---
 ## 📅 2026년 04월 08일 업데이트
 
 * **[방송/영화/OTT]** [‘Beef’ Actor Hong Dao Leads Vietnamese Folklore Dark Comedy ‘A “Good” Best Luck’ (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXpndVdkc1M4MUZIVTJhMElaeEY3d3AzR2FhZWVnZnRYc0U1Mi0wLVJJUEVrZ2RnRFRBTU1SWHdqQ1pZU1ZaMUFPVkxzblZ6VTBMZzczTWxGSmc3SHlKVHpoZzQtbW16RnNFaXNXWUtORHcxSXItR05DRXYxLXBxTjlFaw?oc=5)
