@@ -1,5 +1,21 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 10일 업데이트
+
+* **[애니/캐릭터]** [April 2026 - Anime News Network](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRnl3cml4RWhMXzN2enN2d296OEI3U2IxbXY4UjRXV25UbnBLMFZmckdzMVZMMHc1aW9sTnNlY3Y0dm0ydlAwQTJfSVJsaHVaQy1RZHdpRU4?oc=5)
+  * 💡 애니메이션 업계 관계자들이 2026년 4월에 열린 세미나에서 동남아시아 애니메이션 시장 전망을 논의했습니다.
+* **[음악/공연]** [K-pop group EXO’s July concert tickets go on sale from Apr 20, prices start from S$248 - CNA Lifestyle](https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0dqeWFMb2ZvTVlNUThlc3FtcWhUbWxoSEFkeGc1SVhCcVlNSy1hTjczVVY5Y0pxWkVFdUlQY1NmWk5wWEx6Y09waW9oZUg2c1lwVFp2Y21hcWYyc1NwMkhXd3pQSHZialJkN1hCV1N5YnY4SlU4M0ZxLXRmSzZtTmZ3RnJiX0E3Wm9OVGw4TWd5QkpLdlR3Q296MnYyUlZRMXc?oc=5)
+  * 💡 K-pop group EXO의 7월 콘서트 티켓이 4월 20일부터 판매 시작되며, 가격은 248 싱가포르 달러부터 시작한다.
+* **[음악/공연]** [BTS kicks off world tour with spectacular South Korea show - CNA Lifestyle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWd6UlBDQmstMkdmQm5iU3d0Snc0OW82NkpGNlBtNlhxcmtqUnpxRXhMVi1wdzJvVTE1MnJTQ0NBeWp5M0J4THNRM1MxMVpvQnFWTzBXNFFPeUVMekpWOFE1NU1sTlNBY2EzRzBDclM3ekhSWXdWSVE1OHEtcm9BZ2FrNmdVU3Z1R2tMa2k4NTljdzNzZWJ1VWlTdWtxMEUtblRIX3pRc18?oc=5)
+  * 💡 BTS가 서울에서 역대급 월드투어 첫 공연을 성황리에 개최했다.
+* **[정책/규제]** [Akamai appoints Sean Li as SVP regional sales & managing director, Asia Pacific and Japan - Digital News Asia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMW1SLXB5ZHJwNmFMNTZkXzlmWHd4N1VZZ1IzS1o3bmNZRGxtblFQbXRPdVp0N2NIc1F4Vi1mcE1wcURjNUx2UTVobldpRVc1XzdhTWtWVUNOVTVsNHVNU0JxRGtkY1MtbDdLd1NPbkdLUVhJOGwxc0tMN29Wd0didWM3TjYzTV9NMnBRaUctMzRrWWV2N0QzcmxmWkxvc2NrWjdVZDNvcnJ1d3NVQlhwYUYtUjN2V2lWVHU3TEotNGJsQQ?oc=5)
+  * 💡 Akamai 이 아시아 태평양 및 일본 지역의 SVP 지역 영업 및 상무이사로 Sean Li를 임명했습니다.
+* **[정책/규제]** [Communications Ministry Announces Incentives To Ensure Welfare, Sustainability Of Creative Industry - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHQ2UtNm5nVTNvTi1MRFhZdzhoc29iYWJzOUQ5aDR3cFQ2Y0lHamxLbTF3VEhlNTNvSklNeDZ6SFhlYTktRlByQnhaUzhHanF5RTJjdjd4eUVQN3BNWnc3SFJB?oc=5)
+  * 💡 말레이시아 통신부가 창작 산업의 복지와 지속가능성 보장을 위해 인센티브를 발표했습니다.
+* **[정책/규제]** [Finas To Launch CITRA Fund To Encourage Creation Of Films Promoting National Values - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ja3drdktZNkpkTGxybVhOeFhIVEVTTzZwd2lHYjhyZGtyRWpmVmlDRlowR3pyc3NIRFJscldQbm5wZDh6RGlIN2RIZmZVTXpyWEZwOTh2SXFmZ1dsbFJIUnJR?oc=5)
+  * 💡 말레이시아 국립영화개발공사(Finas)가 국가 가치를 담은 영화 제작을 장려하기 위해 'CITRA 기금'을 출범한다.
+
+---
 ## 📅 2026년 04월 09일 업데이트
 
 * **[게임/융복합]** [Turn Up The Heat In ‘KuloNiku: Bowl Up!’, Out Now On Steam - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVnNiRWJ4YU1YOUdVZHFWeFZHbko3cXB6c0VVOXNuWlZGOEtBTDR6ZGI4SFFxSGdCa3FocS0zcWprVV8yRmx5NFdFM1BRZnRwMGNsVVJDc0lnRlJWeGpGenlxbFJNTUppM0hzVDluNjBwNGdISU05SWlXMHR0NXNJeHFPRjdFM3RVNU82eTl0NUE?oc=5)
