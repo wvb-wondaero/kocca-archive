@@ -1,5 +1,27 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 11일 업데이트
+
+* **[방송/영화/OTT]** [Mediacorp addresses Malaysian criticism of Highway To Somewhere, says drama not meant to target any country - CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUxXZV9sdkFuOEFYQ2JKTmZ0U210eU5WakM3RnFfUlNnMk5fTzdLSnQxcEVrdV9KV0paanNEZUJodEF1YVUtVVVjQ2hwWVBnblR5T0tjZnRzU3VDOThnUWU0NEo1Q2NDYzZEMFlyaV82UXJ6LUY3YXJYekF1YmhZbEdFam1EV0E1RnNjemNieVJBbnI1UFRLanlHUmNFczhNaHc?oc=5)
+  * 💡 싱가포르 방송사 Mediacorp가 말레이시아 정부의 자국 비판적 드라마 'Highway to Somewhere' 논란에 대해 해당 작품은 특정 국가를 겨냥한 것이 아니라고 해명했습니다.
+* **[방송/영화/OTT]** [Vietnam Comedy ‘Zero Meets Hero’ Gets Global Push From Mockingbird Pictures (EXCLUSIVE) - Variety](https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVdvOFpzaHN6VVZFUUtYR3lBSzBzZzNpSnVMOGcwaDU2V3AyWEg0RkkwelpVSV9zZDBrYVVwR1ZKWjRPdXUwR21rak1RTXBpTHUwYnZjYzZEbnpsSENoNFkzU1U5VS1JRnVvTWNZdHRMbWM1d3prQkFGOU9YanZvS2c4WExlaG9OTGRvTFYzcjQ0TzBLTDlUX1ZMVHFCNlU?oc=5)
+  * 💡 베트남 코미디 영화 'Zero Meets Hero'가 전 세계적으로 배급될 예정이며, 이를 위해 Mockingbird Pictures가 적극적으로 지원하고 있다.
+* **[방송/영화/OTT]** [Viva Circus Festival Marks 20 Years of Building Malaysia’s Aerial Arts Movement - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmZ6Y3hDdE1ETmFuTmpOTWNDYnBadlU4Mzd1SnJPUFh0UnUxZVItQjdYU2dKVWVrUzd2c2JLWFI2NVBRUDJEXy1pUVp6emxlZXUwNFZ3cUs3cjdZLXRMV2JmTzlXLUFFMmMyWk1lTVBpQV9vM1VITlJRZG45bU82el8yV1NkY0NUcGptOEdVQ0tXOTRLbmJMN0QzUGNjSnlIVjdUdFd6QWtGSmtnSlk3QnR3?oc=5)
+  * 💡 말레이시아의 20년 전통 공중곡예 페스티벌 'Viva Circus Festival'이 개최되어 말레이시아의 공중곡예 예술 발전을 기념했다.
+* **[방송/영화/OTT]** [Libang Libu Marks Bobby Husaini’s Bold Step Into Filmmaking - bernama](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3aVpxR281UlpRdFNZUVlBWWtUVWFERVI4ZTg4VXlfcDQ4RHdCR1dnS3N5TkpNOHJfc1o5TkR2UjRhVWZIOEQ3Ny01MkFDcm4zaWFZTUJFMHNRWjlx?oc=5)
+  * 💡 말레이시아의 유명 가수 Bobby Husaini가 영화 제작에 도전한 것이 주요 내용입니다. 그의 새로운 영화 'Libang Libu'는 콘텐츠 다각화를 통해 말레이시아 영화 산업에 새로운 전환점을 마련할 것으로 기대되고 있습니다.
+* **[애니/캐릭터]** [Over 61% Of Gen Z Animation Fans Watch Indie Animated Series On YouTube - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjBTOFc4UHl6R0dKeGc3N3lJQllLMVFHbWlvVUxFYnliMDFxeE1QdndHLWZ3ZEJGSFdvZnp1TnhUckJOejlONjhVcloyd2w3SnNKS1lRZGRSNFBSVEV4TkQydHZudnFSN2tfSFFBRW9zUEhPZGtrUXZJdUVBMUNfQWRqRXotVlVLVjBzVXFpd1pYWjc5dHZteEFtcll4czhHaU9OMVlMQQ?oc=5)
+  * 💡 최근 조사에 따르면 젊은 세대(Gen Z)의 61%가 유튜브에서 독립 애니메이션 시리즈를 시청하고 있는 것으로 나타났다.
+* **[애니/캐릭터]** [New Assassination Classroom Film Opens in Philippines, Thailand, Indonesia, Vietnam - Anime News Network](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZl9INGVlOU8yQTI0b2pPTEluemxGd3F2dXRON0tjM0F4WGZ1QXBuclpXR1pDRnhlV1FNQkZWcERiVjV6RzlNTC1Ob3QxcHE0UWgxVjZ1Rmh2RkZpUlNFRFBaNVlNTmtGX19neGFybUV5RzhpSWVKaWtrQTBfcjdNbkhPUUdtdjRqbWowa2VhUUJCMWthVThpRzJ0d2YxLUhWeW9Fa0tzNmdkdGZIaTZuWXBKODJWek41dHJPeDhSRm82eUdhNTRmMzMzc2xHcXc2S1Nv?oc=5)
+  * 💡 일본 애니메이션 '암살교실'의 새로운 극장판이 필리핀, 태국, 인도네시아, 베트남 등 동남아시아 국가에서 개봉된다.
+* **[애니/캐릭터]** [Odex Opens 2nd Gundam Hathaway Film in Singapore on May 8, in Malaysia on May 9 - Anime News Network](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDdQSGRGRmcxS2lfclFFZ1hGNUpaWnVubzUteGZ2WEx4eklndWRtWHY4WlNrb0I4bjNNZUFnQ1hiZERBc200Q252V0p5a3lUaHNZcmdSUFRGQ3Q4OXZuT1dHNEJfbnZRTnRfSHY5YUZPeDRHX0tVYm13ZGxtN2tobmZ1SWZyZUpja1R3cEh1SElRUV8tMVJTdXJiaHE2TDhMZjNaZTVOTWN2ZGtwY2JsS1lGS2cwdkFaYkItRlNTblJNWjJjdHlRU1QxSmN1d0ZH?oc=5)
+  * 💡 Odex, a Singapore-based anime distributor, announced the release dates for the second Gundam Hathaway film in Singapore and Malaysia.
+* **[음악/공연]** [Meet Fifty Fifty, the K-Pop Group Behind ‘Cupid’ Who Just Covered Pink Floyd: ‘Our Music Transcends Language’ - Variety](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTMyclBScFhfVTVtZXRKNkhfdi12TFNoNVNEQzl5TzJEd1I2Y3ZiWWxxdExCZkNvd3otRFJRbzVWZndNVTRqbDFudmpEUEpPRy0wNl9DOFFSc0h6WDhrdC1ZbjVRcXJ0dE1kSVF3dTgwSzF2XzUwM1FnY2kyNFRmTERWLUVRZEpSUFVVdV9HTlc2aDZvRWN1eG4tZXQweEV6UDkxNlB3?oc=5)
+  * 💡 K-pop 그룹 Fifty Fifty가 'Cupid'로 주목받은 뒤 핑크 플로이드 곡을 커버했다. 이들은 "우리의 음악은 언어를 초월한다"고 말했다.
+* **[정책/규제]** [Malik Streams Urges Public To Reject Piracy After ‘Jana Nayagan’ Leak - bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rWTNWQ3NGajEyeHh5UXF5ckFsWC1qTTVBcmVhbDVDZ09CLW55a0R6VEFkN2dyQ004SUJXSGpQclhaTDQwaXdZdmo0V19RSG82Sy13dFpJcXJBSXhLWjJ5Ujl3?oc=5)
+  * 💡 말레이시아 유명 배우 Malik Streams가 자신의 영화 '장나야간'이 불법으로 유출된 사실을 지적하며, 대중들에게 영화 불법 다운로드와 시청을 거부할 것을 호소했다.
+
+---
 ## 📅 2026년 04월 10일 업데이트
 
 * **[애니/캐릭터]** [April 2026 - Anime News Network](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRnl3cml4RWhMXzN2enN2d296OEI3U2IxbXY4UjRXV25UbnBLMFZmckdzMVZMMHc1aW9sTnNlY3Y0dm0ydlAwQTJfSVJsaHVaQy1RZHdpRU4?oc=5)
