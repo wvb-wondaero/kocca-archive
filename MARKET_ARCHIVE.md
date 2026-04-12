@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 12일 업데이트
+
+* **[게임/융복합]** [Overwatch Officially Reveals Its 51st Hero, Sierra - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDFwVWV5ZHd6bWZUUzdEQlRTMHRfSDk3U0FHczVmWFAzLTVXbG9xUDhQU1JCd2pUTXA0ZlJPMXZ6X0ZvcDVsdTRBdUtUa0R4RXpsOHBIVk1OQWVJWW0xV1Zad21IZEV6SGthdkViQ084akV1UkUxQW9lX01WYklGTnhvalJPRXZmb09V?oc=5)
+  * 💡 블리자드 엔터테인먼먼트가 새로운 오버워치 영웅 '시에라'를 공식 발표했습니다. 시에라는 공중 지원군 역할을 하며, 동료를 보호하고 지원할 수 있는 다양한 능력을 갖추고 있습니다.
+* **[음악/공연]** [Lee Je Hoon Celebrates 20 Years In Showbiz With Malaysian Fans - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iZVNQekZ4SlRfZnYzSF9ZejZDMHNPNzlpUC1TeFA0ZldDZWpsVlhuWTkydGV6ZkRuUE9CUDRqakVpakVzYmhZM1dudnFWVXcxRDQzYUhWQTAxYXQ2VEdUblN3?oc=5)
+  * 💡 배우 이제훈이 말레이시아 팬들과 함께 연예계 데뷔 20주년을 축하했다.
+* **[정책/규제]** [Over 100,000 Visitors Visit P. Ramlee Legacy Destinations Annually - Bernama](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOWxLX3BfbFVqSTRiaFFEZXJxd1hiaDJPOHE0T3FKODZFWFVta09NR1V3TzFZU0J4OF9XaWo5d3RoOExuTDZzbmdJNC12cHByc0dsamEwSGh4c3By?oc=5)
+  * 💡 말레이시아에서 연간 10만 명 이상의 관광객이 P. Ramlee 유산 관광지를 방문하고 있다는 내용입니다.
+
+---
 ## 📅 2026년 04월 11일 업데이트
 
 * **[방송/영화/OTT]** [Mediacorp addresses Malaysian criticism of Highway To Somewhere, says drama not meant to target any country - CNA](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUxXZV9sdkFuOEFYQ2JKTmZ0U210eU5WakM3RnFfUlNnMk5fTzdLSnQxcEVrdV9KV0paanNEZUJodEF1YVUtVVVjQ2hwWVBnblR5T0tjZnRzU3VDOThnUWU0NEo1Q2NDYzZEMFlyaV82UXJ6LUY3YXJYekF1YmhZbEdFam1EV0E1RnNjemNieVJBbnI1UFRLanlHUmNFczhNaHc?oc=5)
