@@ -1,5 +1,17 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 13일 업데이트
+
+* **[게임/융복합]** [FromDawn Games Wins Best Visual Art at Taipei Game Show Indie Game Award - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWG5XY0VzY01JWGhYRHo3cjZ5NnhGVDRhcGUwODYxUlpxeEVrdVJZdXR4VFNxU1FhSFhBZDhZcFYwQWpOa3ZJajRNLWptQmZUX1pvbWJYMW9Najk1RVpfQ212MjVYaHZ1NG1NLVczb2ZSRUJuWm1jQzhYXzJmc29MQ2QyRTgyMEx5NElOUlVpZkJkOFBYNktfV3JpdXFxX0pmZkRtTWxOZlpIUQ?oc=5)
+  * 💡 대만 게임 쇼에서 FromDawn Games가 'Best Visual Art' 상을 수상했습니다.
+* **[게임/융복합]** [‘Island of Hearts’ Offers a Fun, If Flawed, Escape to Paradise – Game Review - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDBKTGhWanl5MEd0Q2gtSkJXQ3FhckE2X1Y4NjJQdXE5VENBM3VZLWdWWVVRMFFIemlnZ1RpSGN2cExHZG53QXVNNHNoSFZNSTh0dFhMdUJaSGphTnA1ckJIcWFMbTMxR1RHSjlleGlublVMME5mSHdNeWV3NkhjcHN5UldYUGZVOVoxSk84dzhublViRENxVXlDU0FEZm03Qzh0ZjAzcw?oc=5)
+  * 💡 'Island of Hearts'는 플레이어에게 아름답고 평화로운 섬 휴양지를 제공하지만, 일부 기술적 한계와 부족한 내용으로 완벽한 탈출구는 되지 못하는 게임 리뷰다.
+* **[애니/캐릭터]** [NEWS: Japan Aims to Increase Anime's Overseas Market to 6 Trillion Yen by 2033 - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTE5DMm40TjFnTUpuV2xUNzFXdFdzZXRoN3ZaOTNQS0dBTXlST3V2d3NxN3JCNGNyVnloQnN6Znp3U3Z2bnVxNXZPSVJYWE5NTkVHd1dYNTM0YWpXRk5vWEpEOHVvUFBCOUFCTk5jb1p3cEVNZ3pBbUE?oc=5)
+  * 💡 일본 정부가 2033년까지 애니메이션 해외시장 규모를 6조 엔으로 늘리겠다는 목표를 발표했습니다.
+* **[음악/공연]** [EXO’s Chen in Singapore: A rare, intimate show where he took selfies with every fan - CNA Lifestyle](https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUVPaXcxTmo1cFVHWVRna05KazlOZWU1Tk1Oc0RVUFYyNjI4STYzSTRvSE9KaFJXc0FHc2lld2hzZ0hVUU5lOFdLNjNTQm12VkRhZm81eDFnYzNPYnVEQ0g4UDc0NFNDNGlaWVNhYjZUZENIMjdmdXZIOTlFdlVCWjZELXdkZFJZaGU4UkFVUUU2ZlhCNGIyR05Xaw?oc=5)
+  * 💡 EXO 멤버 Chen의 싱가포르 팬 미팅 공연이 열려, 관객들과 친밀한 공연 분위기 속에서 셀카를 찍는 등 이례적인 공연이 펼쳐졌다.
+
+---
 ## 📅 2026년 04월 12일 업데이트
 
 * **[게임/융복합]** [Overwatch Officially Reveals Its 51st Hero, Sierra - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDFwVWV5ZHd6bWZUUzdEQlRTMHRfSDk3U0FHczVmWFAzLTVXbG9xUDhQU1JCd2pUTXA0ZlJPMXZ6X0ZvcDVsdTRBdUtUa0R4RXpsOHBIVk1OQWVJWW0xV1Zad21IZEV6SGthdkViQ084akV1UkUxQW9lX01WYklGTnhvalJPRXZmb09V?oc=5)
