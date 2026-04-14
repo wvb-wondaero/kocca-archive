@@ -1,5 +1,23 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 14일 업데이트
+
+* **[애니/캐릭터]** [2nd That Time I Got Reincarnated as a Slime Film Screens in Thailand on May 9-10 - Anime News Network](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjBUMjhmWmlJUVZXdlFjaUpEa2pLNlhYRXV1ZF9YWHpNV3lnVHdmbUhCUmIxeW1NOUlXQ0V3N2dpSmI2Nm5KZURBQm1BUGJ1ZmNWeno4MXVWTkFwUWppbVAtaGhmbktfZi1kVFlSTV9IOExRWkEyY0kzNlcxYVFjemJLcUVCdDBXQndNN1daOEc2N0p5MEFTM0drU2FtdGVEOE5oTTFIcV9NaVdLdUc5Y2g0WElTcWFMQ2c3VVVXUnhaa3NGMHZrVjJsMVZMVENUMnY0?oc=5)
+  * 💡 2023년 5월 9-10일 태국에서 '그때 나는 슬라임으로 환생했다' 두 번째 영화가 개봉된다.
+* **[음악/공연]** [Actor Benjamin Heng’s daughter auditions for K-pop label SM Entertainment, awaiting results - CNA Lifestyle](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUtzOGx6QnhXS0ZXb2pQRkVOQWhxOWk0T09XMURORThKbVhQRGQ5OWVtVE1hSHBUT21CNzhMdEhZRVlBalc2LWIwcDZudTVXNy1kcWRuWDlBaU1DV1lWY0RJejYwQnNqb2hfTHdNTUFDTTUzNUdGaXRXeW5vN09tTzhJbzBpTVcxOVpsZFN5X1BnUEpfeWZDamduV1BrM2x3VGNhbnViRGdTSkM4MHc?oc=5)
+  * 💡 배우 Benjamin Heng의 딸이 K-pop 레이블 SM Entertainment에 오디션을 보았으며 결과를 기다리고 있다.
+* **[음악/공연]** [Singer Daniel Caesar adds second Singapore show in May, tickets on sale Apr 14 - CNA Lifestyle](https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0NzcGhYaTBzZDlUMk5BNWhwOHlWUlBQbFVWakVRSE1ncXpfMURQNXNTcm9HanNtZjczbEh1NFI4TnB5VXd3NjZQTGN6dFlHbGE0SzY4NjZmQm9EOFFTVXBxMkZIT05peTI4aUJodDlOcHZfQ3Q2T2s3RXhmZXRwaUpkdjRXMlFCVmp0WWl6Rl9KMFJObEV2NVNTV0MxNXU3VXp2NA?oc=5)
+  * 💡 가수 대니얼 시저가 5월 싱가포르에서 두 번째 공연을 추가했으며, 4월 14일부터 티켓이 판매된다.
+* **[음악/공연]** [Public Ticket Sales to Open for Official Hige Dandism Asia Tour 2026 in Singapore - Anime News Network](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVjV6TUdQTnJLRGVhWFo3WDNidTZ5V0pfT3NheFJrbF8wVWtZZ2V6OEYzWWxFSnVSNU9UaGhJdkdQaGlSeTUwMEFDS2VJLU9xLXlKcGhWb2dNakZRVXpNZTJlNXN6S1hkWnltd2REYWZ4TVQtNTRwVzFiSGZ1WGZ3UVZCbGJMVnJuUFBKUWk5NXpNc0N1SnZSMjRaM216b3hsRjNlcVZ1T0dVc2ZWd291QVRfdjYtQkNvcEIwekFsTl9HQ1NhZktOcDNJZ0VSZWFtdWpXSkxsUldESFhzd2poWQ?oc=5)
+  * 💡 싱가포르에서 2026년 일본 밴드 하이게 단디즘(Hige Dandism)의 공식 아시아 투어 일정이 발표되었으며, 일반 티켓 판매가 시작됨.
+* **[정책/규제]** [FINAS To Hold Town Hall Sessions With Artistes To Ensure No One Gets Left Behind - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tZGJ3VGVod2pzdFBteC1TQUVidW1BZEdZMVRMVmRyYlMxWm1WLVF3WkFKLTAxeFZ0NEdjS1NSY3ROMEkycE9YbWRzRGJ4OEdEQ3cxQWVwdW5ndW52Tm0wQU9B?oc=5)
+  * 💡 말레이시아 국립영화개발공사(FINAS)가 예술인들과의 타운홀 세션을 개최하여 아티스트들이 소외되지 않도록 하겠다고 밝혔습니다.
+* **[정책/규제]** [FINAS-MMU Deal To Empower Data-Driven, Youth-Led Creative Sector - Bernama](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rQTd3WndCemQ5SE9QdTJFLVdKYzNHLXFOZWc4bFg0aDZlNUVkOVpQMW9McVRZdy1EcEJFVGhCTXNjNDBPdGJESUtSa1ExZ0NtNS1JcE9lWDdBNjVkVTIxQzQtcHJaUHNPWUk0QVBn?oc=5)
+  * 💡 말레이시아 정부기관 FINAS와 대학 MMU가 창의적 미디어 콘텐츠 분야에 청년층 참여를 장려하는 협약을 체결했다.
+* **[영화/OTT]** [Iko Uwais, Joe Taslim to Star in Indonesia Film Joint Venture's Slate - Variety](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmhBNVJHejdrUllpY2JibEVxaWhCWkgxcHA4QkdfM2g4TTRjRGRPVzhCcTRXLTNtVjdkalo1bElJQWNIYk9XRVFjYjVrY0p4WjVmLU9sTGJ2cWdGaHQ0UUM2MjFSQjg4VHNzU3NpdTlsdVBHVnYtWVNIOHp3R3VuTTRuUTFDOU40N0RTdXlNM3VsYTJJbWhYLW5VWXlHVEtuUmNuWWt3?oc=5)
+  * 💡 인도네시아 영화 합작회사가 배우 이코 우와이스와 조 타슬림을 주연으로 한 신작 슬레이트를 발표했습니다.
+
+---
 ## 📅 2026년 04월 13일 업데이트
 
 * **[게임/융복합]** [FromDawn Games Wins Best Visual Art at Taipei Game Show Indie Game Award - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWG5XY0VzY01JWGhYRHo3cjZ5NnhGVDRhcGUwODYxUlpxeEVrdVJZdXR4VFNxU1FhSFhBZDhZcFYwQWpOa3ZJajRNLWptQmZUX1pvbWJYMW9Najk1RVpfQ212MjVYaHZ1NG1NLVczb2ZSRUJuWm1jQzhYXzJmc29MQ2QyRTgyMEx5NElOUlVpZkJkOFBYNktfV3JpdXFxX0pmZkRtTWxOZlpIUQ?oc=5)
