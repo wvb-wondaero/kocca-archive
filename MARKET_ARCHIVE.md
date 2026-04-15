@@ -1,5 +1,17 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 15일 업데이트
+
+* **[애니/캐릭터]** [INTEREST: Ring's Sadako to Haunt Nightmares as Bunny Girl - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c3VUOWhaN3Y2UW1XNHRYV1BuYVYxVU5FcnVLMVRXbjVGNi1oRWlCZEFOQVVCMC1zaklQeENqNUVoSDM5YVdaRlZGRlU5cmUtU0M3MktUUnZObEdvSHVqN2VvYnRsTnRVajg0bWVQOHBWTUIwdkE?oc=5)
+  * 💡 일본 호러 영화 '링'의 주인공 사다코가 앞으로 애니메이션에 토끼 걸로 등장할 예정이라는 보도입니다.
+* **[음악/공연]** [Super Junior’s Leeteuk and Heechul form new sub-unit, bringing fan-con tour to Singapore on Oct 16 - CNA Lifestyle](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVcxMFFQWTZabUd1ZjdlLThtUkI3V3JYNjdMZWNUZ3VsdzlXWk1QQkRZMkM4ektRdTJaUl92eEZCRmFnRjJsdDNPamREVzdqZzJYSGR0RzhnUXIzWkFfeTQ0MzJSTUlJQm1jQU1wdlVLdnEwNFVzcXZQMEZHbTM5QmdCcVp6ZnFPWVF4UFZFRDUxZ3R0STR4NkNmaGYtLXo4T042MkEwZm9ZMlFxVURESlprYTJndw?oc=5)
+  * 💡 한국 보이그룹 슈퍼주니어의 멤버 이특과 희철이 새로운 서브유닛을 만들어 10월 16일 싱가포르에서 팬콘서트 투어를 개최한다.
+* **[음악/공연]** [Fazli Zainal Prioritises Soul In Songs - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0ZXBDSUVxZjBzNW1vQ2Rmc0piUUZlNXBQSkcxWEZzb0lBOHEtd2FwNHRieUtPY3dMTDBfZHdIbVZISXNaWnFNd1Q1Z3pYS0FwN2R4MHJiaDVYWnVZcGFfdkpB?oc=5)
+  * 💡 말레이시아 싱어송라이터 Fazli Zainal이 영혼을 담아 음악을 만드는 것에 집중하고 있다는 내용입니다.
+* **[정책/규제]** [FINAS To Hold Town Hall Sessions With Artistes To Ensure No One Gets Left Behind - Bernama](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OYjZHTXdPQnJkcUsyakJnSTYyWWRYRjROOEdXVWljSmdkM3RYSUJyQUtPY3l2ejN2X2syTzlyLTNidldabVFES3hKTGxLVTlVMHB0NmpNU1ZybU9FeGs1emQ1YnR0UzM5QUpJTE5wSlRRajh4?oc=5)
+  * 💡 말레이시아 영화진흥청(FINAS)이 아티스트들과의 타운홀 세션을 개최하여 소외되는 이들이 없도록 하겠다고 밝혔습니다.
+
+---
 ## 📅 2026년 04월 14일 업데이트
 
 * **[애니/캐릭터]** [2nd That Time I Got Reincarnated as a Slime Film Screens in Thailand on May 9-10 - Anime News Network](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjBUMjhmWmlJUVZXdlFjaUpEa2pLNlhYRXV1ZF9YWHpNV3lnVHdmbUhCUmIxeW1NOUlXQ0V3N2dpSmI2Nm5KZURBQm1BUGJ1ZmNWeno4MXVWTkFwUWppbVAtaGhmbktfZi1kVFlSTV9IOExRWkEyY0kzNlcxYVFjemJLcUVCdDBXQndNN1daOEc2N0p5MEFTM0drU2FtdGVEOE5oTTFIcV9NaVdLdUc5Y2g0WElTcWFMQ2c3VVVXUnhaa3NGMHZrVjJsMVZMVENUMnY0?oc=5)
