@@ -1,5 +1,11 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 16일 업데이트
+
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
 ## 📅 2026년 04월 15일 업데이트
 
 * **[애니/캐릭터]** [INTEREST: Ring's Sadako to Haunt Nightmares as Bunny Girl - Anime News Network](https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c3VUOWhaN3Y2UW1XNHRYV1BuYVYxVU5FcnVLMVRXbjVGNi1oRWlCZEFOQVVCMC1zaklQeENqNUVoSDM5YVdaRlZGRlU5cmUtU0M3MktUUnZObEdvSHVqN2VvYnRsTnRVajg0bWVQOHBWTUIwdkE?oc=5)
