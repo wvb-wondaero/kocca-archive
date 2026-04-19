@@ -1,5 +1,11 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 19일 업데이트
+
+* **[음악/공연]** [M. Nasir Returns With Large-scale Concert This July - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE10T2ptZ3MxVVp3dWN3emNpdDlKV2ZEM3RnMTVCTi0tckJ2V0Nvbl9UdEx3VjZQaHlMNVhUMkdJMEpnTDdPZzBOLXZ0NkZhRXcyZGQ5dVBGRHJFVmxyM1V2a2J3?oc=5)
+  * 💡 말레이시아 유명 음악가 M. Nasir가 7월 대규모 콘서트를 개최한다.
+
+---
 ## 📅 2026년 04월 18일 업데이트
 
 > 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
