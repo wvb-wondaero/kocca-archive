@@ -1,5 +1,15 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 20일 업데이트
+
+* **[게임/융복합]** [GEEK+POP Brings Card Collectibles and Fighting Games To The Philippines This May - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFpXOXFJM0Uyd2FLWV9PYkcwQWZSQWlNeXNWWkc1X203d3lKLTVFQUdDSHdROFhmanRDV2J5UjdhaG81VW1GQ1FjRW9WNjRFZ2otcjdVRUdtMUVYVFJlRW1hcU11c2s2MG5VbUowRjdvMzYzMDJ1UTE0bEJBeDNRX0tRaGJfbmt5a1g1dEpCRk5nRGczQXFoOGVWaVRsSU9ablV5N0dnazdWUXBzaHVSWTlsUQ?oc=5)
+  * 💡 GEEK+POP, 필리핀에서 카드 콜렉션과 격투게임 행사를 5월에 개최
+* **[게임/융복합]** [‘Growing My Manhole’ Is An Insatiable Incremental Game About Eating The Universe - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlhiTTgxNlc0QWU2bWpvWTFyeUNibnUzWkd3em9MWWJyY3VqdEVsNEFxQU9FZnJ3Z1ByaVRZem04LU9pcExWcUdFMGQ4NUtfdDVhaUZPbUtpRS04cGJjSjNPSXE0TGt0Tkl0anV3OUhJd1pXdHVVOXJnb1VjektWU3lBeG1Bb0ExWWxOZC03d08zMTlQcHBZZXZ4cWxBQ1pfaGdPZ296aEtpcFBLYnpzQXln?oc=5)
+  * 💡 'Growing My Manhole'은 우주를 삼켜나가는 점진적 증가 게임이다.
+* **[정책/규제]** [Healthy Living Crucial For Artists, Creative Workers With Irregular Schedules - Dr Wan Azizah - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGXzNzTUJaNy05SU5YQVN2el9idHBfMGowajlZUjlEbFVGNmh6WnI2UzB3Uk1DYUhMVUREMFloYzRCcXZ4Z2g1Z3oyZThxdWZXbzRtei1NVmx6N2JmSG03dVFB?oc=5)
+  * 💡 말레이시아 부총리 Wan Azizah는 창작자들의 불규칙한 근무 환경으로 인한 건강 문제를 지적하며, 정부와 기업이 창작자들을 위한 건강관리 정책을 마련해야 한다고 제안했습니다.
+
+---
 ## 📅 2026년 04월 19일 업데이트
 
 * **[음악/공연]** [M. Nasir Returns With Large-scale Concert This July - Bernama](https://news.google.com/rss/articles/CBMiYkFVX3lxTE10T2ptZ3MxVVp3dWN3emNpdDlKV2ZEM3RnMTVCTi0tckJ2V0Nvbl9UdEx3VjZQaHlMNVhUMkdJMEpnTDdPZzBOLXZ0NkZhRXcyZGQ5dVBGRHJFVmxyM1V2a2J3?oc=5)
