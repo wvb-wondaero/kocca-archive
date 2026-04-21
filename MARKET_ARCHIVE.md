@@ -1,5 +1,11 @@
 # 📰 KOCCA 동남아 콘텐츠 산업 동향 아카이브
 
+## 📅 2026년 04월 21일 업데이트
+
+> 📭 **KOCCA 선정 기준에 부합하는 새로운 콘텐츠가 없습니다.**
+
+
+---
 ## 📅 2026년 04월 20일 업데이트
 
 * **[게임/융복합]** [GEEK+POP Brings Card Collectibles and Fighting Games To The Philippines This May - THE MAGIC RAIN](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFpXOXFJM0Uyd2FLWV9PYkcwQWZSQWlNeXNWWkc1X203d3lKLTVFQUdDSHdROFhmanRDV2J5UjdhaG81VW1GQ1FjRW9WNjRFZ2otcjdVRUdtMUVYVFJlRW1hcU11c2s2MG5VbUowRjdvMzYzMDJ1UTE0bEJBeDNRX0tRaGJfbmt5a1g1dEpCRk5nRGczQXFoOGVWaVRsSU9ablV5N0dnazdWUXBzaHVSWTlsUQ?oc=5)
